@@ -1,0 +1,12 @@
+User: Minneapolis to Punta Cana
+Wizard: 1855.8USD for 15 days.
+User: whats the hotel like
+Wizard: 3 stars, near a cathedral, free breakfast and wifi.
+User: kk How bout a trip to Guadalajara?
+Wizard: At a 2.5 hotel 1106.92USD for economy flights including free parking, free breakfast and free wifi. This is an 11 day package.
+User: What about to Belem?
+Wizard: Lots of options in Belem, longest are 9 day packages. I have a 4.5 star hotel on the beach or a 3 star near a cathedral.
+User: Whats the price for the 4.5 star?
+Wizard: 1910.19USD with business class flights.
+User: wow. i could afford all these. shocking. well i cant book anything. sorry for wasting your time.
+Wizard: Have a good day.

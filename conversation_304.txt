@@ -1,0 +1,8 @@
+User: Hello bot. I want to go to Manas from Boston on September 2
+Wizard: Do you have a budget?
+User: $4,100
+Wizard: Will you be travelling alone?
+User: Yes
+Wizard: There are only flights from Boston to Alexandria, Calgary, Atlante, and Punta Cana.
+User: Okay but what if I leave from Naples instead. Can you get me to Manas from Naples?
+Wizard: From Naples there are only results to Hamburg and Rome

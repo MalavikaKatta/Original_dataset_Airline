@@ -1,0 +1,15 @@
+User: I need to find something between september 8th and 27th for under 4300 from frankfurt
+Wizard: Hello! I can help you with your request.  Did you have any special destination in mind?
+User: no i just want to know what my options are
+Wizard: I have several options from Frankfurt. Are you looking for a certain category hotel or a certain length of stay?
+User: Not yet, can you give me a list of place i can go?
+Wizard: Minneapolis, Rosario, Porto or Punta Cana.
+User: Can you give me some more info on Rosario please
+Wizard: In Rosario, we have a 2 star hotel available for 18 days with a take off date of September 10th and a return date of September 26. This package includes a free breakfast and wifi.
+User: Anything better in Porto?
+Wizard: In Porto I have a choice between a 3.5 star hotel or a 4 star hotel. The 3.5 star hotel is available for a 16 day stay and the 4 star hotel is available for a 17 day stay. Would you like more details on either one of these?
+User: can i hear more about the 4 star?
+Wizard: The Golden Keep Hotel in Porto Alegre, is a 4 star hotel with a perfect 10/10 guest rating. Located on the beach and close to parks, shopping and a mall, your stay would be for 17 days. This package comes with breakfast and wifi included in the price of 4227.72USD should you choose to fly business class. I just wan to verify that this would be for 1 person?
+User: Yes just me. I would like to book this please.
+Wizard: Perfect. I will just confirm your departure at 4:00 pm - Thursday, September 8th 2016 and your return at 2:00 am - Saturday, September 24th 2016. Thank you and have a nice day!
+User: thanks you too

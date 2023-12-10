@@ -1,0 +1,11 @@
+User: Hi there, I'm looking for a trip for 5 between Tofino and Dallas. It needs to be between Aug 25 and Aug 28.
+Wizard: Will that be 5 adults?
+User: Yeah 5 adults
+Wizard: Great! Are you leaving from Tofino or Dallas?
+User: Leaving from Tofino
+Wizard: Do you have a budget?
+User: Unlimited budget :slightly_smiling_face:
+Wizard: There are no results leaving from Tofino.
+User: How about Tofino to Curitiba? This time for 11 adults
+Wizard: Unfortunately there are no flights leaving from Tofino. Is there another place you could leave from?
+User: Thats the only place, but thanks for letting me know

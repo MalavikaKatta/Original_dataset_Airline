@@ -1,0 +1,9 @@
+User: Ever been to Queenstown? Can you tell me what it is like?
+Wizard: I have 5 star 5 day packages available in Queenstown for only 665.58USD if you travel from Milan.
+User: I'm in Birmingham. Ever been to Kobe?
+Wizard: Would you like to stay at Royal Island Inn for 2420.99USD and leave Birmingham on September second?
+User: I'm really torn, I have so many places on my bucket list. Long Beach?
+Wizard: 8 days in Long Beach will cost you 1271.88USD if you leave from Birmingham. You would stay at a 3.0 star hotel near a park.
+User: I have like $4700 in the bank but no time off it will have to wait thanks. One more question what do you think of New York
+Wizard: There are two different 2.5 star hotels available in New York.
+User: Thanks i will call you back when I have some time off

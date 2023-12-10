@@ -1,0 +1,23 @@
+User: What packages do you have available between september 7th and 13th from Columbus to Punta Cana?
+Wizard: We have 8 day trips at two 3 star hotels. Are you interested in knowing more?
+User: What is the main difference between the two hotels?
+Wizard: One has guest ratings of 6.77/10, is close to a cathedral, and offers free breakfast and wifi. The other has guest ratings of 8.69/10, is close to a palace and a theatre, and offers everything that the former offers and also free parking.
+User: Okay the second one sounds a lot better. Can you tell me more about that package?
+Wizard: Sure, it's 8 days from the 6th to the 13th and it costs 1427.4 or 1808.67 with a business upgrade.
+User: I can’t leave before the 7th
+Wizard: Our only flight from Columbus to Punta Cana is on the 6th. Is there another destination you would like to go to?
+User: I guess we could look at Guadalajara
+Wizard: In Guadalajara we have a 2.5 star hotel with a guest rating of 8.49/10. It offers free parking, free breakfast, and free wifi. We offer an 8 day trip there starting from the 8th.
+User: When would I get back?
+Wizard: The shortest trip would take you back on the 15th.
+User: I need to be back by the 13th.
+Wizard: Sorry, we don't have any trips between these two cities that fit your dates.
+User: I’ll try LA instead then.
+Wizard: Great! In Los Angeles we have a 6 day trip from the 8th to the 13th at a 3 star hotel.
+User: That sounds wonderful! tell me more.
+Wizard: The hotel is wonderfully located near the airport and the mall. While there, you can enjoy free parking, free breakfast, and free wifi. Previous guests have given it ratings of 8.86/10 on average.
+User: I’ll take that! How much?
+Wizard: 1217.88 flying economy and 1483.6 flying business.
+User: Perfect! Book it for me!
+Wizard: Consider it done! Happy traveling!
+User: Thanks you!

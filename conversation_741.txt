@@ -1,0 +1,28 @@
+User: Hi! I want to go to Sendai! Can you help me get there?
+Wizard: Where are you leaving from?
+User: I can leave from Queenstown.
+Wizard: Do you have a budget?
+User: If you can find something under 4100, that'll be awesome!
+Wizard: Are you travelling by yourself?
+User: You bet!
+Wizard: When would you like to leave?
+User: My dates are flexible
+Wizard: We have two 4 star hotels, one with 8.8/10 guest rating and the other with 8.49/10 guest rating.
+User: Cool! I have a hard time choosing between the two...
+Can you tell me a bit more about them?
+Wizard: The 8.8 guest rated hotel is near a park and museum and the 8.49 guest rated hotel is close to shopping and a museum. Both offer free wifi.
+User: Okay I see...I was also thinking about Ciudad Juarez.
+Wizard: We have 3.5 and 3 star hotels.
+User: Can you tell me a bit more about the Ciudad Juarez options?
+Wizard: One has a 8.8/10 guest rating and offers free parking, breakfast and wifi, and is also near a palace. The other one has a 8.86/10 guest rating and offers free parking, breakfast and wifi, and is near a market.
+User: Okay I see, how much is the 8.86/10 one?
+Wizard: There is a business package from September 14th to 20th that is 3281.00 and the economy package for this is 2537.44. There is another package from September 8th to 13th, the business package is 4039.10 and the economy package is 3123.74.
+User: And can you also check for me how much is the 8.8/10 Sendai hotel?
+Wizard: There is one package for economy which is 2161.93 and business for 2783.62 for September 7th to 22nd. The other package is from September 2nd to 15th, economy cost is 2985.19 and business cost is 3843.61.
+User: Any shorter packages or are these the only two?
+Wizard: These are the only two.
+User: Okay then, of all options my favorite would me the Sep 7 trip to Sendai . What can I do to confirm this trip?
+Wizard: I will book it for you and you will get an email regarding confirmation of this trip. Would you like business class or economy?
+User: I wouldn't kind flying business for this trip!
+Wizard: Great! Your package is 2783.62! You will get the confirmation email soon. Have a great day!
+User: Cool beans!

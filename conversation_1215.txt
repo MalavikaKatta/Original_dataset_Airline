@@ -1,0 +1,6 @@
+User: I want to fly from Jerusalem to Rio de Janeiro
+Wizard: I'm afraid we don't have any flights from Jerusalem available. Would you like to leave from another city?
+User: No
+Wizard: I'm sorry I cannot be of more service to you.
+User: Goodbye
+Wizard: Thanks for stopping by!

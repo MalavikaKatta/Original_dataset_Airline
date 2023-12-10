@@ -1,0 +1,23 @@
+User: I'd like to go to Manaus from Miami between August 19th and September 2nd.
+Wizard: Sure! How many people are in your party?
+User: Myself and two colleagues
+Wizard: Ok! I can book you 7 days in Manas for 5775.3USD. How does that sound?
+User: That's great! What are the dates?
+Wizard: You would leave Miami on Friday, August 19th and return on Wednesday, August 24th.
+User: Excellent! For 3 people?
+Wizard: That's right!
+User: What amenities does the hotel have?
+Wizard: The hotel offers free breakfast, wifi, and parking.
+User: Perfect. I'd like to also compare the prices for a trip to Kobe between the same dates.
+Wizard: Absolutely! The three of you could spend 5 days in Kobe for 1735.50USD.
+User: What are the departure and arrival dates and times?
+Wizard: You would leave for Kobe at 8:00 am on Saturday, August 27th and arrive at 9:21 am  on the same day. Upon return, you would leave for Miami at 3:00 am on Wednesday, August 31st to arrive home that morning at 4:21 am.
+User: Looking good so far. What amenities does this hotel have?
+Wizard: This hotel has free breakfast and free wifi.
+User: And how many stars?
+Wizard: The hotel rating is 3 stars.
+User: What about the hotel in Manas?
+Wizard: The hotel in Manas is 2.5 stars.
+User: The Kobe package is considerably less expensive, I'll go with that one.
+Wizard: Great! I will go ahead and book that for you.
+User: Thank you!

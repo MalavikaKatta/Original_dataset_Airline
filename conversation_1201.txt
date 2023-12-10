@@ -1,0 +1,11 @@
+User: PLEASE GET ME ALL THE WAY TO CHICAGO
+Wizard: Okay, where will you be coming from?
+User: can you get me to chicago from Rosario like… soon? dont care the price, or when - they can deal LOL
+Wizard: I can book for you a business class deal for 14 days from Tuesday September 13th to Sunday September 25th. Would you like to book this trip now?
+User: what is the hotel like tho? room service? free breakfast?
+Wizard: Free breakfast, free parking, and free wifi. And it has a guest rating of 8.69/10. Sounds like a great deal, doesn't it?
+User: is it near a mall tho… like with a food court...
+Wizard: There is a museum and a university. Ready to proceed with booking now?
+User: lets do it
+Wizard: Your booking is now complete.
+User: thanks boo! mwah

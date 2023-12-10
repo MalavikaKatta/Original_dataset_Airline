@@ -1,0 +1,2 @@
+User: Please find a flight from Beijing to Kochi for me. Sept 16 to 20
+Wizard: Beijing to Kochi in not on out list of destinations. May I suggest you try a different destination?

@@ -1,0 +1,21 @@
+User: Hi! I'm looking for a trip to Milan with two of my best friends for march break, what's available?
+Wizard: Hi there! Where would you like to leave from?
+User: From Cleveland between Wednesday August 17 and Saturday August 27!
+Wizard: I can book you 8 days in Milan between those dates for 9031.87USD.
+User: Oh no! My friends and I are on a budget of $5400!
+Wizard: Looks like I don't have anything available for that price.. are you flexible on dates perhaps?
+User: What about Pittsburgh? It seems to be a trendy destination this year.
+Wizard: Pittsburgh eh? I can book you 9 days near the airport for 2952.62USD.
+User: The airport isn't chic enough, do you have something else around there?
+Wizard: What about Onyx Isle Hotel? 9 days there will run you 4219.24USD.
+User: Do you have anything else?
+Wizard: Ok! I could upgrade you to business class at the same hotel for 5203.45USD.
+User: Eeeeeeeeeeee I love it! Ok, so how many stars is the hotel?!
+Wizard: The hotel has a 3.5 star rating. Would you like to hear about its amenities?
+User: Ooooo yes of course!!!!!!
+Wizard: Onyx Isle Hotel features free breakfast, parking, and free wifi
+User: Perfect! Is there good shopping nearby?!
+Wizard: Unfortunately I do not have any information about this.
+User: Ok I'll send them a tweet! I'll book this one!
+Wizard: Terrific! I will book for you now.
+User: I love you! Thanks so much!

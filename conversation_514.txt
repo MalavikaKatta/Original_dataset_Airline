@@ -1,0 +1,11 @@
+User: hello i need to get from north vancouver to fortaleza. 3600 budget. whats available
+Wizard: Hi!
+User: can you tell me dates available in fortaleza
+one adult
+Wizard: August 28th to September 12th are the only dates available.
+User: thats fine whats the hotel like
+Wizard: It's a 3 star hotel near a park and shopping, with free breakfast, wifi, and parking.
+User: what if i increase my budget ? what can you find me then?
+Wizard: How much would you like to increase your budget?
+User: another thousand
+Wizard: There are no other options available.

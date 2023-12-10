@@ -1,0 +1,17 @@
+User: I need to go to Minneapolis on August 17 on business and I need you take care of this quickly and efficiently. Can you do that for me?
+Wizard: I can handle it! Where are you leaving from and do you have a budget?
+User: I can leave from Kingston. It has to be between August 17 and August 31st.  I want business class flights only.
+Wizard: I can offer you 14 days at the Antique, leaving on August 17th in business class. What do you think?
+User: Is it a 5 star hotel? I travel a lot for business and I need a good hotel.
+Wizard: It is only a 2.5 star. What is your budget? I'll see what I can find.
+User: I have no budget, the company pays anyway. I want comfort. I have colleagues who will also be travelling with me. I'm a busy person so let's get this done. We can also go to Hamburg if you have better hotels there.
+Wizard: How many people will be travelling with you?
+User: We will be 6. And we can leave from Tokyo if you can find us a deal in a 4 or 5 star hotel, business class, within my dates.
+Wizard: I cannot offer anything above 2.5 stars in Minneapolis, but I can offer you a 4 star 8 day stay in the Traveller Inn, leaving on the 21st of August.
+User: Do we leave from Tokyo?
+Wizard: Kingston. If you leave from Tokyo you can fly out on August 18th and stay in the 4 star Vortex in Hamburg.
+User: What does that include?
+Wizard: Free breakfast and wifi with business class flights. The hotel also boasts a 8.98/10 guest rating.
+User: How much is that going to cost the company? Oh never mind, just book it. I'm not here to shop around.
+Wizard: It comes to a total of 16843.68 USD. Your reservation is complete. Have a good trip!
+User: Thank you, you have been very efficient.

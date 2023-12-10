@@ -1,0 +1,12 @@
+User: Hey man, imma leave from Godric's Hollow on August 27, 2016 and go to Goiania. Can't pay more than 4300USD. Watcha got?
+Wizard: Hello, how many people will be travelling to Goiania?
+User: Just me
+Wizard: I cannot find any trips to Goiania leaving from Godric's Hollow. Is there another nearby city you could depart from?
+User: yeah how about Montreal?
+Wizard: I can book you 11 days in Goiania for 3374.42USD. Are you interested?
+User: that's leaving on August 27th?
+Wizard: You will leave Montreal on Tuesday, August 16th 2016.
+User: nothing closer to the 27th?
+Wizard: I can book 11 days at the same hotel for 3549.83USD leaving on August 25.
+User: ya that's awesome. I'll book it. thanks man.
+Wizard: Ok, I will book that trip. Enjoy.

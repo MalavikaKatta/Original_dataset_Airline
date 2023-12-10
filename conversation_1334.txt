@@ -1,0 +1,22 @@
+User: Oh man, I need a holiday.
+Wizard: Where would you like to go?
+User: Hmm somewhere in Asia sounds nice. I'm thinking Fukuoka.
+Wizard: Where do you need to leave from?
+User: Cordoba.
+Wizard: Do you have a budget?
+User: Not really, but I only have Monday September 26 to October 14 off.
+Wizard: Will you be vacationing alone?
+User: Yeah, just me
+Wizard: We have 14 days from September 28th to October 10th at a 3 star hotel near a palace. Would you like to know more about the hotel?
+User: Sure!
+Wizard: The hotel has a 8.49/10 guest rating and they offer free wifi.
+User: What about Ulsan? I hear it's nice there.
+Wizard: We have a 12 day package from September 26th to October 6th at 2.5 star hotel near a park and university. They offer free parking and wifi, and they have a 0/10 guest rating. We also have an 8 day package from the 7th to 13th of October at a 5 star hotel with 8.8/10 guest rating and free parking and wifi.
+User: Ooh that 8 day package in Ulsan sounds nice. How much would that cost?
+Wizard: For business flights it is 3960.92 and for economy flights it is 3073.60.
+User: May I ask how much the 14 day package in Fukuoka is please?
+Wizard: For economy flights it is 2630.86 and for business flights it is 3401.34.
+User: Whoa that's quite a difference! I'll take the 14 day package in Fukuoka please. Economy.
+Wizard: Great! Consider it booked!
+User: Thanks!
+Wizard: Anytime!

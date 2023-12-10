@@ -1,0 +1,11 @@
+User: 9 tickets 2 leon pls
+Wizard: Are these for adults?
+User: 6 of them are
+Wizard: Where are you leaving from?
+User: punta cana
+Wizard: Do you have a budget?
+User: 25 thousand
+Wizard: We have a 5 star hotel near the market, 8.69/10 guest rating, spa, from August 31st to September 10th, business class, 22100.80.
+User: excellent. book it
+Wizard: Done! Have a great day!
+User: thanks

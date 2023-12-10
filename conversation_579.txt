@@ -1,0 +1,21 @@
+User: Hey there! I'm looking to surprise the family with a little vacay Leaving London from Sept 6, trying to be back around the 24th.
+Can you tell me whats available for Belem?
+2 adults 2 kids
+Wizard: Would you be looking into 8 days packages or 11 days packages? We have 4 stars and 4.5 star hotels
+User: I would be interested in whatever I can afford with 6800!
+Wizard: We have a package at 5952.41USD, at a 4.5 star hotel near the beach :slightly_smiling_face:
+User: Wow that sounds fantastic :smile: Is breakfast and wifi free?
+Wizard: Yes. free parking, free breakfast, free wifi. Leaving on September 8th and coming back on September 14.
+User: Sounds like a wonderful package, I'm quite impressed! What is available in Kobe?
+Wizard: I have 8 days trip, 7 days trip or 5 days trip
+User: What quality are the hotels?
+Wizard: I have 4.5 stars for the 7 days trip at 3414.7USD or 4411.89USD business class.
+User: What is the hotel near? What amenities are included?
+Wizard: free wifi.
+User: What is it close to....
+Wizard: I am sorry I dont have that information
+User: Ok, well, so far I'm more impressed with Belem. But just before we book can you check out Berlin for me?
+Wizard: I am sorry, I couldn't find anything
+User: Well ok. That's fine. The Belem package sounds lovely anyways.
+Wizard: You're booked
+User: Thank you

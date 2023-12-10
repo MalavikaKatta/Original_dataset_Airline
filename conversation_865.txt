@@ -1,0 +1,18 @@
+User: looking to book a short trip out to toluca. you guys do flights there?
+Wizard: Yes we do! Where are you leaving from?
+User: i would be leaving from columbus
+budget is 1500
+Wizard: Okay, when would you like to leave?
+User: between sept 16 and 27
+Wizard: Are you travelling alone?
+User: yes
+Wizard: Unfortunately there is only one trip to Toluca from Columbus and it's from the 1st to 7th.
+User: ok that might still work. but is there a longer trip if i paid 1800
+Wizard: No, it would still be the same package.
+User: alright can you tell me a little more about the hotel?
+Wizard: It is a 3.5 star hotel with a 7.06/10 guest rating and they offer free breakfast, free parking, and free wifi. The cost of the economy package is 815.42 and the cost of the business package is 1001.31.
+User: ok lets just book it
+Wizard: Would you like to book the business package or economy package?
+User: economy please
+Wizard: Alright! Your package is booked and you should receive confirmation soon by email. Have a great day!
+User: thanks, you too!

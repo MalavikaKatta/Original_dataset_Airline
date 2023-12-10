@@ -1,0 +1,13 @@
+User: I have 8 days for vacation starting on september 6 from dallas. What can you offer me?
+Wizard: I have many options for you. Do you have a budget in mind?
+User: No i'd just like to explore my options
+Wizard: Ok! Can you also please confirm with me by which day you need to be back?
+User: i dont care what day i get back
+Wizard: How about visiting Recofe in Brazil for 7 days? You would be staying at the 4 star The Glee which has free breakfast and wifi for its guests.
+User: When is the flight?
+Wizard: You would leave September 8th and come back the 14th
+User: I would need to be back by the 13th.
+Wizard: Then I can offer you a package to Madrid, Spain that leaves September 8th and returns the 13th. The 5 star hotel is close to a museum, cathedral and palace and the holiday would cost you 2070.89USD.
+User: this sounds ideal. yes i quite like this.... Go ahead and book it for me please :slightly_smiling_face:
+Wizard: Perfect, i'm on it! You should receive confirmation within the hour. Enjoy your holiday!
+User: Thank you i'll be back again to use your help!

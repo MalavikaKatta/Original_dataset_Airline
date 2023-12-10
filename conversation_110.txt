@@ -1,0 +1,7 @@
+User: Hi. I'd like to find a trip to San Diego. I can leave from Belo Horizonte. I'd like to travel between August 27th and August 31st if possible. My dates are flexible.
+Wizard: Sure thing, do you have a budget for this trip?
+User: no but the trip will be for 7 adults
+Wizard: Let me tell you about some of the deals I can offer you. I can put you up in the Anomaly Inn & Suites, a 2.0-star hotel with a 6.51/10 guest rating for a total of 13384.6USD. If you would like to go to La Poz I can book you a stay at the Echo, a 4.0-star hotel with a 8.98/10 guest rating for 15243.80USD. Both trips run from the 27th to the 31st of August.
+User: I will book the trip to San Diego for 7 adults
+Wizard: You're booked! Enjoy your stay!
+User: thanks

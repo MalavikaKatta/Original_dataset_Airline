@@ -1,0 +1,5 @@
+User: Hi there. Could you please get me from Cleveland to Manaus?
+Wizard: Yes! When would you like to go?
+User: Between September 6 and 13 please
+Wizard: Unfortunately we have nothing that works within that timeframe. Are your dates flexible?
+User: They aren’t really

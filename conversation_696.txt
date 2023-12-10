@@ -1,0 +1,23 @@
+User: ok so i am free to travel from september 13 until the 23.  can you tell me my options for Sao Paulo leaving from Sapporo please
+Wizard: Are you traveling alone?
+User: yes
+Wizard: Do you have a budget?
+User: no
+Wizard: Our best package is a 3 star hotel in the heart of the city near a cathedral and theatre. The hotel has a 6.91/10 guest rating and offers free breakfast and wifi. This package is from September 13th to 18th and is a business class flight that costs 6402.19.
+User: ok
+i’ll keep it in mind
+what do you have available in manaus
+Wizard: We have a 2.5 star hotel near shopping, 6.77/10 guest rating, free parking, breakfast, and wifi, September 14th to 22nd, business flights are 5393.55, economy flights are 4113.56.
+User: no higher rated hotel?
+Wizard: No sorry.
+User: what do you have in Fort Lauderdale
+Wizard: Nothing.
+User: what in Kyoto?
+Wizard: We have 3 star hotels in Kyoto.
+User: how many?
+Wizard: 4
+User: what are the differences between them
+Wizard: Glorious Bazaar Resort, near a museum, 0/10 guest rating, free breakfast and wifi. Sakura Inn, near a museum, 8.69/10 guest rating, free wifi. Southern Palace, in the heart of the city, near a museum, 6.61/10 guest rating, free breakfast and wifi. quiet garden Resort, near a museum, 8.22/10 guest rating, free breakfast and wifi.
+User: I would like to stay in the heart of the city, can I book that one
+Wizard: Sure! You will receive confirmation within 20 minutes by email. Have a great day!
+User: thank Uu!!

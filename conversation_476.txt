@@ -1,0 +1,13 @@
+User: hi i need to get to mexico city
+Wizard: Hi! Where are you leaving from?
+User: PUNTA CANA come on come on
+Wizard: Budget?
+User: 1300
+Wizard: Travelling alone?
+User: yes
+Wizard: When would you like to leave and return?
+User: i want to be there on or after septemeber first
+Wizard: We have two 3 star hotels. Are you more interested in free breakfast and wifi, or free wifi and parking?
+User: i need free parking as ill be renting a car. But three stars is not going to attract my target demographic. If i throw another thousand dollars on my budget can you find me something better?
+Wizard: Unfortunately there are no other hotel ratings
+User: oh bullocks

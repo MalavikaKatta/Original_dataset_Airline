@@ -1,0 +1,11 @@
+User: My friends and I would love to get to Phoenix please!
+Wizard: Where will you be coming from? And how many friends?
+User: It'll be 3 of us from Tofino.
+Wizard: Sorry, we currently don't have any trips leaving from Tofino. Any chance you can leave from another city?
+User: Oh really? I guess we can leave from Beijing then.
+Wizard: Unfortunately we also don't serve trips out of Beijing. Would you have another alternative?
+User: We can leave from Beijing though, right?
+Wizard: Unfortunately no. We don't serve flights out of Beijing. Would you be able to leave from somewhere else?
+User: I guess I'll have to go elsewhere to book our trip
+Wizard: Sorry I was not able to help!
+User: That's fine, we'll look somewhere else. Bye.

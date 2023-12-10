@@ -1,0 +1,12 @@
+User: Need to book a luxury getaway for myself and 7 clients. Leaving from Vancouver after September 14th
+What've you got availble in Naples?
+Wizard: Our best in Naples is a 8 days vacation package at a 4.0 star hotel with 8.86/10 guest ratings.
+User: Noted. What about in Guadalajara?
+Wizard: Unfortunately we've got nothing to Guadalajara from Vancouver.
+User: Ah, ok.. Nagoya then
+Wizard: Nothing for Nagoya either.
+User: I guesss we're going to Naples.. Can you tell me more about that hotel first?
+Wizard: Sure, the hotel offers free breakfast and free wifi. You will stay there from Sept 16-22.
+User: Good stuff - should be fine. Book 8 for business class please.
+Wizard: Okay I will confirm the trip for you! The total comes to 24044.47. Anything else I can do for you today?
+User: Nope - thanks

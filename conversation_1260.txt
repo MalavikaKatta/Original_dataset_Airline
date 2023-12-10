@@ -1,0 +1,37 @@
+User: I have 9 days vacation
+Wizard: Ok! Where do you live?
+User: Baltimore
+Wizard: Do you know where you want togo?
+User: no
+Wizard: Any monetary or date restrictions?
+User: I want to leave on or after the 20th
+Wizard: Ok. How about 17 days at Opportunity Suites in Rosario?
+User: Whats the hotel like?
+Wizard: 4 stars, near shopping, and has free breakfast and wifi
+User: whats the guest rate
+Wizard: 8.86/10
+User: ok. Do you have any other options?
+Wizard: Of course! I have another 17 day package in Santo Domingo at a 3 star hotel with 7.06/10 from guests. This facility is beachside, near a shopping district, and has free breakfast, wifi, and parking!
+User: Anything else?
+Wizard: I have 17 days at Twin Canyon Inn and Suites in San Francisco. This hotel is 2 stars, in the heart of the city near a museum, has 5.23/10 from past users, and provides free breakfast, wifi access, and parking.
+User: I think I will just stick to the one in Rosario. How much is it for business class
+Wizard: 4990.54USD, from September 23rd to October 9th
+User: I only have 9 days vacation tho
+Wizard: Ok! I will narrow the trips down to 9 day ones.
+User: ok please do
+Wizard: I have 9 day trips at Scarlet Palms Resort in Goiania, Viewpoint in St. Petersburg, Hotel Richard in Toronto.
+User: Goiania sounds good, whats the hotel like?
+Wizard: The hotel is 3.5 stars, near a park and shopping, has 7.15/10 from guest reviews, and includes parking, wifi, and breakfast all for the price of 4166.55USD (business class price).
+User: cool. Whats the highest rated hotel available?
+Wizard: In Goiania?
+User: Anywhere
+Wizard: The Hotel Eric Perrier in Toronto has 4 stars and a 8.8/10 user review.
+User: Tell me more
+Wizard: The hotel is near a cathedral and the airport and includes free breakfast and wifi.
+User: more
+Wizard: You would leave September 20th, return the 28th, and pay 1166.0USD for economy class flights. 
+User: ok i'll take it, is there business class?
+Wizard: Yes; upgrading to business would bring your total to 1455.30USD. Is this ok?
+User: yea book er
+Wizard: Ok, consider it done :slightly_smiling_face:
+User: thank u

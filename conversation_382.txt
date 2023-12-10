@@ -1,0 +1,12 @@
+User: I want to go to Sapporo
+Wizard: From where?
+User: Santo Domingo
+Wizard: On which days?
+User: August 23 to 26
+Wizard: Hi, how can I help you today?
+User: I want to go to Sapporo from Santo Domingo from August 23 to 26
+Wizard: What is your budget?
+User: 3000 for 1 adult
+Wizard: Sorry, I don't have any results
+User: That unfortunate....oh well. Thank you anyway!
+Wizard: Thank you !

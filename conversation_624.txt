@@ -1,0 +1,19 @@
+User: Working long hours in Mexico City. Can you look for trips to Kobe
+Wizard: I have a 4.5 star hotel at 5035.97USD for 7 days. Leaving next Tuesday !
+User: Would I theoretically be able to go to Vancouver?
+Wizard: Yes, 13 days, 10 days or 7 days in Vancouver?
+User: For the sake of discussion, lets say 13
+Wizard: ok.1486.49USD at 4 star hotel in economy class
+User: Terrific
+Wizard: or 1819.43USD in business class.
+User: Amenities?
+Wizard: free parking, free breakfast, free wifi
+User: Draw up a Ciudad Juarez trip while you're at it
+Wizard: Ok from Mexico City?
+User: Yes
+Wizard: 6, 10 or 12 days?
+User: 12
+Wizard: 12 days is at 2.5 star hotel, 10 at 3.5 star and 6 at 3.0 star hotel.
+User: ok tell me about the 3.5 star hotel
+Wizard: 1126.89USD for 10 days in economy class or 1392.0USD in business class, near palace
+User: Ok cool Like I told you I can't book

@@ -1,0 +1,12 @@
+User: ONE first class ticket to Santios
+Wizard: Where would you like to depart from?
+User: Kingston
+Wizard: Sorry, there are no availabilities from Kingston to Santos. Maybe we can try another destination?
+User: try Leon
+Wizard: We do have some trips to Leon! When would you like to go?
+User: Anytime is good. But please get me into a nice hotel
+Wizard: I actually have two 5 star hotels in Leon. One is close to the beach and palace and the other is close to the market. Which one do you want me to put you in?
+User: Put me near the beach! Do you do business class flights?
+Wizard: Sure do! I can get you business seats for 2285.14. Your trip will be for 11 days from Sep 6-16. Would you like me to process the booking for you?
+User: Yes do that
+Wizard: Consider it done! Anything else I can help with today?

@@ -1,0 +1,15 @@
+User: Beijing to Hiroshima please
+Wizard: Do you have a budget?
+User: 2300
+Wizard: When do you need to go?
+User: It does not matter
+Wizard: Do you need to be back by a certain date?
+User: nope
+Wizard: Are you travelling alone?
+User: I am not
+Wizard: How many people altogether?
+User: 20. 14 adults
+6 kids
+1 dog
+Wizard: There is nothing from Beijing to Hiroshima within your budget and for this many people.
+User: Okay thanks I will try somewhere else

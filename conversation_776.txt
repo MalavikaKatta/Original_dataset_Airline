@@ -1,0 +1,14 @@
+User: Is it normal that I feel this nervous that I'm about to get married today? I never liked the in-laws, and I can't wait to get away from them on my honeymoon
+Oh right, thats what I need you for
+Can you book me a honeymoon to Ulsan? 2 adults (duh), departing after today, and for 15 days
+I'm in Essen
+Wizard: Soonest departure is tomorrow August 31st.  We have a 5 star hotel available: The Sapphire Time as well; as well as a 5 star hotel Escape Cave. Same departure and return. Can you please give me an indication of how much you have to spend?
+User: We have 3700
+Wizard: Those are way out of your range. The best I can do is offer you a 7 day package in Ulsan at the Grandiose Willow Resort for just $188 over your budget at a total of 3888.76USD. This is a 2.5 star hotel near the park and the university offering free parking and free wifi.
+User: What if we toned down the ambition and tried Munich instead?
+Wizard: Munich has a spectacular deal at the 5 STAR Regal Bluff for 10 days at 775.0USD, wifi included.
+User: Nothing for longer??
+Wizard: No, 10 days is the longest
+User: Lets do it then
+Wizard: I will take care of that for you right away. Happy Honeymooning.
+User: Thank you!

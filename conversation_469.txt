@@ -1,0 +1,13 @@
+User: I wanna go to la paz from toluca
+Wizard: Ok! Echo is available from August 30-September 7. I will book this for you.
+User: im not ready to book anything yet, crazy, i wanna see some options here
+Wizard: What would you like me to assist you with?
+User: i want to see some packages for trips from toluca to la paz
+Wizard: The Echo is available for 545.50 dollars from August 30-September 7.
+User: is there anything else
+Wizard: The Echo is available from August 25-September 1.
+User: no. lets try from toluca to cordoba
+Wizard: The Everland is available from Sept 1-13 for 2634.16USD, or from August 27-September 6 for 3108.14USD.
+User: Any trips to santos
+Wizard: The Hotel Globetrotter from August 30-September 8, Elite Estate Hotel from September 1-10, Starlight from September 2-12 or August 27-September 5.
+User: i cant book anything. i dont know why i'm here. good bye

@@ -1,0 +1,7 @@
+User: Hi, I'd like to go from Burlington to Valencia with my family. We are 6 kids and 4 adults. Our budget is 19900.
+Wizard: I have two choices for you. Both depart on Sept 6 and return on Sept 11. We offer a 5 star rated property near the museum and market for 18927.46USD. We also offer a 4 star rated property for just $79 over your budget at 9079.49USD. This property is located on the other side of the museum.  Can I interest you in either of these?
+User: I like the 5 star option, do you have any more information on this?
+Wizard: Our 5 star rated property, the The Gold, has an excellent guest rating of 8.98 / 10. This is a 7 day package available with free wifi. You will fly via economy class seats directly from Burlington to Valencia. Would you like me to book this luxury package for you?
+User: yes please!
+Wizard: Perfect
+User: thanks

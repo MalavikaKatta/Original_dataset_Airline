@@ -1,0 +1,23 @@
+User: ayoooo. spring break buddy. I wanna go somewhere nice and cold for spring break :smile: Toronto maybe?
+Wizard: Hey there! Where will you be flying out from?
+User: We are leaving from Hogsmeade. It is a terrible place and we wanna get awayyyyy
+Wizard: How many people will you be traveling with for this trip?
+User: Me, Ron, Harry, and Hagrid. 4 of us
+Wizard: I can't seem to find any flights leaving Hogsmeade. Do you have another city you could depart from? I could book you a cheap stay in Kyoto if you fly out from Nagoya.
+User: I don't wanna go to Kyoto... how about Nagoya to Toronto???
+Wizard: I can book you a stay in the Hotel Richard from August 24th to September 2nd. The total cost of this package is 10986.39USD. How does that sound?
+User: that's like 11 grand oh my god!! I need to spend like... 1900 or 2900 MAX. Is there anything cheaper to Paris?
+Wizard: How about a stay at Paris' Autumn Treasure Hotel from the 27th of August until the 6th of September? At 2789.83USD this falls well within your budget.
+User: I just need a package to Toronto for less than 2900
+Wizard: I can offer you a package to Toronto which is only 2275.60USD, however your stay would be from the 17th of August to the 27th.
+User: ....is there anything to Paris within my dates???
+Wizard: Unfortunately I cannot offer you any packages for Paris. Would you like to try another destination?
+User: let's try Toronto again. where would we leave from&gt;
+Wizard: If you are flexible with your city of departure I can offer you a cheaper Toronto package which leaves from Calgary. Unfortunately this trip is from the 17th to the 24th of August.
+User: Ok.... well maybe we'll just miss a few days of class that week. How much is that package?
+Wizard: The total cost of this package is 1568.64 USD. It includes a stay in the Hotel Eric Perrier, a 4-star hotel with free breakfast and free wifi. Would you like me to book this package?
+User: Wow sweet! That's for the 4 of us?
+Wizard: This is a package for four.
+User: Great. ok let's book it
+Wizard: Done! Your trip has been booked. Enjoy your stay!
+User: great tahnk you

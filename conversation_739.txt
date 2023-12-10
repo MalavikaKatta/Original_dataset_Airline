@@ -1,0 +1,15 @@
+User: Hey! I have to book a trip for a group of people from Beijing to Toluca.
+Wizard: How many people?
+User: 14 of us
+Wizard: All adults?
+User: Right
+Wizard: Do you have a budget?
+User: I was hoping to spend maybe 2700.
+Wizard: When would you like to leave?
+User: We can go any day between Aug 29 and Sep 1
+Wizard: There are no results within your budget or for these dates.
+User: If I increase my budget by 200, would that change anything?
+Wizard: No sorry.
+User: What if I make my dates completely flexible?
+Wizard: Still nothing.
+User: I don't think this trip is going to work then..

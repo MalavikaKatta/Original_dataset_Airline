@@ -1,0 +1,13 @@
+User: hey, i would like to find an affordable package to Hiroshima from Alexandria.
+Wizard: That sounds like fun! How many people will be traveling?
+User: Just me, it's my first time travelling alone, im super nervous
+Wizard: Don't worry, I will do my best to find you the perfect trip! Do you have a budget or travel dates in mind?
+User: I only have 1800. and i'd like to travel between August 31st and September 15th.
+Wizard: Unfortunately I do not have any trips within your budget :disappointed: Do you have an alternative destination?
+User: Phoenix?
+Wizard: Yes I've got a few options for Phoenix! You can get a 7 day stay at a 3 star hotel with a 6.91/10 guest rating for 775.58, or you can get a 9 day stay at a 2.5 star hotel with a 7.06/10 guest rating for 973.3.
+User: I think I'll take the first one!
+Wizard: Would you like to upgrade the package to business class for a price of 918.37?
+User: no i'll take the economy package please.
+Wizard: No problem! I will book for you the 7 day economy package for $775.58. You will receive an email confirmation shortly!
+User: ok thanks

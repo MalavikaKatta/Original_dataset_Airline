@@ -1,0 +1,12 @@
+User: I need to get out of Beijing ASAP!!!!!!!!!!!!!
+Wizard: Okay. Where would you like to go?
+User: Alexandria. Pronto. Alexandria is where's it's at.
+Wizard: I'm afraid we do not offer any packages that leave from Beijing. Would you like to leave from another city?
+User: Yeah try Tel Aviv. Tel Aviv to Alexandria
+Wizard: I'm afraid we do not offer any packages that leave from Tel Aviv either. Would you like to leave from another city?
+User: CRAP!!!!! Try Beijing to Cancun then.
+Wizard: I'm afraid we do not offer any packages that leave from Beijing and Tel Aviv. Would you like to leave from another city?
+User: I'M GONNA GIVE YOU ONE MORE CHANCE TEL AVIV TO CANCUN THIS IS A MATTER OF LIFE AND DEATH DO YOU UNDERSTAND?!???
+Wizard: I'm afraid we do not offer any packages that leave from Tel Aviv. Would you like to leave from another city?
+User: GOODBYE
+Wizard: Goodbye. Thank you for using our services.

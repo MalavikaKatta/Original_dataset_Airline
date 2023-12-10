@@ -1,0 +1,23 @@
+User: Good afternoon. I'd like to book a business trip to New York from Mannheim. What can you offer?
+Wizard: Certainly. What date do you have business in Mannheim so that I can accommodate your schedule?
+User: Dates are flexible, but I have a company budget of 3100 USD. I'd like to go either in August or September.
+Wizard: Great. I have a 5 star hotel available for 2097.76USD.
+User: how much will it cost?
+Wizard: The above price leaves August 17th and returns August 27th. To leave August 27th and return on September 6th, the price would be 2582.47USD.
+User: What about leaving around September 13th?
+Wizard: You could leave September 16th and return September 26th for 2753.45USD.
+User: I prefer the one leaving on August 17th. Is there free wifi?
+Wizard: The Regal Resort has free wifi as well as a spa to relax at after your business meetings!
+User: That sounds very nice. Does the package include a business class flight?
+Wizard: 2097.76USD is the cost for Economy flights. To upgrade to Business class would cost 2674.43USD. Would you like to book this trip with Business class flights?
+User: Yes I would!
+Wizard: Perfect. You will depart from New York at 2:00 pm - Wednesday, August 17th 2016.
+User: What is the time of arrival?
+Wizard: You will arrive in Mannheim at 10:16 pm - Wednesday, August 17th 2016.
+User: Great! And the time at which I will be departing from Mannheim to return to nyc?
+Wizard: You will leave Mannheim at 8:00 am - Saturday, August 27th 2016 and arrive in New York at 4:16 pm - Saturday, August 27th 2016
+User: Excellent. There is a possibility that I may need to bring a co-worker with me. How much would the trip cost for 2 people?
+Wizard: To include a second person on this trip, with both of you flying business class, the cost would be 5348.87USD
+User: I see. In that case I will book this trip only for myself today.
+Wizard: Ok. Have a good day
+User: It was a pleasure! Thank you.

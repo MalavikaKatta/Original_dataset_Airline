@@ -1,0 +1,9 @@
+User: send my parents somewhere for 1800 from Burlington
+Wizard: When?
+User: Sept 2-19
+Wizard: I can get them to Calgary from September 7th to 19th. This is a 4 star hotel 0/10 guest rating, free parking and wifi, near a university, business flights, and the total cost is 674.27.
+User: that's awesome! is that the longest trip you have available?
+Wizard: Our longest trip is from September 3rd to 17th at a 2 star hotel near a park, museum, and university, free parking, breakfast, and wifi, 6.51/10 guest rating, economy flight, total price of 1735.78.
+User: It'll be way easier to sell them on the 4 star. Can I book that first package for them
+Wizard: Yes! This package is booked! You will receive a confirmation email soon! Have a great day!
+User: Thanks!

@@ -1,0 +1,14 @@
+User: Hi, I need some help comparing a few different trips. Can you help me with that?
+Wizard: Sure! Where are you leaving from?
+User: I'm based in Calgary. I will also be traveling with my assistant.
+Wizard: Do you have a budget?
+User: We have a strict budget of 2400. Could you help me find some options within my budget for Punta Cana?
+Wizard: There are no results within your budget.
+User: Alright fine. How about Rosario?
+Wizard: Still nothing within your budget.
+User: Wow that sucks! Okay... Frankfurt is my last hope then.
+Wizard: There are no availabilities for 2 people.
+User: Just remembered.. we could also leave from Toronto if that helps.
+Wizard: There is nothing available.
+User: Okay.. I don't have any more options... I'll have to rethink my travel plans.
+Wizard: Okay, thanks for using our services, sorry I couldn't have been more help to you. Have a nice day!

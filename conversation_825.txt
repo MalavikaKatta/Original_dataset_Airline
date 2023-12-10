@@ -1,0 +1,21 @@
+User: i have 12 days for vacay
+Wizard: Ok! Where ya headed?
+User: i dont know, was hoping you could help me decide. i live in Kingston and i want to travel on or after the 8th
+Wizard: Do you have a budget?
+User: no
+Wizard: I have 12 days in Baltimore from Sept 17-28!
+User: Where else could I go?
+Wizard: Boston has 12 day packages as well for just over 1500 dollars.
+User: Anywhere else?
+Wizard: Berlin, Germany.
+User: Anywhere else?
+Wizard: Yes, Seattle and Cancun.
+User: is that all the options?
+Wizard: That is all that I have given your broad parameters.
+User: okay. Well what is the best package for Seattle?
+Wizard: I have business class flights from Kingston and a stay at a 5 star hotel for 1890.22USD.
+User: i like it, when are the flights?
+Wizard: You would leave Kingston on September 10th and return on September 21st.
+User: that sounds good to me. Book me this one.
+Wizard: Sure thing! I will email confirmation shortly.
+User: thanks!

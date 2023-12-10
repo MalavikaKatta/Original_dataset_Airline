@@ -1,0 +1,21 @@
+User: I want to go to Guadalajara with my home girlz.
+Wizard: For how many people and your city of departure please
+User: 7 And Seattle
+Wizard: Where will you depart from?
+User: Seattle
+Wizard: Are you looking for anything in particular hotel wise? Highest rated? Location?
+User: 5 stars for sure. We want the best package.
+Wizard: In Guadalajara, our highest rated hotel is a 3 star. Would you like more information on it?
+User: No I need 5 stars. Check Kobe
+Wizard: We don't have a 5 star property in Kobe but we have a 4.5 star with a guest rating of 8.69/10. Interested in this one?
+User: Sure, tell me about it.
+Wizard: The Ivory Legacy Hotel  has a 10 day business package available, including free wifi for 30399.62USD, with a departure of Sept 23rd
+User: Anything in Ulsan?
+Wizard: In Ulsan I have TWO 5 star hotels, the The Sapphire Time available on a 13 day stay and Escape Cave , also available on a 13 day stay. Both have excellent guest ratings and both include free parking and free wifi. The Escape Cave has an earlier departure on Sept 19 for it's 13 day stay. The Sapphire Time has a departure date of Sept 21.
+User: Which hotel has a higher guest rating?
+Wizard: The Sapphire Time has a 8.98/10 guest rating. The Escape Cave has a 8.8/10.
+User: Do one of the hotels have a spa?
+Wizard: Neither. They are both well located with The Sapphire Time near the park, market and theatre and the Escape Cave near the park, shopping and mall.
+User: Well we really love to shop but the other hotel has a better guest rating. I think we will just go to the Escape Cave anyway. Book it, business class.
+Wizard: That will be a total of 31138.96USD for 7 people on business class flights. Enjoy your stay at The Escape Cave in Ulsan!
+User: Thanks

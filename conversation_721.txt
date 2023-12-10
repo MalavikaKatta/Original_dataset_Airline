@@ -1,0 +1,11 @@
+User: Where can I go from Fort Lauderdale...for free?
+Wizard: I’m sorry, nowhere. Yes. I can find you a trip if you have some money though!
+User: How about if I get $400 somehow, what then?
+Wizard: For 400 I can send you to either Punta Cana or Atlanta. Which would you prefer?
+User: Punta Cana!! Would the hotel be decent?
+Wizard: Ok! I have an unrated hotel near a palace or a 2.5 star hotel on the beach.
+User: Get me the unrated hotel
+Wizard: Great :slightly_smiling_face: From August 30th to Sept 7th, you will spend 9 days at La Estrella del Mar for a total of $347.36 USD
+User: Perfect, lets confirm it
+Wizard: Ok! I will send a confirmation email within the next hour. Enjoy your stay
+User: Thanks!

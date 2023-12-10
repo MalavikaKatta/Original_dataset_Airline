@@ -1,0 +1,15 @@
+User: Hi im planning my Spring break can you help me find the best deals?
+Wizard: Of course! How many people will you be traveling with?
+User: my three best friends and myself
+Wizard: And which city will you be departing from?
+User: we are in Montreal
+Wizard: Do you have a destination in mind? I can offer you packages for Seattle, Montreal, San Juan, San Francisco or Sydney.
+User: Calgary seems fun! we want to leave between the 19th and 31st of august
+Wizard: Are you traveling on a budget?
+User: I will be, around $4700
+Wizard: In that case, I can book you a package for Calgary for the 27th-30th of August. You will be staying at the Amusement. It is a four-star hotel with a 0/10 guest rating, free wifi and free parking. You will be flying economy. The total cost of this package will be 4235.61USD. Would you like me to book this package?
+User: are there any flights with Business class?
+Wizard: The total cost will be 5651.86USD. Would you like me to book this package?
+User: then nevermind lets book the one within my budget!
+Wizard: Your trip has successfully been booked! Thank you for using our sevice!
+User: Thank you

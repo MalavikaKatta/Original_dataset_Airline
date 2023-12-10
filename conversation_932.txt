@@ -1,0 +1,16 @@
+User: Hi. I am leaving from Recife
+Trying to see if there are any 5 star hotels in Sendai
+Wizard: Would a 4 star suffice?
+User: Barely, but tell me more
+Wizard: Well there’s the Hotel Kirei, near a park and a museum with a 8.8/10 guest rating. I also have vacancies at the Voyage which features a 8.49/10 guest rating and is near both museums and shopping.
+User: Is there free breakfast at the Kirei?
+Wizard: No, sorry. Only free wifi at both of these hotels.
+User: Ok I’ll roll the dice. But yes let me know the dates I can get at Kirei
+Keep in mind I need to back before the 8th of September, preferably
+Wizard: I can book you from Sept 2-7
+User: Done, done, done.
+Wizard: Business class?
+User: Yes
+Wizard: That will be 7185.50USD.
+User: Yes I will wire the money over shortly. Is this booked?
+Wizard: It sure is!

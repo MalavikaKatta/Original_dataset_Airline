@@ -1,0 +1,7 @@
+User: Hello! I need to go to Minneapolis please.
+Wizard: Where are you coming from?
+User: Tofino
+Wizard: I regret to inform you that we don't offer any trips out of Tofino. Is it possible to leave from another city?
+User: No it's not
+Wizard: Very sorry I will not be able to help you then.
+User: No worries

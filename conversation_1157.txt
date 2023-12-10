@@ -1,0 +1,28 @@
+User: Hello. I have been offered a prestigious, exclusive, international internship
+They are very uncommon
+Very rare and very impressive
+Anyway
+I'm looking to go to Milan from Belem
+Wizard: When is your trip and how much do you have to spend?
+User: Thank you, thank you. From September 17 until the second of October
+I have 2700 left over from working this summer
+and the internship is unpaid so I'd like to stay under that if possible..
+Wizard: I have good news for you! We have a 4 star hotel in the heart of Milan close to the cathedral and museum. With your budget you can stay there for 8 days.
+User: ah - very nice. Um, so what are the amenities?
+Wizard: The hotel offers free wifi and breakfast during your stay.
+User: not bad, not bad. Can you also look at Sacramento packages for me?
+Wizard: Of course! In Sacramento we can offer you a 10 day stay at a 3.0 star hotel close to the museum.
+User: very nice! Breakfast and Wifi as well?
+Wizard: Yup! Plus free parking.
+User: Very nice indeed. What do previous guests think of the place?
+Wizard: They seem to like it! On average, guests have rated it 6.91/10.
+User: So I suppose I would like that as well..But can I check Santiago packages real quick before I do anything
+Wizard: I'm sorry to inform you that there's nothing that matches your selections in Santiago. Would you like to go with one of your first two choices?
+User: that's fine.. at least the other two options are nicer. Could you tell me the guest rating for the Milan hotel?
+Wizard: It has gathered an amazing 8.37/10 average rating from previous guests.
+User: I think I would prefer that one. Italy sounds far more exotic than California anyway
+What is the price and dates of travel for that one?
+Wizard: It would be 1907.5 for 8 days from September 22 to 28.
+User: you know, I think I wanna go ahead and book that one.
+Wizard: It is done for you! Simple as that :slightly_smiling_face:
+User: Wow great, you've been super helpful!

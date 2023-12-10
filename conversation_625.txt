@@ -1,0 +1,12 @@
+User: HOUSTON TO PUNTA CANA
+Wizard: Budget?
+User: NO
+Wizard: Travelling alone?
+User: YES
+Wizard: When do you want to leave?
+User: August 28
+Wizard: There are no results in my database.
+User: GO TO PUEBLA INSTEAD
+Wizard: There is nothing for this either.
+User: GO TO ULSAN
+Wizard: There are no results for this request.

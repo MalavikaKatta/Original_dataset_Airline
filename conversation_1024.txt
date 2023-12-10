@@ -1,0 +1,25 @@
+User: hey buddy. i have some work to do
+looking to domesticate a savage little tea cup yorkie in Pittsburgh
+I am available between the 12th and 19th of September
+I can leave from wherever, so long as it costs me under 3700 bucks
+Wizard: How many people are travelling and are you looking for anything specific in a hotel?
+User: I need access to a dog park. and i will be travelling by myself
+Wizard: I have 2 hotels in Pittsburgh available and they are both located near the park.
+User: saWEEEET. When? What are the details?
+Wizard: The Sunny Wolf Inn & Suites is 2.5 star hotel located near a park and the museum, offering wifi, parking and breakfast as part of your package. Majestic Mountain Inn is also a 2.5 star hotle located near a park offering wifi, parking and breakfast as part of the package. The Sunny Wolf Inn & Suites has the higher guest rating at  8.49 / 10.
+User: Sunny Wolf Inn sounds splendid! what would the dates of travel be?
+Wizard: Do you prefer to stay 8 or 9 days?
+User: either is fine, so long as is between 12th and 19th of September. and under 3700 dollars
+Wizard: The Sunny Wolf Inn & Suites meets your exact requirements for a Sept 12 departure with a return date of Sept 19, a total of a 9 day package at 3066.76USD economy flight.
+User: that would be quite ideal.However, before we rush into that, there is a Tibetan Mastiff in Ulsan with some serious people issues that is deparate for my assistance
+Wizard: Should I proceed with booking?
+User: can you look into Ulsan packages for me please? No- no booking yet
+Wizard: I have nothing near a park in Ulsan but there are hotels near the palace.
+User: oh dear, no I don’t think that will be suitable. how about Naples? could you send me there?
+Wizard: I'm finding nothing for your specifications
+User: They could just be near a park and I would be happy
+Wizard: I meant there's no park!
+User: ahh, ok. so it seems that Pittsburgh is my only viable option
+let’s book the higher guest rating hotel with 8.49/10 in Pittsburgh
+Wizard: So I will confirm a reservation for the Sunny Wolf Inn & Suites, located near the park,  for a 9 day stay departing on Sept 12 and returning on Sept 19 at 3480.49USD. Correct?
+User: Wonderful! thank you kindly

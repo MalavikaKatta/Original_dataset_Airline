@@ -1,0 +1,12 @@
+User: i'm looking to go to ulsan from santiago for 12 days. leaving on august 27th. this is for two people. do you have anything for me?
+Wizard: Welcome! Do you have a budget for your trip?
+User: maximum is 3800, this is strict and i cannot exceed it
+Wizard: There aren't any results available for trips to Ulsan from Santiago, but there are results from Santiago to Hamburg, Vitoria, and Rome. Do any of these destinations spark your interest?
+User: can you try mexico city?
+Wizard: There are trips from Santiago to Mexico City but there are out of your price range unfortunately.
+User: can you make it a shorter trip to fit it within our budget?
+Wizard: No, sorry.
+User: how about if we go to santiago to ulsan for only 6 days
+Wizard: No, sorry, the database has no trips from Santiago to Ulsan.
+User: okay, can you give me some of the results from santiago to rome?
+Wizard: There is only one result for a package from Santiago to Rome. It is at a 0 star hotel that includes free wifi and breakfast. The cost is 1006.85 and is from September 2nd to 6th.

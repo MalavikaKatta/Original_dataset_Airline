@@ -1,0 +1,22 @@
+User: Hi im from Los Angeles. looking for a good vacation
+Wizard: Cool! Where would you like to go?
+User: im not sure to be honest
+Wizard: 10 days in Punta Cana will run you about 660, whereas Rome is around 1500.
+User: what about san francisco?
+Wizard: I haven't got any packages out of Los Angeles travelling to San Francisco unfortunately.
+User: how about vancouver?
+Wizard: You can do 12 days in Vancouver for 761.48USD.
+User: how long would the stay in Rome be?
+Wizard: Rome is 10 days.
+User: i think i might have to go with Rome
+Wizard: I have several 4 star hotels available as well as one 1 star hotel.
+User: can i see the options for the 4 star hotels?
+Wizard: Sure! There's the Hotel Grand Residence, Hotel Emerald Legacy, or The Double Pastures.
+User: all have wifi?
+Wizard: They do; all three have free breakfast and wifi!
+User: perfect! book me the cheapest one please
+Wizard: OK, that would be the Hotel Grand Residence for 1806.15USD. Sound good, or would you like to upgrade your flights to business class for a total of 2308.43USD?
+User: please upgrade it! and thank you!
+Wizard: Sure thing! Consider it booked :slightly_smiling_face:
+User: thx
+Wizard: Have a good day, and thanks for coming by!

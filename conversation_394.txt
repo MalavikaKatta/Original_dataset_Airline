@@ -1,0 +1,21 @@
+User: august 25-september 3
+Wizard: Hi, how can I help you today?
+User: san diego to santo domingo
+Wizard: Certainly, how many adults and children will be on this trip?
+User: just me
+Wizard: Unfortunately, we do not have a trip fitting your exact description. However, we do have a trip from San Diego to Santo Domingo, from August 25 to September 2. Would this still be of interest to you?
+User: maybe. go to la paz instead
+Wizard: Unfortunately, we do not have a trip fitting your exact description. However, we do have a trip from San Diego to La Paz, from August 25 to August 29. Would this still be of interest to you?
+User: maybe, but give me what you got for fukuoka to la paz
+Wizard: Unfortunately, we do not have a trip fitting your exact description. However, we do have a trip from Fukuoka to La Paz, from August 25 to August 28. Would this still be of interest to you?
+User: fukuoka to santo domingo
+Wizard: Unfortunately, we do not have a trip fitting your exact description. However, we do have a trip from Fukuoka to Santo Domingo, from August 25 to September 1. Would you like to learn more about this opportunity?
+User: maybe. ok dates flexible. san diego to santo domingo- what hotel
+Wizard: Excellent - the aforementioned San Diego to Santo Domingo trip will have you staying at the majestic The Rose Sierra Hotel, a 3 star hotel near the beach and shopping. Would you like to book this trip?
+User: same hotel if i leave from fukuoka?
+Wizard: That is correct.
+User: ok book it for 5. we’ll leave from san diego
+Wizard: Excellent, would this be for five adults only?
+User: yes
+Wizard: I have booked you for 9 days at the Rose Sierra Hotel in Santo Domingo. We are sending over an invoice for the total cost of the package, which comes to 5143.4USD. We hope you have an awesome trip!
+User: great thanks

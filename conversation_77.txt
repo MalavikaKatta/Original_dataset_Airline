@@ -1,0 +1,11 @@
+User: HI there! my family and i are looking to go to Burlington
+Wizard: I can certainly help you with that! How many of you will be travelling?
+User: 1 child and 6 adults
+Wizard: Ok! Where would you like to leave from?
+User: Campinnas
+Wizard: Would you like to spend August 17-August 24 in Burlington? I have flights and a hotel available for 9610.39USD.
+User: ya sure that sounds great! and how much would that be for business?
+Wizard: To upgrade that package to Business class would total 12376.71USD.
+User: Let's book it! too good of a deal!
+Wizard: Sure thing :slightly_smiling_face: Enjoy your stay!
+User: thank you!

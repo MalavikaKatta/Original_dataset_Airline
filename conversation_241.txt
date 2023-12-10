@@ -1,0 +1,19 @@
+User: Good afternoon to you, I have 4 days off coming up and I need a little getaway.
+Wizard: Great! When would you like to travel?
+User: On August 15.
+Wizard: Where would you like to go and where will you be leaving from?
+User: I don't really care where I go to be honest. If you offer me a good deal leaving on August 15, I will take it. No more than 4 days though.
+Wizard: Where will you be leaving from?
+User: Berlin
+Wizard: Do you have a budget?
+User: No budget. I just want it to be fabulous!
+Wizard: We have a package to Punta Cana at a 3.5 star hotel that includes free breakfast and wifi. This will cost 2471.91. Does this interest you?
+User: I've been to Punta Cana. What else do you have?
+Wizard: Columbus
+User: Can you tell me about the Columbus package. I hope it has a spa!
+Wizard: This package has a 3.5 star hotel, museum, shopping mall, and it is in the heart of the city. The hotel provides free breakfast and wifi. This trip is from August 21st to the 24th and costs 2490.14. Does this interest you?
+User: Do any of the packages in Punta Cana have a spa? :haircut:
+Wizard: Unfortunately they do not.
+User: Are any of the packages in Punta Cana at a 5 star rated hotel or close to the beach?
+Wizard: Sorry, none of the packages are by the beach and the highest hotel rating is a 3.5.
+User: I really want a spa. If you have nothing to offer with a spa, I'll shop around then.

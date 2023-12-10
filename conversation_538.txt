@@ -1,0 +1,11 @@
+User: i am daydreaming late at work and i want to think about maybe possibly perhaps going to phoenix
+Wizard: Hello, how can I help you?
+User: leaving from porto alegrie. can i get to phoenix for.... 4600?
+Wizard: We have 15 days trip at 2497.34USD, near museum and airport,  or 3211.27USD in business class. includes free breakfast parking and wifi
+User: WOW. perhaps i could go across the ocean on my budget...paris is supposed to be lovely this time of year. whats available from porto to paris?
+Wizard: We have 7 days trip at 4339.88USD in 4 star hotels in business class or 2401.95USD in economy class. Its near a museum and a palace
+User: Just under budget! pretttttty neat. whats Paris got to offer?
+Wizard: 7 days at 4 star hotel for 2686.56 flying business class.
+User: nice, nice. can you tell me a litle more about that hotel?
+Wizard: near museum, guest rating of 8.86 includes free wifi
+User: wonderful well I can't book anything right now.. I've gotta get back to work

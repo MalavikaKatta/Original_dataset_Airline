@@ -1,0 +1,8 @@
+User: Houston to Milan for 3
+Wizard: At this time, we do not have any travel packages from Houston to Milan
+User: Houston to San Juan
+Wizard: Do you have budget restrictions for this trip?
+User: HAHAHAHAHAHAHAHAH NO!
+Wizard: The best I have in San Juan then is a 15 day stay at the 4 STAR Fairyland close to the museum, shopping and market. This package includes wifi too. Do you want the price for business class flights?
+User: no Do you have anything with 5 stars in Manaus?
+Wizard: In Manaus, I have 3 star hotels only.

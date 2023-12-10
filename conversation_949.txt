@@ -1,0 +1,14 @@
+User: Looking to go to Guadalajara
+Wizard: Where from?
+User: Toluca
+Wizard: When would you like to go to Guadalajara? And how many are you going with?
+User: We would be 3 adults and 3 children. We aren't picky about dates but we would like to review our hotel options
+Wizard: Sure thing, our best options consists of two comparable hotels. Both 3 stars. Both offers free parking, free breakfast, and free wifi. We offer 8 day or 4 day stays for one of them, while the other we only offer 4 day stays.
+User: Okay, would we be able to travel here from Toluca?
+Wizard: Sure can! You can even choose between business or economy. Do you have a budget you're keeping?
+User: 3800 for the group. Which one has the better guest rating?
+Wizard: The one with the 8 & 4 day packages is rated at 8.37/10. The other 8.22/10.
+User: And what would be the total cost for the 8 day package at the former?
+Wizard: 2444.13 for business seats and just 2104.35 for economy seats.
+User: Then lets do business class!
+Wizard: Perfect! Your vacation is booked for you from Sep 7-14!

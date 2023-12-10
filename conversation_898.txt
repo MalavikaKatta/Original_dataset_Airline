@@ -1,0 +1,34 @@
+User: I have a business trip coming up in Punta Cana and I was thinking of taking a short vacation to Tofino.  Whatcha got for me?
+Wizard: Where would you like to go and where would you like to leave from?
+User: I want to go to Tofino. I want to leave from Punta Cana. Comprende?
+Wizard: Got it! When would you want to leave?
+User: I can travel from Tuesday, September 6, 2016 and Monday, September 26, 2016. Comprende?
+Wizard: Are you travelling with a budget?
+User: No. No budget, But don't rip me off either.
+Wizard: I’m having trouble finding something from Punta Cana to Tofino. Is there anywhere else you would be interested in going?
+User: How about form Punta Cana to Santa Cruz?
+Wizard: I have availability in Punta Cana, does that interest you?
+User: No, it does not. Check Belo Horizonte to Tofino.
+Wizard: Sorry, no availability.
+User: GRRRRRRRRR Belo Horizonte to Santa Cruz?
+Wizard: How about Belo Horizonte to Porto Alegre?
+User: ONE LAST TRY - KOBE
+Wizard: Would you like to go to Kobe or depart from Kobe?
+User: GO TO KOBE
+Wizard: Would you like to depart from Tokyo?
+User: NO FORM PUNTA CANA
+Wizard: I can book you 10 days at Resort Ancient Angel leaving from Belo Horizonte.
+User: HALLELUJAH
+Wizard: Would you like to book 10 days at this hotel leaving from Punta Cana?
+User: HOW MUCH FOR 2 PEOPLE
+Wizard: 11385.57USD
+User: LEAVING FROM WHERE?
+Wizard: Punta Cana.
+User: Can you tell me more about the hotel?
+Wizard: The 3.5 star hotel has a 8.69/10 rating and free wifi.
+User: dates?
+Wizard: September 9th until the 17th.
+User: Sounds good. Can you just reiterate everything back to me so I know we got the booking right?
+Wizard: Punta Cana to Kobe, Sept 9-17, 2 adults, cost of 11385 dollars.
+User: Very well done... my friend. Took a while but we got there. Thanks for your help.
+Wizard: My pleasure :slightly_smiling_face:

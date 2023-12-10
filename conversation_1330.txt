@@ -1,0 +1,36 @@
+User: Hey, never done this before, but I'll give it a try! I finally have some time off work and I want to see if you can help me book my vacation!
+Wizard: OK :slightly_smiling_face: I’d love to help you. Where are you located and where would you like to go?
+User: I am in Tijuana, send me anywhere nice!
+Wizard: Sure! How many days would you like to travel?
+User: 12 days. I can leave on September 18th or shortly thereafter :grinning:
+Wizard: And have you got a budget?
+User: Nah, I will take what appeals to me the most
+Wizard: Ok! I have 12 day trips available in Barcelona, Belem, Dallas, and Minneapolis. Do any of these destinations interest you?
+User: Dallas sounds like fun, whatcha got there?
+Wizard: I’m sorry - I had an error in my search. I actually have 10 day packages in Dallas, that is the longest available. You would stay at a 2.5 star hotel in the heart of the city near a museum.
+User: Nothing on the beach?
+Wizard: Sorry, unfortunately not.
+User: Okay tell me what you have in Barcelona please
+Wizard: In Barcelona I have a 10 day stay with a 3 star rating and 8.86/10 guest review rating.
+User: What's it close to?
+Wizard: A museum.
+User: Out of all the destinations that you gave me, do any of them have a hotel on the beach?
+Wizard: I have an 11 day package in Belem at a 4 star hotel near a beach and airport.
+User: THAT one sounds good. What else comes with the package?
+Wizard: Free parking, complimentary breakfast, and unlimited wireless internet access are all included in the package!
+User: When would I depart and return?
+Wizard: September 27th would be your departure date and you would return to Tijuana on the 6th of October.
+User: No departures to this hotel before the 27th?!?
+Wizard: I have an 8 day package to this hotel leaving on September 26th if you would prefer.
+User: How much would that cost me?
+Wizard: 3839.49USD for a business class ticket.
+User: How about economy? Business is a waste of money!
+Wizard: If you choose to fly economy class, the cost would be 3001.10USD.
+User: That sound pretty good for 12 days! Can I book that one please?
+Wizard: That is an 8 day trip.
+User: Oh yeah...how much is the 12 day package that leaves the next day?
+Wizard: An 11 day stay at this hotel would cost 2267.62USD if you fly economy class.
+User: So this one is CHEAPER than the 8 day package even though it is at the same hotel?
+Wizard: Yes - correct. It leaves one day later.
+User: Weeeelllll this is a no brainer, I 'll just leave the next day and save a whole lotta money! Can you book this for me right away so I don't lose it?
+Wizard: It's booked!

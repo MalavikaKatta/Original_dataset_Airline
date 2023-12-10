@@ -1,0 +1,21 @@
+User: I have 0 budget, 16 days vacay, leaving from barcelona and am looking for possible destinations
+Wizard: I’m sorry, I am unable to work with a 0 dollar budget.
+User: ughhhh fine, i guess i can up it to 400
+Wizard: I have an 11 day trip to Rome at Secret Bay for $384. Interested?
+User: well give me more info and ill let you know
+Wizard: The hotel is unrated but has free breakfast and free wifi.
+User: are there any other options
+Wizard: The only other option within your price range is in Santiago: the Una casa has a 7 day package for 200 dollars.
+User: what is it rated
+Wizard: 3.0 stars.
+User: does it offer anything
+Wizard: Sorry, I don’t understand.
+User: does it have free wifi or anything like that
+Wizard: Oh, yes! Free parking, free wifi, and complimentary breakfast!
+User: is it near a mall
+Wizard: It is near a museum!
+User: I think i will book this one. is there a business flight for it?
+Wizard: Yes! You can upgrade to business class for an extra 67 dollars.
+User: yeah ill do that
+Wizard: Sure! I’ll go ahead and book that for you then.
+User: thanks!

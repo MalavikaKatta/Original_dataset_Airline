@@ -1,0 +1,13 @@
+User: Hi im from Caprica looking to book a vacation to Hyrule
+Wizard: Hello, I am sorry but we do not have anything available for those destinations  Are you interested in other destinations?
+User: Ya for sure, not sure where, lets see what would fit my plans between the 13th of august and the 16th
+Wizard: would you be interested in going to Vancouver or Toronto?
+User: How about if i leave fro Birmingham?
+Wizard: I am sorry, it's a busy time of year and all I have available at the moment is Vancouver or Toronto.
+User: sure lets try Vancouver then
+Wizard: Do you have a date in mind?
+User: I want to leave on the 13th of august and be back on the 16th
+Wizard: Do you have a date in mind?
+User: I want to leave on the 13th
+Wizard: I have nothing available on the 13th. I do have something available from the 17th to the 25th of August.
+User: you know none of these are meeting my requests. i will just go with another service. Thank you.

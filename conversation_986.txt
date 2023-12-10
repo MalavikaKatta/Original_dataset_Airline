@@ -1,0 +1,17 @@
+User: whats your best hotel in paris?
+Wizard: where are you leaving from?
+User: mannheim
+Wizard: I cannot answer you question until I verify what is available to us at this time from Mannheim to Paris. It seems that The Hotel Regal Universe, at 4 stars and 9.16/10 user rating is the best we have available.
+User: could you get me there on september 7?
+Wizard: September 11th is the soonest I can get you there!
+User: And how much would that trip cost?
+Wizard: Business or economy?
+User: business if i can afford it  on my 1000 budget
+Wizard: $1013.6USD on business
+User: economy it is then how much?
+Wizard: $882.24USD on economy
+User: how long would i be able to stay there?
+Wizard: It is an 8 day stay from Sept 11 to 18
+User: great, i would like to confirm
+Wizard: I will look after the booking
+User: thank you!

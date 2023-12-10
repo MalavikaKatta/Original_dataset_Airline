@@ -1,0 +1,22 @@
+User: Morning! Lovely weather we are having :smiley:  Are you in St. Louis too? I need to book a trip!
+Wizard: Good morning!
+User: Thanks much appreciated! I'm sooooo excited, I get to go to away for the first time EVER by myself! Can you help me get to Sapporo?
+Wizard: Absolutely, I would be happy to help! Would you be interested in leaving SL on August 27th and returning on September 5th?
+User: That would work with my new internship. I'm on a very tight budget though, the UN doesn't pay for internships!
+Wizard: Oh ok! How much would you like to spend?
+User: Not a dime over $4100, it's all I've got!
+Wizard: Well you’re in luck - I can offer you the dates listed above for $2816.73 !
+User: Cool! Tell me about the package please, I want to make sure it is JUST right.
+Wizard: Absolutely! You would be staying at the Hotel Prism, a gorgeous three star hotel with free breakfast, free wifi, and free parking! You would be conveniently located next to a park and museum as well.
+User: That sounds great but I better check out your flights to Belem on the same dates. The UN also has an office there.  If you have something leaving on the 26th, it would be better.
+Wizard: I have a 4.5 star hotel in Belem that fits your budget! It would leave August 26 and return on September 6th - is this ok?
+User: 4.5 stars! Wow, never stayed in one of those! Tell me some more about this package please! :airplane_departure:
+Wizard: Yes! You would be staying at Zion Hotel which is located on the beach and features free breakfast.
+User: And how much is this package?
+Wizard: You could splurge on business class flights for 4069.74 and still be within your budget, otherwise it would be $3155.22 for economy class.
+User: I really need to think about this...I can go to Sapporo for $2816.73 or to Belem for $3155.22, correct? Which one do you thing offers better value?
+Wizard: Correct! The Sapporo stay will last 11 days, while you would be in Belem for 13 days.
+User: How many stars is the Zion Hotel?
+Wizard: The Zion is 4.5 stars!
+User: That sounds like the better hotel. Can't be too cautious travelling by myself for the first time! I will book that deal in an economy class ticket, I'm not ready for business class YET, need to pass that bar exam!
+Wizard: I will go ahead and book that for you.

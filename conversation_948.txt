@@ -1,0 +1,18 @@
+User: Do you do flights out of San Antonio?
+Wizard: Yes. Where to?
+User: We don’t know. But there are 4 adults and 12 kids to book for
+Wizard: What is your budget?
+User: 3600
+Wizard: We have packages for Denver and Calgary
+User: Is it between Sept 18 and 22
+Wizard: Oh sorry no. In that case we don't have any availabilities.
+User: What if we changed it to Sept 18 to 29 now
+Wizard: Yes that would work, we have one package to Calgary at a 4 star hotel near a university, 0/10 guest rating, free parking and wifi, from September 20th to 29th, 2251.89 for economy flights and 3013.14 for business flights.
+User: What about Denver? IF need be, we can up our budget to 3800
+Wizard: There are no trips to Denver for these dates.
+User: But thats the only hotel in Calgary we can get?
+Wizard: Yes.
+User: Okay then we’ll go with that please
+Wizard: Business or economy?
+User: Economy will be just fine
+Wizard: Great! You're booked! Have fun!

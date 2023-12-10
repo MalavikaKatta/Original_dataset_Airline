@@ -1,0 +1,19 @@
+User: santiago to burlington, go!
+Wizard: Do you have a budget?
+User: no budget. but it has to be between sept 7 and 15, ok?
+Wizard: All we have available is a 2.5 star hotel in the heart of the city. 1328.16 for economy flights and 1705.16 for business flights.
+User: What are the dates?
+Wizard: September 7th to 14th
+User: Okay but what about Columbus, you go there?
+Wizard: There are no results within your date range.
+User: does Cleveland work within my dates?
+Wizard: Unfortunately not.
+User: And Leon?
+Wizard: I think this will be the winner. This is a 5 star hotel from September 8th to 15th. Economy class flights for 598.77 and business for 668.48.
+User: Does the Burlingtonian hotel have good amenities?
+Wizard: Burlington has free parking and wifi,  Leon has only free wifi.
+User: Yeah seeing as the dates are a good match, I've never been, and its not that much more expensive, lets book that
+Wizard: Would you like economy flights or business flights?
+User: Economy would be fine
+Wizard: Great! Your trip is booked! Have fun!
+User: thanks!

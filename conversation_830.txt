@@ -1,0 +1,4 @@
+User: do you have flights out of tel aviv??
+Wizard: We do not fly out of Tel Aviv
+User: what about Beijing
+Wizard: Neither from Beijing. Are you able to leave from somewhere else?

@@ -1,0 +1,19 @@
+User: I wanna go to San Juan
+Wizard: I want to take you there! Where are you coming from?
+User: Belo Horizonte
+Wizard: When do you want to go?
+User: between sept. 17 and oct. 7
+Wizard: Did you have a budget in mind?
+User: no
+Wizard: Okay, I can put you in a 4.0 star hotel near the museum, shopping, and market for 7 days. How does that sound?
+User: good good. Got anything to San Francisco?
+Wizard: We've just got a 2.0 star hotel in the heart of the city near a museum. I have trips there for 10 or 16 days.
+User: no thank you. anything to Burlington?
+Wizard: In Burlington we've got a 3.0 star hotel near the park and we have an 11 day package there.
+User: Nope. Anything to Leon?
+Wizard: Sure! We've got a 5.0 star hotel next to the market actually, and we offer 9 day trips there.
+User: I want it! When is it?
+Wizard: It's Sep 24 to Oct 3.
+User: Thatll work. Book it for me
+Wizard: Consider it done! An email confirmation with all the details is coming your way shortly. Have a good trip!
+User: thank ya

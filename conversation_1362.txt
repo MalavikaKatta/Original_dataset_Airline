@@ -1,0 +1,10 @@
+User: hey, we're having a huge family trip. Think you can help us?
+Wizard: Of course :slightly_smiling_face: How many travellers?
+User: 13 kids and 13 adults! Big family eh?
+Wizard: Yes, indeed! Where are you travelling to and from?
+User: We'll be going to Santa Cruz from Tofino. Please get us the very best :slightly_smiling_face:
+Wizard: I can’t book any packages out of Tofino unfortunately.
+User: Oh no, really?
+Wizard: Nope. Sorry.
+User: Oh no, the children will be so disappointed. All 13 of them.
+Wizard: Sorry.

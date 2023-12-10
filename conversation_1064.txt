@@ -1,0 +1,8 @@
+User: out of kabul
+Wizard: Where would you like to go?
+User: birmingham??
+Wizard: Do you have a budget?
+User: 3300 dollars. for 13 adults
+Wizard: Unfortunately there are no results for this many people to Birmingham.
+User: well i can leave from jerusalem instead
+Wizard: We don't have flights to or from Jerusalem as of yet.

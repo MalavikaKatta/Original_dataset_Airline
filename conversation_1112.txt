@@ -1,0 +1,12 @@
+User: i wana go 2 boston from hiroshima
+Wizard: When?
+User: betweens sep 20 and oct 4
+Wizard: Did you happen to have a budget in mind?
+User: no
+Wizard: "Alrighty then", I have a 10 day trip at a 3.0 star hotel in Boston with free parking, free breakfast, and free wifi.
+User: cool. lets check kyoto
+Wizard: In Kyoto I've got a few 3.0 star hotels, and we have trips for 9, 7, or 5 days.
+User: ok. whats in Seoul?
+Wizard: In Seoul I have a 3.0 star hotel next to a park with 5 or 9 day vacation packages.
+User: coolio. now Recife.
+Wizard: Nothing for Recife unfortunately.

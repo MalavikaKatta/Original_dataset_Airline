@@ -1,0 +1,13 @@
+User: Hi there
+Wizard: Hello, ready to discover your perfect trip?
+User: I have 6500 to spend on my parents. Want to get them out of Santo Domingo
+Tomorrow to the 19th
+Any destinations offer such a possibility
+Wizard: My best package is a 16 day stay at a 5 star Berlin hotel. It's rated 8.86/10 and offers free wifi and breakfast.
+User: That is…amazing. This is for two adults and under 6500?
+Wizard: Yup, it will only be 6276.61 if they can fly economy.
+User: I was going to review my options But I will be impulsive and seize this opportunity
+Wizard: I think that's a very smart choice. Would you like me to confirm the booking for you?
+User: Please
+Wizard: Done! I wish your parents a pleasant trip!
+User: Thank you!

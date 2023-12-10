@@ -1,0 +1,18 @@
+User: Hi there!
+Wizard: Good afternoon!
+User: I would like to take my wife and 3 kids on a vacation. can you help?
+Wizard: Of course I can. Where do you live?
+User: Sapporo
+Wizard: And where would you like to vacation?
+User: We were thinking of a few different options, first being La Paz
+Wizard: Are you on a budget for this trip?
+User: Yeah, we have 2500
+Wizard: I have packages from Sapporo to La Paz, but unfortunately none that meet your budget.
+User: We can up our budget by another thousand, would that help?
+Wizard: No still too high for you. Can I check other destinations for you?
+User: Kochi?
+Wizard: We could send you and your family on a 7 day holiday to Kochi at the Hotel Grandiose Rose, a 6.61 star hotel located in the heart of the city and close to a park.  The total price would be 2986.25USD and include wifi.
+User: Hm, maybe. Do you have anything to Vancouver?
+Wizard: No I don't
+User: Bummer. I guess Kochi is our only option then..... hm. When is this package?
+Wizard: It is available from September 11 to September 17th,

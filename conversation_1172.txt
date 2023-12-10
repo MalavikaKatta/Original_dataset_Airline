@@ -1,0 +1,16 @@
+User: We have decided to go visit my sister in Sao Paulo. What do you have out of Santa Cruz?
+Wizard: Yes we do. How many are you? And when do you want to go?
+User: We are 8 in total. 6 adults and 2 children.  We can go whenever, let's see what you have to offer.
+Wizard: Is there a budget you want me to work with?
+User: 17100
+Wizard: Alrighty, we can put the family in a 3.0 star hotel in the heart of Sao Paulo near a cathedral and a theatre for 11 days. How does that sound?
+User: Well that sounds kind of okay. What else you've got?
+Wizard: Your other option is a 2.0 star hotel also close to a cathedral and a theatre. We have a 9 day trip there.
+User: Nah I prefer the first one. What does the first package include?
+Wizard: Breakfast and wifi is included
+User: And how much is it?
+Wizard: 12800.18 for the family or 16320.33 if you want to splurge for business class.
+User: I rather fly economy and keep the rest as spending money! Can you please make the reservation fo rme?
+Wizard: Sure! All is done. You are headed to Sao Paulo for 11 days from September 13-22!
+User: Thank you, friend
+Wizard: You're welcome, human!

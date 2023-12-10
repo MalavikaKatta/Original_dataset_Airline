@@ -1,0 +1,17 @@
+User: Denver to Porto Alegre please for multiple passengers
+Wizard: How many travellers?
+User: 4 kids and 5 adults
+Wizard: When would you like to travel?
+User: I believe I said Porto Alegre
+Wizard: I believe I asked when.
+User: anytime dammit
+Wizard: From September 1st-19th I have a 3 star hotel. The cost for your party of 9 would be 19295.43USD.
+User: well that sounds pretty good. what's included?
+Wizard: Free breakfast and free wifi.
+User: beach side? we love the beach. Hope it's clean.
+Wizard: It is near a university.
+User: well that sucks. got anything on the beach?
+Wizard: I have a 13 day package at a 4 star beachside hotel - also located close to shopping, a park, and a mall - with a 10/10 user rating. The cost would be 20806.86USD.
+User: why didn't you suggest this in the first place? well I prefer this one, beach it is and love the user rating. Book it please.
+Wizard: Your wish is my command.
+User: Thank you!

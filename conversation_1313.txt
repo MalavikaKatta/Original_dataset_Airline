@@ -1,0 +1,19 @@
+User: I NEED TO GET TO SAN ANTONIO FROM TAMPA
+Wizard: I can help you with that. When would you like to depart?
+User: September 26
+Wizard: I have a package available in Tampa on Sept 26th for 1003.41USD at a hotel located near the park, museum, beach and airport. Would you like to book it?
+User: NO I NEED TO LEAVE FROM TAMPA
+Wizard: Tampa destination San Antonio, I have a departure on Sept 27 at a hotel near a park, mall and theatre.  Yous stay would be for 13 days and the total cost would be 687.22USD
+User: OKAY. WHAT IS THE HOTEL LIKE?
+Wizard: It is a 2 star hotel with a 4.74/10 rating & includes free parking, wifi and a continental style breakfast.
+User: NICE.  DO YOU HAVE ANYTHING IN ATLANTA?
+Wizard: The earliest departure to Atlanta would be on Sept 30.  Would that work for you?
+User: YA
+Wizard: That package is at the Summer Covert Club a 3.5 star hotel located on the beach and close to the park. Wifi and parking are included in the price of 235.4USD.
+User: I WANT TO BOOK THE OTHER PACKAGE! MUST FIND MEWTWO!
+Wizard: The total price for one adult at the Winter Hill Inn in San Antonio will be  687.22USD and will include the use of wifi, parking and your breakfast. Should I proceed with the booking?
+User: THERES 7 OF US
+Wizard: For 7 of you, the revised price will be 4810.59USD based on your 13 day stay at the Winter Hill Inn. Do you wish to book it?
+User: yeah. Lets book it
+Wizard: Your travel package has been booked. Enjoy your trip,
+User: thanks

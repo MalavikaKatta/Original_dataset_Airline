@@ -1,0 +1,13 @@
+User: Hi im travelling from Nagoya. i would like to go on vacation on August 26th
+Wizard: Hello! Do you have any destinations in mind?
+User: Busan
+Wizard: Will you be accompanied by anyone on this trip?
+User: just myself for now
+Wizard: One last question: Do you have a budget for this trip?
+User: not at the moment
+Wizard: I can book you a stay at the Lethargy Hotel for 7 days, flying out on the 1st of September. The cost of this package would be 398.99USD. Do you want me to book this trip?
+User: are there any other packages in Sacramento?
+Wizard: I can offer you a 12-day package in Sacramento with a departure date of September 4th. The total cost of this package is 3052.40USD. Do you want me to book this package?
+User: sacramento is a little pricey i would like the trip to busan pflying on the 1st
+Wizard: Done! Your flight leaves Thursday, September 1st at 10:52 a.m. Enjoy your stay!
+User: thanks a lot!

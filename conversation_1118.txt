@@ -1,0 +1,14 @@
+User: Hi, I need to get to Melbourne from Fukuoka. unlimited budget and dates arent a concern and its just me travelling.
+Wizard: Hi! Sounds like great trip but I'm sorry to inform you we don't offer any trips between Fukuoka and Melbourne. Any other places you'd like to go to?
+User: I guess I’ll just go to Kochi and meet up with my homegirl Selena Gomez so we can chit chat about the…..weather.
+Wizard: That sounds nice! I can bring you to Kochi for 6 days at a hotel in the heart of the city.
+User: is it the best package you have? I want the best hotel.
+Wizard: This is the only one available in Kochi.
+User: ok i’ll take it. Whats the hotel like?
+Wizard: It's a 3.5 star hotel with 7.15/10 guest rating. In addition to being in the heart of the city, it is also close to a park and it offers free wifi.
+User: sounds good. Flight details?
+Wizard: It's a 1h 35m flight departing on the 11th and returning on the 16th. I have both business and economy seats available.
+User: business obviously. how much?
+Wizard: Sure thing, it'll be 1041.42.
+User: cool beans. book it
+Wizard: All done!

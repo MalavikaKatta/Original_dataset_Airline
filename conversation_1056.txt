@@ -1,0 +1,21 @@
+User: yes, hi. i have to bring 4 clients - real big whigs, need to be well handled - on a schmoozing trip
+Wizard: Do you have a departure and a desired destination you would like me to search for you?
+User: we can leave after the tenth, whenever.. and want to maybe go to Manaus from Fort Lauderdale
+Wizard: How many adults in TOTAL
+User: wow, no need to yell. 5 of us
+Wizard: An you want to leave after September 10th, correct? For how long?
+User: right, for however long I need to to make this big sale
+Wizard: And what is your budget for this trip from Fort Lauderdale to Manaus for 5?
+User: oh it makes no difference
+Wizard: In Manaus my highest rated hotel is 3.5 stars, is that okay?
+User: no, it isnt. check Mexico City
+Wizard: At the moment, everything I have in Mexico City is also 3.5 star rated hotels or less
+User: Dude.. you're killing me. check out Naples for me. I need a LUXURY experience
+Wizard: How about a 4 star with a 8.86/10 guest rating?
+User: I guess that'd have to do. what are the amenities?
+Wizard: The Tower Hotel located in Naples includes free breakfast and free wifi and is available in a business class flight for a 10 day stay at 21803.47USD
+User: that sounds fine. book business class please, you know how many travels?
+Wizard: 5
+User: great - do it
+Wizard: It has all been taken care of. Pleasant travels.
+User: you're a lifesaver

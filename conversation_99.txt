@@ -1,0 +1,18 @@
+User: hello! were leaving from Brasilia and looking to book our honeymoon
+Wizard: Great! Where are you thinking of going?
+User: maybe rome for 7 days
+Wizard: I have many 5 days trips to Rome. Would that suit your needs?
+User: ya for sure i have a small budget due to the wedding but i think we can make it work
+Wizard: Will you be travelling alone for your honeymoon?
+User: no, ill be with the ball and chain
+Wizard: I'm not sure I understand. Will you be travelling alone?
+User: the soon to be mrs. will be attending as well
+Wizard: Ok! I can book 5 days in Rome for two people at 3550.55USD.
+User: How about phoenix?
+Wizard: I can book 7 days in Phoenix for 3775.54USD
+User: never mind then how about Rome
+Wizard: I can book 5 days in Rome for two people at 3550.55USD
+User: what is the hotel like?
+Wizard: 0.0 star rating with free breakfast and free wifi.
+User: perfect! lets book it!
+Wizard: Ok great! I will go ahead and book that for you :smile:

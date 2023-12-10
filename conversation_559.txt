@@ -1,0 +1,5 @@
+User: miami to mannheim, september 4, under 3200
+Wizard: For a Sept 4th departure, we have a 12 day stay available at the Regal resort in Mannheim, Germany, a 5 star hotel, available under your budget in either economy or business class.
+User: 5 stars? i'll take it. book the 12 day stay please
+Wizard: Congratulations on your booking.
+User: thank you!

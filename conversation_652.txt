@@ -1,0 +1,15 @@
+User: NYC to St. Louis
+Wizard: Do you have a  budget?
+User: 2200
+Wizard: Are you travelling with anyone?
+User: no
+Wizard: When would you like to leave?
+User: sept 9
+Wizard: Our best package is from September 17th to September 24th at a 3.5 star hotel with 9.16/10 guest rating. The hotel is near the airport and a theatre, they also offer free parking, breakfast, and wifi. This business flight package costs 2021.73.
+User: i need to travel between sept 9 and 15
+Wizard: There are no packages within these dates.
+User: what about on august 31st
+Wizard: You might be more satisfied with these results. We have a 5 star hotel, 8.98/10 guest rating, free breakfast, and wifi, business class flights, departing August 31th and returning September 8th. This package comes to 1172.43.
+User: what hotel?
+Wizard: This is the Lunar
+User: ok lets book

@@ -1,0 +1,16 @@
+User: Good day, I'm located in Kobe and I have been offered a possible internship in Baltimore at the heart of the action! I need you to book a flight and hotel package for me sometime between August 26 and September 10.
+Wizard: How about a 7 day stay at the 3 star Countryside Resort for 2374.96USD?
+User: That works within my budget but I need to be cautious in booking this. It's my first time travelling alone and |I don't want to mess it up.
+Wizard: This hotel has a 7.06/10 guest rating and includes free breakfast, wifi and parking.
+User: Do you have anything in Denver?
+Wizard: I have a few options for you in Denver. Do you have a budget?
+User: Yes I have $3900 but honestly I want to spend the least money possible
+Wizard: I can offer you a 5 day stay at the 3 star Oriental Resort for 2964.84 USD.
+User: Baltimore was cheaper. I can also go to Rio de Janeiro for this internship. I will book the cheapest as long as it is on the right dates.
+Wizard: The Rio de Janeiro packages start at 4991.2 USD. Would you like to know more about these packages?
+User: NO!
+Wizard: Can I help you with anything else?
+User: I will book Baltimore, since it is the cheapest. Works for me.
+Wizard: Great! I'll book this for you right away!
+User: Thank you for your patience, have a nice weekend.
+Wizard: Your trip is booked! Have a nice day!

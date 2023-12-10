@@ -1,0 +1,7 @@
+User: Hi! I'd really like to try and book a trip for me and 3 of my friends for spring break.  I have a budget of $2100.
+Wizard: Fantastic! Where will you be leaving from?
+User: Caprica
+Wizard: What dates would you like to travel between?
+User: August 16th and August 19th
+Wizard: I'm sorry, we do not have Caprica within our database. Is there another nearby airport?
+User: No that is the only one unfortuneately.

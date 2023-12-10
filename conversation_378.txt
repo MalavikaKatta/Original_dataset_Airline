@@ -1,0 +1,13 @@
+User: Hello. I am a deeply tormented children’s writer and I need to get away to Lima to write my upcoming book, The Little Engine That Let Everyone Down. I have a deplorable sales record and so I need to stay under 2000 dollars. I am leaving from Minneapolis.
+Wizard: Certainly, how many adults and how many children will be traveling on this trip?
+User: I travel alone and my solitude is the source of my suffering.
+Wizard: That sounds excellent! Do you have any dates in mind?
+User: I care not about the arbitrary constraints of calendars.
+Wizard: You are in luck! I have a trip from August 31 to September 7, where you would be staying at the Olive Summit Hotel, a picturesque 4-star hotel located near a park. Free wi-fi is included, and the total cost of the trip is 801.13. Should I go ahead and book this trip for you?
+User: I do not wish to be located near a park and I do not want to have to be exposed to the sounds of joyful youths’ merrymaking. I need more options.
+Wizard: I regret to inform you that all Lima hotels in our database are in close proximity to parks. Would you like me to conduct a search in an alternate destination?
+User: How miserable. Yes, please search for Seattle results.
+Wizard: Certainly! I am pleased to present you with a trip to Seattle from September 6 to 11, where you will be staying at the inimitable Emerald, a 5-star institution located near the airport. Free parking comes standard with this hotel, and the total cost comes to 1323.78. Would this option be to your liking?
+User: Yes, I would like to stay near the barren desert airport and be confined to the comforts of my own room. Please book this.
+Wizard: Done! Its a pleasure to have your business; we will send an email confirmation to you shortly. We wish you a joyful voyage!
+User: Thank you. I will be full of joy.

@@ -1,0 +1,21 @@
+User: Hi there, do you do flights out of Belo Horizonte?
+Wizard: Yes, to Vitoria, Goiania, Naples, Minneapolis or Tampa
+User: I need to go to Cleveland though
+Wizard: We have 10 days and 8 days trips available
+User: Oh nice, can you do a 10 day trip between September 6 to 21?
+Wizard: So I've got 2413.15USD at 3 stars hotel in economy class or  3113.63USD in business class. Hotel is near park & theatre and includes free parking, free breakfast, free wifi
+User: Would like to inquire about trips to Long Beach also
+Wizard: 9 days or 7 days?
+User: 9 please
+Wizard: 2236.40USD in business class and 1728.40USD in economy class.
+User: Is the hotel any good?
+Wizard: 2.5 stars with 6.91 guest rating. free parking, free breakfast, free wifi
+User: Book me for Business class please
+but before you do
+can you confirm the dates?
+Wizard: ok
+User: what are dates?
+Wizard: September 14 - 21 from Belo Horizonte to Long Beach in business class at 2.5 stars hotel near airport, is that correct?
+User: yes, sounds right to me
+Wizard: ok I will book it for you
+User: :+1:

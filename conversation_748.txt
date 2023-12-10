@@ -1,0 +1,9 @@
+User: I've got 2000 to get 6 adults and 9 children from Portland to Hamburg
+Wizard: I’m sorry, I cannot find anything within your budget.
+User: Preposterous. 3500 then
+Wizard: I can book you for 20181.23USD
+User: Ok do it. Wait, no.
+Wizard: Should I book?
+User: That is six times more than we can pay
+Wizard: That is the best price I can give you for such a large party.
+User: I run a restaurant, not a ponzi scheme. I cannot afford your tickets, good bye

@@ -1,0 +1,14 @@
+User: i am looking to explore some options for an upcoming internship. i have a week off from sept 2-9 to see where i’d like to spend my next 6 months
+i have a 5800 budget and im leaving from la paz
+can you tell me whats available in Ulsan
+Wizard: You are leaving between sept 2 and 9?
+User: I am leaving sept 2 and returning the 9 or within that time frame
+Wizard: I have 5 days at a 5 star hotel for 5462.71USD, or 5 days at 2.5 stars hotel for  3735.33USD
+User: that sounds lovely. what about in nagoya?
+Wizard: I am sorry, I didn't find anything within that date range
+User: ok fine. how about in indianapolis?
+Wizard: Are you dates flexible?
+User: no
+Wizard: Sorry, I dont have anything within that date range to Indianapolis ...
+User: fine. i guess lets book the 5 star is ulsan
+Wizard: you're booked

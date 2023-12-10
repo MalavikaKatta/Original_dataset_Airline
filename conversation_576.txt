@@ -1,0 +1,11 @@
+User: hello. im getting married september 2 in Kobe and need to book a honeymoon after that
+looking at going to Kingston for a week
+5000 dollars max please
+Wizard: I have a 5 days trip at 4 star hotel
+User: tell me more
+Wizard: Ebony Manor Inn & Suites , 5 days @ 4301.0USD
+User: whats it like
+Wizard: free parking, free breakfast, free wifi, near museum
+User: and is the price for business flights
+Wizard: business flight
+User: wonderful thanks, I’ll get back to you

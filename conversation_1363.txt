@@ -1,0 +1,12 @@
+User: Hey, I need to get back home to Milan!
+Wizard: Where are you currently?
+User: Monterrey! I need leave on Monday September 26 or after.
+Wizard: I have quite a few options here for you. Do you have a budget in mind?
+User: Yeah I've only got 2400 'cause I spent too much of it travelling for the last month already.
+Wizard: Unfortunately we don't have anything that works with your budget :disappointed: Do you want to try leaving from or going to somewhere else?
+User: Oh really? How about if I leave from Berlin?
+Wizard: Berlin will work! We have an 8 day trip leaving on the 26th and a 13 day trip leaving on Oct 1st. Which one would you prefer?
+User: As soon as possible! How much is it?
+Wizard: The one leaving on the 26th is only $957.64.
+User: What! That's amazing. I'll take it.
+Wizard: This trip has been reserved for you! Anything else you need today?

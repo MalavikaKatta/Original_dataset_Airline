@@ -1,0 +1,14 @@
+User: Hey I'm thinking of going from St. Petersburg to Hamburg, can you help me?
+Wizard: I'd love to help! When do you need go to?
+User: Anytime between September 14 and 27 would be good.
+Wizard: Will it be just you?
+User: yep!
+Wizard: I have a fantastic offer for you! It is at the a 4.0 star hotel in the heart of Hamburg for 10 days.
+User: Oh really, that sounds very good. What are the dates and how much does it cost?
+Wizard: It's from the 17th to the 26th and costs 3494.54 with business flights and 2740.40 with economy flights.
+User: Wow that's excellent. Do you mind if I just ask about another city? I'm also thinking about going to Indianapolis...
+Wizard: No problem! Unfortunately we don't have anything for Indianapolis that matches your parameters. Are you dates or budget flexible?
+User: Oh that's fine, I'll just stick to Hamburg since it's already such a great deal anyway! I'll book the economy package please.
+Wizard: Okay it is booked for you! 2740.40 will be charged to your account. Anything else I can do for you today?
+User: No, that's good. Thanks for helping me out.
+Wizard: You're very welcome!

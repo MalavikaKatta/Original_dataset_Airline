@@ -1,0 +1,22 @@
+User: Hello 
+Wizard: Ok! I can try to help. Where are you located?
+User: I live in Lima. where can i go for 2600
+Wizard: How about 19 days in Puebla?
+User: oh i only have 6 days
+Wizard: Well, how about 6 days in Minneapolis?
+User: tell me more! where would i be staying?
+Wizard: Antique Mantle is near a university, has a 2.5 star rating with 7.15/10 user review. This facility has free parking, free breaking, and free wifi.
+User: Thats okay, but I feel like I can do better. have any other suggestions?
+Wizard: I have a 3.5 star hotel in Punta Cana.
+User: I was just going to ask about Punta Cana! Are there any attractions nearby?
+Wizard: Yes! A cathedral and a palace.
+User: And this is a better hotel right? Any amenities?
+Wizard: Free parking, free wifi, and 8.69 guest rating.
+User: not bad. and whats the cost
+Wizard: 1495.70USD
+User: what dates would i be booked on?
+Wizard: Septembre 2-7
+User: book it
+Wizard: Ok. I will book this package for you.
+User: Ok
+Wizard: Enjoy!

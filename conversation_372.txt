@@ -1,0 +1,22 @@
+User: Hi I need to get a way as soon as possible before I totally lose it....
+Wizard: Hi there, can I help you book a trip today?
+User: look, I have lots of money help me find a trip to Kyoto for me and my friend she needs to get away too
+Wizard: From which city would you be departing?
+User: I'm in toronto right now my friend will be here by tonight
+Wizard: Excellent, just to make sure: you are looking to book for two adults?
+User: yes! for my friend and I as soon as possible I'm going crazy! just make sure we are back by sept 6
+Wizard: Would a trip departing on August 22 and returning on August 30 work for you?
+User: yes it would but it has to have a spa and gourmet food
+Wizard: Unfortunately, I do not have enough information on availability of a spa and gourmet food, but I am pleased to say that I have located a hotel which serves free breakfast. Would you like to hear more about this package?
+User: is it a five star hotel we only want a five star and if theres no spa at least a beach
+Wizard: Unfortunately, I am unable to locate a five star hotel in Kyoto at this time. Would you like to hear more about packages involving a different type of hotel?
+User: what do you have in SL? there must be something in SL!
+Wizard: I have located a five star hotel in SL, but the return date is on September 7. Would you like to hear more about this package?
+User: yes!!!!!!!
+Wizard: Great! You would be staying at the prestigious Lunar, a five-star hotel with a guest rating of 8.98/10. The hotel features free breakfast and free wi-fi, and your trip will be from August 27 to September 7. For two adults, the cost would come to  3420.46. Would you like for me to confirm this booking?
+User: is it close to the beach
+Wizard: Unfortunately, I cannot confirm whether it is in close proximity to the beach.
+User: can you book us on business class we do not fly economy
+Wizard: I am pleased to inform you that in anticipation of your needs, the aforementioned trip is for a business class flight! :slightly_smiling_face:
+User: perfect this is just what we need thank you please book us and keep it to yourself
+Wizard: I will do just that, and send you an email confirmation shortly. Have a great trip!

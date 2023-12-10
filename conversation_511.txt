@@ -1,0 +1,21 @@
+User: can you get me a trip to pittsburgh, from barcelona? between sep 3 and 18
+Wizard: How many people are you travelling with?
+User: i’m bringing my nephew, so 1 adult 1 child
+Wizard: we have 12 days, 8 days and 11 days stay
+User: which one gets us the best hotel?
+Wizard: 12 days at 3.5 stars hotel at 3631.49USD for ECONOMY class and 4616.12USD for BUSINESS class
+User: i want to ask about cancun too you got any trips there?
+Wizard: Yes for 11 or 12 days at 3 or 3.5 star hotels is what we have available
+User: what about brasilia
+Wizard: 3.5 stars for 7 or 10 days
+User: how much does that trip cost if we go for 10 days?
+Wizard: 5764.32USD in business and 4525.6USD in economy class
+User: wow alright. also gotta ask about san jose
+last city i promise
+Wizard: I got a 4 star hotel for 11 or 9 days
+User: 11
+Wizard: 6812.27USD in business class and 5306.48USD in economy class
+User: is this hotel near anything nice?
+Wizard: near beach and museum
+User: ok fine lets do it, business class please
+Wizard: ok I will have it booked and send you confirmation email

@@ -1,0 +1,9 @@
+User: I'm leading a tour group of four adults. We're trying to decide on a destination Can you tell me if I can get to Punta Cana for 3400. leaving from the Beijing
+Wizard: When would you like to leave?
+User: Flexible with the date, just want to keep it within budget.
+Wizard: That is for 4 adults total, correct?
+User: check out the big brains on you! yes correctomundo
+Wizard: I'm sorry but there are no flights from Beijing. Are you able to fly out from a different location?
+User: Then I shall ditch my companions for my other friends. Got anything out of Kabul?
+Wizard: There isn't anything from Kabul either. Do you have another departure location?
+User: WOE IS ME, FOR I HAVE NOT

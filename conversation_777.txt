@@ -1,0 +1,13 @@
+User: Hi, I was hoping you can help me find a vacation for under 1000. I live in Mannheim.
+Wizard: Sure! Where would you like to go?
+User: I haven't really thought about it. Can you give me some options that are within my budget?
+Wizard: Sure. When would you like to travel?
+User: Hopefully between August 31 and September 5
+Wizard: We have a 4 star hotel near shopping and a cathedral, 8.8/10 guest rating, free breakfast and wifi, from September 2nd to 5th, business flights cost 970.76, economy flights cost 843.20.
+User: What city is this?
+Wizard: Rome
+User: Okay. Is there another city I can travel to with my budget?
+Wizard: No.
+User: Fair, I'll take the economy package to Rome then!
+Wizard: Great! Have a nice day and safe travels!
+User: Thank you!

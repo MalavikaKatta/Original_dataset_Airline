@@ -1,0 +1,15 @@
+User: Hi there, can you help me out with a trip? I need to get to Kingston.
+Wizard: From where?
+User: I can only leave from Long Beach.
+Wizard: Do you have a budget?
+User: Can you stay under 2100 if possible?
+Wizard: Are you travelling alone?
+User: Yes
+Wizard: When would you like to go?
+User: As long as it's between September 6 and 11
+Wizard: There are two options. Option 1: a 3.5 star hotel, 8.69/10 guest rating, free breakfast, and wifi, price is 1822.69. Option 2: a 3 star hotel, 8.49/10 guest rating, free parking, breakfast, and wifi, price is 1811.86. Both hotels are near a museum and both packages are from September 6th to 11th.
+User: Are those prices for economy flights?
+Wizard: Yes both are also economy flights. There are no business class options.
+User: I'll go with the 3.5 star hotel. Will you be able to book it for me?
+Wizard: Of course! I will send you a confirmation email now. Have a great trip!
+User: That's perfect.

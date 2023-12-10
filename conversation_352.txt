@@ -1,0 +1,12 @@
+User: hello
+Wizard: Hi, how can I help you
+User: to seoul for at most 6600
+if not, I will leave from Berlin
+Wizard: We have one 3 star hotel. Package prices are 2107.88, 2703.71, 3434.27, and 4405.40.
+User: ok. for two adults
+Wizard: This narrows it down to a 4215.76 package from the 24th of August to the 30th for the economy class seats or 5407.42 for the business class seats. Which do you prefer?
+User: the business class
+Wizard: Great, would you like this trip booked now?
+User: yes please
+Wizard: I just booked your trip and you will receive a confirmation email and detailed information about your trip. Have a nice day!
+User: GREAT THANKS

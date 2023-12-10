@@ -1,0 +1,6 @@
+User: essen to osaka. sept 2-16
+Wizard: number of people?
+User: one
+Wizard: I have nothing to Osaka from Essen. Can I interest you in other destinations?
+User: what if i change the dates and leave a day earlier
+Wizard: It does not make a difference

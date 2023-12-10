@@ -1,0 +1,5 @@
+User: Hi im looking to book  trip. anything leaving from Kakariko Village?
+Wizard: I can certainly help you book a trip! However, I have no outgoing flights from Kakariko Village. How about another departure city nearby?
+User: termina perhaps?
+Wizard: Oh dear.. it seems I have nothing from Termina.. Maybe you could tell me a destination instead?
+User: Anything going to Caprica

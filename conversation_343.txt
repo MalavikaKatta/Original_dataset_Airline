@@ -1,0 +1,18 @@
+User: Hello,
+Wizard: Hi
+User: Can I please have a vacation from Busan to Pittsburgh for $1500
+Wizard: are you travelling alone?
+User: yes
+Wizard: When would you like to leave?
+User: I dont mind
+Wizard: Sorry but there are no flights from Busan to Pittsburgh. Is there another destination you might like to try out?
+User: can i go to sendai
+Wizard: Yes you can! We have two 4 star hotels.
+User: ok how much is it?
+Wizard: 490.35, 554.37, 603.65, 682.46, 692.41, and 785.39.
+User: ok I will book that one
+Wizard: Which price interests you?
+User: 786.39
+Wizard: Great I will book this for you! Your trip is from the 30th of August to the 11th of September. Have a great trip!
+User: ok thank you
+Wizard: You're welcome!

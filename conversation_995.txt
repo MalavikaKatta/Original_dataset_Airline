@@ -1,0 +1,4 @@
+User: Hello. I need Paris to Barcelonna Sept 18 to 22
+Wizard: Do you have a budget?
+User: 2900
+Wizard: No sorry!

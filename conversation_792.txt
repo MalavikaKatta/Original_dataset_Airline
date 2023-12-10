@@ -1,0 +1,21 @@
+User: Hi 
+Wizard: Hey :slightly_smiling_face: Would you like to book a trip?
+User: I need your help to plan the dream vacation for me and my grandson! My grandson has always wanted to visit Porto Alegre.
+Wizard: Ok! Where would you depart from?
+User: We're both at Toluca.
+Wizard: Ok! So am I correct in believing there will be one adult and one child in total?
+User: You're smart!
+Wizard: Great :slightly_smiling_face: I will get searching for you immediately. Do you have a budget in mind for your trip?
+User: Let me know if 3200 will be enough
+Wizard: And have you got any time constraints for your vacation? Is there a date you would like to leave? A date you need to return home by?
+User: We can leave any day on or after September 2. But we have to get back before September 12
+Wizard: Sadly I can’t find anything from Toluca to Porto for one man and one child that costs less than 3200 dollars… would there perhaps be an alternate destination in mind? Or maybe a higher budget you would be willing to work with?
+User: I was actually thinking of Toronto...
+Wizard: Ok! You’re in luck - I have ONE package left to Toronto within your parameters, and I think it sounds perfect for you! You would depart on September 2nd, and leave Toronto on the eleventh. You’d be staying at the 4 star Hotel Eric Perrier, located near a cathedral and just a few short strides from the airport. You would be treated to free breakfast throughout your stay and have access to free wifi for the duration of your trip. The guest rating is an impressive 8.8/10 and the cost of the package is well within your budget at $2648.63.
+User: And we'll have economy seats I assume?
+Wizard: Yes, that’s correct.
+User: Well, I guess this Toronto package ain't too bad...
+Wizard: :slightly_smiling_face: Would you like me to book it?
+User: That's wonderful, please do!
+Wizard: Consider it done
+User: Thank you my dear!

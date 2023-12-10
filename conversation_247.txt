@@ -1,0 +1,8 @@
+User: Hi, I am the team manager for the Phoenix Sportsteam and I need to book the guys a short vacation, they need to relax for a few days. We are having a crappy season.
+Wizard: Where would you like to go and do you have a set of dates in mind?
+User: No but as soon as possible. We are 25.  We need to do this for under $2800.00.
+Wizard: I have a 7 day package to the Glorious Bazaar Resort in Kyoto for 2773.26USD. Does this interest you?
+User: It sure does babe. What's your name, anyway?
+Wizard: Departure is Thursday August 25th at 10:37am. You return on August 31st at 5:37 am.
+User: That sounds good, let's book that. Next time I want to speak to a real person, preferably female. Thank you.
+Wizard: Thank you for using our services! Have a good day!

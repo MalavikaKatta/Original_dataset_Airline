@@ -1,0 +1,18 @@
+User: Hey there I'm looking to go San Juan soon!
+Wizard: Sure, from where?
+User: Belem. I need to go sometime between Saturday September 10 and Sunday September 25.
+Wizard: I have 13 days at the Brass Tower Inn for 3284.31USD.
+User: What are the dates for that? And where is the Brass Tower Inn located?
+Wizard: The Brass Tower Inn is located in San Juan, near a market. The trip stretches from the 16th to the 27th of September
+User: No, no. That won't do. I need to get back by the 25th of September at the latest.
+Wizard: I have 12 days at the Fairyland for just over $2870.
+User: That sounds pretty decent. What are the dates for that and what's nearby?
+Wizard: September 14th-24th. It is near a museum, shopping, and a market.
+User: How many stars does the hotel have and what else is included in the package?
+Wizard: Flights and hotel are included in the package. The hotel is 4 stars and has free wifi.
+User: Is there free breakfast?
+Wizard: No.
+User: That's okay. It sounds good, I'll take it!
+Wizard: Ok, great. I’ll go ahead and book for you.
+User: Thank you.
+Wizard: Yes, no problem.

@@ -1,0 +1,7 @@
+User: I’m trying to get from Milan to a bunch of different possible internship spots. It needs to be both between Aug 31 and Sept 3
+Wizard: I can help you narrow down your choices. Do you have a strict budget?
+User: Yes thanks for reminding me, its 2600
+Wizard: No problem. Budget isn't the biggest problem here. I just did a quick search and we have no more flights out of Milan in your selected dates. Are your departure city and travel dates flexible?
+User: My departure city isn't. Do you have flights from Milan to other destinations?
+Wizard: I'm afraid not. Nothing departing from Milan within your dates.
+User: Ok, thanks anyway!

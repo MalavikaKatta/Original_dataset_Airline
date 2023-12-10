@@ -1,0 +1,16 @@
+User: Hi!!! Can u help me find a vacation???
+Wizard: Yes! Where would you like to go?
+User: San Juan
+Wizard: Where do you need to leave from?
+User: Cairo, Illinois
+Wizard: How many people are going to be travelling?
+User: Just one - just me
+Wizard: Okay, do you have a budget?
+User: Nahhh
+Wizard: When can you leave?
+User: on or after the 12th of September
+Wizard: Do you need to be back by a certain date?
+User: Yeah, before the 24th of September please
+Wizard: Unfortunately there are no results showing.
+User: Well what if I leave the 8th
+Wizard: Still nothing. There are no flights from Cairo to San Juan.

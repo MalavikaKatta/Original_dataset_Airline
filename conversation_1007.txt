@@ -1,0 +1,13 @@
+User: Greetings...friend
+Wizard: Hi!
+User: Run a lil binary scan there with your programy codey little search enginge and find me a vacation out of Vitoria ok? I don’t particularly care where you send me... I’m free to travel between the sixth of September and the 26th
+Wizard: Do you have a budget?
+User: It is 23 hundred dollars.
+Wizard: We have a 3.5 star hotel in Kingston and a 4 star hotel in Rome.
+User: Rome sounds better. What is that hotel like?
+Wizard: It is located near shopping and a cathedral, 8.8/10 guest rating and free breakfast and wifi.
+User: Sold. Price?
+Wizard: 901.54 for economy flights and 1058.90 for business flights.
+User: Business it is, what a steal! What are my travel dates?
+Wizard: September 8th to 25th.
+User: Perfect! Thanks 

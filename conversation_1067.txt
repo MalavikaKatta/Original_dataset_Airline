@@ -1,0 +1,6 @@
+User: Can you get me and my family a vacation that departs from Jerusalem?
+Wizard: Any specific destinations in mind?
+User: Tampa
+Wizard: How many adults and children in your family?
+User: 14 adults 13 children.
+Wizard: I do not have any packages available from Jerusalem to Tampa available for that many people.

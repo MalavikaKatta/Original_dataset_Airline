@@ -1,0 +1,39 @@
+User: Hey there. I've got 6 days of free time and I want to make the most of it.
+Wizard: Ok! Do you want to book a vacation?
+User: Yes please. I'll be leaving from Ciudad Juarez.
+Wizard: And going where?
+User: I was hoping you could help me with that.
+Wizard: Do you have a budget?
+User: Yeah, 5400 is my budget.
+Wizard: What dates are you able to travel?
+User: anytime in the near future is good
+Wizard: And you will be travelling alone?
+User: Yeah. I feel like being alone right now.
+Wizard: How about 6 days in Kingston at a 4 star hotel?
+User: Kingston...Canada?
+Wizard: yes
+User: Oh. How much would that cost?
+Wizard: 2146.59USD
+User: That's not bad. But do you have any other destinations?
+Wizard: Of course! I have Denver and Punta Cana as well.
+User: What's the Denver package like?
+Wizard: There are 3 packages available in Denver.
+User: Are they all 6 days?
+Wizard: Yes
+User: What's the best one?
+Wizard: What do you want from your hotel?
+User: In the heart of the city?
+Wizard: I have no hotels in Denver in the heart of the city. I have one hotel near a park and another near a museum and a university.
+User: museum and university sounds good. how much would that cost?
+Wizard: 1085.38USD for economy class flights and a 6 day stay.
+User: how many stars does this hotel have?
+Wizard: 3
+User: Not bad. What can you offer for Punta Cana?
+Wizard: I have an unrated hotel in Punta Cana for just under 1250 dollars
+User: No stars or guest ratings whatsoever?
+Wizard: The hotel is unrated
+User: That sounds sketchy.
+Wizard: It is near a palace.
+User: Please book that 6 day trip in Denver for me near the university.
+Wizard: Ok, done. Enjoy your stay.
+User: Thanks!

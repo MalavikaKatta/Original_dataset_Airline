@@ -1,0 +1,2 @@
+User: GET ME A FLIGHT FROM BARCELONA TO CALGARY LEAVE SEPTEMBER 2
+Wizard: Sorry, I don't have any flights leaving from barcelona

@@ -1,0 +1,19 @@
+User: I want to find a vacation between the 7th to 24 for 3100 leaving from Cordoba. Can you help me find something good?
+Wizard: I sure can! Are you willing to go anywhere?
+User: Yes anywhere is fine, just like to hear some options.
+Wizard: Ok - first off, I have an 18 day package in Recife at a 3.5 star hotel with a 8.69/10 guest rating.
+User: What else?
+Wizard: There is a 17 day package in Paris at a 4 star hotel with free breakfast and wifi near a museum, shopping district, and a cathedral.
+User: Better. Are there other places available?
+Wizard: In Madrid I have a 5 star hotel near a palace, a museum, and a cathedral. The package lasts 16 days and includes free breakfast and wifi.
+User: 5 stars! Now we're talkin! Any other places with 5 stars?
+Wizard: Not that I can see from my initial list..
+User: Okay well is there any more information on the 5 star hotel in Madrid?
+Wizard: Yes - the hotel has a 9.16 guest rating and the package spans from September 9th to the 24th.
+User: That sounds like a pretty good package. What is the cost?
+Wizard: For economy class 937.60USD.
+User: good good, very affordable. Can you book it for me?
+Wizard: Sure! Business class would cost 1078.0USD. Do you want to upgrade?
+User: Yeah of course!
+Wizard: Great :slightly_smiling_face: All booked!
+User: Thank you very much, i'm sure I'll be back again the next time I plan on travelling.

@@ -1,0 +1,20 @@
+User: hello we are 6 very quiet foreign exchange students from Santiago and we think that we need to start socializing more so we are thinking of going to Rome for spring break
+Wizard: I can certainly help you with that! What are the departure and return dates you have in mind?
+User: our spring break is between Sept 2 and Sept 22 but we don't have to be away for the whole time
+Wizard: Great! What kind of budget did you have in mind?
+User: we have 11900 to spend we have been saving all year
+Wizard: I am excited to present you with our travel package featuring the 4-star hotel The Double Pastures! The hotel is near the cathedral; free breakfast and wi-fi is included. You will be departing on September 11 and returning on September 21. The cost of the trip will be 5649.61. Should I go ahead and book this trip for you?
+User: we want to see what there is in Hamburg
+Wizard: Certainly! We have a trip to Hamburg departing on September 12 and returning on September 20. You will be staying at the acclaimed Traveller Inn, a 4-star establishment located in the heart of the city. The hotel features free breakfast and wi-fi. The cost of the trip will be 6887.42. Would you like me to book this trip instead?
+User: so they are both 8 day packages?
+Wizard: Sorry, I do not understand
+User: how many days is each package|?
+Wizard: The package to Rome is 11 days
+User: and the package to Hamburg?
+Wizard: The package to Hamburg is 9 days
+User: looks to me like they are pretty equivalent but just to be sure, Hamburg is downtown?
+Wizard: I can confirm that the Traveller Inn is conveniently located near the heart of the city.
+User: I have discussed is with my fellow students and we have decided we will go to Hamburg are you able to help us book that
+Wizard: Absolutely! Would you like for me to book the travel package to Hamburg?
+User: yes please! :relieved:
+Wizard: Excellent, I have just completed your booking and will send an email confirmation to you shortly. We hope you have a wonderful trip! :slightly_smiling_face:

@@ -1,0 +1,14 @@
+User: my friends and i are going away on our first trip alone ever and i am in charge of finding us a deal!
+Wizard: Ok, I will help you with that! How many of you are there? And where would you like to go?
+User: we are 4 we go to school in baltimore we want to go to tijuana
+Wizard: Great! How about 7 days at Hotel Perfection? Only 3585 for all four of you from August 25-31
+User: we don't have that much money
+Wizard: Sorry, what is your budget?
+User: 2700
+Wizard: Sorry, I can’t find anything in Tijuana for 4 people at that price point. Perhaps you would like to try another destination?
+User: well some our buddies are going to BA
+Wizard: The cheapest package in Porto would be 13293.98USD
+User: Rio? but we want to go to Buenos Aires
+Wizard: I can do Buenos Aires for 1872.15USD !
+User: awesome i will tell all my friend at the university of baltimore how great and helpful you are  can you just confirm the dates so i can tell my freinds
+Wizard:  You will travel from August 24-August 31

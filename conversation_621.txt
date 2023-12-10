@@ -1,0 +1,12 @@
+User: book me from COLORADO to athens
+Wizard: Do you have a budget?
+User: 0.0042 million USD
+Wizard: How many people are travelling?
+User: 1 mega-stud. i.e. me
+Wizard: When would you like to leave?
+User: anytime between now and the end of the universe
+Wizard: Theres a business flight for 4495.97. This is at a 3 star hotel near a mall, with a 0/10 guest rating, free parking, and wifi. This trip is from August 30th to September 6th.
+User: 0 guest rating, you think i want to get murdered or something? get me to stuttgart instead
+Wizard: This is a 3 star hotel, 7.15/10 guest rating, business class, near a museum, free parking, breakfast, and wifi, departing September 2nd, returning September 14th, price 2993.87.
+User: Thats more acceptable, let's do it
+Wizard: Great! It's booked! Have fun!

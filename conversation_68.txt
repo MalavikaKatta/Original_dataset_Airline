@@ -1,0 +1,7 @@
+User: Hi wozbot! I'd like to book a spring break vacation for myself and 3 of my best friends
+Wizard: Hello, from where would you like to leave? Do you have an idea of where you would like to go?
+User: We'll be leaving from Goiania. Rosario is the place to be this year! Our spring break starts on August 28 and ends on September 4, can you find us something between those dates?
+Wizard: I am sorry but I have no packages to Rosario on those dates. Are there any other destinations you would like to go to
+User: Is there anything in between? Not necessarily for the whole length of the break?
+Wizard: To Punta Cana, all the flights from Goiania depart on August 17th. For Rosario, I have nothing before September 6th. Would you like me to check other destinations
+User: No, everything's ruined now. Thanks though.

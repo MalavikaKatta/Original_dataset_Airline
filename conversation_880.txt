@@ -1,0 +1,15 @@
+User: Do you do Burlington to Tokyo? I’m looking for September 2 to 13 specifically
+Wizard: I have something for you! A 7 day stay from September 2-7 at a 3 star hotel. Does this work for you?
+User: What is the guest rating for this hotel?
+Wizard: Guests have rated it 6.77/10 on average.
+User: I’m not sure that I’m convinced What do you have in Vancouver?
+Wizard: We do have much better options in Vancouver. How does a 4 star hotel with 10/10 guest rating sound?
+User: That sounds much better indeed. What dates can I book this for?
+Wizard: It's a 11 day package from September 3-13.
+User: Thats awesome! Lets book it economy class
+Wizard: Just for yourself?
+User: just me!
+Wizard: Perfect. It will be 881.87 for the 11 day economy package. I will book it for you?
+User: Yess thats very reasonable!
+Wizard: Great! You are headed to Vancouver! Pack your bags :slightly_smiling_face:
+User: Thanks!!

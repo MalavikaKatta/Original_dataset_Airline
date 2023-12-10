@@ -1,0 +1,20 @@
+User: I have a number of potential destinations. Trying to narrow them down a little
+So we are departing from Pittsburgh
+There are 9 of us: 2 adults and 7 children
+With 9400, can we get to Chicago?
+Wizard: Sure can! The best hotels we have in Chicago are 2.5 stars, and you can stay up to 9 days. When would you like to go there?
+User: The time frame would be Sept 8 to 20
+Wizard: In this case, we have a 6 day vacation for you at a 2.5 star hotel near a museum and a university.
+User: Thats doable. Can you also look up Fort Lauderdale?
+Wizard: In Fort Lauderdale we can only offer you a 2 star hotel near a market but you can stay 11 days.
+User: Perfect. I didn’t even think we had much of a choice with our low budget, but I’m pleasantly surprised
+I’m going to push my luck a little more
+Can you check Belem?
+Wizard: Sorry I think you just ran out of luck. Nothing in Belem. Is there another destination you would like me to help you check?
+User: I’d like to know more about Fort Lauderdale. Specifically, the dates and prices
+Wizard: The Fort Lauderdale hotel has been rated 8.22/10 by guests and offers free parking, free breakfast, and free wifi. The package is from Sept 8-18, economy is available for 5512.8 and business is 6518.86.
+User: That one is good enough
+Wizard: Great! Would you prefer the economy or business package?
+User: economy please!
+Wizard: Sure thing, I will book the economy for you. You should receive email confirmation shortly!
+User: Thank you so much

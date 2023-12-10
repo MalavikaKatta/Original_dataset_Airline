@@ -1,0 +1,12 @@
+User: I've got 9 days to take off this month.. any time is good. I was looking to see where I can go from Barcelona.
+Wizard: Is there a budget you'd like to stay under?
+User: Nope!
+Wizard: We've got trips to Detroit, Curitiba, Kingston, Santos, Kyoto, and Kochi.
+User: Tell me about the Kochi package first please.
+Wizard: It is a 9 day trip from Sept 11-18 with stays at a 3.5 hotel in the heart of Kochi. You can enjoy easy access to the park and free access to wifi. Guests in the past have rated the experience 7.15/10. Total will be 4963.13 with business flights.
+User: Nice! I just want to hear about the package to Curitiba to compare.
+Wizard: Our best in Curitiba is a 3.5 star beachside hotel with a solid 8.22/10 guest rating. Free parking, free breakfast, and free wifi are offered. The 9 day stay with business flights is 1999.50.
+User: Curitiba is a great deal! I think I'll go with that one
+Wizard: Sure! I will book it for you. Email confirmation is coming your way. Anything else?
+User: No - that's it. I appreciate it :slightly_smiling_face:
+Wizard: No problem! Have a good trip :slightly_smiling_face:

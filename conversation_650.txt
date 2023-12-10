@@ -1,0 +1,23 @@
+User: Hey, I need to take two of my clients for a few days on a business trip. We have to leave Aug 29
+Wizard: I can help with that, where are you leaving from and where do you plan on going?
+User: We'll be leaving from St. Petersburg. Can you check for trips to Osaka first?
+Wizard: Certainly, this is for three adults?
+User: yes
+Wizard: We don't have flights leaving on August 29, but would September 2 be okay?
+User: Can you check whether you have Aug 29 for Brasilia then?
+Wizard: That I do! How does a 12 day trip to the Parallel Angel sound?
+User: Do you have a shorter option? It's only a business trip and I might not want to spend 12 days with my clients
+Wizard: How does 9 days sound instead?
+User: Can you also check check Athens for me?
+Wizard: We have an option for August 30 to September 11 in Athens.
+User: What kind of hotel is it?
+Wizard: Its the Lunar Jewel Lodge, a 3 star hotel near the mall.
+User: and that's the only option?
+Wizard: Yes, thats the only hotel we have in Athens
+User: okay back to Brasilia. Do you have something closer to 5 days?
+Wizard: We have 7 day trips, but they all depart on September 8. Would you prefer these instead?
+User: You know what, the 9 days leaving Aug 29 sounds better. business?
+Wizard: For 9382.7USD, I can book all of you on business class!
+User: Awesome! Please book it
+Wizard: Will do, and send an email confirmation your way. Have a great trip!
+User: Thank you!

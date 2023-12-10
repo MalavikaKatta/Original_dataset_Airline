@@ -1,0 +1,16 @@
+User: Hey I have an internship abroad I need to check some things out. I’m leaving Kochi September 8 at the earliest.. What’s available in Naples?
+Wizard: Will you be traveling alone?
+User: Yes
+Wizard: I have a flight leaving Kochi on September 8 and returning on September 11 - would this work for you?
+User: Um no, I’m not taking a 3 day internship.. What’s available in Ciudad Juarez
+Wizard: I have a flight leaving Kochi on September 8 and returning on September 14, how does that sound to you?
+User: Better...What are the prices for each of these?
+Wizard: The price for the Kochi to Ciudad Juarez flight is 2000.61USD. You would be staying at the 3.5 star Hotel Holiday, located near the palace!
+User: What if I went to…. Pittsburgh :unamused: ?
+Wizard: I have a flight leaving Kochi on September 8 and returning on September 18, would you like to learn more?
+User: Yes. Details.
+Wizard: You would be staying at the Olive Bazaar Inn & Suites, located near the airport, park, and museum. Amenities include free breakfast, free wifi, and free parking, and guests have given this hotel a 8.22/10 rating. The total cost of this package is 3244.66USD.
+User: Ok that’s what guests gave it but what’s its actual rating?
+Wizard: The Olive Bazaar Inn & Suites boasts a 2.5 star rating
+User: Ok, I’ll stay at the palace in Ciudad Juarez.
+Wizard: Excellent! I have completed your booking for you. Have a wonderful trip!

@@ -1,0 +1,5 @@
+User: Hi there, my friends and I would like to go to Belo Horizonte from Tofino for a couple days please.
+Wizard: I can’t offer anything out of Tofino unfortunately. Is there an alternate departure city I could try for you?
+User: But all 9 of us will be coming from there!
+Wizard: Can I look into something else for you?
+User: No thank you.

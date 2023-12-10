@@ -1,0 +1,12 @@
+User: I want to book a trip for my honeymoon!
+Wizard: Where do you want to go?
+User: My soon to be husband and I really want to go to Ulsan for 5 days, can you make it happen?
+Wizard: Hopefully! Where do you want to leave from?
+User: Valencia!
+Wizard: When?
+User: After September 11!
+Wizard: Ok - what is your budget?
+User: Ooh we spent a lot on the wedding so we have to be careful. 4200 at most!
+Wizard: I’m sorry, I cannot accommodate two adults on your budget. Perhaps another destination would be more suitable?
+User: Are you kidding? What about a trip to Busan? You better have that at least.
+Wizard: I do not have trips to Busan from Valencia for 2 people that cost less than 4200 dollars.

@@ -1,0 +1,15 @@
+User: I want to find a vacation between the 12th and 17th for 4 adults and 1 child. We would need to leave from Rio de Janeiro
+Wizard: Hello! How may I help you today?
+User: We also have 3100
+Wizard: We have two 4 day packages in Goiania, both leaving from September 12th to September 15th. The more affordable one costs 2834.90. Would you like to book it?
+User: Can you give me a list of places first?
+Wizard: That's all we have within your dates and budget.
+User: Oh okay. Well then I guess we will book this one. Can you give me information about the hotel?
+Wizard: It's a 3.5 star hotel that includes free parking, breakfast, and wifi. Would you like to confirm your booking?
+User: Is it near anything interesting?
+Wizard: There's a lovely park and some great shopping areas in the vicinity.
+User: Great! Yes can I book this in business class with my budget?
+Wizard:  we only have economy class for this package.
+User: Yeah thats fine
+Wizard: Consider it booked! Have a great trip!
+User: Thanks!

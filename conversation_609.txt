@@ -1,0 +1,12 @@
+User: need to get out of town asap. like this saturday
+Wizard: where would you like to go?
+User: get me to sacramento
+Wizard: From where?
+User: vitoria
+Wizard: Do you have a budget?
+User: I got 2700 to spend
+Wizard: I dont have anything departing this saturday unfortunately
+User: Ok well do you have anything departing near that date?
+Wizard: Oh wait I do have a 6 days trip departing on Saturday August 27, staying at a 5 stars hotel for 2233.69USD
+User: Lock it down
+Wizard: You're booked

@@ -1,0 +1,11 @@
+User: I'd like to go to Washington.
+Wizard: Sure thing :slightly_smiling_face: Where would you like to leave from?
+User: Naples
+Wizard: Sorry but we do not offer trips straight from Naples to Washington. Is there another destination you would consider?
+User: I also had Sao Paulo in my mind..
+Wizard: Ok! I have two hotels available: a 2 star and a 3 star - both with 6.91 guest ratings.
+User: The 3 star would be great if it's under my budget of 5600..
+Wizard: It sure is! You could even fly business class for  2893.46USD total.
+User: Great let's book it!
+Wizard: Consider it booked :slightly_smiling_face:
+User: Thanks!

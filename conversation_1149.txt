@@ -1,0 +1,20 @@
+User: i want to leave Pittsburgh. for 9 days
+and spend 0 dollars
+Wizard: Sorry, but that is not possible. Is your budget flexible by any chance?
+User: I can scrounge up 400 I guess if I raid my mom's couch cushions
+Wizard: I could work wth that. When do you want to leave?
+User: whenever dude
+Wizard: I only have 8 day or 10 day trips. Would you like to hear more about the available destinations?
+User: yeah just tell me where I can go
+Wizard: You can go to Atlanta for 10 days. Or you can go to Denver or Calgary for 8 days.
+User: what is the Atlanta hotel like?
+Wizard: It's a 3.5 star beachside hotel that's also close to a park. It offers guests parking and wifi free of charge.
+User: that's pretty sweet.. how much would the 10 day package be?
+Wizard: It would fit right under your budget at 385.50.
+User: dope. are the hotels in Calgary or Denver nicer tho?
+Wizard: There are no nicer hotels in Denver, but Calgary's different. It's a 4.0 star hotel next to a university and it offers the same amenities as the Atlanta hotel.
+User: i'd rather be at a beach than a school...can I afford to fly business class to Atlanta
+Wizard: No.
+User: fine book that one but economy class.. i'm just stoked to be staying on the beach for under 400
+Wizard: Sounds good. I will sign you up for it! Email confirmation is coming your way.
+User: thanks bud

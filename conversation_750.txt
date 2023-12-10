@@ -1,0 +1,15 @@
+User: They say that I’m a dreamer, but i’m not the only one. and today i am dreaming of a trip out of monterrey
+can you tell me if i can get to curitiba, if i had 2800 to my name?
+Wizard: We are here to fulfill your travel dreams. I have to places in Curitiba that offer 15 day packages for under $2800.
+User: what kind of hotel is it?
+Wizard: I have a 3 star and a 3.5 star, both offering wifi, parking and breakfast at no extra charge
+User: Is the 3.5 star hotel near anything cool?
+Wizard: It's on the beach!
+User: oh me oh my. what could you find me in belem
+Wizard: In Belem, I have a 4.5 hotel also located on the beach!
+User: please go on. what amenities could i get on the beach?
+Wizard: free parking, wifi, and breakfast
+User: if there was a heaven on earth, that could be it! please, tell me if you also have trips to punta cana
+Wizard: I have plenty of choices in Punta Cana. None as highly rated as the one in Belem, but longer stays
+User: thats fine, which one has the highest guest rating?
+Wizard: The 3.5 star Sunrise Elephant Hotel has a guest rating of 8.69/10 , free parking, free wifi and is located near the Punta Cana cathedral and palace.

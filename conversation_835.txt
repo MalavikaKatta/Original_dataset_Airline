@@ -1,0 +1,12 @@
+User: Hello there. I am the father of a group of 4 spoiled, privileged brats
+I've decided to book them a trip to see how those in less fortunate parts of the world live
+Give them some perspective, you know?
+See if you can get me, my wife, and the four kids to Guadalajara, from Calgary
+Wizard: Can you please confirm the number of adults and the number of children that will be travelling together?
+User: 2 and 4
+Wizard: Calgary to Guadalajara is not a destination that we service. Can you provide either a new departure city or a new destination city?
+User: I suppose we _could_ take them to Rio de Janeiro also
+Wizard: Calgary to Rio de Janeiro does not come up either.
+User: Do you think I could still get the message across if we went to San Juan?
+Wizard: You would have to fly out of somewhere else than Calgary for those specific destinations.
+User: That is not an option

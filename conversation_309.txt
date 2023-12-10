@@ -1,0 +1,8 @@
+User: Hi, I need to book a trip to Queenstown leaving ASAP for 11 people
+Wizard: Will all 11 people be adults? Can you please provide me with the city you would like to depart from?
+User: It is for 4 adults and 7 children and we will be leaving from Sacramento. My budget is 19000 and I'm hoping to find a nice hotel for that price.
+Wizard: I have the perfect place for you. It is the beautiful 5 star property Silver Orb Palace, located near the museum and a short drive from the airport. This 4 day package includes free wifi, free parking and a free gourmet breakfast for your entire party and is just below your budget at a price of 18385.34USD. Should I book it? 
+User: Ok, what other options do you have? Do you have anything for about a week-long trip?
+Wizard: Regrettably, all I have accessible in Queenstown flying out of Sacramento is a 4 day package.
+User: When is the Silver Orb Palace package leaving?
+Wizard: It departs on Sept 5th and returns on Sept 7th

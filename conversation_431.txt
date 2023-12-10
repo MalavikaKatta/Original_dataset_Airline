@@ -1,0 +1,9 @@
+User: Good afternoon! I would like to inquire about travel options between several cities. The trip would need to be between September 8th and 17th. The first option would be between Stuttgart and Baltimore.
+Wizard: I have the 3 star Countryside Resort free from Sept 12-17. Would this interest you?
+User: That would fit our needs quite well, does the hotel offer wifi to its guests?
+Wizard: Certainly! As well as free parking and breakfast.
+User: Excellent, that was quite fast! Can you please book this trip for my 5 colleagues? And please let me know of the price first
+Wizard: Of course - for 5 adults the price would be 16788.89USD. Do you wish to continue booking&gt;
+User: Yes, that is a reasonable price
+Wizard: Great. I will book it for you. Please enjoy your stay.
+User: Thank you for you kind assistance

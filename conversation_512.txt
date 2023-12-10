@@ -1,0 +1,13 @@
+User: Hi there! So, between September 7 and 27 I would like to see what is available from Curitiba to Mexico City
+Wizard: We have a 3.5 star hotel near a museum, beach, and shopping mall. Amenities include free parking and wifi. This vacation is from September 10th to 20th and business class seats included costs 2701.20.
+User: Hmmm ok . . that sounds decent. Is that the only option?
+Wizard: In that case, we also have a 3 star hotel near the beach and shopping. They offer free wifi and parking. This package is from September 8th to 19th and for business seats this package will cost 2029.88.
+User: Sweet! So a day longer and cheaper.. I like that. What are the names of the hotels?
+Wizard: The first hotel was Coast and the last one is Hotel Tropic.
+User: Ok, thank you.
+Wizard: Would you like me to book one for you?
+User: Could you tell me the user reviews on each before I make a final decision?
+Wizard: The Coast has a 6.37/10 guest rating and the Hotel Tropic has a 6.77/10 guest rating.
+User: Nice, nice. Let’s go ahead and book the Tropic
+Wizard: Great! I will send you a confirmation email! Have a great day!
+User: Thanks :slightly_smiling_face:

@@ -1,0 +1,24 @@
+User: I need your help!
+Wizard: Hi there, how can I help you?
+User: I need to bring my children to visit their mom who has been working very hard on a contract in Pittsburgh.
+Wizard: Okay great, how many of you will there be and where will you all be leaving from?
+User: We will be 1 adult and seven children and we will be leaving from Kobe.
+Wizard: And do you have a budget?
+User: Not really
+Wizard: How long do you plan on going for?
+User: It does not matter really as long as the package is right. Can you tell me if you have hotel packages in Pittsburgh?
+Wizard: I have 3 different packages, ranging from 11 days, to 10 days, to 7 days. All the hotels are 2.5 stars. Which one would you like to hear about?
+User: Which package has the soonest departure? The kids can't wait to see their mama!
+Wizard: The 11 day package and the 7 day package.
+User: I think my wife has 2 weeks off, so let's look at the 11 day package please
+Wizard: The 11 day package leaves Monday on September 12th and returns on Wednesday September 21st. The hotel has a guest rating of 6.91/10 and economy flights cost 14048.51 whereas business would cost 16434.16.  It also includes free parking, free breakfast, and free wifi. Would you be interested in booking this?
+User: Do you know what activities there are close to the hotel? Any museums or parks we can visit?
+Wizard: There is a park nearby.
+User: Can you tell me a little bit about the hotel in the 7 day package?
+Wizard: Sure thing! There is both a park and a museum nearby. The hotel has a guest rating of 8.49/10, and also includes free parking, free breakfast and free wifi. business class would cost a total of 26775.46 whereas economy class would cost 20697.17.
+User: Hmmmm the 7 day package is a lot more expensive than the 12 day  but it seems like a nicer place, plus I like the fact that we can take the kids to the museum.  Does it depart on September 12th too?
+Wizard: Yes. It departs Monday September 12th and returns on Saturday September 17th. Would you like me to book this trip?
+User: Yes, I like this package better. Please book us on economy class at a cost of $20697.17  and send me all the details by email. Good job, friend!
+Wizard: Consider yourself booked! I'll be sending you a confirmation email with all the details shortly.
+User: Thank you!
+Wizard: You're very welcome!

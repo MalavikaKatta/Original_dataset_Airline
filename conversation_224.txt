@@ -1,0 +1,19 @@
+User: Hi I need to get to Calgary ASAP
+Wizard: Not a problem! Where are you leaving from and which dates would you like to leave between?
+User: I’ll be taking off from Ulsan, I want to Leave on August 27th
+Wizard: I have a number of 6 day packages available to Ulsan. Do you have a budget?
+User: I have a budget of around $3800, can we see what that get’s me?
+Wizard: How about a 4 star getaway to the Amusement for only 2495.75 USD? Or for 3072.42 USD with business class flights.
+User: I’ll be honest I'm a pretty reputable photographer and i need to capture some juicy shots of Madonna. I need to get to her Hotel But im not sure which it’ll be, Is that the best Hotel you got?
+Wizard: At 4 stars, The Amusement is the best star rating that I can offer. Others are only 2 stars. However, I can extend your stay to 11 days for 5223.62 USD.
+User: Maybe she will be low key and stay at a worse hotel… What other hotels are there in Calgary
+Wizard: We have here the 2 star Retro Inn near a park and the airport.
+User: Is it available for the same dates? also how much would that one be?
+Wizard: Flights with this package depart on September 2nd only. The total cost would be 3238.76USD
+User: Okay well thats just not gonna do! Okay let’s not kid ourselves Madonna is staying at the best hotel because shes the :crown: Tell me the offers for Amusement again?
+Wizard: 2495.75 USD for 6 days at the Amusement with flight departure on August 27th at 7:56pm!
+User: And how much to make that a business class ticket?
+Wizard: In total it would cost you 3328.7USD including business class.
+User: Let’s book it! ill be making so much on these pics :slightly_smiling_face:
+Wizard: Great, your booking is complete.
+User: THANK YAAAA

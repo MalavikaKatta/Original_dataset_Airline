@@ -1,0 +1,9 @@
+User: hello
+Wizard: Hi :smile: how can I help you :slightly_smiling_face:
+User: i am leaving from osaka
+Wizard: Going where?
+User: and would like to go to fortaleza. i dont care about the price
+Wizard: We have 3 star hotels and 6 8 10 day trips
+User: not intersted. whats available in tijuana
+Wizard: 2.5 and 3 stars hotels, 6 - 10 - 12 days
+User: not interested

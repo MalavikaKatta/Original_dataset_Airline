@@ -1,0 +1,11 @@
+User: Planning a honeymoon, please help! Can you get me on a flight out of Punta Cana to La Paz on August 24
+Wizard: Absolutely! Would August 25 be ok?
+User: Okay fine. Can you book us for four days and tell us how much it would cost?
+Wizard: Sure! From the 25th to the 29th would cost 1003.11. Are you travelling alone?
+User: How much would it cost for two? Can you do any honeymoon discounts?
+Wizard: For two it would cost 2006.22USD.
+User: Our budget is 1200, that won't work :disappointed: How much would a trip for two to San Diego cost?
+Wizard: Oh dear. Well I’m sorry but I have nothing available within your parameters. Are you flexible with any of your conditions?
+User: I'm flexible with destination and length of trip. The only thing that is inflexible is budget
+Wizard: I can send 2 people from Punta Cana to Atlanta for $306.38 from Aug 24-Septemeber 7.
+User: Okay will consider it and get back to you, thanks!

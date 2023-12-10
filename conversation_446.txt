@@ -1,0 +1,21 @@
+User: I'd like to go to Melbourne from Manaus
+Wizard: How many people in your party - adults and children?
+User: just me
+Wizard: do you have date preferences?
+User: no
+Wizard: length of your stay please?
+User: doesn't matter
+Wizard: and lastly do you have a budget in mind?
+User: $7,500
+Wizard: Unfortunately, we do not have flights to Melbourne from Rio de Janeiro at the moment. May I check other destinations for you?
+User: I'm leaving from Manaus
+Wizard: I apologize.  I meant from  Manaus.  No flights from Manaus to Melbourne.
+User: okay well how about to Rome
+Wizard: I have 6, 7 and 12 day stays in Rome departing from Manaus. Anything special you are looking for in a hotel?
+User: Nothing in particular but what are the best packages you can offer?
+Wizard: do you prefer to fly economy or business?
+User: i prefer business
+Wizard: May I suggest the 6 day package at Hotel Grand Residence, a 4 star property located near shopping and the cathedral in Rome. This package includes free wifi and breakfast for 3770.52USD. As requested, flights are in business class seating departing Sept 2nd and returning Sept 6th. Would you like to proceed with booking?
+User: Heck yes! That sounds like a great deal! Hook me up!
+Wizard: :+1: I will book that for you right away.
+User: Thank you!

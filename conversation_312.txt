@@ -1,0 +1,10 @@
+User: Hello there, I'm looking for a break from the routine. I live in Recife and I'm thinking of going to Calgary
+Wizard: Do you have a budget?
+User: 3400. can you get me something for 9 days under that budget?
+Wizard: Are you looking for a particular rating for your hotel?
+User: Find me the worst possible hotel. I'm not kidding - I am desperate for inspiration for my novel
+Wizard: We have a 2 star hotel. The costs are 2606.41, 3071.45, and 3369.64. The first is economy class, and is from September 1st to 9th. The second is economy class, and from September 2nd to 11th. The third is business, and from September 1st to 9th.
+User: Thank you. Give me the first option, thank you
+Wizard: This is 2606.41 and the hotel includes free parking, breakfast, and wifi. This hotel is also close to the airport and a park. Would you like to book this package?
+User: Yes please
+Wizard: Wonderful! Your package is booked! Have a great day and come again!

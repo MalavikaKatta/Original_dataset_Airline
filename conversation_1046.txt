@@ -1,0 +1,23 @@
+User: Hi there, I'd like to book a trip!
+Wizard: Hi! I'd be happy to help with that. Where are you coming from and where would you like to go?
+User: I haven't really decided a destination yet. We're leaving from Buenos Aires and we're looking for a nice family vacation.
+Wizard: I see! How many will you be? And when would you be available to travel?
+User: Oh it's going to be a huge family vacation, so we'll be 5 adults and 7 children! We're looking for something between Monday September 12 and Monday September 19.
+Wizard: That sounds very nice! Do you want me to stay under a certain budget?
+User: Yes please! That would be great. I don't want to spend any more than $29, 400 total
+Wizard: That's reasonable. Alrighty, since there are a lot of options, I will throw a few cities at you. Let me know if any of these catches your eye: Pittsburgh, Santos, Denver, San Diego, La Paz, Boston, and Sao Paulo.
+User: Oh wow they all sound so good. Which ones are the most affordable?
+Wizard: The options I have previously presented are the longest and best trips that make the most of your budget. However, shorter trips would be more affordable. Would you like me to find the most affordable trips for you instead?
+User: Oh I'll see what the longest and best trips are! Please tell me about them. Let's start with San Diego!
+Wizard: Maybe Santos, La Paz, or Sao Paulo might interest you. Of course I can run searches for shorter trips and perhaps get a few more available cities if you would like.
+User: Let's try La Paz!
+Wizard: Nice choice! In La Paz we can offer you an 8 day stay at a fantastic 4.0 star hotel with free parking, free breakfast, and free wifi.
+User: Ooh sounds nice! How much would that cost in the end?
+Wizard: It would be 22481.6 for economy seats and 28631.92 for business.
+User: Wow that sounds really good! What are the departure and return dates of this trip?
+Wizard: This trip runs from Sept 13-19.
+User: That's perfect. Could you please book that for me for economy?
+Wizard: Sure thing! It is all booked for you. Stay in tune for an email confirmation with all the details.
+User: Thank you so much!
+Wizard: It's my absolute pleasure! Anything else I can do for you today?
+User: Nope, it's all good. Have a nice day!

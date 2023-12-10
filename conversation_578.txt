@@ -1,0 +1,7 @@
+User: Hi, have you got any trips out of Jerusalem? I don’t have a destination to focus on yet I just want to ensure that you can find me trips leaving Jerusalem
+Wizard: May I have your dates of travel and number of people travelling please?
+User: No not right now. Just search flights from Jerusalem
+Wizard: With the limited information you have provided, I do not see any flight leaving Jerusalem. Sometimes, by changing the parameters of my search, I am able to find more information.
+User: Ok. Check Jerusalem August 25 departure
+Wizard: I still yield no results for flights out of Jerusalem. Can I check other cities of departure for you?
+User: No, thanks anyway

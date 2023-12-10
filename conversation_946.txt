@@ -1,0 +1,7 @@
+User: Hi there!
+Wizard: How can I help you?
+User: I'm trying to see if I can get 13 adults and 2 kids to Miami
+Wizard: I can help you with that. Where are you all leaving from?
+User: We would be leaving from Tel Aviv
+Wizard: I'm sorry to inform you that we do not fly out of Tel Aviv. Anywhere else you can leave from?
+User: Thats the only place we can manage, thanks though

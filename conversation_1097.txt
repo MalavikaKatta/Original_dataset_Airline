@@ -1,0 +1,7 @@
+User: Hi! I'd like to go to Washington from Burlington
+Wizard: I have no packages available for Burlington to Washington
+User: What about to Toluca?
+Wizard: Nothing for Burlington to Toluca either
+User: Balderdash! What about Melbourne?
+Wizard: Nothing for Burlington to Melbourne
+User: WHAT!?!?! Ugh, kill me now. Okkay fine. I'll look somewhere else.

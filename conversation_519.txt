@@ -1,0 +1,14 @@
+User: Belem to Busan. Aug 28 or later. $6200 budget. Nicest hotel you got capisci?
+Wizard: You would like to book a trip to Busan, from Belem deparing on Aug 28th (or later) under $6200 dollars. I can help you with your request but you must tell me number of people in your group.
+User: 1 person adult
+Wizard: The best hotel I have available in Busan during that time period is a 3 star hotel.
+User: Is that the best hotel in Busan, period?
+Wizard: During those travel dates, it is all that is presently open.
+User: What about during any travel date
+Wizard: I only show 3 star hotel in our roster of hotels in Busan
+User: then get me the one with the best user rating
+Wizard: If you depart on the 27th of August, I can offer you the Smile Hotel for 7 days for 5931.24USD. It has a user rating of 7.06/10.
+User: I already told you I can't leave that early. 28th or later
+Wizard: You are in luck, I also have it on a 12-day package departing on August 28 and the price is only $5288.4USD, special deal.
+User: Done done and done
+Wizard: I have reserved that for you with an August 28 departure. Thank you and have a pleasant trip.

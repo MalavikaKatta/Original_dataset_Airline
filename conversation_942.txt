@@ -1,0 +1,12 @@
+User: kyoto to boston
+Wizard: When?
+User: After sept 11. return by sept 25
+Wizard: How many people?
+User: just me
+Wizard: Alright, the best option we have for you is 6 days at a 3.0 star hotel near a park with 8.37/10 rating.
+User: what is the cost
+Wizard: I can offer you the business level for 4753.65 and the economy level for 3666.42.
+User: when do i leave?
+Wizard: You will leave on the 20th and return on the 24th.
+User: book it please
+Wizard: Consider it done! Email confirmation is coming your way.

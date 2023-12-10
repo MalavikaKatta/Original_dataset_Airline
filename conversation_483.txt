@@ -1,0 +1,6 @@
+User: Athens to Busan. Aug 30
+Wizard: Budget?
+User: 3500
+Wizard: How many people are travelling?
+User: 1
+Wizard:  There are no result in my database leaving from Athens.

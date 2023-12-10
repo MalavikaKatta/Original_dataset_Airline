@@ -1,0 +1,22 @@
+User: Hi I'm a grandma living in Tampa and I want to take my grandchildren to Kabul on vacation to teach them a history lesson.
+Wizard: I offer no trips from Tampa to Kabul.
+User: I understand that not exactly a vacation destination.  How about Madrid, lots of history there too.
+Wizard: How many children will be travelling with you?
+User: 6
+Wizard: And one adult?
+User: yes me and my grandchildren.
+Wizard: I have an 11 day package in Madrid for 15506.24USD.
+User: oh nooo that is just way too much I only have 3200.
+Wizard: I can get you a 5 day package for 10887.64USD.
+User: that is 6000.00 more than I have!
+Wizard: Then I cannot help you.
+User: okay forget the history lesson, let's just go have some fun on the beach in Punta Cana!
+Wizard: I can offer 10 days in Punta Cana for 2905.4USD.
+User: Now we're talking, baby! tell me more more more
+Wizard: The hotel has a 2.5 star rating, 7.15/10 guest rating; it is near a museum, a cathedral, and a palace; and it includes wifi and complimentary breakfast.
+User: anything on the beach?
+Wizard: No. Sorry.
+User: you do know that I cannot leave until August 31st and have to be back before the 19th right?
+Wizard: This package begins September 7th and ends the 15th.
+User: :+1::grinning::airplane::sunglasses::beers::surfer: Book it!
+Wizard: You’ve got it!

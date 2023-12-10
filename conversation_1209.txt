@@ -1,0 +1,21 @@
+User: Yes I need to go help 3 pit bulls before it's too late but I have to go where it's easiest and cheapest first. Everyone thinks I'm rich but I do this mainly out of love. Can you get me something in Mexico City for $2400
+Wizard: I can try! Where are you leaving from?
+User: I can leave from anywhere is necessary
+Wizard: When would you like to leave?
+User: After Sept 7 but I need to be back by Sept 20. Please make sure you give me a hotel located near a park
+Wizard: Are you travelling by yourself?
+User: no my assistant will assist me
+Wizard: There are no parks near the hotels but there is a beach!
+User: Beach could work if we go early in the morning. What do you have in price range?
+Wizard: Our most expensive is 2325.23 and our cheapest is 1849.40.
+User: What's your cheapest in San Juan close to a park or beach?
+Wizard: 1497.89 is our cheapest package but none of the packages are close to a beach or park, unfortunately.
+User: What do you have in Athens?
+Wizard: We do not have anything in athens.
+User: I guess Mexico City it is! Let's go with the cheapest stay, these dogs are all volunteer work.
+Wizard: Great! Would you like to hear more about the hotel before booking?
+User: Yes please if you can tell me the name and some of the details concerning my stay
+Wizard: Hotel Tropic is a 3 star hotel near the beach and shopping hot spots, they have a 6.77/10 guest rating, and they offer free breakfast and wifi. This package includes economy flights and is from September 8th to 20th and as you know, the cost is 1849.40.
+User: It sounds just fine to me, please go ahead and do the booking
+Wizard: All done! Easy as that! You will receive an email confirmation soon as well. Have a great day and enjoy your stay at Hotel Tropic!
+User: Thank you for your help

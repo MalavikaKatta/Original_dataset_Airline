@@ -1,0 +1,13 @@
+User: Hi
+Wizard: Okay. So where would you like to go and where are you leaving from?
+User: Well, I need to find a place where the paparazzi won't find me. I was thinking of Phoenix. Madonna and I are leaving from Cairo.
+Wizard: Do you have dates in mind?
+User: Yes, well, I'd like to leave as soon as possible, but I need to be back by September 7.
+Wizard: The best I can offer for Phoenix is a 3 star hotel, offers free breakfast, wifi, and parking. The price for this package is 1767.71.
+User: I will only look at 5 star hotels.
+Wizard: I'm sorry but there are no 5 star hotels for these two destinations. Is there somewhere else you would be willing to go?
+User: Let's take a look at Rio de Janeiro.
+Wizard: The best I can offer is a 2.5 star hotel.
+User: I refuse to stay in anything under 4 stars.
+Wizard: Everything available is under 4 stars. I apologize.
+User: Good day.

@@ -1,0 +1,6 @@
+User: Hi! We're thinking of going to Washington. Will try to get all 19 of us to go if that's possible!
+Wizard: Departing from where?
+User: Beautiful Jerusalem
+Wizard: Unfortunately, we do not service Jerusalem at this time. Perhaps another point of departure is available to you?
+User: I guess I'll have to look elsewhere
+Wizard: Sorry!

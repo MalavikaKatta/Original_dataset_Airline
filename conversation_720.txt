@@ -1,0 +1,12 @@
+User: you do flights from north vancouver to c-bus?
+Wizard: Would c-bus stand for Columbus?
+User: it would, yes
+Wizard: Columbus it is. Dates and number of people travelling please?
+User: sept 16 to 20. 1 person, but needs to be under 3300
+Wizard: In Columbus, we are presently offering a 4 night stay at the 2.5 star Crown Jungle Inn located on the beach and close to the palace. Does this interest you?
+User: If thats my best option, then sure
+Wizard: It suits your dates with a departure on the 16th and a return date on the 19th. Total cost is 959.36USD on economy class.
+User: I’m ok with that
+Wizard: Should I proceed with booking then?
+User: :+1:
+Wizard: Booking confirmed. :+1:

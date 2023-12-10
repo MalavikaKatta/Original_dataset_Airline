@@ -1,0 +1,12 @@
+User: Hi there, I was wondering if you could do me a huge favour today
+Wizard: Hello, how can I help you today? :smile:
+User: Where can I go from Salvador for free
+Wizard: I am sorry, No results found.
+User: What!! Ok how about $400 Can I get anywhere on that budget
+Wizard: Yes, to Rio de Janeiro or Manaus
+User: No way! What kind of hotel should I expect in Rio de Janeiro?
+Wizard: We have a 3 stars hotel for 384.32, 7 days
+User: Do you have anything for a shorter stay? I only have 5 days off
+Wizard: I am sorry, I dont have any 5 days stay, shortest is 6 days in Manas
+User: What if I left from Monterrey instead?
+Wizard: Sorry, nothing for that either..

@@ -1,0 +1,9 @@
+User: Portland I live I will leave August 31 be back September 17 no more than 3200 dollars go
+Wizard: Do you have any destinations in mind?
+User: No
+Wizard: I have a 14 day vacation at the Sunny Aurora Hotel in Leon, Spain to offer you. You would be staying in a 5 star hotel with excellent user reviews and you would be flying in business class. This package is available from August 31st to September 12th and costs 2616.74USD, well under your budget.
+User: That sounds quite impressive. What is the hotel located near?
+Wizard: It is close to a market.
+User: Wonderful, I love markets. Ok, let’s book it.
+Wizard: I will book it for you! Thank you for using our services.
+User: Thanks

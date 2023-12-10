@@ -1,0 +1,21 @@
+User: We must go to Atlanta!
+Wizard: Ok, sure thing! Where from?
+User: San Juan.
+Wizard: And how many of you will be travelling?
+User: 7 full size and 3 mini size
+Wizard: Ok! I have a few different hotels available. September 12-25, 13-26, 14-October 3rd or September 17- October 3.
+User: Can you show me the best packages you've got? Although keep it under 21100 please.
+Wizard: The highest rated hotel would be from September 14th-October 3rd at a 3.5 star hotel near a park and beach. This hotel has both free wifi and free breakfast.
+User: And how did previous guests like it?
+Wizard: It is unrated by guests.
+User: How's the other hotel?
+Wizard: There are two other hotels - both are 3 stars, one with a 7.15/10 from users and the other with 8.37/10.
+User: Can you tell me more about the 8.37/10 one?
+Wizard: Absolutely - that’s the Crown Plaza Hotel. It has free parking and free wifi.
+User: Will any other packages show up if I increase my budget by 1500?
+Wizard: Everything is already far below your budget.
+User: You know what, I will take the 3.5 star then. Are business flights available?
+Wizard: They are! The total price would be 11457.68USD.
+User: Okay let's book it!
+Wizard: Wonderful - I will email booking confirmation to you shortly. Enjoy your stay!
+User: Thanks!

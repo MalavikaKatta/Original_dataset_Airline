@@ -1,0 +1,11 @@
+User: Hello hello :slightly_smiling_face: Looking to take the family somewhere nice next month. HAve 12400 on hand. How much would it cost to take five children and two adults from London to Belem? For around two weeks
+Wizard: I only have one option for you in Belem and it is an 8 day holiday at a 4.5 star hotel on the beach. It would cost 9362.72USD with economy flights and 11981.95USD with business flights. Would you like to know more about this hotel or is the package shorter than what you are looking for?
+User: Wow that actually sounds really good. But the wife wants me to explore all avenues so can you look into trips to Sao Paulo as well?
+Wizard: In Sao Paulo we only have 5 or 6 day packages, would you still like to know more about them?
+User: Yeah sure lets hear it
+Wizard: I have Deluxe Hotel, a 3 star hotel, for 5 or 6 days, Azure Spire Hotel  a 2 star hotel for 5 days or Hotel Primavera a 3 star hotel for 5 days. Do any of these catch your attention?
+User: Not really to be honest. Ok how about sf
+Wizard: One option in San Francisco would be a 9 day stay at the Antique Sword Suites which has 2.5 stars and is close to a museum.
+User: Is there an option for a nicer hotel?
+Wizard: No, unfortunately I do not have fancier hotels to offer you in San Francisco.
+User: Ok I’ll need to double check with my wife first if you don’t mind Thanks for all your help!

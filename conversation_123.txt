@@ -1,0 +1,19 @@
+User: hi I am burnt out... i need a vacation
+Wizard: Hi let me book you the most relaxing vacation
+User: I am off from september 2 to september 23 !
+Wizard: ohhh perfect! do you have a budget in mind?
+User: can you find me something? I hear Madrid is beautiful. No budget though
+Wizard: sure what city are you departing from?
+User: im leaving from Barcelona, Spain
+Wizard: will you be travelling alone?
+User: yes, i need a break from it all can you find me anything?
+Wizard: yes i can find a trip on september 6th to the 13th
+User: hmm ok, that would work! where would that be?
+Wizard: its at the El Hotel De La Reina, in Madrid, a five star hotel with free breakfast and wifi, would you like me to book it for you?
+User: wow, nice! what's the price?
+Wizard: $611 for an economy class ticket and $684 for business class
+User: and what is available in Santa Cruz?
+Wizard: sorry there are no results for santa cruz
+User: that's ok. let's book Madrid in that case
+Wizard: booked!
+User: thank you 

@@ -1,0 +1,17 @@
+User: Hello, book me a trip from San Antonio to Phoenix leaving September 9th and returning September 11th please.
+Wizard: What is your budget?
+User: No budget. Book me business class and the best hotel you can find. Oh and this is for two adults.
+Wizard: Wow! Unfortunately there are no packages available for this request
+User: Try coming back on September 11th instead
+Wizard: No, sorry, there are no results for this either.
+User: Hmm. Try La Paz instead of Phoenix
+Same dates, still leaving from Rio de Janeiro
+Wizard: There are two results from Rio de Janeiro to La Paz.
+User: Do share
+Wizard: The options are at the same hotel. The hotel is 4 stars and offers free wifi, breakfast, and parking. One package is from August 25th to 31st and the other package is from August 30th to September 1st.
+User: Are there results for Rio de Janeiro to Phoenix?
+Wizard: There is one for this request from September 2nd to September 9th.
+User: Is it a five star hotel?
+Wizard: No, it is a 2.5 star hotel.
+User: Okay book us for Rio de Janeiro to La Paz, business class, August 25th to 31st please
+Wizard: Great! The price for this package is 4569.98.

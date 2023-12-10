@@ -1,0 +1,13 @@
+User: hay i am doing some business globetrotting just me and a colleague. we need to get to Fukuoka some time between august 27 and september 6
+Wizard: Would you be able to leave from Osaka? I could offer you 4 nights at the Historic Mansion Hotel for 483.14USD.
+User: I can’t do Osaka. anything available from London tho?
+Wizard: I can fit in a stay at the Historic Mansion Hotel from the 30th of August to the 2nd of September. Leaving from London will bring your price up to 3250.48USD. Is this ok?
+User: that would work! but before we book it I also want to look at a trip to Mannheim - how much would that be, and could you fit it between aug 27 and sept 6
+Wizard: Yes I can! You would be staying at the Regal Resort from the 27th to the 31st of August. The cost of this package is 1971.39USD.
+User: ok! is that with my one colleauge included ?
+Wizard: The same trip for two would be 3942.78USD. WOuld you like me to book this trip?
+User: how much would that be for the two of us to fukuoka if we left from Munich?
+Wizard: A 6-day package in Fukuoka would be 4773.97USD for two adults.
+User: what would it be from Munich to Mannheim?
+Wizard: Correct, that is from Munich to Fukuoka. The best deal I can offer you on a trip for two from Munich to Mannheim is 1313.14USD for six days.
+User: I think I will go back and book the trip from London to Fukuoka for 2

@@ -1,0 +1,11 @@
+User: Hi darling, could you please book a trip from Goiania to Ulsan for me please?
+Wizard: Hello! How many people will be travelling?
+User: Just myself.
+Wizard: Do you have a budget for your trip?
+User: Approximately 5000 dollars, but I'm flexible.
+Wizard: Any dates for your trip?
+User: Yes, I'd like to travel between August 17 and August 29 if you please.
+Wizard: There is a flight from the 17th to 28th and it is at a 5 star hotel that offers free wifi and parking. This package come to 4266.89. Does this interest?
+User: Fantastic! Yes, please do before someone else does!
+Wizard: Great! This package has been booked for you! Thank you, Have a nice day!
+User: Thank you!

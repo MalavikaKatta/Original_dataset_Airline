@@ -1,0 +1,22 @@
+User: I want to go to Tijuana.
+Wizard: Howdy. How can I help?
+User: I would leave from Belem
+Wizard: And where would you like to go?
+User: Tijuana
+Wizard: Do you have a set of dates in mind?
+User: Between August 25th and September 8th. my dates are flexible
+Wizard: I'll see what I can find for you. Do you have a budget?
+User: No.
+Wizard: I have a few 8 day packages for you, starting at 1787.63USD for a 2.5 star hotel, to 3207.83USD for a 3.0 star hotel.
+User: okay. Is there anything from Rio de Janeiro to Tijuana?
+Wizard: Certainly, I can book you an 8 day trip for as low as 1745.77USD in a 2.5 star hotel, and we have an 8 day stay at a 3 star hotel for 3131.34 USD
+User: Are there any trips from Belem to New York?
+Wizard: I can book you a 10 day trip for as low as 1037.49USD at a 2.5 star hotel, including breakfast, wifi and parking.
+User: Is there anything from Rio de Janeiro to New York?
+Wizard: I have a 13 day trip at a 2.5 star hotel for 2757.89USD. Breakfast, wifi and parking are all included.
+User: what are the dates for the 10 day trip from Belem to New York?
+Wizard: Departure is on August 27th and returns Monday September 5th.
+User: That sounds good to me. I'm ready to book that one.
+Wizard: Great, we will send you the confirmation details in a few moments.
+User: Thanks
+Wizard: Have a nice vacation!

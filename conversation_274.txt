@@ -1,0 +1,15 @@
+User: Hi I want to go to osaka
+Wizard: Hi there! I have an excellent 4-day package for Osaka that's only 428.94USD. Would you be able to leave from Fukuoka?
+User: Im actually leaving at Kyoto
+Wizard: In that case, the price of your package will be 479.78USD. Are you able to fly out on the 21st?
+User: only on the 27th
+Wizard: The closest date I could give you to this would be the 30th of August, with a return flight on the 2nd of September. Does this fit into your schedule?
+User: That seems good can you tell me about the hotel
+Wizard: You would be staying at the Opportunity, a 3-star hotel with a 6.61/10 guest rating, free breakfast and free wifi. It is located within walking distance of the museum if that interests you. The total cost of this package comes to 534.12USD.
+User: Great! what options do you have in Mannheim
+Wizard: The best deal I can offer you is a 5-day stay at the Regal Resort, a 5-star hotel with a 8.98/10 guest rating, free wifi and a spa. It is within walking distance of a community park. The total cost of this package is 2888.32USD. Would you be available to travel from the 6th to the 9th of September?
+User: yes i can but id rather a longer stay, tell me aboot puebla
+Wizard: The best deal I can offer you if you're interested in Puebla is 10 days at Los Campeones for 3658.48USD. It is a 4-star resort with a 8.49/10 guest rating, free breakfast, free wifi and free parking. You would be flying out on the 25th of August and returning on September 2nd.
+User: for a 10 day stay i think puebla is worth it
+Wizard: You are now booked for a 10-day stay in Puebla. Enjoy your trip!
+User: Thank you!

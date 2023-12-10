@@ -1,0 +1,16 @@
+User: get me out of berlin
+Wizard: Berlin to?
+User: dont care
+Wizard: How many people?
+User: 1
+Wizard: when?
+User: 8th-11th
+Wizard: During those dates, I only have one option for you in Gaudalajara
+User: ok. details
+Wizard: A 4 day stay at Resort Felicity leaving on your requested date and returning on your requested date. This 2.5 star hotel has a 8.49/10 star rating and not only included free wifi and parking, but offers a complimentary breakfast every day of your stay.
+User: price?
+Wizard: 3020.61USD everything included
+User: can you upgrade me to business class please
+Wizard: Yes for  3889.68USD. Is that alright with you?
+User: go for it. book please
+Wizard: It has been taken care of.

@@ -1,0 +1,25 @@
+User: Hello there! I'm trying to plan a vacation here for my family - want to bring my wife and three kids somewhere cool before school starts. I'm looking for something between August 27th and September 16th, and we're looking at a couple of cities
+Wizard: Where will you be leaving from?
+User: I'll be leaving from Seattle. Could you do me a favour and check for trips to Toluca please?
+Wizard: Do you have a budget?
+User: Yes I do. Trying to spend $4800 or less on this vacation
+Wizard: We have a 3.5 star hotel with four different packages
+User: Are these packages for different dates?
+Wizard: There are two dates to choose from. September 1st to 9th or August 27th to September 6th.
+User: Oh very cool! What is the price for the August 27th to September 6th dates?
+Wizard: 3889.55 for economy class and 4702.78 for business class seats.
+User: Beautiful, thank you! Can you see if there are available packages for the same dates going to Santos?
+Wizard: There are no trips to Santos
+User: Oh rats! How about...Kingston?
+Wizard: There's a 2.5 star hotel for economy and business class seats from the 7th to 14th of September.
+User: How much does it cost?
+Wizard: Economy seats are 3762.80 and business seats are 4783.39.
+User: Great! Going back to the Toluca option, do I get a choice of hotels for the economy class trip from August 27th to September 6th?
+Wizard: There is just the one hotel for Toluca.
+User: Is it a good hotel?
+Wizard: It is a 3.5 star hotel with free breakfast, free wifi, and free parking.
+User: Thanks! Is the 2.5 star hotel my only option in kingston?
+Wizard: The 2.5 star hotel is the only option in Kingston.
+User: Okay I will need to confirm with my wife and then I'll let you know
+Wizard: Sounds great!
+User: Thanks again! :slightly_smiling_face:

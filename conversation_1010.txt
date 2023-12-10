@@ -1,0 +1,19 @@
+User: Hello. Send me to Rosario
+Wizard: Where will you be leaving from?
+User: Try Denver
+Wizard: Do you have a budget?
+User: And I'm free for 10 days starting the ninth of September FYI. No budget
+Wizard: Sorry, we have no results within a 10 day maximum stay. Is there somewhere else you would like to go?
+User: Fine. Phoenix
+Wizard: We have a 2.5 star hotel for 9 days and 6 days, and also a 3 star hotel for 7 days. Do you have a preference?
+User: Tell me more about the 3 star
+Wizard: The Recreation Inn  is near a museum and the university, they have a 6.91/10 guest rating, and they also offer free parking, breakfast, and wifi.
+User: Ok ok What is the date range for that package?
+Wizard: September 9th to 15th.
+User: And would it be available for 7 adults?
+Wizard: Yes it is!
+User: Great, book it
+Wizard: Lovely! Would you like business flights or economy?
+User: Business please.
+Wizard: Great! Your package comes to 7321.30. Have a great trip! You will receive a confirmation email shortly!
+User: Thanks

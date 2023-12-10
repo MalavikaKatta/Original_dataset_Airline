@@ -1,0 +1,6 @@
+User: I want to book a vacation between the 27th of august and the 16th of september for under 1400
+Wizard: from where may I ask?
+User: miami
+Wizard: We have trips to Seattle, Alexandria, and Los Angeles
+User: can i see some info on Seattle?
+Wizard: Thanks

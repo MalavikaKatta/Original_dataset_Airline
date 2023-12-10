@@ -1,0 +1,10 @@
+User: Hey. Looking to get the family out of Montreal for a bit
+Wizard: Great idea! Where would you like to go?
+User: Not sure, something within our budget of 8500.
+Wizard: Definitely. Can I ask how many adults and children will be going on this trip?
+User: 3 adults and 5 children.
+Wizard: I can book you for 6 days for a trip to Lima. Would this be interesting to you?
+User: If its within our budget, then yes. What dates?
+Wizard: It most definitely is! You would leave on August 27 and return on September 1. The trip will cost 8146.92USD in total.
+User: Fantastic. Let’s book!
+Wizard: Done! We hope you enjoy your trip :slightly_smiling_face:

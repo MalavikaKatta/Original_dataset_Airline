@@ -1,0 +1,15 @@
+User: Hi there, we're looking to go on a family vacation and we'll be leaving from Cancun. We don't have a destination in mind though and so I was helping you'd help us with that.
+Wizard: Sure! Can you let me know how many will you be? It'll also be helpful to know if you have fixed dates or budgets in mind.
+User: We'll be 3 adults and 4 kids, and we're looking for something between Saturday September 10 and Wednesday September 28. A package that isn't over 25500 would be good.
+Wizard: Alright that's plenty to start with! I can take you guys to Rio de Janeiro, Buenos Aires, Boston, Seattle, or Frankfurt. These are our longer trips at most 19 days long. If you are interested in shorter trips, I can search for that too.
+User: Long trips with highly rated hotels? How about that?
+Wizard: Well of the options above, Rio de Janeiro and Buenos Aires have 3 star hotels, Frankfurt has a 4.5 star hotel, and Seattle has a 5 star hotel.
+User: Ooh let's try Frankfurt then. Tell me more.
+Wizard: In Frankfurt it will be a 17 day stay from the 12th to the 27th, during which you will enjoy free breakfast and free wifi. Guests in the past have praised the hotel with an average 8.86/10 rating.
+User: No museum or shopping mall nearby for the kids to check out?
+Wizard: It does not specific any points of interest nearby the hotel in my database. However, the kids do get to enjoy free wifi.
+User: Oh that's alright then, hopefully we'll find something! How much would that cost?
+Wizard: We offer the regular economy package for 17460.9 and the business upgrade for 22510.83.
+User: Okay great, we'll take the economy package for that please.
+Wizard: Sure thing! I will book it for you. Hope you have a great vacation :slightly_smiling_face:
+User: Thanks!

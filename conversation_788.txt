@@ -1,0 +1,19 @@
+User: Hey! I'm in the hunt for a trip to Sapporo.
+Wizard: Where will you be leaving from?
+User: Departing from Marseille
+Wizard: How many people are you?
+User: I'm traveling solo
+Wizard: When do you want to leave?
+User: I don't really care. My budget is 4400 though. Surprise me.
+Wizard: There are no results, surprise!
+User: Okay maybe I don't like surprises that much after all... How about Cairo?
+Wizard: There's a 2.5 star hotel.
+User: Anything else?
+Wizard: No.
+User: Fine Tell me about this 2.5 hotel
+Wizard: They have a 8.22/10 guest rating, park, market, cathedral, palace, free parking, breakfast, and wifi.
+User: Now that doesn't sound so bad after all!
+Wizard: Want to book it?
+User: Why not
+Wizard: Great! Have a nice day!
+User: Thanks!

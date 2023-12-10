@@ -1,0 +1,23 @@
+User: valencia to munich. sept 8 to 26
+Wizard: Have you got a budget?
+User: no budget, i'm gonna go hard
+Wizard: Ok, how many travellers?
+User: just me
+Wizard: I have two five star options: Regal Bluff and Jade Harbor.
+User: ooh can you tell me more about each one?
+Wizard: Absolutely! The Regal Bluff is near a university, has free wifi, and is unrated by guests. The Jade Harbor also have no user reviews, free wifi, but also have on-site spa services.
+User: hm im a little sketched out by the unrated factor.can you take a look at milan for me?
+Wizard: Ok! I have many options in Milan. How long would you like to stay?
+User: as long as possible!!
+Wizard: I have ten days at The Double Pastures, a 4.0 star hotel with free breakfast and wifi near a cathedral for 907.3USD.
+User: Could you get a longer trip at one of the 5 star Munich hotels?
+Wizard: I’m sorry but I have only 8 or 6 day stays at the Munich hotels within your date range.
+User: fair enough. what guest rating does that Roman hotel have?
+Wizard: 8.98/10
+User: ok im convinced, but what are the dates?
+Wizard: Sept 11-20
+User: sounds good to me
+Wizard: Ok! I will book it?
+User: please do
+Wizard: Done :slightly_smiling_face:
+User: thanks!

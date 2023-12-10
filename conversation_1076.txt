@@ -1,0 +1,24 @@
+User: Hi, I'd like to go to Burlington with my fiance.
+Wizard: Where will you two be coming from?
+User: We'll be coming from Tel Aviv.
+Wizard: Sorry, but we do not have the capacity to serve flights out of Tel Aviv. Do you have an alternative city of departure?
+User: Okay then. We can also leave from Montreal, if you can find a flight to Burlington from there?
+Wizard: I can help with that! When would you like to take this trip?
+User: Either on or after Tuesday September 13 please.
+Wizard: Do you have a set budget in mind?
+User: Yes! 3100 is the most I would like to spend so anything under that would be great.
+Wizard: Sure, I'd recommend a 4 day stay at a 3.0 star hotel near a park. 6.51It has 3.4/10 guest ratings and offers free wifi.
+User: How much would that cost?
+Wizard: It would be 2037.8.
+User: Okay! Just curious, do you have anything closer to 3100 for a longer stay, or a better hotel?
+Wizard: I can get you on business flights with the same package for 2536.77. Or I can offer you a 5 day stay at a 2.5 star hotel in the heart of the city for 2546.97.
+User: Does this 2.5 star hotel have a decent guest rating?
+Wizard: It seems reasonably rated at 6.77/10.
+User: Is the 3 star hotel also in the heart of the city by any chance?
+Wizard: That is correct! It also offers free parking and free wifi!
+User: You know what actually? I think I'll take the 4 day stay in the end.
+Wizard: That's not a problem! Would you prefer business or economy class flights?
+User: Oh economy!
+Wizard: Great! I have processed the reservation and you will be billed a total of 2037.8.
+User: Great, thanks!
+Wizard: My pleasure!

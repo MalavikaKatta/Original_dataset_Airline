@@ -1,0 +1,12 @@
+User: Um get me to Kochi
+Wizard: Sure! From where would like to depart?
+User: Berlin. And get me back by Sept 14
+Wizard: Ok! Are you travelling alone?
+User: no im bringing my boo, so there'll be two of us
+Wizard: Ok! Are you travelling with a budget?
+User: no, no budget
+Wizard: Great :slightly_smiling_face: I have a 10 day trip to Kochi at a 3.5 star hotel for 4050 dollars. How does that sound?
+User: get us a better hotel
+Wizard: I’m sorry, but I have nothing higher than 3.5 stars in my search results.
+User: ok fine how about atlanta
+Wizard: I have a lovely 3.5 star hotel on the beach in Atlanta with free wifi and parking!

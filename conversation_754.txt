@@ -1,0 +1,21 @@
+User: Hi there, I'm on a tight budget to go somewhere. Can you help me find something that works?
+Wizard: Sure. What is your budget?
+User: I only have 2000 bucks to spend.
+Wizard: Where are you leaving from?
+User: I'm based on Sydney.
+Wizard: Where would you like to go?
+User: Could you check Puebla first? I can be there any days between Aug 31 and Sep 14.
+Wizard: Going alone?
+User: Yeah
+Wizard: There are no results.
+User: My second option is Mexico City.
+Wizard: We have a 3.5 star hotel near the beach, shopping, and mall, 8.37/10 guest rating, free parking and wifi, from September 2nd to 13th. Business package costs 1987.67 and economy package costs 1586.51.
+User: Cool! Any other hotels in Mexico City you can offer me?
+Wizard: There a 3.5 star hotel near the beach, museum, shopping, and mall, 6.37/10 guest rating, economy class, from September 8th to 13th, and the price is 1349.51 and 1707.17 for business class.
+User: Okay, I actually have a third option. Can you check that for me? My third and last option is Sacramento.
+Wizard: There is a 2 star hotel near a park, museum, and university, 6.51/10 guest rating, free parking, breakfast and wifi, September 1st to 9th, business is 1598.41, economy is 1278.84.
+User: Any other options?
+Wizard: No.
+User: Then let's go back tho the first one you gave me. Can I book that one?
+Wizard: Sure! You will receive an email soon to confirm your trip. Have a great day and thank you!
+User: Great. Thanks a million!

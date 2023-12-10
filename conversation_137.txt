@@ -1,0 +1,16 @@
+User: Good afternoon my name is Carolina and I want to book a trip. Can you please tell me what specials you have at the moment leaving on August 25  and going to Guadalajara, I want to go visit my family.
+Wizard: For sure! May you let me know where you are departing from?
+User: I am so sorry my English is not very good I meant I live in Guadalajara my family will join me at my destination if you have good packages
+Wizard: Any destination in mind?
+User: no you tell me good packages and I tell my family to meet me there. I have 6 days vacation. You give me suggestion.
+Wizard: okay, how many will be travelling with you?
+User: just me from Guadalajara, I meet my family there, they go from other place. As long as I leave August 25.
+Wizard: you have options to Seattle, Cairo USA, lima, San Francisco, Cancun, and indianapolis USA
+User: I only have 6 days, any 6 days suggestion
+Wizard: these are all 6 days or less
+User: oh that sounds very good what about Cancun, I like Cancun
+Wizard: Cancun has a 6 day stay at the White Peak Hotel. It has a 3.5 star rating with free parking, breakfast and wifi. It leaves on August 26th and is $712 or there is the same package but leaving on September 6th
+User: I must leave on August 25 is there a package anywhere else that leaves on that day, I do not want to lose vacation day
+Wizard: I apologize that is the earliest one all others are on the 27th
+User: for 712.00 it sounds like a very nice deal I will book flight on August 26 for 6 days. Thank you for your help.
+Wizard: my pleasure ! glad i could help! ill go ahead and book it!

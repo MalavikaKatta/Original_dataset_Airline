@@ -1,0 +1,24 @@
+User: Hi there, I want to take my two grandchildren for a little holiday. We are living in Phili and they finish their camp on September 11 so we can leave anytime afterwards.
+We have to be back by September 22 so they can go to school on the 23.
+Wizard: Will that be just one adult and 2 kids?
+User: You are right!
+Wizard: do you have a destination in mind?
+User: Mexico City would be ideal.
+Wizard: How much would you like to spend?
+User: That's no issue, I'd spend anything for a good time with my grandkids!
+Wizard: We don't fly from Philadelphia to Mexico City. Anywhere else?
+User: What about Vancouver?
+Wizard: In Vancouver, we have the lovely Obsidian Gem Inn on a 6 day stay. It is rated 4 stars, is located near a park and includes free parking, wifi and your breakfast. This package deal is worth  2538.96USD and will get you back before school starts on Sept 16.
+User: And it leaves on the 11?
+Wizard: correct
+User: Would you by any chance have any trips to Denver too?
+Wizard: I have 4, 5 and 6 day trips available. Would you like to be near the park or the university?
+User: Definitely the park. 6 day trip would be nice
+Wizard: I have the Brass Renaissance Resort, 3 star, near a park, includes breakfast and wifi at 2351.83USD. I also have the Solar Inn, 3 star, not sure about the location, includes only wifi at 1956.7USD.
+User: Do you know the guest ratings of these two hotels?
+Wizard: The Brass Renaissance Resort is 8.86 / 10 and the Solar is 8.69 / 10.
+User: And for the Vancouver one?
+Wizard: The guest rating is 8.8 / 10
+User: Thanks for looking! I think I will still prefer the Vancouver package. Can you book it for us with business seats?
+Wizard: Sure can! Booked on business class for a total of 3023.31USD.
+User: thankyou

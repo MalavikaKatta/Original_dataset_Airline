@@ -1,0 +1,11 @@
+User: Hello I am currently in Tel Aviv on business and would like to get to Houston next Saturday, August 27th.
+Wizard: I'm sorry but we currently do not have any flights between Tel Aviv and Houston.
+User: Well what if i left from Maceio?
+Wizard: I can offer you a 6 day stay at the Elton. The only dates available though are from September 6th to September 11th. Are your dates flexible?
+User: Hmm, I’d like to leave the 27th.. in that case I can perhaps switch around my schedule, as I also have to make it to Burlington for an old colleague’s retirement party. Can you look into trips to Burlington for me from Maceio? I would have a coworker travelling with me.
+Wizard: What date is this for?
+User: I would like to leave Maceio on the 27th of August, can you tell me my options?
+Wizard: I apologize for the inconvenience but once again I have no flights leaving August 27th to offer you. The earliest you could fly from Maceio to Burlington would be on September 2nd.
+User: Hmmm well that’s it I guess.. what would the cost be?
+Wizard: It would be a 13 day stay at the Excursion Motel and it would cost a total of 5579.42USD if you flew in economy or 7214.67USD in business class.
+User: Well that is no good.. Goodbye.

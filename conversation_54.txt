@@ -1,0 +1,21 @@
+User: I am from London and am looking to book a vacation package!
+Wizard: Certainly, I can offer you several packages for Denver, Calgary, Pittsburgh or Minneapolis, USA.
+User: are there any that go to San Diego?
+Wizard: I can offer you something to San Diego, USA.  You would be flying economy out of Phoenix, USA on the 15th of August and returning on the 20th of August. You would be staying at a 2-star hotel with a 6.51 out of 10 guest rating. Your total for this trip would be 588.49USD.
+User: hmmm I can only leave from London, what are the best options in Denver?
+Wizard: I can offer you a 5-day package to Denver for 340.29USD. You would by flying out of London, Canada and staying at the Oriental Resort, a 3.0-star hotel with a 0/10 guest rating.
+User: let's see what we can do with something a bit further how about pittsburgh? what packages do we have there?
+Wizard: I can offer you a 7-day stay in Pittsburgh Beginning August 17. You would be staying in a 2.5-star hotel with a 8.22/10 guest rating. This resort offers free parking, free wifi and free breakfast. Your total for this trip would be 433.92USD.
+User: is there anything leaving a bit later
+Wizard: Yes, I can offer you packages leaving on the 18th, 23rd, 24th or 27th of August.
+User: anything after the 30th?
+Wizard: I have several flights leaving on the 8th or the 12th of September.
+User: when would they be returning?
+Wizard: If you would like to fly out on the 8th you will be returning on the 14th. If you would like to fly out on the 12th you will be returning on the 18th.
+User: can we book the one that returns on the 18th?
+Wizard: Actually I have several packages returning on the 18th. You can choose between a business and an economy flight and two hotels: The Sunny Wolf Inn & Suites, a 2.5-star hotel which has a 8.22/10 guest rating, or the Majestic Mountain Inn a 2.5-star hotel which has a which has a 6.91/10 guest rating. Both hotels include free parking, free wifi and free breakfast.
+User: the sunny wolf seems to be a better place. how much would that be?
+Wizard: With an economy flight your total comes to 706.97USD. With a business flight your total comes to 795.22USD.
+User: can we book the economy flight?
+Wizard: Absolutely, your trip has been booked!
+User: Thank you! Goodbye.

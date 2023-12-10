@@ -1,0 +1,23 @@
+User: Hi I only have 4000 dollars
+Wizard: Where would you like to go and where will you be leaving from?
+User: I dunno
+Wizard: Are you travelling with other people?
+User: meh haven't thought about it yet
+Wizard: Do you know when you want to travel?
+User: between august 26 and September 2 I think
+Wizard: Great! Have you given any more thought to where you want to go?
+User: New York could be fun
+Wizard: Where will you be leaving from?
+User: Baltimore
+Wizard: Are your dates flexible?
+User: yeahhhhhhh sorta
+Wizard: I can offer you a 2.5 star hotel, this includes free breakfast, wifi, and parking. The dates are from August 24th to September 5th. The cost is 1066.66. Does this package interest you?
+User: yaaaa maybe... what about Kobe?
+Wizard: There is a 3 star hotel from August 27th to September 1st. This package includes free breakfast and wifi and costs 2793.63.
+User: What about atlanta
+Wizard: Unfortunately there are no flights to Atlanta.
+User: Well then I'm thinking the Kobe package would be the best...
+Wizard: Great! Would you like me to book it for you?
+User: yepppppp
+Wizard: Your trip is booked! Have a great vacation!
+User: Thank you!

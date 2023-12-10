@@ -1,0 +1,9 @@
+User: Wanna get my parents out of Kingston. I've got 2000. need them gone between september 20th and october 10th
+Wizard: We've got an amazing 4 star hotel that will work for your parents! It is close to the park, museum, and cathedral. Do you think this will interest them?
+User: I think it would, they are homebodies usually so I think they would enjoy getting out and seeing the world. Where is this trip to?
+Wizard: It will be 13 days in Vancouver from September 28 to October 10.
+User: What does it cost?
+Wizard: 1430.86 for economy and 1684.93 for business.
+User: I’ll give them economy, might make it easier to sell the trip to them if they know its business flights. Book it!
+Wizard: Alright I have booked for the two of them! Anything else for today?
+User: nope! Thanks! You’re a life saver!

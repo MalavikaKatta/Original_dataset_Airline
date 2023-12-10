@@ -1,0 +1,28 @@
+User: Do you have packages leaving Friday September 16 from Denver?? I got 11 days
+Wizard: We do! Do you have a budget in mind?
+User: No budget! Find me something snazzy
+Wizard: Well, we have a trip to Leon, Tijuana, Rosario, Maceio, and Punta Cana!
+User: What kind of hotel in Leon!
+Wizard: It is a 5 star hotel near a market
+User: what are the amenities?
+Wizard: A spa!
+User: What are the dates for this package?
+Wizard: September 24th to October 4th.
+User: Would you be able to offer free breakfast to enjoy by the spa?
+Wizard: Unfortunately the hotel does not accommodate for free breakfast
+User: how much would i be paying then, if breakfast isn't even included
+Wizard: 2153.39 for economy class flights or 2729.19 for business class flights
+User: I see. Can you check if there's a good hotel in Tijuana as well?
+Priority goes to the ones that offer free breakfast!
+Wizard: This has a 2.5 star hotel near a park, 6.77/10 guest rating, free parking, breakfast, and wifi, from September 18th to 28th. The business class package is 1542.79 and the economy class package is 1229.30.
+User: Free breakfast is a big plus, but I'm a little iffy on the stars. Whats on offer in Rosario?
+Wizard: I think you will like this one. It is a 4 star hotel close to shopping hot spots, 8.86/10 guest rating, free breakfast and wifi, from September 18th to 28th also, business class package comes to 3104.39, and the economy package comes to 2418.78.
+User: You're right! Its quite ideal. I've already been to Punta Cana so that's not a destination I'd consider, but can you just quickly check Maceio for similarly attractive hotels?
+Wizard: This is a 3.5 star hotel close to a park, market, and theatre, 8.8/10 guest rating, free breakfast and wifi, from September 17th to 27th, business package costing 3680.67, and economy package costing 2868.83.
+User: In that case I think the one you gave me in Rosario is best!
+Wizard: Would you like to book for business class or economy?
+User: In fact, I think I'm ready to book
+Wizard: Business or economy?
+User: Economy please
+Wizard: Great! Your flights are booked and you will get an email confirming your bookings! Have a great day and thank you for booking!
+User: thanks!

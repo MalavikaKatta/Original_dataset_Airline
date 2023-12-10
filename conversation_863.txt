@@ -1,0 +1,13 @@
+User: Hi there looking to go from SL to Kochi today
+i've got 2000 budget, hoping to squeeze in a trip
+Wizard: Do you have a budget?
+User: 2000
+Wizard: Are you bringing anyone along?
+User: nope
+Wizard: When would you like to travel?
+User: whenever really
+Wizard: Unfortunately there are no trips available within your budget.
+User: would it be possible to get from los angeles to kochi on 2000 bucks then?
+Wizard: Not from Los Angeles, sorry.
+User: ok what if i added 400 to my budget, can i do SL to kochi?
+Wizard: No, sorry!

@@ -1,0 +1,18 @@
+User: I have 11 days of time off starting on August 17. Can you offer me any vacation packages leaving from Portland?
+Wizard: Hi, would you have a budget in mind for this trip?
+User: No, I've recently inherited a gigantic sum of money.  I prefer 4 stars and above, as well as free breakfast if possible, please.
+Wizard: Would you have a special destination in mind? We will definitely look at luxury hotels that are only a 4 star or more rating.
+User: No particular destination in mind, I'm just looking for an adventure. How about Paris to start?
+Wizard: I have the Muse available for 12 days but that is only a 2 star hotel.  However, I do have some suggestions. I have some excellent options available during that time period. A nice 4 star hotel in Calgary, Canada, another nice 4 star hotel in Marseille or a 4.5 star hotel in Frankfurt, Germany all with direct flights from Portland. Do any of these cities interest you?
+User: The Marseille and Germany packages are very attractive. I'd like to know more about hotel in the Marseille package. Is breakfast included?
+Wizard: The Hotel Duchesse in Marseille is a 4 star hotel which provides you with free wifi, but breakfast is not included in the price. It is available from Sunday August 21st to Sunday August 28th. I forgot to ask, will you be travelling alone or with a companion?
+User: I will be travelling alone. How much is this package?
+Wizard: This package on an economy flight is worth a total of $3049.54USD. Are you interested in booking it?
+User: I am, but first I'd like to see what the price is with an upgrade to business class, and perhaps compare this package to the Germany deal.
+Wizard: There are no longer business class seats available for this particular package to Marseille. The Mellow Palms Resort in Frankfurt is a 10 day package available from Aug 19 to Aug 27 and includes free wifi and  free breakfast and has a 4.5 star rating. The total cost on this package, also based on an economy class flight is $3091.3USD.
+User: Is it possible to upgrade the Frankfurt flight to business class?
+Wizard: This package is also only available with an economy class seat.
+User: That's fine. I will book the 10 day Germany Mellow Palms Resort vacation package.
+Wizard: I will get that all booked up for you and send you an email confirmation.
+User: Great, thank you. I will most certainly book my next vacation with you.
+Wizard: Enjoy your trip!

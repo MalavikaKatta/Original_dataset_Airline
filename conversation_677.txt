@@ -1,0 +1,25 @@
+User: Hey looking for a sweet deal on a family vacation
+Wizard: Where to?
+User: Paris is one possibility
+Wizard: Where are you leaving from?
+User: Valencia
+Wizard: Do you have a budget?
+User: Yes 3400 dollars
+Wizard: How many people are travelling?
+User: 2 kids and 2 adults
+Wizard: When would you like to leave?
+User: august 30 or after
+Wizard: We have a 4 star hotel, 8.49/10 guest rating, free breakfast and wifi, from August 31st to September 8th, the business class package is 3354.79, the economy class package is 2749.29.
+User: Is it in the shopping district - the hotel
+Wizard: My database did not provide me this information.
+User: What would be available in Seattle - anything for our budget?
+Wizard: There is nothing in Las Seattle that meets your requirements.
+User: Fine. Sao Paulo? Anything?
+Wizard: No sorry.
+User: What if budget increases by 1000?
+Wizard: No sorry.
+User: Nothing in Seattle either with budget increase?
+Wizard: No sorry.
+User: Fine ok well lets just book Paris
+Wizard: Okay! Your flight has been booked! Thank you for using our services! Have a great day!
+User: Thanks

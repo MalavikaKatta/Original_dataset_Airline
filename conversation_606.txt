@@ -1,0 +1,17 @@
+User: I have investment meetings in Sao Paulo, the dates are flexible, but I need to get there asap
+Wizard: where will you be coming from?
+User: I dunno
+Wizard: How many will you be and when would you like to depart and return?
+User: no dates just me i think
+Wizard: I have departures from several cities. Can you go from Tokyo?
+User: I don't see why not. What's the package like?
+Wizard: From Fukuoka, I have the Azure Spire Hotel available for a 15 day stay from Sept 2 to Sept 15
+User: Oh, from Fukuoka? or Tokyo?
+Wizard: From Fukuoka. You can also leave from Tokyo if you'd like.
+User: Sure, I thought I was leaving from Tokyo, Fukuoka would probably be ok too though
+Wizard: Same package from Fukuoka or Tokyo, however, it is cheaper to go from Tokyo.
+User: Ok. Well let's book it from Tokyo in that case
+Wizard: Would you like some more details on it before I confirm your booking?
+User: Nonoppe! Just book
+Wizard: Not even the price?
+User: Nope!

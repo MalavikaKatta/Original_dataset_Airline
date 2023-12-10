@@ -1,0 +1,19 @@
+User: My brother and I both recently divorced our spouses and we want to take our 7 children away from all the drama for a bit. Do you have a fun package destination after August 31st? Something like the Atlantis?
+Wizard: I can help you find something! Can you please provide me with your departure city and your budget?
+User: We live in Lima and we have a total of $9500
+Wizard: I have a lot of options for you. To narrow it down, are you looking for something close to the beach or in the city? And did you have a vacation length in mind?
+User: We have to be back by September 7 so about a week? We live near the beach so it would be fun to visit some museums somewhere, make it a learning experience for everyone
+Wizard: Sure! I don't have any holiday packages to Atlantis, but I can offer you a 7 day holiday in Chicago. Galaxy Temple is a 2.5 star hotel located close to a park and to a museum. How does that sound?
+User: How much is that?
+Wizard: It would cost 6326.16USD, so well within your budget.
+User: do you have 4 star or more hotel available? the kids would love that!
+Wizard: The fanciest hotel I can offer you within your budget and date constraints is the 3.5 star Sunrise Elephant Hotel in Punta Cana. It is not close to a museum, but there is a cathedral and a palace nearby.  You would be staying there for 6 days between September 2nd and 7th.
+User: what if we stayed until the 12th and increased our budget by $200? What could you do for us? Forget the museum, I don't know what I was thinking, the kids will be bored to death. Back to the Atlantis idea, anything near a beach?
+Wizard: I still don't have flights to Atlantis on those dates but how about this: I could send you to Exalted Willow Resort & Suites for 8 days. This is a 3.5 star hotel in Mexico City and its close to the beach, shopping and a mall. It has really great user reviews.
+User: I've heard of that place! I used to be a travel agent and I actually sent someone there myself, not sure why I didn't think about it! is this below our budget?
+Wizard: The total would come out to 7701.59USD.
+User: and what are the dates?
+Wizard: September 1st to the 8th.
+User: this looks like the perfect place to get away, thanks for your help!
+Wizard: My pleasure! I'll book it for you and you should receive a confirmation shortly.
+User: gracias!

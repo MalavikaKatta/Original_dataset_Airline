@@ -1,0 +1,15 @@
+User: Hi, I'd like to go to Seattle from Manaus. I will be with 4 other adults and my 5 children will be coming along as well. I am willing to pay 34800, i will increase that price if needed.
+Wizard: I will need to confirm the number of people. Please state the total number of adults and the total number of children in your party.
+User: 5 adults and 5 children
+Wizard: Perfect. Could you confirm your dates of travel please.
+User: I can go anytime!
+Wizard: Perfect. Would you have a preference concerning economy class seating or business class seating?
+User: Business please
+Wizard: Perfect. Would you have a preference between a 10 day package or an 11 day package?
+User: I have no preference. Either or is fine
+Wizard: Perfect.  Would you have a preference on a 3.5 star hotel or a 5 star hotel?
+User: 5 star for sure
+Wizard: Based on the information you have provided, the following would be my recommendation: The Emerald - 10 days, 5 star hotel, close to the airport, includes free parking. All passengers would travel via business class and depart Manaus destination Seattle on Tuesday Sept 6, returning on Wednesday Sept  14. Total price for this package is  22102.49USD. Is this satisfactory?
+User: This is 100% satisfactory! I will have you book this package please!
+Wizard: Perfect! I will book that for you. Thank you and safe ravels.
+User: Thanks!

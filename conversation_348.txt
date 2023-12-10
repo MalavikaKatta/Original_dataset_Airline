@@ -1,0 +1,13 @@
+User: Hi! I'm looking to go from Essen to San Juan between August 27 to September 17
+Traveling alone
+Wizard: How does Sept 1-7 sound?
+User: Its for an internship, dates are non-negotiable. If thats not possible, can you check Santo Domingo for me?
+Wizard: Do you have a budget? Those dates don't work for Santo Domingo
+User: Try Kyoto
+Wizard: August 30-Sept 4?
+User: August 27 to September 17
+Wizard: August 27-September 1?
+User: I feel like I've myself abundantly clear
+Wizard: August 30-September 4?
+User: August 27 to September 17
+Wizard: August 27-September 1?

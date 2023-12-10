@@ -1,0 +1,18 @@
+User: Fam vacation services please
+Wizard: Thats what we do best! Where would you like to go?
+User: Portland please. 2 children and one adult
+Wizard: And whence do you intend on departing?
+User: Leaving Baltimore
+Wizard: Unfortunately, we don't have results for this flight. Do you have any alternate plans?
+User: I can go instead to Leon
+Wizard: How does 14 days at a 5 star beach resort sound to you?
+User: Very nice
+I would like to hear more
+And know the price
+Wizard: You'd be indulging your every whim at the Serene Palms Resort, a veritable enclave of decadence situated near the beach and palace. For 9341.63USD, you get a business class flight and free wifi.
+User: What would be the price for economy flight
+Wizard: 7258.45USD
+User: Much better
+Ok, book
+Thanks
+Wizard: And book I shall!

@@ -1,0 +1,16 @@
+User: Get me out of LA asap!
+Wizard: Ok! Do you have a destination in mind?
+User: Heard Kobe is nice. Maybe I'll have better luck there..
+Wizard: I have a 15 day stay at Resort Ancient Angel for 3050.0USD leaving Los Angeles today!
+User: The hotel's nice right?
+Wizard: It has an official rating of 3.5 but the guest rating is 8.69/10.
+User: I'll go!
+Wizard: I also have a 10 day package at a 4.5 star if you’d prefer that?
+User: When does that one leave?
+Wizard: September 20th
+User: no. I need to get out before that!
+Wizard: So you’ll take the first one?
+User: I'll take the one leaving today pls
+Wizard: Sure thing :slightly_smiling_face: I will go ahead and book it for you.
+User: Thanks, friend
+Wizard: My pleasure

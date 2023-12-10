@@ -1,0 +1,21 @@
+User: I want to book a trip to Valencia!
+Wizard: From what city would you like to depart from?
+User: I think i will be leaving from lima!
+Wizard: I have a couple of packages available.  They are both 9 day packages in a 4-star or a 5-star hotel? Which would you prefer?
+User: I want to have the time of my life, the more expensive, the better
+Wizard: Since you want to have the time of your life, is it okay if we place you in business class? I have The Gold available, which is a 5-star property, from August 27th to September 3rd. Do those dates suit your schedule.
+User: Business it will be! those dates seem to fit in, I have to be back by september 11th! how much would  trip like that come out to?
+Wizard: The total price is $4851.24USD. Would you like me to book this package?
+User: not yet, i was wondering what other options would i have in Punto cana.
+Wizard: The packages we have available in Punta Cana are 4 days and in Mexico City we have 8 days packages available. Which would you prefer?
+User: id rather the longer stay!
+Wizard: would you prefer to depart on August 17th, August 24th or August 27th? I can then narrow down your choices for you.
+User: id rather depart on the 27th of August!
+Wizard: for the 27th of August, I have the Hotel Tropic available. The price on economy class is 1637.67USD and on business class is 2044.90USD. Which one would you like me to book?
+User: what rating does this have
+Wizard: It has a 3-star rating and included free breakfast and free wifi.
+User: honestly this seems like  a semi memorable place, i think valencia would be my best bet
+Wizard: So back to the The Gold, which was the 5-star property in Valencia. It was available from August 27th to September 3rd. The total cost for that package, flying business class was $4851.24USD. Should I go ahead and book that one then?
+User: that seems to be just perfect! i can not wait! thank you so much im going to have the best time of my life!
+Wizard: It is a very nice package. I am sure you will enjoy your stay in Valencia. I will go ahead and book that for you.
+User: thank you

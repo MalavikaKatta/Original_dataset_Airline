@@ -1,0 +1,20 @@
+User: On late nights at work, friday nights melting into Saturday mornings, I’d dream about the day I can come to you with a booking request. I have September 8 to 25 off
+Thinking of going somewhere from Belo Horizonte
+Do you have a flight to MUnich?
+Wizard: Ok! Would you lke to go anywhere in particular?
+User: Munich
+Wizard: Sure! I have September 10-17 available at a 5 star hotel in Munich. The price is $2853 for this package. Are you interested?
+User: That interests me very much. What can you get me if I opted for Leon instead?
+Wizard: I have a 9 day trip at a 5 star hotel near a market. You could travel from September 8-14 or 12-20 and stay at the Sunny Aurora Hotel with prices ranging from 1660.82 USD to 2293.25 USD.
+User: Those are so similar, I’m still having trouble deciding! What amenities are to be had in Leon?
+Wizard: Sunny Aurora Hotel in Leon has free wifi.
+User: how about munich?
+Wizard: Also free wifi.
+User: Is the hotel near anything interesting?
+Wizard: The Munich hotel is near a university.
+User: I’m just going to flip a coin on this one...Ok Munich it is
+Wizard: I will book your stay in Munich :slightly_smiling_face:
+User: How much would I pay if I wanted to go business class?
+Wizard: Business class flights would bring your total to 3804 USD
+User: Yes please get that for me.
+Wizard: OK, done!

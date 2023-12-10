@@ -1,0 +1,13 @@
+User: I want to send my parents away
+Wizard: Where would you like to book them to go? And where will they be leaving?
+User: from Milan and i dont care where they go just get them gone
+Wizard: Is there a budget?
+User: 3500
+Wizard: And the dates of travel?
+User: between sept 8th and 25th
+Wizard: I can send them to Naples for 14 days at a cost of only 837.41 dollar!
+User: wow cheap! tell me more about the package
+Wizard: It would be from Sept 8 until 21st, the hotel is 3 stars with a 8.8 user rating, and the hotel is near a museum in the heart of the city.
+User: i like it. book away
+Wizard: Ok, I will go ahead and book it :slightly_smiling_face:
+User: thanks! youre a life saver

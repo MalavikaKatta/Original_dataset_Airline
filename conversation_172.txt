@@ -1,0 +1,19 @@
+User: Bonjour! I make ze pastry for a living. I need to travel to Ulsan, a buddy of a buddy of an aunt's 3rd husband has ze most extrodinary recipe that I must get.
+Wizard: Okay I will make it my duty to get you there! Where will you be leaving from?
+User: I leave from Lima! But I hear my aunt's 3rd husband's buddy's buddy does not like to share... So I bring 7 burly men with me and my 5 children.
+Wizard: when would you like to go?
+User: I hadn't really thought about that... It really is of the utmost importance to me, so I can leave anytime.
+Wizard: Any budget you must adhere to?
+User: I sold my great great great great grandmother's butter recipe on kiji for 43500 dollars to pay for this trip. It vas very good butter.
+Wizard: Well you are set! What rating are you thinking of?
+User: For me, food is the most important. Above all else, I need free breakfast.The stars are secondary
+Wizard: Unfortunately not one hotel has free breakfast
+User: Sacre bleu! Ok what is available then?
+Wizard: depending on what star rating you prefer
+User: Oh I see! Yes 5 is good then
+Wizard: 8 day stay at the Sapphire Time? its near a theatre, park and market, from August 27th until September 2nd. for a total of $37321
+User: Wow, this is very nice. Are there any options with business class flights?
+Wizard: Yes there is but it would exceed your Budget by $4000
+User: Goodness. No I will stick with the Sapphire Time. Can you book it for me please?
+Wizard: Yes i can done and done!
+User: Thanks!

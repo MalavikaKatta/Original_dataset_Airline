@@ -1,0 +1,27 @@
+User: Hi there! I finally have some vacation time starting on August 22nd and I am hoping to go away somewhere really far away and getting away from it all. Do you have any suggestions for me?
+Wizard: Where would you be leaving from and how long is your trip?
+User: I would be leaving from Sydney and I have to be back by Wednesday, September 7.  I'm so excited!
+Wizard: Do you have any destinations in mind?
+User: Not really. As long as it is within those dates, or even returning a bit earlier,  and also within my budget, I really don't care where I go. I am just happy to get out of Sydney for a while.
+Wizard: Great! I'll see what I can do. What is your budget for this trip?
+User: I just got my big yearly bonus so I have $6100.00 to spend. Send me as far away as possible!
+Wizard: Can I interest you in a 5 day 4 star package to Naples, a 9 day 5 star package in Berlin or an 8 day 3 star package in Manaus, Brazil?
+User: What are the dates for the Berlin package? A 5 star package sounds fantastic, as long as it is within my budget.
+Wizard: You would depart on Saturday, August 27th and return on Sunday, September 4th.
+User: What else is included in that package?
+Wizard: Free breakfast and free wifi. It is well within your budget at 4018.16 USD. Would you like me to search packages in the 5000 USD range?
+User: No, but can you please give me some flight details on it? I don't like flying out too early in the morning! Also, would I be flying economy or business class?
+Wizard: Departure from Sydney is at 12:00pm, arrival in Berlin is at 8:37pm. For the return flight, you would depart Berlin at 3:00am and land in Sydney at 11:37am. This is a business class flight.
+User: 3:00am flight out of Berlin? No way! That means I will have to be at the airport at like midnight! What are the dates for the 8 day package to Brazil? Are the flights any better on that one? And how much is that package?
+Wizard: The Brazil package is from August 26th to September 1st at a total of 4006.85 USD. Unfortunately, all return flights to Sydney leave at 3:00 am.
+User: Is it a business class flight also? Do I get a free breakfast and wifi with that one?
+Wizard: The flight is business class and breakfast, wifi and parking are all included in your stay at this 3 star hotel. Can I interest you in a 4 star hotel in Brazil for 5003.33USD and a 8.8/10 guest rating?
+User: Hmmmm that one could be interesting too. A 4 star would be much better. I don't trust 3 star hotels, they are full of cockroaches! Are the dates and flights the same on that package?
+Wizard: They are similar. Departure from Sydney is on August 27 at 11:00am and the return flight is on September 3rd at 3:00am. Breakfast, wifi and parking are all included.
+User: Do you have a flight that departs closer to August 22nd by any chance?
+Wizard: The closest I have is the 3 star 8 day package to Manaus we spoke of earlier. The flight is on August 26th.
+User: How much is the the 4 star rated hotel to Brazil? Was that one on a business class flight also?
+Wizard: The 4 star package to Campinas, Brazil is 5003.33 USD, this includes business class flights.
+User: This sounds like the perfect getaway, Brazil is about as far as I can get from Sydney! Can you book that for me please :smile:? Thank you so much for all you help.
+Wizard: Yes of course, booking is complete. Please follow the below link for your confirmation. Enjoy your vacation!
+User: Thank you!

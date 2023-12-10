@@ -1,0 +1,13 @@
+User: im leaving from belo horizonte. send me to dallas
+Wizard: How many people?
+User: ahh. two
+Wizard: Nice! When would you like to leave and do you have a budget?
+User: no budget darling. leave asap
+Wizard: The earliest package we have available leaves August 27th and returns August 30th. This is at Winter Arc, a 2.5 star hotel in the heart of Dallas and near a museum. The hotel also offers free breakfast and wifi. The business package costs 5554.80.
+User: 2.5 stars isnt going to do sadly. anything better, leaving shortly after?
+Wizard: This is the only hotel available. Do you have a different destination?
+User: well, far less options available than your competitors.. strike one. i suppose tijuana would do as a destination
+Wizard: There are two hotels available, Resort Jade Covert which is a 3 star hotel, and Hotel Perfection which is 2.5 stars.
+User: i could leave from london if need be..what would i be looking at then?
+Wizard: There is nothing more than 2.5 stars.
+User: how tragic

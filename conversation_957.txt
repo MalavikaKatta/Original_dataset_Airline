@@ -1,0 +1,20 @@
+User: HEY-OH! I need to leave Indianapolis tomorrow after my wedding
+two adults travelling, of course, and we want to go to Kingston for 9 days. What can you give me?
+Wizard: I have several choices for you. How much money would you like to spend on your honeymoon?
+User: we can spend 1700… anything for that price?
+Wizard: I have a package on a 12 night stay at the Cosmos Inn. This hotel is in the downtown area of Kingston but also near a park. It has a 2.5 star rating and includes breakfast, free wifi and a parking space.
+User: What’s the guest rating? more appealing?
+Wizard: 6.37/10.  If you prefer something with a higher rating, we can look at shortening your stay and placing you in a nicer hotel. Is this something you may consider?
+User: yes, certainly. we don’t need to stay 9 days. what else is there?
+Wizard: If you are willing to spend  1822.63USD, Ebony Manor Inn & Suites has a 9 day package and is a 4 star rated hotel.
+User: located near anything interesting?
+Wizard: Near the museum
+User: the hotel is nice.. but what could we get in Montreal?
+Wizard: How about something on the beach in Montreal? I have the Twin Canyon Inn and Suites a 2.5 star property with a user rating of 8.86/10.
+User: what’s the price?
+Wizard: We can do it for 1743.69USD - on business class flights and it's a 10 day package.
+User: any other amenities included?
+Wizard: There is wifi at no extra charge, breakfast is complimentary and they provide parking at no charge.
+User: when do we leave?
+Wizard: September 5th and you return on the 14th
+User: ok - let’s book it

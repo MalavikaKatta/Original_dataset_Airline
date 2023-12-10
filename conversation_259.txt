@@ -1,0 +1,18 @@
+User: I know where Mewtwo is!!! I have it from a very good source and I'm gonna go hunt him down!
+Wizard: Where would you like to go?
+User: I'm gona be rich i want to go to north vancouver
+Wizard: Ok! And where are you coming from?
+User: munich!!
+Wizard: I have the Twin Canyon Inn and Suites available - you would leave August 27th.
+User: my hunting party is 5 adults
+Wizard: In that case the package would cost you 16111.84USD.
+User: that sounds good, next i want to go to Belem
+Wizard: Would you like to leave from North Vancouver or Munich?
+User: munich
+Wizard: Ok! There are several options available for you. A 4.5 star beachside hotel, two 4.0  hotels near both the beach and the airport, a 3.0 star hotel near a Cathedral.
+User: what is the price for this one
+Wizard: There are 4 different hotels mentioned above.
+User: all 4
+Wizard: Prices range from 15883.79USD to 22590.19USD
+User: okay we will go to North Vancouver and if Mewtwo is not there I will call you back to go to Belem. Book the Twin Canyon Inn and Suites for me and my hunting party
+Wizard: Great, consider it done. Good luck :slightly_smiling_face:

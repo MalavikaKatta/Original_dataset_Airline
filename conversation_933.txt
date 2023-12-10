@@ -1,0 +1,12 @@
+User: My team and I need to get to San Diego. Need to leave by Sept 6. It is a matter of life and death!
+Wizard: I will do my best. Where are you and how many are you?
+User: We are 4 adults. We need to leave from belo horizonte.
+Wizard: My best offer for leaving on Sep 6 is at a 2.5 star hotel for 6 days until Sep 10. Would you like to know more about this hotel?
+User: I'm sorry, did I say the 6th? I meant the 8th. We need to leave on or after the 8th!
+Wizard: No problem, for departure on the 8th, I have a 6 day package at a 3 star hotel, rated 8.86/10, with free wifi, breakfast, and parking.
+User: How much for this one on economy? Can you check Kobe too please? I'll have to pick one, hope it's the right one!
+Wizard: The economy package at the San Diego hotel is 9364.56. For Kobe, I have a 5 day package leaving Sep 8 with a 3 star hotel for 19923.91 economy.
+User: Anything cheaper in Kobe?
+Wizard: No, that is actually the cheapest option.
+User: I guess that decides it, San Diego it is cause we only have 12600 to spend! Hope the rumours are right!
+Wizard: Sure! I'll book the San Diego trip for your group! Anything else I can do for you today?

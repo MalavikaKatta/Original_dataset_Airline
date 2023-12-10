@@ -1,0 +1,16 @@
+User: I must go to Vancouver from Tijuana.
+Wizard: Great! How about Parallel Carnaval Bed & Breakfast? 7 days for only $1465!
+User: Can you check trips to Essen? I'm very meticulous so I need lots of options. I also need to go from August 30th to September 12th.
+Wizard: ok, absolutely! I have packages to Essen from August 31-September 7 or August 30-September fifth. Would you like to hear more about this place?
+User: Sure! Tell me more
+Wizard: The first date range would find you staying at the Motel Ivory Safari, a 2.0 star hotel with free wifi and parking.  Alternatively, from August 30-Sept 5 you could stay at the Relaxation Hotel, located near the city’s palace and featuring free wifi, free breakfast, boasting a 3.0 star rating.
+User: are there any packages to Cleveland? I've been there before and i might want to go again
+Wizard: Sure thing! From September 6-12 I have the Pleasant Court Inn available. Its a three star hotel located near a park and a theatre with a guest rating of 8.98
+User: not too shabby....Do you have any packages to Milan?
+Wizard: Certainly! In Milan I have packages from September 8th-12th or from the 1st-10th.
+User: Can you tell me about the one from the 1st to 10th please?
+Wizard: Sure! The El Mundo Hotel is a 4.0 star hotel with free wifi and breakfast included. The guest rating is 9.16 and the price for these dates would be $3500 USD.
+User: Sold! I'll take this package!
+Wizard: Wonderful :slightly_smiling_face: Consider it booked. Enjoy your stay and thank you for booking
+User: Thank you!
+Wizard: My pleasure

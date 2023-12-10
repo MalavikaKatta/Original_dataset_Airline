@@ -1,0 +1,10 @@
+User: Hi, id like to go to Goiania with my 4 besties from Kobe
+Wizard: Departure?
+User: Kobe…..i just said
+Wizard: date
+User: doesnt matter
+Wizard: We can provide stays at 2 different hotels, both rated 3.5 stars. Are you interested in hearing more about these?
+User: No I need 5 stars. any 5 stars in Rio de Janeiro?
+Wizard: We have no 5 star hotels in Rio de Janeiro
+User: Sapporo?
+Wizard: All available hotels in Sapporo at the present time are 3 star hotles

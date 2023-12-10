@@ -1,0 +1,14 @@
+User: I want to get away for a bit! im from Houston
+Wizard: I can help you with that! Would you be interested in travelling to Calgary or Denver? I have great deals available!
+User: OH i've never been to the north pole! what is Calgary like?
+Wizard: There are cheap hotels available with free wifi and free parking in Calgary! Would you like me to search for trips to North Pole?
+User: I thought calgary was there! what do the prices look like?
+Wizard: I have a 4 star hotel available for 12 days in Calgary at a cost of 228.28USD. How does this sound?
+User: what type of flight is that?
+Wizard: It is a direct economy class flight leaving from Houston at 3pm August 17.
+User: that seems like it could be a great possibility what about Denver
+Wizard: You can book 11 days at a 3 star hotel in Denver for 259.65USD.
+User: seems like calgary is cheaper. what dates are they? can we book that?
+Wizard: Sure thing! I will book the trip to Calgary for you - the trip dates are from August 17 to August 28.
+User: sounds amazing! lets do it!
+Wizard: You're booked!

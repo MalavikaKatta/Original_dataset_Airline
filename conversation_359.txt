@@ -1,0 +1,2 @@
+User: Do you do flights leaving from Tel Aviv?
+Wizard: No

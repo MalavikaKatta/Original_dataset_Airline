@@ -1,0 +1,11 @@
+User: Hi i got an internship in Frankfurt and need to get there on August 27th
+Wizard: Hello! Do you know which city you'll be departing from?
+User: Ill be getting out of Madrid
+Wizard: It looks like I have a package for Frankfurt from the 27th of August to the 2nd of September. Does 1163.55USD fall within your budget?
+User: yes it does, my budget is $2500. anything in maceio
+Wizard: Yes I do, however at 3500.58USD it is a bit out of your budget range. Would you like to hear more about this package?
+User: yes please
+Wizard: You would be staying at the  Hotel Regal Time, a 3.5-star hotel with a 8.8/10 guest rating, free breakfast and free wifi. This hotel is conveniently located close to the park, the theatre and a local market. You would be flying out on Sunday, August 21st at 4:00p.m. and returning Friday, September 2nd at 4:00a.m. Would you like me to book this package?
+User: This seems perfect! may you please go ahead and bookit?
+Wizard: Your trip has been succesfully booked! Enjoy your stay!
+User: Thank you!

@@ -1,0 +1,10 @@
+User: get me to Manaus from Toronto
+Wizard: When?
+User: whenever I decide to roll onto set
+Wizard: No budget?
+User: don’t be silly, of course not
+Wizard: Our best package is a 3 star hotel, business class flight, park, museum and palace nearby, 8.49/10 guest rating, free parking, breakfast and wifi, from September 10th to 21st, for 2683.18.
+User: Surely you can find me a five star hotel in Marseille right?
+Wizard: We have a 4 star hotel near a palace, 8.69/10 guest rating, spa and free wifi, from September 17th to 23rd, business class flight, for 2952.88.
+User: Yeah get me on that trip
+Wizard: Done. Have a great day!

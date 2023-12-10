@@ -1,0 +1,4 @@
+User: You got any flights from New York to Naples departing Aug 27 returning Sep 15?
+Wizard: Welcome. I will proceed with your request. How many in your party?
+User: 1 adult
+Wizard: I regret I do not have any flight availability  departing from New York destination Naples.

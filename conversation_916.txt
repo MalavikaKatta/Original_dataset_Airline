@@ -1,0 +1,10 @@
+User: hi
+Wizard: Hi!
+User: I'm about to be a newlywed as of September 8
+Wizard: Sure! Where would you be leaving from?
+User: Cleveland. we'd like to go to Atlanta for a week
+Wizard: Good, and do you have a  budget?
+User: 2300 for the two of us
+Wizard: What is your date range for travel?
+User: anytime after our wedding
+Wizard: No, unfortunately.

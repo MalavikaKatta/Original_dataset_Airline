@@ -1,0 +1,13 @@
+User: Baltimore to Sacramento
+Wizard: I will have a look for you. Do you have any date restrictions?
+User: nope
+Wizard: How about number of people?
+User: 1
+Wizard: How long would you like to go for?
+User: undecided, just book me whatever
+Wizard: I have 16 days available at The Bronze Luxury Hotel . This hotel has a fantastic 5 star rating along with a 10/10 guest rating.
+User: book me the earliest business class flight for that package
+Wizard: The earliest departs on September 3rd. The total cost on business class will be 2009.43USD.
+User: book it
+Wizard: Your flights and hotel stay have been booked. Confirmation will follow.
+User: good

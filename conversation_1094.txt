@@ -1,0 +1,11 @@
+User: I wanna lay low so i need to get out of tijuana. I think i’d like to go to rome
+Wizard: When would you like to leave?
+User: september 16th
+Wizard: My earliest departure is on Sept 20th, does that work for you? How many people will be travelling to Rome together?
+User: What about if i leave from Hamburg?
+Wizard: From Hamburg, I have departures on the 11th and on the 20th
+User: What about from Tijuana to Manaus?
+Wizard: From Tijuana to Manaus my earliest flights are on Sept 14th and Sept 21st
+User: From Hamburg to Manaus?
+Wizard: From Hamburg to Manaus I have flights on the 14th and the 20th.
+User: No i really needed to leave on the 16th. that’s okay, i’ll figure something out.

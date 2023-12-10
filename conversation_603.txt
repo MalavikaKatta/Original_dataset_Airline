@@ -1,0 +1,12 @@
+User: Hello! I've been put in charge of booking a little work retreat As a reward for our recent success!
+Wizard: Hello sir/madam. How may I help you?
+User: I just wanna go from Tel Aviv to Jerusalem August 25 to 28 Whatcha got
+Wizard: Nothing I'm afraid. However, I can check other destinations for you.
+User: Ok check Mannheim
+Wizard: Tel Aviv to Mannheim? For how many?
+User: For 13
+Wizard: I have nothing available. have a nice day.
+User: You think you're done with me or something???
+I want to go on a trip
+And I want to leave from Tel Aviv
+Wizard: I apologize, I have nothing available from Tel Aviv to Mannheim

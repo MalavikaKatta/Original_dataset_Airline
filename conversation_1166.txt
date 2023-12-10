@@ -1,0 +1,12 @@
+User: Hi. First time trying this out. What do I do?
+Wizard: Tell me where you're coming from and where you would like to go :slightly_smiling_face:
+User: Okay. I am in Fukuoka and I really have to go to Osaka.
+Wizard: Will it be just you? And are you travelling on a budget?
+User: Just me. $1200. I heard Osaka is really nice. Can I leave on September 20 please?
+Wizard: I have a 4 day package to Osaka leaving on September 20. It's involves a 3 star hotel and it costs 523.92 for business class and 474.62 for economy. Would you be interested in this package at all?
+User: What is the exact return date and can you tell me where the hotel is located?
+Wizard: The return date is Friday September 23rd and it's a hotel with a 6.61 out of 10 rating, located near a museum. Are you interested in booking this?
+User: Yes sure! I'll take it and since I can afford it I will go business class!
+Wizard: Perfect! You should receive an email with all the details very soon!
+User: Thank you!
+Wizard: You're most welcome!

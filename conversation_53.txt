@@ -1,0 +1,31 @@
+User: Good morning.
+Wizard: Good day! How can I help you?
+User: I'd like to book a trip to Rome for business purposes. What's available for departures from Calgary?
+Wizard: I can book you 6 days in Rome from August 17-August 21 if you leave from Calgary.
+User: That's a possibility, and what about between August 27 and September 12th?
+Wizard: How about August 27th-August 31st?
+User: Excellent! For how much?
+Wizard: I have a 0.0 star hotel available for 1600.96USD.
+User: I prefer 2 and above. I may also have a colleague travelling with me. What else can you offer?
+Wizard: There is a 4.0 star hotel available for 1952.49USD. Will you be travelling alone?
+User: As I mentioned seconds ago, I may have a colleague travelling with me.
+Wizard: How many people is this for again?
+User: FOR TWO PEOPLE!
+Wizard: For two people at the Hotel Emerald Legacy the price is 3841.18USD.
+User: I need free wifi, is this included?
+Wizard: This place has free wifi as well as free breakfast!
+User: Excellent! I will most probably book this one, but I would like to see about one more destination.
+Wizard: Sure! Where would you like to go?
+User: To Paris. What can you offer around the same dates? Again, for two people.
+Wizard: I can book 2 people a trip to Paris from Calgary for 3164.38USD.
+User: How many stars is the hotel?
+Wizard: For that price you would stay in a 4.0 star hotel.
+User: That is suitable. Is the wifi free?
+Wizard: There is Wifi
+User: Excellent. And what are the departure and arrival dates and times?
+Wizard: You will leave Calgary 12:00 pm August 30th and arrive in Paris 7:17 pm that evening.
+User: Great, and for leaving Paris?
+Wizard: You will leave Paris at 3:00 am on September 7th and arrive in Calgary at 10:17am that morning.
+User: I prefer the Hotel Emerald Legacy package. I will book this one.
+Wizard: Ok. I will book Hotel Emerald Legacy for August 27th-August 31st for two people.
+User: Thank you. You can be sure that I will bring my business here again.

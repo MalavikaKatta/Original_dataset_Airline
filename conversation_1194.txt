@@ -1,0 +1,12 @@
+User: emergency flight out of Kobe please!! get me out on september 16th
+and to fortaleza
+Wizard: Certainly. Where would you like to go?
+User: FORTALEZA
+Wizard: The earliest flight we have that departs from Kobe to Fortaleza is on Tuesday September 20th, is that okay?
+User: what about out of Salvador
+Wizard: From Salvador to Fortaleza?
+User: yes
+Wizard: I'm afraid it's also the 20th. What would you like to do about that?
+User: in that case just get me from Kobe to Sendai
+Wizard: I'm sorry, the earliest for that one is also the 20th. Any other options I can explore?
+User: nope I guess I need a different (better) agent

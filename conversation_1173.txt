@@ -1,0 +1,14 @@
+User: Hello. I am travelling with a pretty big group soon - September 24th we'll leave
+Wizard: How many people?
+User: There are 7 adults and 7 kids
+Wizard: Where would you like to go?
+User: We don't really know actually! But we're leaving from Sendai.
+Wizard: Is there a budget?
+User: Yes. $3500.
+Wizard: We have a 17 day package to Ulsan at a 2.5 star hotel and a 13 day package to Kyoto at a 3 star hotel.
+User: You're welcome. That's great.. tell me more about the Kyoto place.
+Wizard: Yes both are within the budget. The hotel is near a museum and they offer free breakfast and wifi. This package is from September 25th to October 7th. The business flights put the price to 3046.53 and the economy flights are 2274.16.
+User: Ok. Sounds good - I think we'll book.
+Wizard: Awesome! Would you like business or economy flights?
+User: Business, since we can afford it!
+Wizard: Great, I'll book it and you will get a confirmation email soon. Have a nice day!

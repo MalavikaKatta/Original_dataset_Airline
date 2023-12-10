@@ -1,0 +1,14 @@
+User: Hi there
+Wizard: HI :smile:
+User: I'm looking to leave from San Diego to a vacation destination. I have saved up approximately $0 for this trip. Can you help me find a suitable location?
+Wizard: No
+User: Wow alright. How about if I told you I had $400, can you buy me a round trip ticket to Phoenix?
+Wizard: I can send you to Calgary, Philadelphia, Punta Cana, or Atlanta.
+User: Phili sounds good! How many days?
+Wizard: You can spend 6 days in historic Philadelphia, United States for only $366.99 if you leave from rustic San Diego, USA.
+User: How many days can I spend in Calgary?
+Wizard: You can go to Calgary for 6 days.
+User: Can you put me up at the Super 5 Hotel?
+Wizard: How about the Amusement? It may only but 4 stars but it is pretty good
+User: Book it! Nothing like fun in the city with my tight budget
+Wizard: You're trip is booked!

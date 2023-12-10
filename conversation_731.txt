@@ -1,0 +1,23 @@
+User: I'm planning a 5 day vacation, but I haven't given too much thoughts to it. Can you give me some suggestions fit for my budget? I hope to spend 4600 max.
+Wizard: Where are you leaving from?
+User: I live in Tampa.
+Wizard: Are you travelling alone?
+User: Yes.
+Wizard: When would you like to leave?
+User: My dates are quite flexible.
+Wizard: Do you know where you might want to go?
+User: I haven't done much thinking into it.. can you present a few options and maybe I can choose one?
+Wizard: Sure! We have packages to Santos, Madrid, and San Jose.
+User: Awesome! Are the 5 day packages all within my budget?
+Wizard: Indeed they are!
+User: Fantastic. Can you tell me a bit more about the hotel options in each city?
+Wizard: Santos has two hotels, one is a 4 star, the other is a 3 star. Madrid has a 5 star hotel, and San Jose has a 4 star hotel.
+User: Okay we can scratch the 3 star one in Santos off the list. Can you tell me a bit more about the 3 hotels that are left?
+Wizard: The 4 star in Santos has a 8.49/10 guest rating, offers free breakfast and wifi, and is near shopping stores. The 5 star in Madrid has a 9.16/10 guest rating, offers free breakfast and wifi, and is near a museum, cathedral and palace. The 4 star in San Jose has a 8.8/10 guest rating, offers free parking, breakfast and wifi, and is near a museum and beach.
+User: Madrid is definitely the most appealing to me!
+Wizard: I thought it would be. Would you like me to book it for you?
+User: That'd be great!
+Wizard: Your package is from September 8th to 12th, would you like me to book you the business class flights or the economy flights?
+User: Cool... If business flights are within my budget, then why not :slightly_smiling_face:
+Wizard: Great! Your package is booked and the cost is 2936.42.
+User: That's awesome, thanks!

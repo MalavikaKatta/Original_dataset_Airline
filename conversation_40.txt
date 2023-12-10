@@ -1,0 +1,32 @@
+User: Hi! I hear Hogsmeade has some excellent bars. Can you book me a trip there from Diagon Alley, leaving on August 13th? For 7 men and women
+Wizard: Hi there! I am searching trips available to Hogsmeade but am unable to find any possibilities. Is there another destination you might be interested in?
+User: Well, we were thinking Dominican Republic could be fun as well.
+Wizard: Ok. I will look for trips to Dominican Republic. Do you have another option for a departure city?
+User: Yes, Vancouver.
+Wizard: Great! Where would you like to travel to?
+User: Punta Cana is good!
+Wizard: Great. I can book a trip for 7 people travelling from Vancouver to Punta Cana for 3853.27USD.
+User: that's just a little over my budget... what about for 3 adults instead of 7?
+Wizard: For three adults, this trip would cost 1651.40USD.
+User: The trip meant to be a bachelor party for my friend. is there an open bar at the hotel?
+Wizard: I do not have this information for the El Mar hotel in Punta Cana.
+User: How many stars is it?
+Wizard: 2.5 stars.
+User: Let's try 4 stars.
+Wizard: I'm having trouble finding 4 star hotels in Punta Cana for you. Perhaps if you provided a departure and/or return date I could narrow things down?
+User: End of August, anytime after the 22nd of August.
+Wizard: I am only able to find hotels with a 2.5 star rating in Punta Cana for that time. 
+User: 2.5 stars will do. Can you offer any additional activities?
+Wizard: Unfortunately I am not able to provide this information.
+User: How about breakfast?
+Wizard: El Mar does not provide breakfast.
+User: Are there other hotels in the area that do?
+Wizard: I am unable to find other hotels in Punta Cana that offer free breakfast.
+User: In that case I will book the first one for 1651. 40 USD.
+Wizard: Great! You will leave Vancouver at 10:00 am - Wednesday, August 24th.
+User: When do we leave?
+Wizard: You will leave Vancouver at 10:00 am - Wednesday, August 24th.
+User: leave Punta Cana?
+Wizard: You will leave Punta Cana at 4:00 am - Tuesday, August 30th.
+User: Great! I'll book this one. Thank you
+Wizard: Great! Thank you

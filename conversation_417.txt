@@ -1,0 +1,11 @@
+User: I need to go on a secret vacation so you're gonna need to keep this information on the down low.
+Wizard: Where are you looking to go?
+User: I want to go to Leon from London and I'm travelling with Madonna so we are gonna need the best packages you have. We need to be back by September 11th because I'm performing the next day so make it happin cappin
+Wizard: Would you be interested in Serene Palms Resort? It is a 5.0 star hotel on the beach, located near the palace.
+User: That sounds fantastic! hmmmmm.... Can you check for flights to Curitiba?
+Wizard: I have a variety of 3.0 star hotels available in Curitiba and one 3.5 star hotel. Would you be interested in hearing more about these options?
+User: no, but can you tell me a bit more about the Leon package?
+Wizard: Absolutely! The Hotel Palms has free wifi and the package would cost $3282.81. You would leave London September first and return September seventh.
+User: That sounds absolutely positively perfect! Can you book it for 2!
+Wizard: Certainly! The price quoted above is for two adults. I will go ahead and book that for you
+User: Thank you so much darling

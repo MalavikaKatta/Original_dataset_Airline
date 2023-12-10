@@ -1,0 +1,20 @@
+User: I dream of a better life and I want to go to Sendai
+Wizard: Where are you leaving from?
+User: belo horizonte
+Wizard: Do you have a budget?
+User: $1,200
+Wizard: Are you going to be travelling alone?
+User: ya unfortunately...
+Wizard: When would you like to leave for your travels/
+User: as soon as possible.
+Wizard: There are no results within your budget.
+User: belem?
+Wizard: Our best packages for Belem are at a 4 star hotel on the beach near the airport. The economy seats cost 791.57 and the business seats cost 871.30.
+User: ok what about calgary
+Wizard: There is nothing within your budget for flights to Calgary.
+User: ok i will take the belem flights
+Wizard: Would you like the business class seats or the economy seats?
+User: business class
+Wizard: Great! It is done! This trip is from August 27th to September 2nd! Have a good vacation
+User: awwwwsome can i also inquire for goiania
+Wizard: Goiania has a 3.5 star hotel from August 27th to September 8th. The price for economy class is 914.20 and the price for the business class is 1091.50.

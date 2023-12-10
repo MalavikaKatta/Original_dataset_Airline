@@ -1,0 +1,14 @@
+User: HEY
+Wizard: Hi! How can I help you?
+User: can you book a trip out of Beijing for a bunch of dudes ?
+Wizard: Possibly, how many people?
+User: ahhh like 23
+Wizard: Big crew! Where would you like to go?
+User: for real though. ahh maybe Cairo
+Wizard: From where will you be departing?
+User: beijing bruh
+Wizard: Ah yes. Apologies. Do you have a budget?
+User: nah we're throwing company money away for this
+Wizard: Do you have dates in mind?
+User: september 6-9
+Wizard: There are no results from beijing or returning on the 9th.

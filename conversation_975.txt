@@ -1,0 +1,17 @@
+User: kingston to salvador u got this?
+Wizard: Do you have a budget?
+User: jennifer lawrence does not do budgets, u dig?
+Wizard: Okay. When would you like to leave?
+User: whenever bud
+Wizard: Traveling solo?
+User: ya
+Wizard: I have no results.
+User: send me to chicago
+Wizard: We only have 2.5 star hotels.
+User: ok whatever book that hotel i guess
+Wizard: Booked!
+User: tell me the dates so i can notify my friends in Chicago
+Wizard: 13th to 19th of September
+User: is it booked?
+Wizard: Yes.
+User: k good thanks bye

@@ -1,0 +1,28 @@
+User: Hi! I need to check out several destinations with you! Are you able to help me?
+Wizard: Of course :slightly_smiling_face: What is your point of departure and first potential destination?
+User: Denver is where I live. Buenos Aires is one of the destinations on my wishlist.
+Wizard: I can book you in Buenos Aires from September 8th until the 19th for a total of 2754.1USD.
+User: The 8th to 19th would work, although I am off work until the 28th. Can you tell me the name of the hotel & all the pertinent information so I can make a list?
+Wizard: Hotel Universe is a 3.5 star hotel, with an esteemed 8.69/10 from previous guests. Featured with your package are a daily breakfast buffet and access to wireless internet. This hotel is in the heart of the city located near lush green spaces to help you get the most of your getaway.
+User: Hmmmm sounds like a good one but I want to see what else you have.  How many days total is this package?
+Wizard: 13
+User: Next destination: Punta Cana
+Wizard: I have September 2-12th for 1129.3USD, business class flights included.
+User: Was Buenos Aires on business class too? I need to keep them all on the same type of flight so that I am comparing apples to apples.
+Wizard: This package in Punta Cana would cost 846.85USD.
+User: Okay let's keep them all in economy for now. Can you tell me the name of the hotel & all the pertinent information please?
+Wizard: La Estrella del Mar is an unrated hotel, near a palace, and the stay would be 11 days in duration. I also have shorter duration trips of 5 days at El Mar, a 2.5 star beachside hotel.
+User: Okay let's keep all the comparisons on packages 13 days in length, if possible. What services are provided with this hotel?
+Wizard: I have no information on additional services.
+User: amenities?
+Wizard: Sorry, no info.
+User: Let's look at Belem now with the same consistent parameters.
+Wizard: I have an 11 day package in Belem at Las Flores, a 3 star hotel near a cathedral for $1919.58. This hotel includes free breakfast, free wifi, and free parking and is well-loved by previous guests with a 8.49/10 user rating.
+User: Fantastic! I have one more final destination on my wishlist - Columbus!
+Wizard: In Columbus I can offer you a 14 day stay at Crown Jungle Inn, a hotel located by the beach and a palace with 2.5 stars and a 8.49/10 user review. The hotel has free parking and complimentary wifi as well. The cost for this package would be 1661.5USD for economy class.
+User: Buenos Aires is pretty expensive, Punta Cana too cheap, so I am between Belem and Columbus.
+Wizard: I also have a 9 day Belem package at a 4 star beachside hotel, Gentle Tower Resort.
+User: How much is that one?
+Wizard: 2933.19USD
+User: I think I'll stick to the 11 day package in Belem at Las Flores, seems like the best deal and it had a good user rating. Let's book that one.
+Wizard: Ok! You’ve got it :slightly_smiling_face: I’ll send a confirmation email once I straighten everything up.

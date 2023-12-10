@@ -1,0 +1,20 @@
+User: Hi. going to throw a bunch of options at you, try to keep up
+Firstly want to know about trips from Seattle to Belo Horizonte
+Wizard: We sure do have some trips from Seattle to Belo Horizonte. Do you have desired dates or price points in mind?
+User: dates are sept 8 to 19. flexible on prices
+Wizard: We have a 9 day package in Belo Horizonte at a 2.5 star hotel that matches your dates. Would you like to hear more about this option?
+User: not really to be honest. are there better hotel?
+Wizard: That is the best available in Belo Horizonte. Do you have any other trips you are considering?
+User: yes i do. can you look at columbus?
+Wizard: We do have something better in Columbus! It's a 3.5 star hotel with 8.22/10 guest rating at the heart of the city. Does this sound more interesting to you?
+User: it absolutely does! how long would we be able to stay there?
+Wizard: We have a 4 day package from Sep 12-15, available in economy or business.
+User: would you have a longer package if we departed from puebla instead?
+Wizard: We do! It's a 6 day package from Sep 12-17 at the same hotel, also available in economy or business.
+User: cool. how much does it cost?
+Wizard: How many will you be?
+User: there will be eight
+Wizard: It will be 10905.18 for economy and 13494.50 for business.
+User: we will go big and book business
+Wizard: Great! The 6 day business package is booked for you. You are headed to COLORADO :slightly_smiling_face:
+User: great! thanks!

@@ -1,0 +1,14 @@
+User: Hi there
+Wizard: Hi! How can I help you?
+User: I have September 13 to 25 off
+Wizard: Okay, where will you leave from?
+User: Dallas. Can you look at flights to Belem?
+Wizard: Do you have a budget?
+User: Lets consider this independently of any budget for now
+Wizard: We have a great 4.5 star hotel package available from September 14th to 22nd. The hotel is located near the beach and has a 8.8/10 guest rating and also offers free parking, breakfast, and wifi. The economy flights package is 1583.37 and the business flights package is 2011.78.
+User: can you also tell me what you can find me in Denver?
+Wizard: We have a 3 star hotel near a park, 8.86/10 guest rating, free breakfast and wifi, from September 13th to 18th, 1134.60 for economy flights, and 1364.73 for business flights.
+User: Lets go with Belem now
+Wizard: Business or economy?
+User: Lets do Business class
+Wizard: Awesome! Done! Have a great vacation!

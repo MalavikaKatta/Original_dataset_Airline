@@ -1,0 +1,18 @@
+User: Hi I need to go to Kabul on August 23rd
+Wizard: Where are you flying from?
+User: oh I'm sorry I meant to say I want to leave from Kabul, not to Kabul!
+Wizard: And where are you going?
+User: to Dublin .
+Wizard: We have no flight between Kabul and Dublin.
+User: how about if I leave from Beijing?
+Wizard: We have no flights between Beijing and Dublin either.
+User: okay how about from Beijing to pittsborgh for 8 of us?
+Wizard: 8 adults?
+User: yes
+Wizard: We don't have packages to offer you for so many people between those cities.
+User: for less people only?
+Wizard: Actually it appears that we do not have flights between Beijing and pittsborgh at all.
+User: okay thanks
+Wizard: Anything else I can help you with?
+User: no thank you
+Wizard: Have a nice day!

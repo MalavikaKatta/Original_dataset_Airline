@@ -1,0 +1,17 @@
+User: Hi im from Philadelphia
+Wizard: Hi! Where are you headed today?
+User: Punto cana preferably
+Wizard: How would you like to spend 11 days at the Atlantis Gorge? They have a vacancy from the 30th to the 9th of September. The cost of this package is 1018.59USD.
+User: wow that sounds great does it have any special amenities/
+Wizard: It is a 2.5-star resort with a 7.15/10 guest rating, free breakfast and free wifi. It is also located in the vicinity of the hotel, museum  and the palace.
+User: that sounds nice! sny better rated ones?
+Wizard: The Atlantis Gorge is a 2.5-star hotel with a 7.15/10 guest rating, located within walking distance of the museum, cathedral and palace. Is offers free breakfast and free wifi. The Scarlet Peaks Hotel is a 3-star hotel with a 6.77/10 guest rating, located within walking distance of the cathedral. Is offers free breakfast and free wifi. The Plaza Serene is a 3-star hotel with a 8.49/10 guest rating, located within walking distance of the theatre and palace. It offers free breakfast, free parking and free wifi.
+User: man plaza serene looks sweet! how much would it be?
+Wizard: The total cost of this package is 1100.10USD. You would be flying out on the 27th of August and returning on the 6th of September.
+User: let’s keep this in mind, how about Osaka?
+Wizard: I can offer you 5 days in the Hotel Prophecy from the 21st to the 24th of August. This package would cost you 3015.97USD.
+User: what rating would that have?
+Wizard: This is a 2.5-star resort with a 7.06/10 guest rating. It offers free breakfast and free wifi and is located within walking distance of the museum.
+User: I think i iwll go with the Plaza Serene
+Wizard: Great! I have just finished booking your trip. Have fun in the Cba!
+User: thanks!

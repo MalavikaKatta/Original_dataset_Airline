@@ -1,0 +1,11 @@
+User: I need to book a trip for me and Madonna to Birmingham from Milan.
+Wizard: How many passengers?
+User: 2
+Wizard: Desired dates for travel please
+User: anytime but i should be back by the 25th or 27th
+Wizard: I have the  4 star The Emerald right by the museum from Sept 17 to the 27th
+User: Do you have anything in Las Vegas for 5 stars?
+Wizard: Only 3 star hotels available in Las Vegas
+User: ok well i think we will go with the 4 star then. Can you tell me some more about the hotel?
+Wizard: 4 star hotel with a 8.86/10 guest rating, includes free wifi. A 12 day package via business class is 6467.39USD
+User: sign us up. business class for sure

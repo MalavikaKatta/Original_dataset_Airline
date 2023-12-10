@@ -1,0 +1,30 @@
+User: Hi there, I'd like to know if you can book a trip for us leaving this upcoming Saturday and returning on the Tuesday after. We are six adults and seven children leaving from Punta Cana. I know this is really short notice so I'd appreciate anything you can find for us, thank you so much!
+Wizard: Hi there. I can book you a trip to Dallas from August 27th-August 30th for 5561.28USD.
+User: How about Birmingham? The kids would love to see it
+Wizard: Unfortunately I do not have anything available from Punta Cana to Birmingham at this time. I can book you a trip to Stuttgart for 28237.3USD. Does this interest you?
+User: Unfortunately that is outside of our budget :disappointed: Do you have anything available from Punta Cana to Burlington?
+Wizard: Sadly I have nothing available to Burlington within your date range. Would you mind telling me your budget so I can better find a trip for you within your parameters?
+User: Yes. Our budget is 23300. Thank you so very much :slightly_smiling_face:
+Wizard: I have only trips to Dallas or La Paz within your budget. Sorry about that. Do either of these destinations interest you?
+User: What about Orlando?
+Wizard: I’m sorry but there are no trips in my database from Punta Cana to Orlando.
+User: Can you please book us a round trip flight from Dallas to Orlando departing August 27 returning August 30 and tell us how much it would cost? Thank you!
+Wizard: Would you be interested in travelling from Dallas to Santo Domingo?
+User: Is there no way to get us to Orlando?
+Wizard: Sadly there are no trips available to Orlando at this time.
+User: Are there any weekend flights you can book for us to Orlando at any point before September 15 this year? That would be flights leaving on a Saturday and returning the following Tuesday. Thank you once again :slightly_smiling_face:
+Wizard: Sadly there are no trips available to Orlando at this time. My apologies.
+User: Okay I will take the trip to Dallas leaving August 27th returning August 30th. What's next?
+Wizard: Ok, great! Would you like to upgrade to business class flights for 6373.74USD?
+User: No thank you, but I was wondering if you offer anything as part of the package?
+Wizard: The hotel is in the heart of the city near museums and features free wifi and free breakfast.
+User: Is it a five star hotel?
+Wizard: The hotel is 2.5 stars with a guest rating of 5.14
+User: How much would a five star hotel package cost (including cost of the flight)?
+Wizard: Unfortunately the only package I have available is the 2.5 star hotel.
+User: How much does the entire package cost?
+Wizard: For 7 children and 6 children the total 5561.28USD.
+User: Okay book us the business class flight and the hotels please
+Wizard: Absolutely, consider it done. Anything else I can help you with today&gt;
+User: That's it! Thank you so so much :):):)
+Wizard: You are very welcome :slightly_smiling_face:

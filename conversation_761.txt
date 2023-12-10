@@ -1,0 +1,8 @@
+User: sept 12 to 22. toluca to naples
+Wizard: Size of your party please
+User: i'll be alone
+Wizard: Are your dates flexible?
+User: slightly. but there's nothing for the dates I gave?
+Wizard: no there is not
+User: then try sep 8 to 23
+Wizard: I cannot accommodate those dates either. It is most liekly we do not fly from Toluca to Naples, can we try different cities?

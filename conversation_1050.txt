@@ -1,0 +1,9 @@
+User: hi i want to go to toluca from burlington ok
+Wizard: Do you have a budget?
+User: yes 2600
+Wizard: When would you like to leave for your endeavour?
+User: September sixth. But dates are flexible
+Wizard: Sorry, my results tell me that there are no availabilities to Toluca.
+User: what about for 2900
+Wizard: The budget is fine, it's just the destination that is unavailable. Is there another place you could go?
+User: oh. No

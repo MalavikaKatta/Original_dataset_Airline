@@ -1,0 +1,13 @@
+User: I am pondering a trip - not ready to book - just pondering. Tokyo is where I live, and I would like to see some places outside of Japan
+Can you tell me what trips you have to Las Vegas, on a hypothetical 4200 budget
+Wizard: In the city of Las Vegas, I have the Retro Inn with a 2.5 star rating available at the moment. You can stay for 9 days and even treat yourself to business class for under $4200.
+User: how about trips to munich?
+Wizard: In Munich  I have the Regal Bluff with a 5 star rating available at the moment. A 6 day stay on business class is 3462.32USD
+User: that. sounds. amazing. what amenities?
+Wizard: Free wifi
+User: okay please one more place. puebla?
+Wizard: I have 16 days at the Grand Brewery Mexico. This hotel has a 3 star rating but with a longer stay.  This one also includes wifi, parking and a Mexican breakfast.
+User: is this hotel near anything cool?
+Wizard: I have no details on the location of this hotel.
+User: fine
+Wizard: Glad I could be of help

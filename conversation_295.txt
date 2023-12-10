@@ -1,0 +1,12 @@
+User: IM IN TIJUANA FIND ME A FLIGHT TO CURITIBA AUG 27 TO SEPT 4
+Wizard: Would you be willing to return on September 3 instead?
+User: COST? BUT SEPT 4 IF POSSIBLE
+Wizard: 2926.99USD
+User: HOW ABOUT FRANKFURT. AUG 27 TO SEPT 4
+Wizard: I can do August 29-September 4 for $3724.80
+User: ARE HOTELS INCLUDED FOR EITHER PLACE
+Wizard: Yes they are included for both. Would you like to hear more about the hotels?
+User: YES WHICH ONE HAS BETTER HOTEL?
+Wizard: In Frankfurt you would be staying at a 4.5 star hotel while in Curitiba you would be staying at a 3.0 star hotel.
+User: OK BOOK ME FRANKFURT PLEASE
+Wizard: You're booked!

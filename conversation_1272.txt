@@ -1,0 +1,18 @@
+User: I need to get to Marseille from Dallas
+Wizard: Sure! When do you want to go?
+User: trip for 1 september 9th and...
+23rd
+Wizard: Have you got a budget?
+User: i have 1400
+Wizard: Sorry, but I can’t accommodate this request. Anything else I could try for you?
+User: I can go to Denver
+Wizard: Would you prefer a 4, 5, or 6 day trip?
+User: 6
+Wizard: Ok - I have two different hotels. Both are 3 stars, one is near a park with a 8.86/10 guest rating. The other is near nothing of note and has a 8.69/10 guest rating. The first hotel offers a package from September 13th-18th while the second is available from the 15th to the 20th.
+User: The one with 8.86/10 guest rating is better.  Do you have anything in San Antonio?
+Wizard: I have two hotels from the 12th to the 19th. Both are 2 stars, one has 7.15/10 user rating and the other has 4.74/10 from guests. Both are near parks and malls while the higher rated one from guests is also near a museum; the lower guest rated hotel is near a theatre as well. Both include free parking, free wifi, and free breakfast with their packages.
+User: ill go with the 3 star hotel in denver. how much for the 13th to 18th
+Wizard: With economy class flights, the total price would be 1134.6USD.
+User: good ill book it
+Wizard: Great! Consider it done :slightly_smiling_face:
+User: Thnx

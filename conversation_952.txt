@@ -1,0 +1,10 @@
+User: I'm inquiring to see if you have trips from San Jose to Calgary
+Wizard: Yes we do! When would you like to go?
+User: Sometime between September 7 and 27 would be best
+Wizard: I have a hotel available for those dates. It is a 4 star hotel and I can put you there for either 8 days or 14 days. Are you by yourself?
+User: IS this hotel near a park?
+Wizard: No, it is close to a university and has free parking and wifi though.
+User: Would you be able to tell me the cost for a 14 day stay?
+Wizard: 1071.21. Or 1428.22 if you want to splurge on a business flight.
+User: Don't mind if I do!
+Wizard: Alrighty! You are flying business to Calgary from the 7th to the 20th! Anything else I can help you with today?

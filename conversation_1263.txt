@@ -1,0 +1,20 @@
+User: I want to look at trips from San Jose to Dublin for 3500 and under.
+Wizard: What are your interests in terms of destination?
+User: I thought I already said, from San Jose to Dublin
+Wizard: I do not have travel available to Dublin
+User: How bout to Atlanta
+Wizard: San Jose to Atlanta is also unavailable
+User: How bout alexandria
+Wizard: For how many?
+User: just me
+Wizard: I have one hotel/flight package in Alexandria for an 8 day stay at the 3 star Bronze Inn & Suites over by the university.
+User: Do you have anything in San Antonio?
+Wizard: Got a couple of alternatives in San Antonio, both 2 star rated hotels with longer stays available.
+User: ok tell me about them
+Wizard: I have the 2 star Winter Hill Inn close to the park, mall and theatre offering free parking, breakfast and wifi available for 11 and 17 days and I have the 2 star Vertex Inn  close to the park, museum and mall offering free parking, breakfast and wifi available for 11 and 14 days. How long were you hoping to stay in San Antonio?
+User: idk as long as possible
+Wizard: The Winter Hill Inn is available for 17 days at 1461.3USD from Sept 14 to Sept 30
+User: nice…..ahhh. sounds great. 17 days off work...
+Wizard: Would you like me to book this for you?
+User: No, I don’t have any vacation days left so I can’t book anything. Thanks for looking anyway. I appreciate it.
+Wizard: Not a problem. Please do not hesitate to contact us again should you have any travel requirements.

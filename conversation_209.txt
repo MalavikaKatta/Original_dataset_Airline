@@ -1,0 +1,8 @@
+User: I just can't wait to get away from it all. I live in Dublin and I'd like to go to Pittsburgh. What's available?
+Wizard: I have 2 options, when is it you would like to travel?
+User: Between August 17 and 30 would be ideal
+Wizard: I have 2.5 and 3.5 star packages available.  Both are 11 day packages that work within your dates.
+User: Let's explore the 3.5 star packages. What's included?
+Wizard: That would be the Onyx Isle Hotel, which includes all the usual amenities such as wifi, parking and a complimentary continental style breakfast with freshly baked buttery French croissants. It is available form August 17 to August 27th on both economy and business class flights. Is this you your liking?
+User: How can I say no to that?! I'll book it right away!
+Wizard: Awesome. I will reserve that for you.

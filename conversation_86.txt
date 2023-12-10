@@ -1,0 +1,11 @@
+User: Hi im looking to go on a trip to baltimore
+Wizard: What city will you be departing from?
+User: Im from Las Vegas!
+Wizard: Let me know how this sounds: 10 days at Baltimore 's Countryside Resort starting August 18.
+User: im looking to leave on August 25th, do you have anything around there?
+Wizard: I could book you 10 days in Baltimore leaving on the 25th.
+User: 10 days in baltimore seem perfect! can you tell me about the hotels?
+Wizard: The only available hotel is the Countryside Resort. It is a 3-star hotel with a 7.06/10 guest rating, free wifi, free parking and free breakfast. Do you want me to book this trip?
+User: ya for sure!
+Wizard: Booked! Your flight leaves Thursday, August 18th at 5:13 p.m. Enjoy your stay!
+User: thank you so much

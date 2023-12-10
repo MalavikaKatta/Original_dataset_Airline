@@ -1,0 +1,24 @@
+User: Hi there hello
+Wizard: Look and book, how may I help you?
+User: I need to schmooze a few fellas who are high stake investors with my company. So we're gonna take em a little business trip to Vancouver
+Leaving from Sydney
+They're big spenders so the budget is of no consequence
+Wizard: Sydney to Vancouver.  Dates of travel please?
+User: I can't leave until September 6th. but the return date is flexible
+Wizard: How many people?
+User: 5 adults in total
+Wizard: I have two possible choices for you,  Parallel Carnaval Bed & Breakfast or Obsidian Gem Inn, offering 14 or 8 day packages.
+User: And what are the ratings on those hotel?
+Wizard: 3 and 4 stars respectively.
+User: Tell me  a little more about the Obsidian Gem Inn please
+Wizard: The Obsidian Gem Inn is a 4 star hotel located near the park, museum and cathedral with a guest rating of 8.8/10 stars. Amenities include wifi, parking and breakfast, all at no charge.
+User: Could you tell me whats free in Pittsburgh?
+Wizard: I have a few choices in Pittsburgh, but none that are more than a 2.5 star.
+User: Ah - well that won't do. So before be go ahead and book Vancouver at the Obsidian Gem I would first like to take a look at La Paz
+Wizard: In La Paz we have the Echo , also a 4 star hotel also includes wifi services, as well as free parking and a complimentary breakfast. Price on this package is 6941.92USD for a 6 day stay provided you all fly in economy .
+User: Ah that sounds lovely, and might be a nicer change of scenery than staying domestic. Is the hotel located near anything of note?
+Wizard: I have no information on the location of this hotel.
+User: What might be the price if we flew Business class?
+Wizard: 8616.55USD
+User: Alright, charge it to the company card Thanks a bunch!
+Wizard: I hope the Echo meets your expectations

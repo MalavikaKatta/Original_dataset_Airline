@@ -1,0 +1,21 @@
+User: Hi, can you help me book a trip with my assistant? We are only free between Aug 30 and Sep 7
+Wizard: I can indeed! Where are you headed?
+User: Let's see what you have for Ulsan
+Wizard: Where would you be departing from?
+User: Toronto
+Wizard: And how many adults and children will be on this trip?
+User: Just two adults
+Wizard: I'm happy to report that we have a trip between August 30 and September 4, at a 5 star hotel. Would you like to know more about this option?
+User: Would you know if it's close to a park?
+Wizard: Its near a park, shopping, and a mall!
+User: Nice! Forgot to mention my budget is 3300. How much will this trip cost?
+Wizard: Unfortunately, none of our trips for two adults fit in that budget. This particular trip costs 6992.48USD. Would you like for me to look up a different destination?
+User: There are no cheaper options in Ulsan?
+Wizard: The cheapest trip to Ulsan I have costs 4731.5USD.
+User: How about Buenos Aires?
+Wizard: Unfortunately, we do not have results for Toronto to Buenos Aires.
+User: Athens?
+Wizard: None for Athens either. :disappointed:
+User: I don't think this trip will work out for us then
+Wizard: Sorry I couldn't find you a trip...please let me know if I can help with any future trips!
+User: No worries, thanks!

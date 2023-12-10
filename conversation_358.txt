@@ -1,0 +1,8 @@
+User: Hi! Can you help me book a family vacation? Great! I'm looking to book a trip for 7 adults and 6 kids. We live in Campinas and we are going to Berlin. What options can you offer me?
+Wizard: When would you like to depart?
+User: We don't have specific dates in mind yet but we would like a holiday that is over a week long
+Wizard: I have only 5 star hotels available. How much do you have to allocate to this trip?
+User: We want to spend at most 29000
+Wizard: I apologize but after double checking I realize that I do not have any direct flight s from Campinas to Berlin. Is there anywhere else you would like to go?
+User: No, we are specifically looking to book a trip to Berlin.  Thank you, I'll try going through other agencies.
+Wizard: I apologize for any inconvenience. Have a nice day.

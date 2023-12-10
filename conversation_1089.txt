@@ -1,0 +1,13 @@
+User: I want to got to Kochi
+Wizard: Hello! I would love to help with that. Where will you be leaving from?
+User: anywhere. ive got 8000 and i wanna go between the 11th and 20th but my dates are flexible
+Wizard: Sounds good! We have a 3.5 star hotel in the heart of Kochi close to a park. It has average guest ratings of 7.15/10 and offers free wifi. Would this interest you?
+User: maybe....is there anything with a better hotel rating?
+Wizard: That is the only availability in Kochi.
+User: Does it leave from Santos? I just found out that i'll need to leave from there.
+Wizard: We could take you there from Santos! How does a 10 day stay for 5474.10 sound?
+User: sounds good to me, when is this trip?
+Wizard: It's from September 11th to 19th.
+User: Perfect! Can you book me this trip then?
+Wizard: Of course! Consider it done :slightly_smiling_face: Anything else for today?
+User: nope! thanks!

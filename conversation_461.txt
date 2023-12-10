@@ -1,0 +1,3 @@
+User: I need to go from Kabul to Toronto, would you happen to have any flights for me?
+Wizard: We do not fly out of Kabul
+User: Okay, I will check expedia then.

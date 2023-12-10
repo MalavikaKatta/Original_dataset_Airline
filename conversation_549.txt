@@ -1,0 +1,11 @@
+User: Good evening
+Wizard: Good evening
+User: I think what I need is to travel, but I have no time. I've saved up $3200, would I be able to get out of Valencia and to Busan?
+Wizard: Packages for Busan are presently unavailable from Valencia
+User: Calgary??
+Wizard: Packages to Calgary are presently unavailable from Valencia
+User: Berlin???
+Wizard: Packages to Berlin are presently unavailable from Valencia
+User: :disappointed: :disappointed: :disappointed: Ok one last try How about Milan
+Wizard: Packages to Milan are presently unavailable from Valencia. We suggest you check back with us at a later date.
+User: You did what you could, and for that I am grateful...friend

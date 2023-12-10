@@ -1,0 +1,17 @@
+User: Hello
+Wizard: Hello!
+User: I’ve been recently graced with a week’s vacation allowance and so I’m looking to see where exactly I should go. I’ll be departing from Rome and I can take my time off on or after September 7th
+Wizard: Lucky you! Do you have a budget in mind?
+User: Not within reason. I haven’t taken a trip in a couple years so I’m not particularly penny-pinching
+Wizard: I see. I can book you trips to Fortaleza, Rio de Janeiro, Campinas, Burlington, or Belem. Any of these interest you?
+User: Ahh sure - can I hear some more about Fortaleza?
+Wizard: Sure! In Fortaleza we have a 3 star hotel rated 7.15/10 by guests. It is close to a mall and offers free parking, free breakfast, and free wifi.
+User: Can you tell me what the Burlington hotel would be like?
+Wizard: It would be a 2.5 star hotel in the heart of Burlington with 6.77/10 guest rating, free parking, and free wifi.
+User: How about Belem with a higher rating?
+Wizard: You are in luck! In Belem we have a 4.5 star beachside hotel with 8.8/10 guest rating, free wifi, free breakfast, and free parking.
+User: What’s the price?
+Wizard: 3043.42 if you want to fly business. 2373.56 if you want to fly economy.
+User: Business please.
+Wizard: Sounds good! It is booked for you! Anything else I can do for you today?
+User: That’s about it- thanks so much!

@@ -1,0 +1,16 @@
+User: Hello! I’m looking to get my parents on a nice anniversary trip
+Wizard: Happy to help! Where do you think they would like to go?
+User: That’s the thing…I’m not sure! Can you just see what you can find for flights leaving Portland?
+I have 1100 to spend on this
+Wizard: Are you just booking for 2?
+User: Yup just the two of them
+Wizard: Are they flexible with their dates?
+User: Decently flexible: anything between September 8 and 28
+Wizard: Alrighty, I have 14 day trips to Philadelphia and Pittsburgh, 12 day trips to Atlanta, and 10 day trips to Denver, Boston, San Diego, and Punta Cana. Which ones would you like more information on?
+User: you can get us a 14 day trip to Philadelphia on my budget??
+Wizard: Sure can! It's a 2.0 star hotel near a park and a museum. While there, your parents can enjoy free wifi + breakfast + parking. All this for $1098.47!
+User: What are the dates?
+Wizard: It's from September 13-26.
+User: This is excellent, I want to go for it
+Wizard: Awesome! I will book it for your parents. The confirmation email will be sent to you!
+User: Thank you!

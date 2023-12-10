@@ -1,0 +1,11 @@
+User: Greetings, my name is Harold. My grandson told me that I can book a flight by talking to a robot over the World Wide Web - I could hardly believe my ears! Back in my day, you had to saunter over to the local travel agency and wait in line to talk to an agent.
+Wizard: How can I help you?
+User: Anyway, I am getting off topic here. If you could be so kind, I would like to inquire about possible flights departing from Lima and arriving in Mexico City
+Wizard: Do you have a budget for your trip?
+User: I can afford to splurge on this trip! :slightly_smiling_face:
+Wizard: Great! Will you be travelling alone?
+User: I would like to leave between now and September 1 if possible. I'm traveling alone
+Wizard: We have one result for your request. It is a 3 star hotel near a beach, and mall. This hotel also offers free wifi and free parking. The economy flight is 1329.53 and the business class is 1657.60. This flight is from August 22nd to September 1st.
+User: How wonderful! You know, I was just thinking how great it would be to bring some of my old fishing pals down to Mexico City with me. I hate to be a pain in the backside, but would you be able to add three more to my request? Business class please, thank you so very much!
+Wizard: You are all booked for this trip! 
+User: I cannot begin to thank you enough! It will be a hoot and a half!

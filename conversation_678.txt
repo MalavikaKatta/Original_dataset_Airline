@@ -1,0 +1,25 @@
+User: so I have 6 days vacation and I must leave from Punta Cana
+Wizard: Can I interest you with a  6 day trip to Brazil? Hotel Mundo in Manas from September 11 to 16.
+User: Yes perhaps, can I hear the details?
+Wizard: For only 1919.72USD, you'd be staying near a park and shopping.
+User: how many stars?
+Wizard: 2.5 stars
+User: hm ok, well can I hear my other options
+Wizard: I can also offer you a trip to the Double Gorge Inn & Suites, in San Juan from September 12 to 17, for 1996.46USD.
+User: and what amenities are included
+Wizard: This hotel offers free parking, free breakfast, AND free wifi!
+User: wow, great! ok what else?
+Wizard: I can also send you to Busan from September 1 to 5, where you'd be staying at a 3 star hotel near the park, museum, and university. Would you be interested in this package?
+User: is breakfast included?
+Wizard: Indeed it is, along with wifi and parking!
+User: what is the price for that one?
+Wizard: The total comes to 3814.63USD. Would you like me to look up more destinations?
+User: ok
+Wizard: How does that sound? Would you like me to look up more destinations?
+User: I think I want to go with San Juan
+Wizard: Sure, would you prefer business class or economy class seats?
+User: Business
+Wizard: That would cost 2507.91USD. Should I go ahead and confirm this booking?
+User: yes please
+Wizard: Great, you're booked, we hope you have a wonderful trip!
+User: thank u

@@ -1,0 +1,4 @@
+User: back for another crazy trip here
+Wizard: Where would you like to go?
+User: Get me from Denver to Maceio
+Wizard: I’m sorry but I have no flights from Denver to Maceio.

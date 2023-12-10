@@ -1,0 +1,22 @@
+User:  get me to puebla 
+Wizard: Hello
+User: from st. petersburg
+Wizard: Ok! Budget?
+User: I've got 1900. but only traveling by myself
+Wizard: When would you like to travel?
+User: Flexible on dates!
+Wizard: Ok! I have a 17 day stay at Grand Brewery Mexico for 1377 USD. It’s a three star hotel with free parking, breakfast, and wifi and a 8.8/10 guest rating.
+User: Interesting. I'm having a hard time deciding between that and Kyoto
+But can you even get me to Kyoto?
+Wizard: Not for 1900 dollars unfortunately.
+User: What if I left from san jose instead?
+Wizard: In that case I have 7 or 9 day packages for you at the Glorious Bazaar hotel plus in Kyoto! A 3 star hotel near a museum with a guest rating of 8.22/10. Also included in this package are free breakfast and free wifi.
+User: Wow ok! How much would that cost?
+Wizard: From Sept 7-14 it would be 1213.16USD with economy class flights. From Sept 2-7 it would cost 1675.12, also in economy class.
+User: Ok then book me for 7-14 please
+Wizard: You’ve got it :slightly_smiling_face: Would you like to upgrade to Business class for an extra $ 329 ?
+User: Could I fit that under budget?
+Wizard: Yes!
+User: I'll play it safe and do economy, but thanks for the offer!
+Wizard: Absolutely :slightly_smiling_face: I will go ahead and book you the economy class ticket
+User: perfect, thanks!

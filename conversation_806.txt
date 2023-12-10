@@ -1,0 +1,14 @@
+User: Hello! I'm looking for a vacation for me, my wife, and our 2 kids.
+Wizard: I can help with that :slightly_smiling_face: Where are you leaving from?
+User: Burlington
+Wizard: And where would you like to go?
+User: We've been thinking about Brasilia
+Wizard: Let me see what I’ve got. Are you on a budget?
+User: yes, 1800
+Wizard: The cheapest family package I have from Burlington to Brasilia is 7402.70USD.
+User: ouch. Okay, how about a vacation in Punta Cana?
+Wizard: My best deal would be 4358.48USD.
+User: Anything for Chicago?
+Wizard: I can give you six days in Chicago for 2418.80USD
+User: What is the hotel like?
+Wizard: The hotel is 2.5 stars but has a 8.22/10 guest rating. It is near a park and a museum and features free parking, wifi, and complimentary breakfast.

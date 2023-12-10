@@ -1,0 +1,16 @@
+User: Hello there, I'd like to book a vacation for my best friends and myself. I live and work in St. Petersburg, and I've been wanting to get out of the city with my buddies for a long time now :slightly_smiling_face:
+Wizard: Ok! How many of you will be travelling? Any destination in mind?
+User: Do you have any flights departing for Santiago on August 24?
+Wizard: You’re in luck! I can book you Aug 24-28 in Santiago for only 1563 dollars per person.
+User: And how about San Juan, departing on the same day?
+Wizard: I can book Aug 24-27 in San Juan for 1169.
+User: What kind of hotel can you find me in Santiago?
+Wizard: In Santiago I have Una casa available. It is 3 stars with free wifi, free parking, and free breakfast.
+User: Ooh fancy! And what about the hotel in San Juan?
+Wizard: I have the Fairyland, a 4 star hotel near shopping, markets, and a museum with free wifi.
+User: Would you be able to find me a nicer hotel in any of these cities?
+Wizard: Unfortunately those are the only hotels that leave on August 24.
+User: Can you put us up for Santiago August 24-28. Umm book for one please
+Wizard: Ok! I will book for one person for Santiago. Is this ok?
+User: Yes! Thank you :slightly_smiling_face:
+Wizard: You are welcome! That will cost 1563.24USD.

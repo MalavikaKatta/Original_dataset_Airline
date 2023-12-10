@@ -1,0 +1,6 @@
+User: I would like to go to Monterrey from Stuttgart
+Wizard: You cannot do this.
+User: Well how about if i go to Dublin for 2300 with 11 adults
+Wizard: For 11 adults the cost would be 24294.45USD.
+User: too much. How about marseille for 2000 with 7 adults
+Wizard: I cannot accommodate this request.

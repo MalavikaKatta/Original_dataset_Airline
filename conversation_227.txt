@@ -1,0 +1,28 @@
+User: Hi, I want to take my kids on a wonderful vacation, can you help me find something that my wife and I will approve on.
+Wizard: Sure! Where will you be leaving from?
+User: Were leaving from Naples
+Wizard: Do you have a budget?
+User: $9500 is what my wife is letting me spend, but i still have to ask for her permission
+Wizard: How many people will be travelling?
+User: My three angelic kids, who i love so dearly! And of course my beautiful lovely Wife
+Wizard: Do you know when you and your family would like to travel?
+User: She was thinking between August 27th and September 5th but the kids will have school, but she says itll be okay so i dont care what i think, those dates preferably :slightly_smiling_face:
+Wizard: We only have one destination in our database leaving from Naples and that is Hamburg.
+User: honestly that sounds fine what packages are available
+Wizard: What flight would you prefer? Economy or business class?
+User: We try to stay financially smart let's say economy
+Wizard: This package is from the 25th to the 30th of August. The hotel is 3 stars and offers free breakfast, wifi and parking. The cost of this package is 6166.86.
+User: I want to treat my loveys to the best do you have any better rated hotels?
+Wizard: Sorry, we only have the one hotel option for this trip.
+User: What if i left from birmingham?
+Wizard: The only result for this is a trip to Calgary.
+User: well that doesnt seem ideal, what if i left from Dallas
+Wizard: You could go to Punta Cana if you leave from Dallas.
+User: what star hotels do they have there?
+Wizard: 2.5 and 0 star hotels.
+User: Okay let's see if i leave from Marseille where could i go! i need to make this perfect!
+Wizard: You could go to Munich, Germany.
+User: Do you have anything to porto it doesnt matter where we depart from
+Wizard: We have flights to Belo Horizonte, Brasilia, Rio de Janeiro, Calgary, and Munich. Do any of these interest you?
+User: Brazil seems safe for the family! what offers are there in Belo Horizonte
+Wizard: The only result for Belo Horizonte is a 2.5 star hotel from the 27th to 31st of August. They offer free breakfst, wifi, and parking. The cost for this package is 2961.50.

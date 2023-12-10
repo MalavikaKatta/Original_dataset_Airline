@@ -1,0 +1,8 @@
+User: I want to go to Monterrey from Tofino
+Wizard: Do you have a budget?
+User: no I am very flexible with the price. but I would like it if it could be around 3300 for 7 adults
+Wizard: I am sorry, but  I don't have any results for that
+User: I could increase my budget by 200.
+Wizard: Hi, so after double checking, I found that we do have something to Long Beach
+User: No, that wont work. hmm i guess i'll have to go somewhere else. that's okay. Thanks for the help anyway.
+Wizard: Goodbye

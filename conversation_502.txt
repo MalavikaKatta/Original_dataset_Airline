@@ -1,0 +1,7 @@
+User: Hey there, sooo I’m in a bit of a bind where I’m getting married next week and have yet to book a honeymoon..
+Wizard: Hello! Where would you like to go?
+User: We’ve got a fair bit of money on hand - 4100. Would love to go to Porto Alegre! Our wedding will be in Leon
+Wizard: When would you like to leave?
+User: Any time after the wedding, which is September 3
+Wizard: There's nothing to Porto Alegre but is there somewhere else you'd be willing to go?
+User: Ahhh dammit No

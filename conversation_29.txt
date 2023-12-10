@@ -1,0 +1,11 @@
+User: Hi, send me on a 10 day-trip away from Cairo. I'd like to leave August 15. Send me to Sendai. Money is not object
+Wizard: How many adults and how many children will be travelling?
+User: Just me, one adult
+Wizard: I have a trip to Sendai from August 15th at 11:00 a.m. to August 22nd at 7:00 a.m.  The guest rating is 8.49/10. You'll be flying economy
+User: Would you be able to tell me which airline I would be flying with?
+Wizard: No, but I can confirm that you will be flying Economy.
+User: Would it be possible to upgrade to first class?
+Wizard: I can offer you another package.  If you leave on August 17th, I can offer you a hotel with a guest rating of 8.8/10 and you could fly Business Class.  The flight would leave from Cairo on Wednesday August 17th at 11:00 a.m. and return Wednesday, August 24th at 7:00 a.m.  In addition, the hotel has free wifi.  Would you like to book this travel package?
+User: Could you tell me if either of these hotels allows pets?
+Wizard: No, I do not have access to this information. Would you like to book this travel package anyway?
+User: Yes, I would like to book this package.

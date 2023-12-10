@@ -1,0 +1,9 @@
+User: I need you to book me a trip to San Antonio please
+Wizard: Sure, where would you like to leave from?
+User: I'm actually flexible on departure city, so just tell me whatever is cheapest. However, I do need to stay at least 4 days.
+My budget is 2700 by the way
+Wizard: I can offer you a 13 day package from Washington for only $493.
+User: Oh I forgot. What I do is difficult, dangerous, and requires me to be near a park.
+Wizard: The Winter Hill Inn is near a park, mall, and theatre!
+User: Then I will take it!
+Wizard: Alright, you're booked

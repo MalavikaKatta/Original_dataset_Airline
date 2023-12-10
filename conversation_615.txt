@@ -1,0 +1,11 @@
+User: EXCUSE ME
+Wizard: Yes, hello would you like some assistance?
+User: I WANT TO LEAVE FROM JERUSALEM. ROME I WANT TO GO WITH A DOZEN PEOPLE
+Wizard: I regret we do not provide package destinations from Jerusalem to Rome
+User: WELL WHAT IF I LEAVE FORM JERUSALEM ON AUGUST TWENTY FIFTH
+Wizard: EVEN THEN
+User: WELL I WILL GO TO BIRMINGHAM THEN. I WILL STILL LEAVE FROM JERUSALEM BUT I WILL ONLY BRING 2 OTHER ADULTS SO THATS 3 ADULST IN TOTAL GOT IT?
+Wizard: August 25th departure?
+User: YES THAT IS  WEHN I AM GOING TO LEAVE
+Wizard: I have nothing to Birmingham from Jerusalem either
+User: YOU ARE BAD I HATE YOU

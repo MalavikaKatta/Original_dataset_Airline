@@ -1,0 +1,8 @@
+User: hi
+Wizard: Hello
+User: my name is Cosmos and I need to go to Kobe from Tampa
+Wizard: Do you have a budget?
+User: lol ya 3 adults 4 children willing to pay 31400 $$$
+Wizard: Unfortunately there are no results for this request. Is there another destination you'd like me to check for you?
+User: no actually i meant to go to Fukuoka
+Wizard: There are no results for this destination either.

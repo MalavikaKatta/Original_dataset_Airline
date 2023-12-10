@@ -1,0 +1,27 @@
+User: helllo
+Wizard: Hey there, what are you looking for?
+User: id like to go to porto from santiago, from monday september 5th 2016 to monday sept 19, 2016
+Wizard: Ok! Are you flexible with your dates?
+User: not really
+Wizard: Unfortunately I have nothing available from Santiago to Porto in your date range.
+User: ok yes flexible
+Wizard: Ok! How about Aug 30-Sept 12?
+User: ok
+Wizard: Would you like to hear more about this package?
+User: yes sure.
+Wizard: You can stay at the Breakwater Hotel from August 30th to September 12 for $2607. This is a 3.5 star hotel in Porto Alegre with free wifi and free breakfast.
+User: or san francisco as well
+Wizard: Would you like to go to Long Beach from Santiago?
+User: ok can you tell me more about Long Beach
+Wizard: Would you travel from Aug 24-30
+User: no..only sept 5 to 19th
+Wizard: I can book you August 30th to September 3rd in Long Beach.
+User: what about valencia 
+Wizard: I can book Valencia from September 6-11
+User: ok san francisco?
+Wizard: I can book San Francisco from Sept 5-9 at a 2.5 star hotel near a museum for 3289.59USD.
+User: I will take valencia
+Wizard: Absolutely. The cheapest package is $667
+User: ok I will take that
+Wizard: Great :slightly_smiling_face: I will book that for you
+User: ok thanks

@@ -1,0 +1,10 @@
+User: i have got some time off work for the first time in freakin YEARS and i need a vacation. screw the budget i wanna go to nagoya from september 8 until the 29
+Wizard: Where are you leaving from?
+User: phoenix
+Wizard: There are no flights to Nagoya.
+User: what about to vancouver?
+Wizard: There's a 4 star hotel near a park, museum, and cathedral with a 8.8/10 guest rating, free parking, breakfast, and wifi. This package is from September 11th to 18th and business class seats cost 1304.23.
+User: cool not bad. ahh before i book that little getaway whats in tampa
+Wizard: There's a 3 star hotel near a park, beach, museum, and airport. It has a 8.8/10 guest rating, free parking, breakfast, and wifi. This is from September 11th to 14th and business class costs 767.14.
+User: i need to get away from a little longer than that one. so lets book vancouver please and thanks
+Wizard: Great! It is done. Have a great day!

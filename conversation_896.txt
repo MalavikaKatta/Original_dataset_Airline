@@ -1,0 +1,28 @@
+User: This is a little short notice But I'm trying to get of San Diego for a bit
+I'd like to travel between Sept 8 and 17
+Wizard: Where would you like to go?
+User: Rome?
+Wizard: Do you have a budget?
+User: No budget for now
+Wizard: And travelling alone?
+User: Yes
+Wizard: Would you rather travel from September 8th to 16th or September 11th to 15th? Both hotels are 4 stars and offer free breakfast and wifi.
+User: I think the longer stay would be best! How much would that cost for economy flights?
+Wizard: 2555.13 for economy flights.
+User: Cool. I have a number of other cities on my list
+Next up is Busan
+You fly there?
+Wizard: Yes! Here, we have a 3 star hotel near a park, museum, and university, 6.77/10 guest rating, free parking, breakfast, and wifi. This package is from the 12th to 15th of September. Business flights cost 4644.15, economy flights cost 3566.45.
+User: Thanks for the detail! It seems a lot more expensive than the previous package, so I'll think about it.
+Can you also look at Vancouver?
+Wizard: No problem! We have a 4 star hotel in Vancouver near a park, museum and cathedral, free parking, breakfast and wifi, 8.8/10 guest rating, from September 11th to 17th. Business flight package costs 1333.77, economy flight package costs 1126.99. Any other destinations you'd like information for?
+User: Yes one more: Chicago
+Wizard: Here we have a 2.5 star hotel available. The hotel is close to a museum and university, has a 8.69/10 guest rating, and free parking, breakfast and wifi. This package extends from September 12th to 15th. The business class package is 734.84 and the economy class package is 651.54.
+User: Hmm. I really feel like Rome is the best option here
+Wizard: Would you like to book a package?
+User: Would I still be able to book that package?
+Wizard: Of course! Would you like economy or business?
+User: I think economy will do just fine
+Wizard: Great! The package is booked for you! You will get an email for confirmation and details about your trip! Have an awesome day and enjoy!
+User: My day just got awesome...thanks!
+Wizard: No problem

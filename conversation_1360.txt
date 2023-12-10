@@ -1,0 +1,15 @@
+User: My name is Stephen King and I want to book a  quiet getaway
+Wizard: Ok, where would you like to go?
+User: Kyoto from crazy noisy St. Louis
+Wizard: Do you have a budget?
+User: 5400 for the 3 of us
+Wizard: All adults?
+User: Yes my wife and son will be coming with me but he is 18
+Wizard: Okay. Do you have dates in mind?
+User: I need 12 days to finish my book and we can go anytime
+Wizard: There are no results.
+User: Try Leon instead please, heard it's quiet there too
+Wizard: There are no results for this either.
+User: what if we only stay 9 days at either Kyoto or Leon, can you find me something?
+Wizard: There are no results.
+User: thank you

@@ -1,0 +1,10 @@
+User: HEY
+Wizard: Hi
+User: im tryina get to hamburg
+Wizard: where would you like to leave from?
+User: im gonna bring 5 lawyers with me and 5 kids. leaving from chicago
+Wizard: Any budget in mind
+User: 31500
+Wizard: Any dates in mind?
+User: meh nah
+Wizard: Sorry it seems there are no flights available to Hamburg

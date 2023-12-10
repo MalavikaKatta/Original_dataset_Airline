@@ -1,0 +1,21 @@
+User: I’d like to go from Ulsan to Indianapolis soon but keep it under 5700 please
+Wizard: Travelling alone?
+User: indeeed I am!
+Wizard: Do you have travel dates in mind?
+User: nope - just soon
+Wizard: We have 2.5 and 3 star hotels, which do you prefer to hear about?
+User: Which is in a better area?
+Wizard: 3 star for sure. Would you rather have economy flights or business?
+User: What is around the hotel? And what is the guest rating?
+Wizard: A park, beach, airport, and university. The guest rating is 7.15/10. They also offer free parking, breakfast, and wifi.
+User: What can you find me in Maceio? I’d like something in the heart of the city.. maybe near markets or shopping districts
+Wizard: A 3.5 star hotel near a park and shopping.
+User: Even if I left from Fukuoka instead?
+Wizard: Yes. This is the only result.
+User: Maceio, what’s the travel date?
+Wizard: September 12th to 21st.
+User: Price?
+Wizard: 5569.34.
+User: Ok let’s do it
+Wizard: Done! have a great day!
+User: Thanks - you too

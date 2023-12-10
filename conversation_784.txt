@@ -1,0 +1,13 @@
+User: You can help get myself, my lawyer Bruce, and my girls Tanya and Robin to Rome
+Wizard: Ok! So that’s 2 adults, 2 children?
+User: Rumours abound of a croissant so good, whoever eats it enters into an state of absolute grace. I must find this product and sell it at my St. Petersburg bakery. yeah, you know. 
+Wizard: Are you leaving from St. Petersburg?
+User: I am
+Wizard: And are you travelling with a budget?
+User: 8800 USD
+Wizard: And would you prefer to stay at a 4 star hotel or an unrated facility?
+User: 4 stars please
+Wizard: Ok! I have the Hotel Emerald Legacy for 6 days at a price point of $7986
+User: What are the amenities? Bruce is a baby about these things
+Wizard: Hotel Emerald Legacy has free breakfast and free wifi, as well as a guest rating of 8.22/10.
+User: Ok I will relay this information to him. How do I confirm?

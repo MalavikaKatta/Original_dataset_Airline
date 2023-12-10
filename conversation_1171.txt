@@ -1,0 +1,18 @@
+User: hi
+Wizard: Hey! What can I do for you?
+User: i want to bring my kids to vitoria to see their mother. so 4 kids and one adult ticket please
+Wizard: Where will you need to fly out from?
+User: toronto
+Wizard: Do you have a budget?
+User: no set amount, but i would like a reasonable price
+Wizard: When would you like to leave?
+User: we are flexible
+Wizard: The only result we have is a 6 day package from September 24th to 28th at a 3 star hotel in the heart of the city.
+User: this is the only package at all from toronto to vitoria?
+Wizard: Yes but it offers free breakfast, wifi, and parking, and they have business and economy flights available.
+User: how much will it be for economy?
+Wizard: 4485.14. Would you like to book it?
+User: sure
+Wizard: Your wish is my command. You will get email confirmation shortly, have a great day and enjoy the trip!
+User: :+1: great
+thanks

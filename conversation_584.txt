@@ -1,0 +1,24 @@
+User: I just got a tip that Madonna might be going to Burlington
+Wizard: Where would you be leaving from?
+User: I'd be leaving from Kobe
+Mind you I want you to book me the nicest hotel in Burlington
+Wizard: What is your budget?
+User: 4700
+Wizard: When would you like to leave?
+User: On or after Sept 6
+Wizard: The best package we have is a 3 star hotel near a park with a 6.51/10 guest rating and free wifi. This is from September 10th to 19th with economy seats and costs 3668.84.
+User: Do you have nicer hotels in Burlington?
+Wizard: The best are 3 stars.
+User: Is the one you offered also the hotel with the best user rating?
+Wizard: There is a hotel with a guest rating of 8.69/10
+User: How much would that cost?
+Wizard: 3965.45 and this hotel offers free breakfast and wifi. The package is from September 17th to 25th and is an economy class flight.
+User: Would be it be possible to leave earlier for this hotel?
+Wizard: The earliest departure is September 12th.
+User: Ok thats possible. Whats the price there?
+Wizard: The return date is the 16th and costs 4628.60 for business class and 3583.24 for economy class.
+User: Whew ok
+Wizard: Would you like the business flight or economy?
+User: business please
+Wizard: Great! Your business class flight is booked! Have a great day!
+User: :slightly_smiling_face:

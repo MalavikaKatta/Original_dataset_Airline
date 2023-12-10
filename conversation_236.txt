@@ -1,0 +1,14 @@
+User: Hi im a failing author and i need some headspace looking to get away with my family! can you help e out?
+Wizard: Most definitely! Where are you from and where would you like to go?
+User: Were from Punta Cana! maybe Fortaleza if there is something affordable, my last book sold 2 copies
+Wizard: How many people will there be in total? And what dates are you aiming for?
+User: just my wife and son. not sure when i just want to go for two days tho
+Wizard: I do not have any packages available to Fortaleza for under 12 days. The shortest say I can offer is 5 days in the Cuba. Would you like to know more about this package?
+User: Anything to Paris for 2 days?
+Wizard: Sorry, but I can only offer a 5 day trip to Paris. 
+User: If we can find something for less than 3000$ lets try and book something
+Wizard: I have a 5 day stay at the Rose Sierra Hotel in Santo Domingo, a 3 star resort near the beach and shopping, under 1145.11 USD.
+User: whats in Fortaleza again?
+Wizard: I have a 12 day trip to a 3 star hotel in Fortaleza, Brazil for 2632.17 USD.
+User: Let’s book that straight away and hope my luck doesnt run out
+Wizard: Great! Booking is complete.

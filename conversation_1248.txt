@@ -1,0 +1,23 @@
+User: I would like you to find me, my wife, and my 4 children, a trip to Guadalajara from Seattle.
+Wizard: Sure! When would you like to go?
+User: september 11th to 21st or somewhere in between.
+Wizard: Have you got a budget in mind?
+User: We have 4700 to spend.
+Wizard: Great! I have two hotels within your budget. One is 3 stars and near a park, the other is not near anything of note. Both have free parking, breakfast, and wifi.
+User: What is the other hotel rated?
+Wizard: 2.5
+User: ew. Um okay, do you have anything in Chicago?
+Wizard: I just have one hotel. It is 2.5 stars with 8.69/10 from users.
+User: Anything in Las Vegas?
+Wizard: Yes! I have a 3 star hotel near a market, with 8.98/10 from users, and free breakfast included as well as free parking and wifi!
+User: What is the guest rating at the 3 star hotel in Guadalajara?
+Wizard: 8.49/10
+User: Okay I think Las Vegas is the winner here. How much is the package and what are the dates?
+Wizard: Would you like to fly economy or business?
+User: Business if we can
+Wizard: The cost would be 6206.38USD.
+User: Okay and what are the dates?
+Wizard: September 11th - 21st
+User: Ah Perfect! Yes book this for us please
+Wizard: Ok, I will proceed with booking! Please watch for a confirmation email.
+User: Thanks!

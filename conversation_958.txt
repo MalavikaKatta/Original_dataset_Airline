@@ -1,0 +1,16 @@
+User: Can you get me out of Pittsburgh on Sunday the 11th
+Wizard: Possibly. Do you have a budget?
+User: i got 3700 to my name
+Wizard: Do you know where you'd like to go?
+User: yes can you get me to essen?
+Wizard: Yes. We have a 2 star hotel and a 3 star hotel.
+User: the 3 star? how much it cost?
+Wizard: 2262.84 for economy flights and 2908.78 for business flights.
+User: ok get me out on economy. but it leaves september 11 yes?
+Wizard: There are no flights that leave on the 11th, the 3 star hotel is from September 22nd to 30th.
+User: how about the 2 star? as in the earliest departure
+Wizard: September 16th to 24th.
+User: ok i'll take what gets me out of here the earliest
+Wizard: Alright the economy package for the 2 star hotel leaving the 16th is 2613.80 and the business flights for this package cost 3375.97.
+User: yeah just get me on the economy flight
+Wizard: Great! It is booked! You'll get the rest of the package details in a confirmation email where you can also confirm payment for your trip! Safe travels!

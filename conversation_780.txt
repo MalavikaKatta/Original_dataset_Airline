@@ -1,0 +1,11 @@
+User: Hi, is there anything from san fran to Pittsburgh on or after September 1?
+Wizard: Travelling alone?
+User: You're right!
+Wizard: Do you have a budget?
+User: I only have 2800 left.
+Wizard: We have a 3.5 star hotel near a park, 8.86/10 guest rating, free parking, breakfast, and wifi, from September 2nd to 16th, business price is 1953.80, economy price is 1583.20.
+User: Are there any other options?
+Wizard: Only 2.5 star hotels.
+User: I guess the economy package at the 3.5 hotel will do.
+Wizard: Great! Have a splendid trip!
+User: Thanks! Much appreciated.

@@ -1,0 +1,16 @@
+User: GOINGGG ON SPRING BREAKK need to make it sweet!
+Wizard: Welcome! Do you have a destination in mind?
+User: i heard Cleveland is a good place to go
+Wizard: If you're interested in Cleveland I can book you 8 days at Pleasant Court leaving from San Juan.
+User: well im from boston! what do you have in dallas
+Wizard: If you're flying from Boston to Dallas I can book you in the Winter Arc Hotel from the 26th to the 30th of August for 821.32USD. Would you like to hear more about this package?
+User: what about tampa?
+Wizard: There is a vacancy at Tampa's Dual Loch Hotel from the the 4th to the 7th of September. it costs 804.91USD 
+User: i need to leave on the 17th and return on the 24th
+Wizard: In that case, I can book you from August 19th to 22nd. This would bring your total cost to 1056.50USD.
+User: and where would this be?
+Wizard: This package is for tampa
+User: whats the hotel like?
+Wizard: You would be staying at the Dual Loch Hotel, a 3-star hotel with a 8.8/10 guest rating, free breakfast, free wifi and free parking. It is conveniently located in close proximity to the park, museum, beach and airport. You would be flying out on Friday, August 19th at 6:00p.m. and returning on Monday, August 22nd at 3:00a.m. The total cost of this package is 1056.50USD. Do you want me to book this package?
+User: sounds perfect! go ahead and book it now!!!!!!
+Wizard: Your trip has been successfully booked! Enjoy your stay!

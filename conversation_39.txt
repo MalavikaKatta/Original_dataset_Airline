@@ -1,0 +1,23 @@
+User: Hi I am planning on booking a vacation soon, around August 27th
+Wizard: Do you have an idea of where you would like to go?
+User: I was thinking maybe St. Louis
+Wizard: what city will you be departing from? Any other people travelling with you?
+User: I will be departing from Tijuana. I'll be going solo
+Wizard: I have several options available. A good option would be Chateau Inn & Suites which is a nicely located 3-star hotel. Departure on an economy flight would be on August 27th, returning on Sept 5th.  Total cost for this package is $1324.29. It is also available in business class.
+User: what type of packages would i get if i were to go to Mannheim instead?
+Wizard:  If you would rather go to Mannheim, I have 6 day packages available at a 5-star hotel called The Regal Resort.
+User: im looking for a longer trip, would there perhaps be one in san antonio?
+Wizard: I have 9 day trips available in San Antonio but the departure dates are all in September. Are you able to go in September instead of August 27th?
+User: yes i could as long as i return by September 17th
+Wizard: I have departures available on September 1st, September 7th and September 8th.  I have two choices in hotels - the Vertex Inn or the Winter Hill Inn., both of which are rated two stars.
+User: What would the duration be? and could I see some better rated hotels?
+Wizard: Availability is from Sept 1st to the 9th, Sept 7 to the 15th and Sept 8th to the 16th.  I do not have any hotels available with a better rating. Please do note that both hotels have free parking,  free breakfast and free wifi. Are you looking for a flight in economy class or business class?
+User: they seem very accommodating, how much would this stay on the 1st be compared a vacation in mannheim at the regal resort?
+Wizard: In economy or business class?
+User: for business class
+Wizard: For business class at the Vertex Inn in San Antonio Sept 7 to Sept 15th, the price is $1477.34.
+User: in contrast to mannheim?
+Wizard: Also in business class in San Antonio, I have the Winter Hill either from Sept 1st to 9th or Sept 8th to the 16th at $1477.00.  Business class to the Regal in Mannheim is $3451.00 if you choose to go Aug 27 to Aug 31st and if you pick the week of Sept 6th to the 10th, it is $4249.00.
+User: I think i would like to book the trip to mannheim, leaving on the 27th
+Wizard: Okay I will get all your information and we will proceed with the booking. We  appreciate your business.
+User: thank you very much

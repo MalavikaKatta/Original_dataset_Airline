@@ -1,0 +1,17 @@
+User: Get me to Atlanta!
+Wizard: Ok! From where?
+User: Kochi! I need to bring it back to Kochi!
+Wizard: I have a lovely package to the Crown Plaza Hotel leaving tomorrow, how does that sound?
+User: Will it be able to fit my 5 lawyers and 3 mini-chefs too?
+Wizard: Sorry, I do not understand. How many adults?
+User: That would be 6 adults total including me. And 3 kids yo
+Wizard: Ah, well yes it would be available for your entire party! The cost would be 26719.14USD
+User: Man I was planning on spending much more than that to get a really nice package... since all of us are so high-class and picky you know
+Wizard: There are only two hotels available, both are 3 stars, and the one I have suggested to you has the higher guest rating.
+User: Ugh fine. Is it near anything of interest?. Oh also! Does it have wifi for the kids to play their games?
+Wizard: Yes, it has free wifi.
+User: You said it leaves tomorrow right?
+Wizard: That’s right! And returns September 26th. Does that work for you?
+User: Alright book it for us please!
+Wizard: Ok, I will go ahead and book. Enjoy your stay!
+User: Thanks! Very excited!

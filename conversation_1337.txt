@@ -1,0 +1,8 @@
+User: Hi there, I NEED to go to Miami!
+Wizard: Ok :slightly_smiling_face: Where from?
+User: Queenstown. It'll be 9 adults and 2 kids
+Wizard: I can’t find anything to Miami with that many people. Can I try another destination for you?
+User: What? No, Miami is the place I need to get to! There's amazing pastry recipes at stake! Are you sure about this?
+Wizard: Can you leave from somewhere by chance?
+User: No, there's too many of us. I think I'm going to have to use another service. Goodbye.
+Wizard: Sorry. Good luck

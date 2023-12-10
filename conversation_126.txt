@@ -1,0 +1,17 @@
+User: Hi, I'm trying to book a trip from Madrid.
+Wizard: Great! For how many people and between which dates?
+User: 7 people and between August 26th and September 9th.
+Wizard: And do you have a budget for this trip?
+User: No.
+Wizard: How about a 9 day, 3 star hotel in Essen from Madrid or a 4 day, 4 star stay in Porto Alegre from Madrid?
+User: What are the dates for both trips?
+Wizard: The Essen trip departs August 27th and returns September 4th. The Porto Alegre trip departs August 30th and departs September 2nd. What length of stay are you looking for?
+User: I am leaning towards the Essen trip for 9 days. What is does the hotel offer?
+Wizard: A 6.61/10 user rating as well as free breakfast and wifi!
+User: Does the hotel have a pool or anything?
+Wizard: I do not have this kind of information
+User: How much is this package for all 7 people?
+Wizard: It is a steal at 7328.92 USD!
+User: That sounds great! I'll book it!
+Wizard: Perfect! Your reservation is complete. Have a nice day!
+User: Thanks

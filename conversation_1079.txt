@@ -1,0 +1,25 @@
+User: I gotta get outta Phoenix
+Wizard: Okay, where would you like to go?
+User: I heard Brasilia has some nice casinos
+Wizard: How many people will be travelling from Brasilia to Phoenix?
+User: No! You misunderstood me! from Phoenix TO Brasilia. 
+Wizard: I apologize. From Phoenix to Brasilia. Number of people?
+User: just me, gotta keep under the radar for a bit till the loan sharks get off my back
+Wizard: Do you have a budget for this trip?
+User: 3100
+Wizard: The Sublime Tower in Brasilia has 7 and 10 day packages available. When would you like to leave?
+User: September 14th
+Wizard: I have no Sept 14 departures available to Brasilia. For the Sublime Tower I have Sept 8 and Sept 10th departures and I have 7 day packages available at the Atlantic Gem  with a Sept 26 departure.
+User: What if I leave from Campinas instead?
+Wizard: From Campinas, the earliest departure after the 14th is also on Sept 26th
+User: Is there anything to Curitiba?
+Wizard: From Phoenix or Campinas?
+User: Phoenix
+Wizard: I have a departure from Phoenix to Curitiba exactly on the 14th of September for a 14 day package at the 3 star Dual Basin Residence located on the beach near the shopping, market and mall. This package included free parking, wifi and breakfast.
+User: Sign me up! How much?
+Wizard: Would you prefer to fly via economy or business class?
+User: business if i can afford it. How much would it be for business?
+Wizard: A business class flight is still well below  your budget of 3100USD at  2011.70USD
+User: Wow! Yeah, put me down for 1
+Wizard: Perfect, I will proceed with the booking at the Dual Basin Residence from September 14th to September 27th via business class for 1 week. Thank you for your booking and safe travel.
+User: Thanks, you basically saved my life.

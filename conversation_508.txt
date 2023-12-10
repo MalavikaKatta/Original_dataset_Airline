@@ -1,0 +1,15 @@
+User: Hi there I have a very important request to make today I need to get from Essen to Porto Alegre on August 28 or some point thereafter. But most importantly I need you to book me the best hotel in Porto
+Wizard: I can definitely help you with that. How many adults and children will be travelling?
+User: I am a lone wolf
+Wizard: Do you have a budget and length of trip in mind?
+User: I got 5G, want to stay as long as it will permit
+Wizard: I can offer you a 4 star hotel with outstanding guest reviews of 10/10. The Golden Keep Hotel is close to a park, beach, shopping and a mall and you will enjoy free wifi and breakfast. However, this trip is only 8 days long. I can offer you longer trips, but the hotel will not be as luxurious. What would you prefer?
+User: Wow thats not bad. But there’s no 5 star hotel?
+Wizard: And you would be flying in business class!
+User: Alright
+Wizard: Unfortunately we do not have 5 star hotels available for your dates and within your buget
+User: I’m willing to spend up to 6000 if it means I get a 5 star
+Wizard: Actually, I'm afraid there are no 5 star hotels in my database in Porto.
+User: Thats a letdown. Ok put me up in the Golden Keep hotel then, book it
+Wizard: I will, enjoy your stay! Rest assured that you are staying in our best hotel in Porto.
+User: Thanks!

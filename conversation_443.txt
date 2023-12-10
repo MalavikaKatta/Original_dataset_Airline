@@ -1,0 +1,11 @@
+User: I want to go to Washington. From Madrid
+Wizard: Washington?
+User: Yeah man, Washington.
+Wizard: will you be travelling alone?
+User: no, i'll be with 9 other adults so 10 altogether
+Wizard: how much did you want to spend
+User: $2000 but I am willing to increase my budget by $300 if need be
+Wizard: and did you have any specific dates that you wanted to travel on?
+User: we'd like to travel between august 23rd and august 26 but our dates are flexible.
+Wizard: sadly, we do not have any flights form Madrid to Washington
+User:  that's okay, I'll come back at a later date. Thank you anyway 

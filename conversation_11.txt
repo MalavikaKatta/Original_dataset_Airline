@@ -1,0 +1,11 @@
+User: I'd like to get away from Monday, August 15, 2016 to Wednesday, August 31, 2016. My budget is $3200 and I would leave from Detroit.
+Wizard: And what destination would you like to travel to?
+User: Anywhere, I'm looking for an adventure. What do you have?
+Wizard: How about Mexico or Porto Alegre?
+User: Let's look at both
+Wizard: Mexico is unavailable.  Porto Alegre is available, but you would have to leave from Santos.
+User: Can you please suggest some destinations that are available? I am leaving from Detroit.
+Wizard: I have no departures available from Detroit. for these dates.  Would you like to make a date change?
+User: Anything between August 15 and August 31?
+Wizard: I'm sorry, but we do not have any departures from Detroit available for these dates for the budget you provided.  Would you like to adjust your budget for this trip?
+User: No I cannot. Thank you for your help

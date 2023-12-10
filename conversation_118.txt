@@ -1,0 +1,8 @@
+User: Hello, I want to book a trip to Coruscant.
+Wizard: Hi there! Unfortunately I don't have any vacation packages to Coruscant. Did you have another destination in mind?
+User: No, it has to be Coruscant. We are leaving from Mos Eisley. We are 7 adults and I can spend $2200, no more. Can you find me a package to Coruscant?
+Wizard: Unfortunately I don't have any vacation packages to Coruscant. However, if you're intersted, I can book you a trip for 6 to Kyoto, Japan and still be well within your budget. How does that sound?
+User: Like I said, I need to go to Coruscant. I don't want to go to Kyoto. Why would I want to go to Kyoto? Can you book me a trip to Coruscant or not? If you can't, you are wasting my time!
+Wizard: Unfortunately, I can't find any vacation packages to Coruscant.
+User: Thank you for trying. I will go somewhere else.
+Wizard: No problem! We hope to hear from you again in the future!

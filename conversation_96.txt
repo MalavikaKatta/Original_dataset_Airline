@@ -1,0 +1,11 @@
+User: Hi i am looking to go to Punta Cana with my three friends
+Wizard: Hi there! What city will you be departing from?
+User: hi I will be departing from Gotham city
+Wizard: I can't seem to find any flights to Punta Cana out of Gotham City. There is a package for an 8-day stay in Punta Cana starting on the 24th of August. Your city of departure would be Melbourne, USA.
+User: I could leave from Melbourne USA. any packages in La Paz?
+Wizard: I can't seem to find any flights to La Paz.
+User: i guess punta cana will do!
+Wizard: Excellent! I can book a stay for you and your friends at the El Mar from the 24th to the 31st of August. The cost of this package is 656.60USD. Do you want me to book it.
+User: that would be amazing let’s do it
+Wizard: Your trip has been booked! Enjoy your stay!
+User: thank you!

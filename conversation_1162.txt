@@ -1,0 +1,11 @@
+User: Get me outta St. Petersburg! I need a beach vacation!
+Wizard: I can certainly help you with that! How many of you will there be and which city would you like to go to?
+User: Just me. Santo Domingo.
+Wizard: Do you have a budget in mind for this vacation?
+User: 2900
+Wizard: And is there a certain number of days you would like to spend?
+User: My vacation time is from September 24 to September 27.
+Wizard: The shortest package we have to Santo Domingo is 10 days long. Are your dates flexible at all?
+User: No they are not. 
+Wizard: DO you have another destination in mind?
+User: No I don't. Thanks for your help anyway, Good day.

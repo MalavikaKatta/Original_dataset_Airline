@@ -1,0 +1,48 @@
+User: So I live in Long Beach. What do you have for Cairo?
+Wizard: Hi! We are here to help you book your best trip possible. I will search for flight availability from Long Beach to Cairo. How many people will be travelling together and what is your expected date of departure?
+User: just me and it can be between august 30th and september 17th
+Wizard: I have one package available during that time period. It would be a 15 day package at the Mellow Horizon Inn & Suites located near the University of Cairo. Would this be of interest to you?
+User: yes that would be great
+Wizard: This is a 3 star rated hotel with a guest rating of 8.8 / 10 . The package included free wifi, parking and breakfast. Flight departs August 27 and returns on Sept 10.
+User: I thought you said it fit my dates, I asked to leave after August 30th..
+Wizard: The flight departs on August 27. Are your dates flexible?
+User: Not really, is that all you have for cairo?
+Wizard: Yes it is. Would you like me to look at other destinations for you?
+User: Yes, next on my list is San Francisco
+Wizard: To San Francisco from Long Beach, I have your requested date of departure available for a package at a 2 star rated hotel and a 2.5 star rated hotel. They are both 10 day packages. I also have 16 day packages available if you depart on August 31st.  
+User: 10 days should be good
+Wizard: Do you have a certain amount you would like to spend?
+User: I haven't set a budget for myself, I want to see what my options are first
+Wizard: Departing Aug 30th, the Antique Sword Suites is a 2.5 star hotel located near a museum which includes wifi, parking and breakfast. The Twin Canyon Inn and Suites is a 2 star hotel located in the heart of the city and also close to a museum. This one also includes wifi, parking and breakfast and departs on Aug 30th.
+User: I like the idea of being in the heart of the city. How much is that one?
+Wizard: Would you prefer to fly economy or business?
+User: economy
+Wizard: $612.58USD for the 10 day package.
+User: nice! that's a great deal!
+Wizard: Would you like me to proceed with the booking?
+User: have past guests been satisfied there?
+Wizard: This property carries a guest rating of 5.23 / 10.
+User: ok, so decent reviews, for the price it would be hard to complain about that. I want to compare this on to packages you have t manaus
+Wizard: Will the travel dates to Manaus be the same than to San Francisco?
+User: yup I don't have to leave exactly the 30th, the dates I gave you were a range
+Wizard: The earliest departure date from Long Beach to Manaus would be August 31st. I have an 11 day package available.
+User: cool, tell me more!
+Wizard: The Hotel Aquamarine River is a 2.5 star property close to shopping. It has a 6.77 / 10 guest rating. The price for an 11 day package based on economy class flights is $2234.29USD
+User: any free wifi?
+Wizard: All amenities are included - free wifi, parking and breakfast
+User: cool thanks!
+Wizard: Would you like me to book either destination for you?
+User: Last place is Hamburg, do you have anything there?
+Wizard: Would you prefer an August 30 or August 31st departure from Long Beach to Hamburg?
+User: I don't mind, is of them in the heart of the city?
+Wizard: The Hotel Peter is located in the heart of Hamburg and also close to the museum. If you depart on Aug 30th it is available on a 10 day package and if you depart on Aug 31st it is available on an 11 day package. It is a 3 star property which also provides you with  free wifi, free breakfast,and free parking.
+User: That sounds like good hotel, how much is each package?
+Wizard: Via economy or business?
+User: i prefer economy
+Wizard: $1847.95USD for a 10 day package and $2072.72USD on an 11 day package.
+User: Does this hotel have better reviews that the one in Manaus?
+Wizard: Both hotels have 0/10 guest ratings.
+User: Ok, Hamburg was the destination I was leaning towards and Hotel Peter suits my needs 
+Wizard: May I proceed with the booking?
+User: I'll take a chance there wih the 10 day packag
+Wizard: Have a very pleasant trip

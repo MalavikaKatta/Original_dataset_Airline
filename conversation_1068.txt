@@ -1,0 +1,12 @@
+User: Looking to book a swanky business trip - I have a few fish on the hook and I need some impressive digs to reel em in. There’s 5 of us, we’re in Munich, and I want to hear about your best hotel in Montreal
+We’re leaving after 9/11
+Wizard: Sounds interesting! Do you have a budget?
+User: No, no budget.
+Wizard: The best we have is a 4 star hotel near a market and mall, 8.86/10 guest rating, free parking and wifi, from September 12th to 20th, 12980.24 for economy flights, and 16600.91 for business flights. Interested in these?
+User: Ok, what about a 5 star in Sao Paulo? I’ll keep that first package in mind.
+Wizard: Nothing above 3 stars.
+User: Ok… Montreal looks good then. Just check Buenos Aires for me first.
+Wizard: We have a 4 star hotel here as well, in the heart of the city and near a park also, 8.69/10 guest rating, free parking, breakfast and wifi, from September 24th to 30th, 27810.67 for business flights, and 21452.57 for economy flights.
+User: I like the sound of that one. Heart of the city would be better than near a mall.
+Lets book business class in Buenos Aires.
+Wizard: Awesome! All done! You'll get a confirmation email soon, have a great day!

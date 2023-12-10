@@ -1,0 +1,13 @@
+User: I must get away from the paparazzi. What packages can you offer to Hiroshima?
+Wizard: Where are you located?
+User: My friend Madonna and I would like to leave from Essen. Our only restraint is to be back by September 5.
+Wizard: I have nothing to Hiroshma from Essen
+User: What about from Paris?
+Wizard: You are in luck, I do have some packages to Paris from Essen.  What type of accomodations are you looking for?
+User: Preferably 5 star, and a spa if it is available.
+Wizard: I do not have a 5-star but I do have a 4-star, the Hotel Regal Universe located near the museum and palace. I have business class seats available and it's at a cost of 1065.96USD. You also have free wifi and a free breakfast.
+User: Yes that should be just fine. What are the flight dates?
+Wizard: August 25th returning Sept 3rd
+User: I'll book this one!
+Wizard: I will book and your friend Madonna
+User: Thank you bot.

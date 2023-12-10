@@ -1,0 +1,11 @@
+User: I have $400 and 14 days vacation. Need to leave from Brasilia. Can you tell me where I can fly to.
+Wizard: You can go to Belo Horizonte for 9 or 5 days.
+User: I’ll take the longest package possible. What’s the 9 day package like?
+Wizard: It is at a 2.5 star beachside hotel close to shopping. While there from the 9th to the 17th, you can enjoy free parking, free breakfast, and free wifi.
+User: Well i do love the beach and shopping. Are there other places I could go to or just Belo Horizonte?
+Wizard: I'm afraid that is your only option.
+User: Okay well it’s better than nothing at all. You can book this for me
+Wizard: Sure. I can book the 9 day trip for you. You can actually afford business class flights for 265.27. Would you like me to book that?
+User: For sure!
+Wizard: It is booked! Hope you have a good trip :slightly_smiling_face:
+User: Thanks!

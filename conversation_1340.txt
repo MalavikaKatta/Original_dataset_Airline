@@ -1,0 +1,6 @@
+User: Hi there, my team and I are thinking of going to Monterrey please.
+Wizard: Ok! From where?
+User: We all work together in Kabul.
+Wizard: I’m sorry, but we do not have any trips out of Kabul.
+User: Oh really? That's too bad. I guess we'll have to look elsewhere then. Thank you for your services.
+Wizard: Yes, sorry I could not be of more service.

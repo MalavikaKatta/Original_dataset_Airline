@@ -1,0 +1,28 @@
+User: Hi there, I'd like to book a trip for the family, but we haven't decided on a destination yet.
+Wizard: I'd be happy to help with that! Where are you coming from?
+User: From Sapporo.
+Wizard: How big is the family?
+User: Pretty big. It'll be 3 adults and 7 kids.
+Wizard: Sure is! When would you like to take this vacation?
+User: Pretty soon, but no earlier than Thursday September 8
+Wizard: How much budget have you allocated to this trip
+User: I don't want to spend any more than $54700
+Wizard: That will be enough. Is there a date you have to return by?
+User: Yes! Wednesday September 28
+Wizard: Okay. I have quite a few options for you. Do you want to hear the longest trips first or the highest star-rated ones first?
+User: Longest I guess! Ones that will make the most of my budget!
+Wizard: That would surely be an 18 stay at our prestigious 4.0 star hotel next to the park, beach, shopping, and mall. It has a whoping guest rating of 10/10 and I can get you all into business class for 54474.39.
+User: Oh that sounds good! But what is the city of destination?
+Wizard: None but the amazing Porto Alegre!
+User: Oh wow that's really good. Is that the best option you have?
+Wizard: Yes, it is one of the longest trips we have and the best rated.
+User: Do you have anything else comparable?
+Wizard: We also have 13 day trips to a 3.5 star hotel in both Atlanta. Would this be of interest to you?
+User: Wow, that also sounds very nice. How much would that one cost?
+Wizard: It would be 30657.65 for economy class and 39694.35 for business class.
+User: How much does the Porto Alegre package cost for economy?
+Wizard: That would be 41753.92.
+User: You know what, I'll take the Porto Alegre package, and for business class!
+Wizard: That's a great choice! I have secured the booking for you! Your flight leaves on the 8th so better start packing :slightly_smiling_face:
+User: Perfect, thank you!
+Wizard: With pleasure :slightly_smiling_face:

@@ -1,0 +1,14 @@
+User: hey there! i am looking to go to fortaleza for spring break with 3 of the boys. what can you get me for 1600
+Wizard: Unfortunately the best deal I can give you on a package to Fortaleza is 3491.71USD for four days. Would you like to try another destination?
+User: yeah in that case lets look at burlington
+Wizard: I can offer you 12 days in Burlington for 1732.63USD. How does that sound?
+User: that is close to the budget - i like it! can we travel august 25?
+Wizard: This particular package leaves August 27th. Would you like me to book this package?
+User: wwhen do we retunr
+Wizard: Your return flight is on the 7th of September.
+User: we are hoping to return by the 5th. anything from mexico city to burlington between those dates
+Wizard: How does August 27th to September 1st sound? I can book you a 6-day stay for 4414.71USD.
+User: mannnn we really cant spend that much. 2600 tops
+nothing in fortaleza either??from mexico city
+Wizard: Unfortunately I cannot find any packages to these destinations that are within your budget.
+User: ah damn

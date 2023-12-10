@@ -1,0 +1,15 @@
+User: Hi wozbot. I'd like to book a vacation for my 7 kids and myself.
+Wizard: Where would you all like to go?
+User: I don't really have a preference for a destination, but I would like free breakfast. We would be leaving from Kingston for a vacation between August 19 and August 31.
+Wizard: I've got a hotel in Toronto available with free breakfast between August 24 and August 30?
+User: That sounds nice. My husband requested I stick to a budget of $25600. What is the price of this package?
+Wizard: The price of the Toronto package for 1 adult and 7 children is 3148.9USD.
+User: Do you have any packages with a longer stay that ends preferably by August 24?
+Wizard: How about La Paz, Bolivia from August 19-23?
+User: Fantastic! How much is the trip?
+Wizard: 9416.57USD is the price for that one.
+User: Great. Breakfast is included?
+Wizard: It certainly is 
+User: Great lets book it!
+Wizard: You got it
+User: Thank you wozbot!

@@ -1,0 +1,20 @@
+User: Everyone in Europe is raving about this artisanal bratwurst they’re serving up in Hamburg, and I must get myself other there as soon as I can to blog about it! Do you offer flights there out of Seattle?
+Wizard: I sure do! When do you want to travel?
+User: ASAP, but otherwise dates are flexible
+budget is 3800
+Wizard: Great! I have a package leaving on August 31 until September 11. The cost is 2157 dollars
+User: Oh nice I’m just going to check my other travel options for something cheaper
+such as…Santos to Hamburg?
+Wizard: There is nothing cheaper.
+User: Now if I really wanted to pinch pennies, I could also just travel to St. Louis instead
+Wizard: From Santos?
+User: From Seattle
+Wizard: You could go from August 31st to September 16th for $532, at a 5 star hotel!
+User: That is dirt cheap! I could just splurge on my meals instead. What kind of hotel do you have?
+As in, tell me more about the 5 star
+Wizard: 5 stars, as I said.
+User: Amenities?
+Wizard: Free breakfast and free wifi are included.
+User: Ok lets do that
+Wizard: Ok! I’ll book it for you.
+User: Thanks!

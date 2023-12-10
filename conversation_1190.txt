@@ -1,0 +1,17 @@
+User: I need to maybe go to to Ciudad Juarez
+Wizard: Where from?
+User: Anywhere it's cheap
+Wizard: What is your budget?
+User: 1600 dolaritos
+Wizard: Are you looking for a long trip or a shorter trip?
+User: 4 days
+Wizard: We have a 4 day package from the 8th to 11th of September at a 3.5 star hotel. Does this interest you?
+User: How much $$$ and is it near a park?
+Wizard: 1564.89 and it is near a palace.
+User: k no I need something near a park
+Wizard: There are no hotels hear near any parks.
+User: How about in San Diego then?
+Wizard: There are no results.
+User: Anything in La Paz?
+Wizard: Nothing near a park.
+User: Do you think they will let me use the palace grounds in Ciudad Juarez?

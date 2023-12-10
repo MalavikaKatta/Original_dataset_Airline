@@ -1,0 +1,13 @@
+User: pokemon pokemon pokemon. i am looking for mewtwo in busan at the start of next month and i need a travel package
+Wizard: The best deal I can offer you is 14 days in Busan for 342.36USD. Would you be able to leave from Seoul?
+User: i need to leave from Barcelona. whats the price now
+Wizard: If you're leaving from Barcelona I can book you 6 days at the Lethargy Hotel for 3107.49USD. Am I correct that you would like to leave as soon as possible?
+User: I would like to leave September 1
+Wizard: Great! This package runs from the 1st to the 5th of September.
+User: and if I was to go to Dublin… what do the availabilities look like there?
+Wizard: For Dublin the earliest I can book you is the 4th of September. Would you like to hear more about this package?
+User: I’d prefer to leave the first. can you give me more info on the Busan hotel tho?
+Wizard: You would be staying at the Smile Hotel, a 3-star hotel with a 7.06/10 guest rating, free breakfast, free wifi and free parking. This resort is located within close proximity to both the park and the museum.
+User: ok lets book it
+Wizard: Your trip has been successfully booked! Enjoy your stay!
+User: Thank you, my friend

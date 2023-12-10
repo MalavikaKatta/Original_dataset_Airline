@@ -1,0 +1,12 @@
+User: Mexico to Ulsan, pronto
+Wizard: I will take pronto to mean as soon as possible. For how many globetrotters will that be?
+User: There will be but one
+Wizard: and during what travel period may that be?
+User: Aug 31 to Sept 17
+Wizard: I am afraid I cannot oblige your request since there is nothing available at that time. Any other destinations I can verify for you?
+User: Nothing? Ok what about Puebla to Punta Cana
+Wizard: I cannot oblige that request either.
+User: Mexico City?
+Wizard: No packages available there either
+User: One last try…Puebla to Kingston?
+Wizard: It appears we do not have many flights out of Puebla.

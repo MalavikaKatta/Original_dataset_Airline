@@ -1,0 +1,12 @@
+User: I wanna go on a vacation with my wife and 4 kids. our budget is 3300 and we want to travel between september 6th and 21st. We were looking at going to Denver from Dallas.
+Wizard: So that will be 2 adults and 2 children under 16?  I have only 4 day packages available during those dates. Does that work for you?
+User: no, 2 adults and 4 children
+Wizard: The Oriental Resort is available for 4 days from Sept 8 to Sept 11 at 3088.30USD and for 5 days from Sept 13 to Sept 17 at 3088.30USD. These packages are only available on economy class flights. This is a 3 star hotel and includes wifi.
+User: Are there any trips to Cancun?
+Wizard: White Peak Hotel - 9 days from Sept 8 to Sept 16 3.5 star $2803.53USD
+User: Anything to San Francisco?
+Wizard: Glorious Spring Hotel - 8 days from Sept 8 to Sept 15 2 star : 2686.26USD
+User: are any of the hotels close to a beach or mall?
+Wizard: None but Oriental Resort in Denver is located near the museum and the university, the White Peak Hotel in Cancun is located near the cathedral and the Glorious Spring Hotel in San Francisco is located near the park and museum
+User: I think the SF package seems to be the winner. Can you book this one for us
+Wizard: I will go ahead and book 2 adults and 4 children into the Glorious Spring Hotel for 8 days. Thank you for booking on  travelchat.

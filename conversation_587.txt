@@ -1,0 +1,17 @@
+User: hello i need to get to curitiba. im going to need to stay at the most luxurious facility that you have
+and im leaving from santos
+on or after august 30th
+Wizard: I have 10 days, 15 days or 16 days trip
+User: any of them under 1700 dollars?
+Wizard: 16 days at 3.5 stars hotel for 1416.47USD
+User: hm, 3.5 stars is the best you've got?
+Wizard: yes unfortunately, but the guest rating is 8.22
+User: even with a 2700 dollar budget
+Wizard: Yes unfortunately
+User: is it just the one hotel?
+Wizard: no there are others at 3.0 star
+User: can you give me details on the 3.5 star
+Wizard: Crown Market Palace, near beach, free parking, free breakfast, free wifi
+User: That does sound somewhat luxurious. ok i guess we should book it
+Wizard: It leaves on september 2nd and comes back on September 17
+User: book it thanks

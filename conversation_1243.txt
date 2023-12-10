@@ -1,0 +1,13 @@
+User: I only have 1800 in the bank though... can't do anything with that I bet
+Wizard: Depends! Where are you located ?
+User: Hold on let me check... I tend to forget since I never leave my cubicle. OH RIGHT I live in Cordoba
+Wizard: Oh, ok! I will see what we have - but did you have anywhere in mind?
+User: I don't suppose I can go to Queenstown?
+Wizard: You absolutely could! You could stay 10 days at a 5 star hotel with free breakfast and wifi and spend less than 1000 dollars.
+User: Can you tell me if it's by the beach?? Or a park?? Where I can go out and enjoy the sun?
+Wizard: I’m sorry but I haven’t got any information on the nearby attractions.
+User: Now I don't think my money can take me to Houston can it?
+Wizard: Not with your budget, sorry.
+User: Then my dream city Seattle won't work for me either right?
+Wizard: Sorry, no.
+User: Thanks! Back to work!

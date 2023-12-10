@@ -1,0 +1,9 @@
+User: Hi I live in Kakariko Village and I want to go away! Where could I go?
+Wizard: I can't seem to find any flights out of Kakariko Village. Would you like to try another departure location?
+User: Well I have no money... what if I just stay here and find a hotel in my own town? Do you have any packages IN Kakariko Village I can just hang out at lol?
+Wizard: I can't find any available hotels in Kakariko Village, would you like to try another destination?
+User: Do you have any packages anywhere for $400?
+Wizard: If you can leave from Nagoya, I can book you for 7 days in Kyoto for 110.93USD. Would you like to hear more about this package?
+User: I will find a way to get to Nagoya for that price, whatever the package is book it! $110.93 is totally within my $400 budget.  :grinning:
+Wizard: Done! Your package has been booked. Enjoy your stay!
+User: Thank you for your assistance in finding this killer deal.

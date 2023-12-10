@@ -1,0 +1,11 @@
+User: yo i need a flight to beijing, leaving from rio de janeiro on sunday august 21st
+Wizard: I will book you 8 days in Manaus leaving from Rio de Janeiro on August 24th for 469.25USD. Enjoy your stay :slightly_smiling_face:
+User: no i want beijing, not manas. how much would that cost???
+Wizard: Sadly I have no trips available to Beijing that leave from Rio de Janeiro. I can find you another destination?
+User: you gotta get me to beijing
+Wizard: No
+User: check porto alegre to beijing
+Wizard: I can book you from Porto Alegre to Rio de Janeiro.
+User: check puebla to beijing
+Wizard: You cannot travel from Puebla to Beijing.
+User: i give up

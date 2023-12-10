@@ -1,0 +1,11 @@
+User: Next stop is San Jose! Can you get me there?
+Wizard: Sure thing! Where from?
+User: Current stop is Manaus.
+Wizard: How long do you plan to go away for?
+User: Just give me your best hotels.
+Wizard: The best hotel we have is the Tranquil Seaside Inn, rated at 4 stars with a 8.8/10 guest rating. Our package is 9 days long and we offer both business and economy class flights. Does this interest you?
+User: Is there any cool stuff around?
+Wizard: Yes indeed! There is a beach and a museum nearby! Still interested?
+User: Sign me up. In business class of course
+Wizard: Not a problem! Your reservation has now been made.
+User: Thanks!!

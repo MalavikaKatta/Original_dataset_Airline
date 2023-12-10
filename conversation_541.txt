@@ -1,0 +1,8 @@
+User: Get me to Milan like I said. I need a flight departing Aug 26 from Kingston
+
+Wizard: How can I be of assistance?
+User: KINGSTON TO MILAN
+Wizard: Do you have a departure date?
+User: August 26 HOW MANY TIMES DO I HAVE TO REPEAT MYSELF?? 
+Wizard: I do not have flights to Milan from Kingston. Can I be of further assistance?
+User: No You can not

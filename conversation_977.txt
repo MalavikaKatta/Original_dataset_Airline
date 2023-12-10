@@ -1,0 +1,4 @@
+User: hello! I'd like to book something for myself. i have quite a few vacation days coming up
+Wizard: What type of trip are you looking for?
+User: i'm looking for a cross globe tour. from philadelphia to hiroshima
+Wizard: We do not have any travel packages available from Philadelphia to Hiroshima

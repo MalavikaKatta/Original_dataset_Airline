@@ -1,0 +1,15 @@
+User: Tel Aviv - San Francisco please
+Wizard: Hi there, what dates are you looking to make this trip on?
+User: dates are flexible, doesn't matter when
+Wizard: Alright, and this would be for how many adults and children?
+User: just one adult
+Wizard: I regret to inform you that we do not have this flight listed. Could we help you with another destination?
+User: what if I leave from Maceio
+Wizard: I've got results for this trip! To help me narrow them down, do you have a budget in mind for this trip?
+User: 3200
+Wizard: Great, I've got an 11 day trip from August 31 to September 9, where you will be staying at the Twin Canyon Inn and Suites. Does this sound good to you?
+User: What is in the hotel's vicinity
+Wizard: Its at the heart of the city, and is near a museum!
+User: lets book it
+Wizard: Perfect, I'll send over the confirmation shortly.
+User: thanks

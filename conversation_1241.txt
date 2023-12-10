@@ -1,0 +1,17 @@
+User: I want to go on a vacation from Munich.
+Wizard: Where would you like to go?
+User: idk
+Wizard: Do you have dates?
+User: monday to the 22nd.
+Wizard: Do you have a specific amount you would like to spend on this trip?
+User: 4900
+Wizard: Will you be travelling as part of a group or unaccompanied?
+User: just me and my kid
+Wizard: I have a 3 star in the beautiful city of Toronto that has a 8.86/10 guest rating. Would you like me to tell you more about this hotel?
+User: Is that the highest guest rating?
+Wizard: Yes I searched through all of them and this one has the highest guest rating of what is available.
+User: Okay yeah tell me more about the hotel.
+Wizard: The Hotel Richard can be booked for a 10 day stay, is located near the market and cathedral and and includes a free breakfast, wifi use and parking.  It is available for 2967.36USD.
+User: Perfect I'll take it!
+Wizard: Your booking has been taken care of. Have a  great weekend.
+User: Thanks

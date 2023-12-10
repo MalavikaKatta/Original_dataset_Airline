@@ -1,0 +1,41 @@
+User: Hi!
+Wizard: To start, just give me some information on where you'd like to travel, your budget, your point of departure, or any other travel info you can think of.
+User: Ok great! I'm looking for a trip from August 19th to September 3rd, and I'm thinking of going to Mexico City. I would be departing from Busan.
+Wizard: I've got some options available for you. Will you be travelling alone?
+User: Yes! For the first time.
+Wizard: Ok! I have 5 days at a 3 star hotel available for 3259.79USD. What do you think?
+User: That sounds nice. What is the name of the hotel?
+Wizard: The hotel is called Sublime Echo.
+User: Does it have a view of the ocean?
+Wizard: I am not sure 
+User: Great! Do you know if there is free wifi and breakfast?
+Wizard: There is free parking and free wifi, but no free breakfast.
+User: What are the departure dates?
+Wizard: You would leave Busan at 7:00 am - Wednesday, August 24th and depart from Mexico City at 1:00 am - Saturday, August 27th. I also have a free breakfast hotel available for 4002.28USD which leaves Busan at 7:00 am - Saturday, August 27th.
+User: The second option is how many days?
+Wizard: The second option is also 5 days.
+User: I'll keep the second Mexico City option in mind. I have some other places that I'd like to consider.
+Wizard: Ok! Where would you like to go?
+User: What about Santo Domingo for the same dates?
+Wizard: I can get you a hotel in Santo Domingo for 2446.15USD.
+User: 5 days?
+Wizard: 9 days actually.
+User: With free breakfast?
+Wizard: Free breakfast, wifi, and parking!
+User: Amazing! This one is already looking better than Mexico City. What are the departure and arrival dates and times?
+Wizard: It is a great deal! You would depart Busan at 11:00 am - Wednesday, August 24th and leave Santo Domingo at 1:00 am - Wednesday, August 31st.
+User: That sounds great to me. I have two other cities that I'd like to consider. Let's start with Toronto. What can you get me for the same dates with free breakfast?
+Wizard: Ok! I can get you 7 days in Toronto for 2732.81USD.
+User: I like the sound of that. What are the departure and arrival dates and times for this one?
+Wizard: 9:00 am - Wednesday, August 17th you would leave Busan and arrive in Toronto at  9:04 pm of the same day. Your return trip would depart from Toronto at 1:00 am on Monday, August 22nd and arrive in Busan at 1:04 pm that day.
+User: Excellent. Can you see what's available in Athens?
+Wizard: Would you like to hear only options with free breakfast in Athens?
+User: Yes please!
+Wizard: Unfortunately I have nothing available in Athens with free breakfast within your date range. However, I can get you a hotel with free parking and wifi for 3998.37USD.
+User: Not interested. Let's go back to the Toronto package. How many stars?
+Wizard: For the package priced at 2732.81USD in Toronto the hotel has a 4 star rating.
+User: Does it have a spa?
+Wizard: There is no spa.
+User: I will still book the Toronto package. I can't wait!
+Wizard: Ok! I will book that package for you. Enjoy!
+User: Great thank you so much!

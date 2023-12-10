@@ -1,0 +1,18 @@
+User: HI there, I need to book a trip to La Paz. And I'll be departing from Belem.
+Wizard: How many will you be?
+User: We'll be 4 adults and 6 children.
+Wizard: Is there a strict budget you must follow?
+User: I'm willing to pay a total of 15100
+Wizard: With your budget I can get you spots in an economy package at a 4 star hotel with free parking, free breakfast, and free wifi. If you are willing to increase your budget though, I can see if I can get any other options for you.
+User: How much does it cost with the economy package? And how many days would it be?
+Wizard: For economy it would be 14111.28 for 8 days from Sept 8-14.
+User: If I am willing to increase my budget by about $1500, what else can you find for me?
+Wizard: Nothing better unfortunately.
+User: Okay, I want to take the package you already mentioned, but what if I increase my budget by $1500?
+Wizard: There is nothing more I can offer you with an increase of $1500 of your budget. Would you be able to increase it more?
+User: No, I think the 8 day package at a 4 star hotel should be good enough!
+Wizard: Wonderful! Would you like me to book it for your group of 10?
+User: Yes please!
+Wizard: It's taken care of for you! Time to pack your bags :slightly_smiling_face:
+User: Thank you very much!
+Wizard: The pleasure is all mine.

@@ -1,0 +1,30 @@
+User: Yes please, I'd like to book a trip to Kobe.
+Wizard: What a great place to go! Where is your party coming from?
+User: It's just going to be me. I'll be coming from Monterrey.
+Wizard: We have a great range of offerings for you. Could you tell me a bit more about your desired travel dates and budget so I can narrow down the choices?
+User: I'd like to travel sometime between Wednesday September 7 and Saturday September 17. My budget is flexible but something affordable would be great.
+Wizard: Sounds good! We offer 10 day trips at a 3.5 star hotel and 5 or 6 day trips at a 3.0 star hotel. Would you like to know more about these options?
+User: Yes please!
+Wizard: The 3.5 star hotel has a guest rating of 8.69/10 and offers free wifi. The 3.0 star hotel has a guest rating of 6.91/10, is located close to a park, and offers free breakfast and free wifi.
+User: How much does each package cost?
+Wizard: For the 10 day trip at the 3.5 star hotel, we offer the economy package at 3753.26 and the business package at 4846.37. For the 3.0 star hotel, we actually offer the trips for the same price: economy for 3287.18 and business for 4261.75.
+User: Oh they sound pretty good! But I'm also curious about other destinations and I'd like to keep my options open.
+Wizard: Sure thing! What did you have in mind?
+User: I was also wondering about a trip to Kochi. Same dates and same city of departure.
+Wizard: Okay, for Kochi we have a 3.5 star hotel at the heart of the city and close to a park, where we offer 8 day packages. We also have a 2.5 star hotel also at the heart of the city and close to a market and a park where we offer 12 day packages.
+User: How much would the 8 day package cost?
+Wizard: It would be 3739.35 on economy seats, 4834.43 on business seats.
+User: That sounds good, but may I ask about another destination please? I'm also thinking about going to Cancun.
+Wizard: In Cancun we have a 3.5 star hotel close to a cathedral. It would be 751.38 for the economy package and 871.19 for the business package.
+User: How many days would that be?
+Wizard: It would be a 10 day trip from September 8-17.
+User: I'm also thinking about a trip to BA.
+Wizard: We have 10 or 7 day trips at a 4.0 star hotel and 7 day trips at a 3.0 star hotel. Which ones would you like to know more about?
+User: I'll consider the 4 star hotel trips
+Wizard: Perfect! This hotel is guest rated 8.69 / 10 and perfectly situated in the heart of the city close to a park. While there, you can enjoy free parking, free breakfast, and free wifi. For 10 day trips, we offer the economy package for 2699.60 and the business package for 3464.53. For 7 day trips, we offer the economy package for 2192.91 and the business package for 2814.27.
+User: Oh that also sounds very good. I'd like to choose the trip to Cancun for 10 days.
+Wizard: Great! Would you like to go for the economy package for 751.38 or the business package for 871.19?
+User: The business package please!
+Wizard: Consider it done! Anything else I can do for you today?
+User: No, that's perfect.
+Wizard: You're very welcome :slightly_smiling_face:

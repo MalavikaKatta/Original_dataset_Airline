@@ -1,0 +1,20 @@
+User: Hi there, I'm looking for a place to get away with my best friend. Do you think you can give an amazing package?
+Wizard: Sure! Where are you looking to go? And can you tell me where you’d be departing from?
+User: We're leaving from Tofino and we're thinking of going to Santos.
+Wizard: Sorry, no can do. I don’t offer any trips to or from Tofino.
+User: Oh really? Don't you know who I am?
+Wizard: I cannot book trips out of Tofino.
+User: Fine, if you're going to be like that... I guess we can leave from Frankfurt.
+Wizard: I have a variety of 3 and 3.5 star hotel in Santos for you. When would you like to travel?
+User: Is 3.5 stars the best you can do? Are you serious? How about if we go to St. Louis then
+Wizard: In St. Louis I also have 3 and 3.5 star hotels.
+User: What's the most highly guest-rated hotel you have?
+Wizard: Palacio Tranquila in St. Louis has 9.16/10 from users.
+User: What more can you tell me about this package
+Wizard: The hotel is near an airport and a theatre, it provides free parking and wifi, and complimentary breakfast is included.
+User: How much is it? And does it come before September 12th? Because that's when I need to get back in order to perform.
+Wizard: 3662.78USD with economy class flights. You would depart Frankfurt on Sept 16th and return on the 25th.
+User: okay, I'm talking business class here. Do I look like an economy class type of person to you? What do you take me for?
+Wizard: A business class package would cost 4709.76USD.
+User: Cut the attitude and stop treating me like a second-class citizen. I'll take this package but that's the last time I'm ever going to use your services
+Wizard: I will send along booking confirmation. Thank you for using!

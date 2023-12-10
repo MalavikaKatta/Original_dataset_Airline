@@ -1,0 +1,27 @@
+User: I want to go to Leon from Nagoya between the 13th and october 2nd.
+Wizard: Are you travelling with a budget?
+User: no
+Wizard: I have a 5 star hotel available for you from September 20th-29th for only 2976.60USD. How does this sound?
+User: That sounds amazing. Before I make up my mind can you check a few other places for me? I was thinking about Boston.
+Wizard: Of course! In Boston I have two 2.5 star hotels and one 3 star hotel available.
+User: Tell me more about the 3 star hotel.
+Wizard: It has a 8.37/10 user rating, is near a park, and provides free breakfast, wifi, and parking.
+User: Not bad. Can you check packages to Sapporo?
+Wizard: In Sapporo I have one hotel available with 8 or 12 day packages. It is 3 stars, unrated by users, and is near a park and a museum.
+User: Tell me more
+Wizard: It has free wifi, parking, and breakfast.
+User: Great! One more place i'd like to know about is Hamburg.
+Wizard: In Hamburg I have 4.5, 3, and 4 star hotels.
+User: can I hear about the 4.5 star
+Wizard: That would be the Glacier: it is near the airport with a 9.16 user rating. The hotel includes free parking and wifi use.
+User: That sounds ideal. Can you tell me more about the 5 star Leon package?
+Wizard: The hotel is near a market and has free wifi.
+User: What is the guest rating?
+Wizard: 9.16/10
+User: Great! I would like to book this package then
+Wizard: Ok! Economy or business class seats?
+User: Business
+Wizard: Okie doke - that’ll be 3837.41USD.
+User: Awesome! book it!
+Wizard: It's booked! Thanks for working with us!
+User: thank you!

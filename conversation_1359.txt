@@ -1,0 +1,12 @@
+User: Hi there, I'm looking to go to Brasilia between September 30 and October 4, could you help me?
+Wizard: Yes! Where are you leaving from?
+User: Portland
+Wizard: Ok, and will you be travelling alone?
+User: yes!
+Wizard: And have you got a budget?
+User: Yes, I'm looking for something not more than 2000.
+Wizard: I can’t offer anything in Brasilia direct from Portland, is there another destination I could check?
+User: Nothing? Nothing at all?
+Wizard: Nothing.
+User: Okay then. I'm off. Bye.
+Wizard: Bye!

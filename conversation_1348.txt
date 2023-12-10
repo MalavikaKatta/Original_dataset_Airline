@@ -1,0 +1,14 @@
+User: Hey I need to get to San Juan to bring a recipe back to my hometown of Paris. It'll be me and my 4 kids, can you help me?
+Wizard: Certainly! How does a 14 day stay at The Brass Tower Inn sound? It has a 7.06/10 guest rating, free breakfast and wifi, and is situated near a market.
+User: How much does it cost? I can only spend a total of 7600.
+Wizard: That would cost 7810.25USD.
+User: Is there a better package that suits my budget? Thanks.
+Wizard: I have one package available within your budget. It would be an 11 day stay at Supreme Seaside Inn & Suites, a 2.5 star hotel near a park and mall. It has free breakfast and free wifi. The cost would be $6810.
+User: It doesn't sound bad. But if I add another 1500 to my budget, do you think you can find something better for me?
+Wizard: Yes - I can find you the package I mentioned earlier for 7810.25 USD.
+User: I guess if it's the best you can do...then I'll take it.
+Wizard: I also have a 13 day stay at Fairyland for 8438.46USD. This is a 4 star hotel near shopping, a museum, and a market with a 8.98 guest rating. Free wifi is included.
+User: Wow that's amazing. I think we'll take that one.
+Wizard: Ok! I will confirm booking with a confirmation email
+User: Fantastic! Thank you.
+Wizard: My pleasure :slightly_smiling_face:

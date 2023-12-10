@@ -1,0 +1,21 @@
+User: I would like to find a hotel near a park, ideally. I only have 4500 between me and my assistant. We were thinking about looking for trips to Manaus first, we can leave from anywhere.
+Wizard: I can help you find something. When would you like to go?
+User: somewhere between september 8th and 20th.
+Wizard: The hotel that works best for you would be a 3.0 star hotel near the park, museum, and palace. It boasts a guest rating of 8.49/10 and offers free parking, free breakfast, and free wifi.
+User: When is this?
+Wizard: The longest package leaves from Punta Cana from September 8 to 20.
+User: Thats perfect! How much is this?
+Wizard: It is 3034.61, and I can offer an upgrade to business class for a total of 3813.58.
+User: Not bad. Do you have anything to San Juan?
+Wizard: We do, but our only hotel near a park is a 2.5 star hotel with 0/10 guest ratings. Would you want more information on this hotel?
+User: No thats fine haha. Is there anything to Goiania?
+Wizard: We have a 3.5 star hotel with 7.15/10 guest ratings near a park and shopping.
+User: sounds really good. How much is this one?
+Wizard: For a 6 day stay with economy flights, it is a total of 3823.68.
+User: What are the dates?
+Wizard: The trip will run from September 12-17.
+User: I think we will take the other package then and we will take the economy flights
+Wizard: Do you mean the package to Manaus?
+User: Yes please
+Wizard: Alright! The two of you are booked for 3034.61. Anything else I can do for you today?
+User: Nope! That's perfect! Thank you!

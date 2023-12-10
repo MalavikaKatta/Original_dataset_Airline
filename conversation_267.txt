@@ -1,0 +1,29 @@
+User: Hey looking to go to Osaka
+Wizard: Where are you looking to leave from?
+User: London possibly
+Wizard: Do you have a budget?
+User: nopeee
+Wizard: Traveling with anyone else?
+User: nah just me
+Wizard: Do you know when you would like to leave?
+User: August 15th
+Wizard: We only have trips to Denver and Calgary. Do either of these interest you?
+User: what if I leave from montreal
+Wizard: You can go to San Juan, Cleveland, or Seattle.
+User: what is there is Seattle
+Wizard: Seattle has a 3.5 star hotel, park, museum, university, free wifi and parking. The cost is 569.14.
+User: any other hotels/
+Wizard: Not for Seattle.
+User: okay what about chicago?
+Wizard: All hotels are 2.5 star hotels. Would you like economy or business class?
+User: Business please
+Wizard: Would you like the cheaper business package?
+User: PLease elaborate and explain the different possibilities
+Wizard: There is a 2337.27 hotel with and airport and mall nearby. They offer free breakfast and wifi. This trip is from August 21st to September 2nd.
+User: and what other options
+Wizard: There is a 2369.40 hotel with a park and museum. They offer free breakfast wifi and parking. This is from August 15th to 27th. The last option is a 2403.44 hotel, museum, and university. They offer free breakfast, wifi, and parking. This trip is from August 21st to September 2nd.
+User: the second offer seems best can you tell me more about it
+Wizard: This is a stay at the Galaxy Temple, with a 8.22/10 guest rating. The flight leaves from Montreal at 4pm or 9pm. The returning flight leaves Chicago at 11am or 4pm.
+User: This one seems good can we book it?
+Wizard: Of course! Your trip is booked! Have a great trip and thank you!
+User: Thank

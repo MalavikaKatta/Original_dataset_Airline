@@ -1,0 +1,12 @@
+User: Hello, kind stranger.
+Wizard: Would you like to go from Calgary to Vancouver?
+User: I would like to go from Athens to Ulsan
+Wizard: Ok! How many will be travelling?
+User: I, my wife, and our infant son.
+Wizard: Let me see what I can find :slightly_smiling_face: Do you have a budget?
+User: Our budget is 6700. Not a penny more.
+Wizard: I’m sorry, it seems I cannot accommodate a child on that budget. I can find you something if just two adults are travelling?
+User: Burlington.
+Wizard: I’m sorry, but I cannot get you from Athens to Burlington on 6700 dollars.
+User: Then I will not be making use of your services.
+Wizard: Sorry :disappointed:

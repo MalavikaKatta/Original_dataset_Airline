@@ -1,0 +1,18 @@
+User: rome to goiania and i will go from september eight until twenty five
+and i have 4900 dollars in budget
+Wizard: Traveling with anyone else or just you?
+User: me alone
+Wizard: Do you prefer a 2.5 or a 3.5 star hotel?
+User: higher star
+Wizard: I'm assuming you want the highest guest rating as well?
+User: if they are both the same
+Wizard: One is 8.69/10 and the other is 7.15/10
+User: ok tell me about the 8.69
+Wizard: Business or economy?
+User: i just want to know about the hotel
+Wizard: Near a museum, shopping and airport, free parking, breakfast, and wifi.
+User: ah, ok, and price for economy?
+Wizard: Price for business is 4204.51 and economy is 3266.46.
+User: well economy in that case. i would like to book
+Wizard: Great! All done, enjoy the trip and thank you for booking!  We love to satisfy people's travel needs as well as we can!
+User: Thank You

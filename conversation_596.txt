@@ -1,0 +1,12 @@
+User: i need a trip under the radar from mannheim to fukuoka
+i need to be back here for august 30th
+Wizard: Do you have a budget?
+User: no
+Wizard: Is this for 1 person?
+User: no. two adults
+Wizard: We have one result for a 3 star hotel in the heart of the city. This hotel has a 6.61/10 guest rating and offers free wifi. The departure flight is on August 27th and the returning flight is on the 30th. Total price for business class is 7561.52.
+User: what do you have available in Buenos Aires.. anything of a higher rating?
+Wizard: There are no results for Buenos Aires.
+User: What if I leave from Osaka instead of Mannheim?
+Wizard: Nothing for this either.
+User: fine, the Kobe package then

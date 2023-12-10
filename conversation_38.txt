@@ -1,0 +1,17 @@
+User: I would like a vacation for one in Mannheim from August 17 to September 7. My city of departure is Porto Alegre. It should cost less than $3000.
+Wizard: I do not have a travel package to Mannheim from Porto Alegre for these travel dates.  I do however, have packages available from August 17th to the 29th.     Would these dates work for you?
+User: How much would this package cost?
+Wizard: I have two options.  The first option is a travel package which costs 2314.59 USD.  The second package costs 2981.83 USD.  Which one would you prefer?
+User: If I increase my budget to $6000, does that open up any options from August 17 to September 7?
+Wizard: I still have only two packages available from August 17th to September 7th.  Would you like to try a different travel destination?
+User: What other destinations can you offer me with these dates?
+Wizard: I have no other destinations available for these dates.  Would you like to change the start date or the end date?
+User: Are there packages for two-week trips within these dates?
+Wizard: I have two possible packages for you.  Atlanta, United States, to Indianapolis, United States or Brasilia, Brazil to Vancouver, Canada.  Which would you prefer?
+User: Are both of the packages to Porto still available if I bring my wife with me?
+Wizard: The only package which would be available would be Atlanta, United States to Vancouver, Canada.  I have two packages available for you: one for  $2182.70, and another for $2326.54.  Would you like me to describe these two packages for you?
+User: Yes, please.
+Wizard: The first travel package is an Economy flight from Atlanta, United States to Vancouver, Canada at 6:00 p.m. on August 11th,  and an Economy flight from Vancouver, Canada to Atlanta, United States at 10:00 a.m on August 14th.  The cost of $2182.70 includes a 4 star hotel with a 8.8/10 rating.
+User: What is the second package
+Wizard: The second travel package is an Economy flight from Atlanta, United States to Vancouver, Canada at 6:00 p.m. on Friday, August 19th, and an Economy flight from Vancouver, Canada to Atlanta, United States at 10:00 a.m. on Monday, August 22nd.  The cost of $2326.54 includes a 4 star hotel with guest rating of 8.8/10.  Would you like to book this travel package?
+User: I would like to book the first package to Vancouver

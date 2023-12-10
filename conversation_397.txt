@@ -1,0 +1,4 @@
+User: I want to go to Jerusalem to Ulsan. I am bringing 11 adults and 14 children and i will spend at most, 3100.
+Wizard: Hi, I dont have anything at that price range
+User: I guess I can increase my budget by 1000
+Wizard: Sorry, I dont have anythnig

@@ -1,0 +1,18 @@
+User: Hi there. Do you have flights out of Resife?
+Wizard: I am not sure if I understand. Do you mean Recife?
+User: Yes, sorry
+Wizard: It's okay, we do have many flights out of Recife. Where is your destination?
+User: I’m not sure. But i have 13800 to spend
+5 adults 4 kids
+Wizard: When do you want to leave and return?
+User: Sept 8 to 22 is what i’m looking for
+Wizard: Okay, I have quite a few options for you. Would you like to know about the longest ones that fit within your budget?
+User: Yes please. Longest and priority for good hotels
+Wizard: These are the longest we have: 15 days at a 3.5 star hotel in Buenos Aires, 14 days at a 4 star hotel in Santo Domingo, 13 days at a 3 star hotel in Manaus, and 12 days at a 4 star hotel in Buenos Aires.
+User: Oh wow Santo Domingo sounds so good! Is it on the beach?
+Wizard: It is indeed! Also close to shopping.
+User: How much is the exact cost?
+Wizard: 13100.0 for business flights or 10377.25 for economy flights.
+User: Its cool that I can actually afford business class. Lets try it
+Wizard: Great! I will book the business package for your group! Anything else you need me to do?
+User: Thats it, thank you!

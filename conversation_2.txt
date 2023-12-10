@@ -1,0 +1,20 @@
+User: Hello, I am looking to book a vacation from Gotham City to Mos Eisley for $2100.
+Wizard: Hi. Sorry, I can't find any trips from Gotham City to Mos Eisley for you.
+User: What about a trip from Gotham City to Neverland for the same budget?
+Wizard: Sorry, I cannot find any trips leaving from Gotham City. Could you suggest another nearby departure city?
+User: Would any packages to Mos Eisley be available if I increase my budget to $2500?
+Wizard: There are no trips available to Mos Eisley.
+User: You know what, I'd like to try and visit Neverland
+Wizard: I cannot find any trips available to Neverland.
+User: Do you have any trips from Gotham City to Kobe for my original budget of $2100?
+Wizard: I can book you a 3 day trip to Kobe leaving from Sapporo, Japan. Is this ok?
+User: No, that's too far for me. I need a flight that leaves from Birmingham.
+Wizard: I can book you a trip from Birmingham to Kobe for 2747.8 USD.
+User: How many days would I be in Kobe?
+Wizard: You would arrive in Kobe August 17th and return to Birmingham on August 22nd.
+User: What would the price be if I shortened my trip by one day?
+Wizard: I can not find any trips from Birmingham to Kobe for 4 days.
+User: Ok, then I would like to purchase this package. What activities are included in this package?
+Wizard: There are no activities listed for this package. You will be staying at the Ivory Legacy Hotel for 7 days. This hotel has a 4.5 star rating and free wifi. Will I go ahead and book this package?
+User: Yes, I would like to book this package.
+Wizard: Great. Your flight departs from Birmingham at 9:00 am - Wednesday, August 17th 2016. Enjoy your trip, I have booked this package for you.

@@ -1,0 +1,12 @@
+User: I need to travel to Phili. on september 11, from recife
+Wizard: I have nothing for Sept 11 departure from Recife to Philadelphia. Can you travel on any other day or can I check other destinations for you?
+User: after september 11 but before september 26 ok
+Wizard: How many days would you like to stay in Philadelphia?
+User: under 3400 dollars
+Wizard: We have a 14 day stay at the Mirror Inn for 3206.44USD. How does that sound?
+User: what dates
+Wizard: Departing on Sept 13th and returning on Sept 25th . We also have an 8 day package from the 12th of September to the 18th.
+User: 14 days sounds better
+Wizard: We can even send you on business class for a total of 3206.44USD
+User: great i like it! book it please
+Wizard: This trip had been reserved for you.  Please contact us should you have any further needs.

@@ -1,0 +1,14 @@
+User: Perhaps I should explain it another time... But first, lets book a vacation to Tijuana!
+Wizard: I can do that for you. First, could you please tell me what city is the closest to you.
+User: I'm leaving from Birmingham and I'd like to be back by August 30th.
+Wizard: I have one package available departing on August 24th and returning on your desired date of August 30th. It is at the 3-star Resort Jade Covert near the shopping district.
+User: Only one package? You don't have anything better for the biggest popstar in the world?!
+Wizard: Not from Birmingham to Tijuana. Can I interest you in other destinations?
+User: Yes, what about packages to La Paz?
+Wizard: I have a nice 4 star rated hotel with a guest rating of 8.98/10. That is available from the 19th to the 25th. Free breakfast, free wifi, free parking.
+User: What if I left from Pittsburgh, are there better packages to Tijuana or La Paz?
+Wizard: The hotel package from Pittsburgh to Tijuana is only a 3 star. To La Paz it is the same deal as from Birmingham - the Echo 4 star.
+User: In that case, I prefer the 4 star package to La Paz from Birmingham. How much is it?
+Wizard: On business class, it will be 1555.55USD.  Are you ready to book that package?
+User: Then yes, please book it right away!:D :airplane:
+Wizard: I will proceed with your booking. 

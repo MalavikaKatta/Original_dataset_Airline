@@ -1,0 +1,16 @@
+User: I want to book a travel package to melbourne from puebla
+Wizard: Okay. Do you have a budget for your trip?
+User: yes 3400. leaving on sunday august 21
+Wizard: Will you be travelling alone?
+User: yes. can you tell me the prices of all the hotels available in melbourne
+Wizard: The prices for each hotel are 868.86, 953.63, 1052.51,  1144.95, 1155.19, 1382.78.
+User: 868.86 sounds like a nice price, I'll go with that
+Wizard: No, but there is a great package at a 4 star hotel, with a park, free wifi, breakfast and parking. The cost is 868.86 and leaves August 24th. Does this interest you?
+User: i would like to leave on august 21 though...
+Wizard: None of the packages in my database leave on August 21st. The earliest flight leaves on the 24th.
+User: can i get the price for one night at each hotel in melbourne
+Wizard: We have two 4 star hotels near a park that include free breakfast, free wifi, and free parking. Both packages are from August 24th to September 5th. One package costs 868.86 and 1052.51. The cheaper package is for economy class flight and the expensive package is for the business class flight.
+User: ok. i will stay there for as long as 3500 will get me. the best hotel in town. 5 stars
+Wizard: The highest rated hotel in my database for your request is 4 stars.
+User: ok. fine. I have a 4500 $ budjet and I will star as long as that money lasts. thx
+Wizard: The packages are at the same 4 star hotel. One package is for economy seats and the other package is for business class.

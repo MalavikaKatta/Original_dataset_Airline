@@ -1,0 +1,13 @@
+User: Hi Leaving from Cleveland! And i need to get to Mexico City, and it needs to be on Friday September 2nd
+Wizard: How many people will be travelling?
+User: just myself i got a job as an intern, Itll be my first time travelling alone
+Wizard: What is your budget?
+User: Its very tight, its a non paid internship, i only have $2100
+Wizard: For Mexico City, there is a 3.0 star hotel, beach, shopping, mall. The price is 2002.66 and there is free wifi and free parking.
+User: oh thats cutting it close, is there anything cheaper to the other places?
+Wizard: I've got a 3.0 star hotel in Guadalajara near a park and an airport. The total price of this package is 765.13 and this includes free breakfast, free wifi, and free parking. This trip leaves on September 8th and returns on September 21st. Does this interest you?
+User: Yes it does this seems way better! and more affordable
+Wizard: Would you like me to book this package for you?
+User: Please go ahead and do it!
+Wizard: Great! Your flights are booked! Have a great day
+User: thank you

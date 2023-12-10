@@ -1,0 +1,9 @@
+User: Hi looking for a vacation to hamburg
+Wizard: Hello! Where will you be departing from?
+User: Ill be departing from san jose
+Wizard: I have a package for an 11-day stay in Hamburg from August 18 to August 27. The total cost of this package is 2373.14 USD.
+User: sounds good! what is the hotel like?
+Wizard: You will be staying at the Hotel Peter, a 3-star hotel with a 0/10 guest rating, free wifi, free parking and free breakfast. Do you want me to book this trip?
+User: sounds good! please book it!
+Wizard: Your trip has been booked! Your flight leaves on Saturday, August 18th at 10:13 p.m. Enjoy your stay!
+User: thanks!

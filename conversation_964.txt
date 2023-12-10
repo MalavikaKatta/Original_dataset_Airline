@@ -1,0 +1,17 @@
+User: I am just DYING to get to Madrid and check out this hot new food truck that serves llama meat tacos. I’m on a limited budget though.. so if you could get me there sometime in the next month or so for like 1100 bucks it would be AMAZING. Let’s try leaving from Las Vegas maybe?
+Wizard: Hello. We do not have flights from Las Vegas to Madrid. Can you depart from somewhere else?
+User: Ahhh fine.. try leaving from Kyoto.
+Wizard: Neither
+User: Ok well there’s a new boutique maple candy shop that just opened in Vancouver.. how much can I get there for from Las Vegas?
+Wizard: How long do you want to go to Vancouver for?
+User: Doesn’t matter, I have an open schedule
+Wizard: 3 or 4 star hotel?
+User: I can afford either?
+Wizard: yes
+User: Tell me the details on each so I can make an informed decision.
+Wizard: Okay these 2 hotels have 10 day packages. The Western Ridge is a 4 star hotel near the park and the museum.  It has a perfect guest rating of 10/10 and would cost you  858.76USD and include your breakfast. Parallel Carnaval Bed & Breakfast is a 3 star hotel near the park . It has an excellent guest rating of 8.86/10 and would cost you 685.35USD and also include your breakfast.
+User: Do you know if either of them are in the heart of the city?
+Wizard: Neither
+User: Let’s book Western Ridge
+Wizard: Just to confirm, you depart on September 2nd and come back on the 11th.  I will reserve for you immediately.
+User: Wonderful. thank you very much!

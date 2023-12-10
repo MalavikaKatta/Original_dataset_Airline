@@ -1,0 +1,13 @@
+User: H, I need to go to Kyoto pronto!
+Wizard: Sure thing! I can offer you a deal on a 7-day package to Kyoto. Would you be able to leave from Nagoya?
+User: No, I need to leave from Toronto. I need to be there sometime between August 25 and Sept 7. I'll be travelling alone and I am super nervous :flushed:
+Wizard: In that case, I can book you in the Glorious Bazaar Resort from the 25th to the 30th August. This package will cost you 2656.84USD. Would you like to hear more about this package?
+User: August 25th is awesome man. My boss will be impressed. Is this a nice hotel?
+Wizard: The Glorious Bazaar Resort is a 3-star resort with a 0/10 guest rating, free breakfast and free wifi. It is conveniently located in close proximity to the museum. You would be flying out on Thursday, August 5th at 9:00a.m. and returning on Tuesday, August 30th at 4:00a.m. Would you like me to book this package?
+User: Not yet, I need to do some comparison shopping. Our head office is in Chicago. Do you have anything leaving on Aug 25th from Toronto
+Wizard: Unfortunately the closest departure date I could give you would be the 2nd of September. However, I can give you a better deal on a flight if you leave on the 7th. Would you like to hear more about either of these packages?
+User: No the 7th is wayyyyyy too late, I need to be BACK by the 7th. What do you have to Porto between Aug 25 and Sept 7th?  Anything under $3300.00? I'm poor!
+Wizard: I happen to have a package for you that's only 2754.13USD. You would be staying at the Golden Keep Hotel from August 30th to September 2nd.
+User: OMG this is so confusing, I really don't know what to do! I better leave on the 25th, yes that will make my new boss happy....I need to go to Kyoto for sure. The Glorious Bazaar Resort sounds like the right choice. What information do you need from me to book it?
+Wizard: Would you like me to book this trip?
+User: Actually, I'm really nervous about booking this right now. I will talk it over with my new  boss and get back to you, thanks!

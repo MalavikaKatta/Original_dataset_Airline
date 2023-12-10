@@ -1,0 +1,28 @@
+User: Hey! I'm so tired, I just need to get out of Busan.
+Wizard: Sure! When would you like to travel?
+User: I managed to get some time off work between Thursday September 8 and Friday September 23 so anytime within those dates would be perfect! I'm looking for something for 7 days.
+Wizard: Ok! Do you want to go anywhere in particular? Or within any budget?
+User: My budget's flexible, but I am stuck between two destinations.
+Wizard: Sure! What’s the first one? I can check both.
+User: I'm thinking about Mexico City.
+Wizard: I have 9 days for you at the Sublime Echo, a 3 star beachside hotel that is handy to shopping districts and malls. The hotel would also provide parking for any rental car you may purchase free of charge. Wifi access is also included in your package price of 3401.2USD.
+User: Is that all you've got? For Mexico City?
+Wizard: Nope! For 9 days you could also stay at the Hotel Tropic, or spend 8 days at the all inclusive Coast; both of these hotels also offer 5 day packages if you’re interested.
+User: Tell me about the 8 day package please.
+Wizard: At the Coast you would have free parking and free wifi. The package is all inclusive as well, as it is a 3.5 star hotel with a 6.37/10 rating from guests. You will be staying close to many attractions, such as museums, beaches, shopping, and malls.
+User: How much does it cost?
+Wizard: 4457.63USD if you fly economy class.
+User: Ah I see. Can you could check out another destination for me please? I was thinking about going to Manaus as well.
+Wizard: I have an 8 day package in Manaus for 5445.49USD. You would be staying at the 2.5 star Hotel Mundo near a park and shopping district and have access to free parking, wifi, and breakfast for the duration of your stay.
+User: Oh that doesn't sound too bad either. For the 8 day trip to Mexico City, what are the departure and return dates?
+Wizard: I also have longer packages in Manaus if you are interested in hearing about them.
+User: No, I prefer something closer to 7 days.
+Wizard: The Manaus trip spans from September 12th-18th.
+User: And Mexico City? The 8 day one?
+Wizard: The Mexico City trip would be from September 10th-16th
+User: Okay then, I think I've decided. I'll take the 8 day package to Mexico City please.
+Wizard: Ok! Consider it booked :slightly_smiling_face:
+User: Great, thanks!
+Wizard: My pleasure. Anything else that I can assist you with today?
+User: Nope, that's all. Thank you.
+Wizard: My pleasure.

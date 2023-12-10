@@ -1,0 +1,7 @@
+User: Hello! I recently won the internship lottery to Kobe where I will work for free! I'll be leaving from Alexandria. What can you offer?
+Wizard: I do not have any flights from Alexandria to Kobe.
+User: Do you have any flights from Alexandria to Berlin??
+Wizard: I do not.
+User: What about Alexandria to Salvador?
+Wizard: Unfortunately those are not available either. I wish I could be of further assistance.
+User: That is really too bad. Thank you for your help.

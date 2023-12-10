@@ -1,0 +1,23 @@
+User: Howdy! So how does this work? I'm not too good with technology, I'm more of a pen and paper kind of guy
+Wizard: That is ok :slightly_smiling_face: I will guide you through it. I’m here to help you find the best vacation packages to fit your needs. Maybe we can start by you telling me where you are located and where you would like to explore travel options to.
+User: Ok thank you! I live in San Juan and I have two destinations in mind. The first one is Chicago.
+Wizard: Great, do you have a window of travel dates that you are limited to?
+User: No, but I am really hoping to be gone for 10 days.
+Wizard: Would 11 days be ok? I have a trip from Aug 31-Sept 10 in Chicago leaving from San Juan for 1324.90USD
+User: An extra day should be ok. For how many people is that price?
+Wizard: That’s just one adult. How many of you will travel?
+User: Me, my wife Penny and Johnny my son.
+Wizard: Fantastic. And could you tell me what your budget is?
+User: 1700, I wish I could spend more but I'm a writer and my last book was a total flop you know. I'm travelling to work on my book so if you could find places that were calm that would be really nice. I need this one to be a masterpiece!
+Wizard: Ok! Well sadly I cannot find you a package in Chicago for that budget, so perhaps you could tell me your other destination possibility and we can explore your options there.
+User: Ok, the other place I was thinking of is Baltimore
+Wizard: For just a little more than your budget I can book you 13 days at the Countryside Inn. This would cost 1747.67USD for the three of you and you would be in Baltimore from Sept 2-14.
+User: Is that the only option for Baltimore?
+Wizard: You could spend 8 days at the Countryside Resort in Baltimore for 1805.69USD.
+User: Ok well I really need this getaway so I suppose an extra 50$ and 3 days won't hurt. Can you tell me more about the place?
+Wizard: Sure! It’s 3 stars, near a park for little Jonny, and has a guest rating of 8.69. The hotel has free wifi, free breakfast, and free parking as well :slightly_smiling_face:
+User: Is it booked then?
+Wizard: I can go ahead and book it if you are ready!
+User: Yes please!
+Wizard: Consider it done then :slightly_smiling_face:
+User: Amazing, thank you! Now all that's left to do is for me to write a bestseller! And pack of course

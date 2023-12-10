@@ -1,0 +1,10 @@
+User: Get me on the next flight to Milan baby. I’m out in Puebla currently
+Wizard: Sure thing, do you have a budget in mind?
+User: 5500, but just to be clear I want the best hotel in town
+Wizard: I have two 4 star hotels to offer you. One is a 16 day trip and the other is an 11 day trip. You would be leaving August 26th and 27th respectively. Does one suit you better?
+User: Yes get me out on the 26th. Is the hotel rated well by guests?
+Wizard: It has 8.37/10
+User: Ok yes that will do
+Wizard: Great! Shall I proceed with the booking?
+User: Yes chief
+Wizard: Consider it done

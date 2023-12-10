@@ -1,0 +1,13 @@
+User: I need to fly to Fukuoka from Hiroshima
+Wizard: For how many people?
+User: just me if you can find something for Fukuoka.
+Wizard: I definitely have packages but can you please tell me your budget?
+User: I dont have one
+Wizard: Okay can please provide me with your dates?
+User: I don’t have any in particular.
+Wizard: May I suggest the Historic Mansion Hotel  for a 10 day stay? This is our highest rated hotel in Fukuoka at 3.5 stars and the package includes breakfast and wifi.
+User: Sure. Is it near anything? Does it have a pool?
+Wizard: I have no information on it's location or on whether it has a spa or not.
+User: oh ok. That’s fine, let’s book it anyway, business class style
+Wizard: I have taken care of the booking for you on business class at 800.73USD. Thank you for your booking and have happy travels to you.
+User: Thanks!

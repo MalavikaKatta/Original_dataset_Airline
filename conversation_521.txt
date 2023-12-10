@@ -1,0 +1,12 @@
+User: two business class tickets from Birmingham to Montreal ASAP
+Wizard: I have a 5 day package at the 4 star The Illustrious Haven Hotel. With flights in business class it costs 4131.57USD. Shall I book this for you? You would leave September 6th and return the 10th.
+User: Ok thats not too bad but I neglected to mention one detail I need to be back before September 5
+Wizard: In that case I can offer you 5 days at the Twin Canyon Inn and Suites for 4131.50USD.
+User: How good is the hotel?
+Wizard: It is a 2.5 star hotel, so not as fancy as the previous one but satisfied customers have given it a 8.86/10 review and it is close to the beach.
+User: That is exactly 2.5 stars below what a superstar of my stature deserves. Ok forget Montreal then. Can you get me into the swankiest hotel in Mannheim
+Wizard: You are in luck! We have an 8 day package available at The Regal Resort which has 5 stars for 5684.84USD. Is this more what you had in mind?
+User: Thats more like it. What are the dates?
+Wizard: Glad you think so! The dates are August 30th to September 5th.
+User: My expectations for you weren’t that high to begin with but I have to say you’ve exceeded them. Book for two adults please
+Wizard: Done! You will get a confirmation shortly.

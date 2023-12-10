@@ -1,0 +1,21 @@
+User: Hi im looking to go to monterrey
+Wizard: Where will you be leaving from?
+User: i leave from cancun
+Wizard: Do you have a budget?
+User: $2,500
+Wizard: How many people are going with you?
+User: just myself
+Wizard: When would you like to leave?
+User: Need to be there on the 4th
+Wizard: Would you like economy class or business class seats?
+User: depends what fits my budget
+Wizard: Both fit your budget.
+User: Business then
+Wizard: This package includes a 4 star hotel, museum, beach, theatre, free breakfast, wifi, and parking. The trip is from the 12th to 21st and the cost is 703.21.
+User: Thats a little early do you have anything in Long Baech?
+Wizard: Unfortunately there are no results for Long Beach in my database.
+User: anything to tampa?
+Wizard: No, sorry.
+User: monterrey it is
+Wizard: Great! I will book this package for you right away!
+User: thank you!

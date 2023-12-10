@@ -1,0 +1,17 @@
+User: HELLO THERE I AM IN MILAN AND LOOKING TO TRAVEL TO SANTO DOMINGO ON WEDNESDAY AUGUST 24. SORRY FOR ALL THE YELLING I'M IN A HELICOPTER
+Wizard: How many people will be travelling with you?
+User: JUST ME. JUST GONNA TAKE SOME PICTURES OF MADONNA
+Wizard: ok! perfect@ when do you need to be back?
+User: DOES NOT MATTER! I JUST WANT TO GO ON AUGUST 24
+Wizard: How long would you like to go for?
+User: OH I DON'T CARE, BUT I WILL SPEND 3700!
+Wizard: How many people will be accompanying you?
+User: ME ONLY ME
+Wizard: And how many people will be going?
+User: ME ONLY ME
+Wizard: Would a 4 star hotel suit your needs?
+User: YES THAT SOUNDS GOOD WHAT IS THE PLACE CALLED ALSO AREN'T THERE ANY 5 STAR HOTELS?
+Wizard: Summer Rose, its a 9 day stay with free breakfast, wifi, parking! it leaves on the 24th as you desired and returns on the 1st of september. That would be $1930 would you like me to book it?
+User: OK BOOK THANK
+Wizard: I will book that now
+User: GOODBYE

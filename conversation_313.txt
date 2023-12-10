@@ -1,0 +1,15 @@
+User: hello
+Wizard: How can I help you&gt;
+User: i have 9 days of vacation
+Wizard: Awesome! Where would you like to travel?
+User: from sendai to anywhere. starting friday sept 2 2016
+Wizard: I have a 9 day package available in Kobe from Sept 13-21
+User: ok. but i have to leave on sept 2
+Wizard: I can give you 13 days in Kyoto if you leave on Sept 2
+User: ok
+Wizard: Would you like to book it?
+User: what are the details
+Wizard: A 3.0 star hotel near a museum with free wifi and free breakfast for $442.70.
+User: ok I'd like to book it please
+Wizard: Ok, booked!
+User: thanks

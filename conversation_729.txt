@@ -1,0 +1,22 @@
+User: Hey! So me and my girlfriends are in the search for a perfect spring break trip!
+Wizard: Okay! How many people altogether?
+User: There'll be the 4 of us!
+Wizard: Where are you leaving from?
+User: We're all studying in Frankfurt.
+Wizard: Where would you like to go?
+User: Campinas is one of our top choices. It'll be AWESOME to go there!
+Wizard: Do you have a budget?
+User: We're willing to spend 8300 for our dream spring break :slightly_smiling_face:
+Wizard: When would you like to travel?
+User: Our spring break is from Aug 30 to Sep 14.
+Wizard: There are no results within your budget.
+User: Darn it. I guess we can also go to Essen if that works better.
+Wizard: There is a 3 star hotel near a palace, 6.61/10 guest rating, free breakfast and wifi, from August 30th to September 5th, business cost is 2333.61, economy cost is 2075.23. There is also a 2 star hotel, 4.93/10 guest rating, free parking and wifi, from August 31st to September 7th, business cost is 1260.72, economy cost is 1108.72.
+User: Are those the only two options?
+Wizard: Yes.
+User: Okay.. can you tell me a little bit more about these two options? How are their locations?
+Wizard: I don't have any more information on these hotels aside from what I already gave.
+User: Alrighty then, the 3 star hotel sounds good to us! We'll take the business package since it's within our budget
+Can you process the booking?
+Wizard: Great! This package is booked for your spring break getaway! Have a great day!
+User: Yay!

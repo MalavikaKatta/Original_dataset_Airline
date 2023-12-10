@@ -1,0 +1,12 @@
+User: Burlington to Busan. Aug 30 to Sept 10. Got a flight dude?
+Wizard: I do! I have 6 or 7 day stays at the Lethargy Hotel.
+User: Not bad, how much it cost?
+Wizard: Would you prefer flight seats in economy or in business class?
+User: Can I get business class for less than 5000?
+Wizard: Yes! With business class the 7 day package is 3781.35USD and the 6 day one is 4461.76USD.
+User: Is the six day package at a better hotel?
+Wizard: They are at the same hotel.
+User: Ok then as long as it fits in my dates then I’m ok with the 7 day package
+Wizard: The dates for that one are September 1st to 6th. Can I book it for you?
+User: yeah why not
+Wizard: Excellent, you will receive a confirmation shortly.

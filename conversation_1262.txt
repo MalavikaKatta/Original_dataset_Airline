@@ -1,0 +1,20 @@
+User: Hey! So I'm in charge of planning the next vacay for my wife and me plus our seven munchkins.
+Wizard: So that would be 2 adults and 7 children? Where are you coming from and where would you like to go?
+User: Yup! Our family's settled in Vancouver. I've got a few sweet destinations in mind but can you help me check Punta Cana first?
+Wizard: Not a problem. Do you have a fixed budget?
+User: Yeah that's the hard part... we're hoping to spend only 1300
+Wizard: I'm afraid we have nothing that accommodates your budget. Could you expand your budget?
+User: Ugh that's what I thought. The most I can convince her to spend is $1000 more
+Wizard: I'm afraid we still don't have anything that accommodates your budget. Would you like to try another destination?
+User: This is harder than I thought... What about Denver?
+Wizard: I have an 8 day package to Denver costing at 1900.60 for business and 1420.71 for economy. Would this interest you?
+User: Sounds pretty good.. can you tell me more about the hotel?
+Wizard: It's 3 stars with wifi included and there is a museum and university nearby.
+User: How much did other guests like it?
+Wizard: There's no guest rating for this one, I'm afraid. Are you still interested in this package?
+User: Are there any other hotels or packages in Denver?
+Wizard: I'm afraid that's all we have for Denver...
+User: Okay.. anything for Santiago then?
+Wizard: Nothing that suits your accommodation I'm afraid. How else may I help you?
+User: That's all for now! I'm going to talk to my wife about the Denver option and come back to you once we've decided.
+Wizard: My pleasure. Have a good day.

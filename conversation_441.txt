@@ -1,0 +1,13 @@
+User: Hi! I'm travelling solo to Belem from Atlanta and I want to go between august 24 and september 11
+Wizard: Great! Ok, so I have nothing in your date range leaving Atlanta. 
+User: I really need to be leaving from Atlanta. What about if I came back later?
+Wizard: Sorry - my mistake! I actually have several options available leaving from Atlanta. The dates available are Aug 24-30, Sept 3-7, Sept 6-9, Sept 8-11, or Aug 27-30.
+User: Are they all at the same hotel?
+Wizard: No
+User: Can you tell me about the one with the longest stay?
+Wizard: So there are two 7 day packages. At the Hotel Triumph you would be staying on the beach at a hotel with a 4.0 star rating. There is free parking and wifi and breakfast is included in your price of 2819. You would travel on August 28 and return September 3rd. Alternatively, Zion Hotel offers a 7 day stay on the beach at a 4.5 star rated facility for 2094 dollars with business class flights. This package at Zion goes from August 24 until August 30.
+User: They both sound fantastic! Does Zion include free things as well?
+Wizard: Yes, Zion has all the same free amenities that Triumph has.
+User: That's great! Then i'll go with Zion, it's fancier and somehow a lot cheaper, can't wait :smile:
+Wizard: Great :slightly_smiling_face: Sounds good! Enjoy
+User: Thank you :slightly_smiling_face:

@@ -1,0 +1,8 @@
+User: Las Vegas to Mexico City for 7 please
+Wizard: I have packages ranging from 8 days to 12 days, any preference?
+User: I prefer the one that lands us a stay at a five star hotel
+Wizard: Highest rated hotel I have available in Mexico City is a 3.5 star
+User: Lets try Rome then
+Wizard: Highest rated hotel I have in Rome is a 4 star. Are you inetrested in these?
+User: You have a flagship hotel for us in Fortaleza?
+Wizard: 3 star is our highest in Fortaleza

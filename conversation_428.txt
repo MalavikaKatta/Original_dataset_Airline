@@ -1,0 +1,27 @@
+User: Hi there...this is my first time traveling and I'm so excited! I've lived in Boston all my life and want to see the world
+Wizard: Congratulations, what is your budget ?
+User: I have 1900 budget and 13 days
+Wizard: What date would you like to leave?
+User: I'm flexible, some time soon I hope!
+Wizard: Is it just for yourself?
+User: Yes just me myself and I
+Wizard: you can go to Punta Cana, Fort Lauderdale, Phoenix, Miami, Burlington, all for between about 450USD and 550USD, between 6 and 13 days
+User: You are a lifesaver! Which destination has the highest rated hotel?
+Wizard: Miami and Phoenix have 3 star hotels
+User: Do they both have the same amount of amenities?
+Wizard: Yes about the same. Here are the details:  
+
+The Recreation Inn  - 7 days, Phoenix, United States, hotel, museum, university
+Total price: 550.61USD
+
+Triple Aegis - 8 days, Miami, United States, park, mall
+Total price: 534.37USD
+User: Okay cool. Which destination can I stay for the longest time at?
+Wizard: Fort Lauderdale, 13 days, 2 star hotel. for 553.0USD
+User: Okay, does this hotel at least have a decent user rating?
+Wizard: yes 6.51
+User: Ok I'm leaning towards this one but just to help me decide, can you tell me if this hotel is near any attractions or has any amenities?
+Wizard: it is near a market and has free wifi, breakfast and parking.
+User: Ok great, I think I'll book this one
+Wizard: I will send an confirmation email to you. Thanks 
+User: Thanks!

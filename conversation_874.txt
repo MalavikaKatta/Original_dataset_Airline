@@ -1,0 +1,18 @@
+User: you do vacation deals out of rome, yes?
+Wizard: Yes, where would you like to go?
+User: i was thinking you could help me answer that. if i have 3100 to spend
+Wizard: Sure, do you have a budget?
+User: and want to leave between sept 3 and 22. where could i go
+Wizard: You can go to Ulsan, Sendai, Sao Paulo, Kobe, Kyoto, or Montreal.
+User: wow thats more options than i had imagined could i get a four star hotel in ulsan?
+Wizard: I can do you one better with a 5 star hotel in Ulsan! How does that sound?
+User: that sounds incredible! how many days?
+Wizard: 15, from the 3rd to 21st of September!
+User: what kind of amenities do they have??
+Wizard: They have free parking and wifi, they are also near a park, market, and theatre!
+User: I don't even care what the other cities have to offer, I'm just going to go with this one
+Wizard: Alright! The hotel has a 8.98/10 guest rating and this package is 2473.96. Unfortunately there is no business class option for this package so you will be flying economy. Would you like to book this package?
+User: I'm ok with that!
+Wizard: Great! I will book this package for you right away and you will soon receive a confirmation email. Have a fantastic trip!
+User: thanks thanks
+Wizard: Anytime!

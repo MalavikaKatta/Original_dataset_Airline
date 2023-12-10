@@ -1,0 +1,19 @@
+User: I would like to go on a trip with my wife and 2 kids. Our budget is 3700 and we'd like to go between august 27th and september 10th. I've been thinking about going to Curitiba from Paris
+Wizard: I have one option available for you. Unfortunately, it is slightly above your budget at 4961.26USD. However, it is an 11 day package. Would you like some more details on it?
+User: yes I would like more details please
+Wizard: We have the Muse available from August 27 to  Sept 6. It carries a 2 star rating but with a very high user rating of 8.98/10. It included free wifi throughout your stay.
+User: how much is this package?
+Wizard: $4961.25USD based on you travelling on economy class.
+User: I will have to reject this package, it is just too expensive. Maybe you could check flights to Seattle for me?
+Wizard: I do have several packages available in Seattle but all are higher than your budget, the least expensive costing 5301.23USD.
+User: hm...how about Miami? I can increase my budget by $1000
+Wizard: No need. In Miami, I have several packages available which fit your budget and date criteria. Would you prefer to be near the airport or the mall?
+User: I think we'd rather be by the mall so my wife can shop!
+Wizard: Close to the mall and park, I have the 3 STAR Triple Aegis, with an option of 9 or 11 days. A 9 day stay will cost you  2435.97USD and an 11 day stay will cost you 2219.45USD. These are both also available on business class seats and still under your budget.
+User: What are the dates for the cheaper package?
+Wizard: Departing Aug 30th, returning Sept 6th
+User: That sounds good to me. How much are business seats for this package?
+Wizard: 3122.50USD
+User: not too shabby. I like this one and so does the wife, so we will go ahead and book this one please
+Wizard: I will proceed with booking. Have a great day.
+User: Thank you so much!

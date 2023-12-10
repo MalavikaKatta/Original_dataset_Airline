@@ -1,0 +1,17 @@
+User: Good morning! I will be travelling with a colleague for business and we are thinking of tacking on a short vacation after. Do you have any flights going from Punta Cana to Cairo sometime between 26 August and 9 September?
+Wizard: Hi let me see if i can help you out! do you have a budget in mind?
+User: It's not necessarily about money, more about what suits our schedule. If you cannot find anything from Punta Cana to Cairo, we can look at other options.
+Wizard: Are these dates flexible?
+User: We can also leave from SF. slightly but not much
+Wizard: I found southern universe inn in Cairo a 2.5 star rating with free breakfast, wifi and parking leaving on August 30th until the 8th of september, all for $1710
+User: departing from what city?
+Wizard: from Punta Cana
+User: That sound great but I want to look at another option. What about from San Francisco to Manaus? Anything available close to my dates?
+Wizard: yes actually we have a few options for you, Hotel Mundo (2.5 stars), Hotel Aquamarine River (2.5 stars) and Tranquil Sanctuary Hotel (3.0 stars). they are all 11 day stays with free breakfast, wifi, and parking
+User: same dates as Punta Cana to Cairo?
+Wizard: they are on the 27th until september 5th but the Tranquil Sanctuary Hotel is the 26th until the 4th
+User: Southern Universe in Cairo works for us. Do you have any seats available in Business class? We don't like to travel economy.
+Wizard: for the 26th?
+User: for August 30 to September 8
+Wizard: for Business that will be $2059
+User: At the same hotel, Southern Universe? if so, we'll take it! Pease send me flight confirmations by email.

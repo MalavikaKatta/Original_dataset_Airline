@@ -1,0 +1,7 @@
+User: I want to leave from Tel Aviv and go to Fortaleza for 2300 with 7 adults
+Wizard: I'm afraid we do not have any packages that leave from Tel Aviv. Would you like to leave from another city instead?
+User: I can leave from Kabul
+Wizard: I'm afraid we have no flights that leave from Kabul either. Is there another city that you would like to try?
+User: I can go to London from Kabul for 2400 and 3 adults
+Wizard: I'm afraid we do not have flights that leave from Kabul. Is there another city that you would like to try?
+User: nope

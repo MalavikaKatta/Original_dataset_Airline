@@ -1,0 +1,17 @@
+User: Hi! I'd like to go on a trip to Monterrey!
+Wizard: Hi
+User: oops I mean from Monterrey to Ulsan
+Wizard: What would be your budget
+User: I dont have one, i'm stinkin' rich!
+Wizard: Which days would you want to go?
+User: I'm thinking between September 6th and 15th.
+Wizard: How many people would be going?
+User: Just me, myself and I. I'm like super independent :slightly_smiling_face:
+Wizard: Would the dates be flexible?
+User: I can go  between August 31st and September 8th as well I suppose
+Wizard: 1. 10 Days at the Sapphire Time, 5 star hotel, at 21807318.3USD
+User: What's another option?
+Wizard: 2. Crimson Seaside Hotel - 5 days, 4 star, 22308558.83USD
+User: These are all really expensive....Do you have any cheaper options? I'm rich but I'd like to stay rich for as long as possible.
+Wizard: so what is your budget sir?
+User: I'm a woman! Try to find something 9000 or less if you can.

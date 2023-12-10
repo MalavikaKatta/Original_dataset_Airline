@@ -1,0 +1,10 @@
+User: drop what you’re doing and book me a flgith!
+Wizard: That's what I'm here for. Where would you like to go?
+User: campinas to portland! Now!
+Wizard: Sure, do you have a budget?
+User: nope!
+Wizard: When would you like to leave and return?
+User: no dates in mind to be honest
+Wizard: There are no results.
+User: are there results for manaus at least?
+Wizard: Yes. 3 star hotel, park, museum, palace, 8.49/10 guest rating, free parking, breakfast and wifi, from September 10th to 21st, 476.72 for economy, and 523.20 for business.

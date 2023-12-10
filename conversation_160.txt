@@ -1,0 +1,16 @@
+User: Hey, what deals can you offer me on trips to curitiba?
+Wizard: Where will you be leaving from?
+User: I will be leaving from columbus
+Wizard: Are you the only member?
+User: Yup, just me this time
+Wizard: Do you have a budget?
+User: Nope, just get me outta here
+Wizard: Do have any specific dates for your trip?
+User: It has to be between August 18 and September 8
+Wizard: So you want Curitiba, yes?
+User: If that doesn't work I guess I could go to Las Vegas
+Wizard: Unfortunately, there are no results for any flights from Columbus to any of your preferred destinations. Is there anywhere else you might be willing to go?
+User: Hmmm, those are the only days I can get off work. See where else you can send me in that time frame
+Wizard: There are no flights out of Columbus. Is there another place you could leave from?
+User: No, unfortunately I can't. Guess I'll just take a staycation this time :disappointed: Thanks anyway
+Wizard: Sorry for the inconvenience. good bye

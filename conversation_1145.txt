@@ -1,0 +1,19 @@
+User: I want to go to Hamburg from Washington. no more than 1000.
+Wizard: Sorry, we don't have anything under your budget. Would you be able to make your budget flexible?
+User: No. do you have anything from Washington to San Antonio?
+Wizard: Yup I do! When can you be there?
+User: Anytime
+Wizard: Great, I can offer you a 13 day stay at a 2.0 star hotel in San Antonio. It has a guest rating of 7.15/10.
+User: Nice. Do you have anything from St. Petersburg to Hamburg?
+Wizard: Nothing under your budget unfortunately.
+User: St. Petersburg to San Antonio?
+Wizard: I have a 13 day package the same hotel in San Antonio.
+User: What’s the difference between this 13day package and the other 13day package?
+Wizard: This one is from the 14th to the 26th and costs 464.36. The other is from the 12th to the 24th and costs 676.52.
+User: Are those both economy?
+Wizard: Yes they are.
+User: Okay so I’m assuming I cant afford business then?
+Wizard: You can actually. The 13 day business package from St. Petersburg costs 519.59 and business from Washington costs 758.76.
+User: I’ll do the one from St. Petersburg then. Business class.
+Wizard: Sure, I will confirm the booking for you!
+User: Thanks

@@ -1,0 +1,17 @@
+User: HI im from Punta Cana can you help me find a vacation
+Wizard: Of course! How many people will you be traveling with?
+User: just by myself
+Wizard: Do you have a budget in mind for this trip?
+User: not at the moment but im looking for the best deal
+Wizard: I can offer you deals on any of the following destinations: Mexico City, Alexandria, Chicago, Atlanta or Dallas.
+User: is there anything to mannheim?
+Wizard: Yes there is!  For Mannheim, I have a package for the 17th-21st of August. You would be flying economy and staying at the Regal resort, a 5-star hotel with a a 8.98/10 guest rating. This resort even features a spa for guests to use. The total for this trip would be 2366.49USD.
+User: amazing glad to know and opposed to Mexico City what does the price look like
+Wizard: The best deal I can offer you for Mexico City is 507.18USD for 5 days. You would be departing the 17th of August and returning the 21st, flying economy both ways.  You would be staying at Hotel Tropic, a 3.0-star hotel with a guest rating of 6.77/10.
+User: is there anything leaving on the 19th?
+Wizard: I can send you to Vancouver on the 19th, with a package that includes a highly-rated 4-star hotel, for 1072.44 USD. I unfortunately don't have any packages leaving for Mexico City on the 19th, however if the 17th is too early for you I can book you a trip from the 24st to the 28th of August and put you up at the Hotel Tropic, for a total of 507.18USD.  For Mannheim, the nearest date I could book you for your flight would be the 27th of August, with a return trip on the 31st. You would be staying at the Regal Resort, a highly-rated 5-star hotel, for a total of 2366.49USD.
+User: regal resort seems great! ca we upgrade that flight?
+Wizard: Yes I can! That brings your total to 3033.22USD. Do you want me to book this trip?
+User: yes please do!
+Wizard: Done! Your flight leaves at 8:00 a.m. on Saturday, August 27. Thank you for using our service!
+User: Thanks you!

@@ -1,0 +1,10 @@
+User: I want to go to brasilia from birmingham
+Wizard: Let me know how I can help you
+User: i have 1600
+Wizard: Ok! When do you want to travel?
+User: doesnt matter, i cant book anything, im a lowlife and can only dream
+Wizard: You would spend 8 days at a 3.5 star hotel near the beach, shopping, and a theatre. Free parking, free breakfast, free wifi are all included. And the user reviews are 8.69/10.
+User: i like. How about trips to Belo Horizonte
+Wizard: For just 1392.64 USD you could spend 8 days at Tranquil Season Hotel, a 2.5 star hotel near the beach and shopping district with free parking, free breakfast, and wifi included!
+User: any trips to houst?
+Wizard: Sorry, I don’t have anything available in Houst.

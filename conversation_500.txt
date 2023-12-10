@@ -1,0 +1,10 @@
+User: sometime in the next century. but for under 5000
+Wizard: Where would you like to go?
+User: sapporo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Wizard: Where are you leaving from?
+User: omg are you serious. las vegas!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Wizard: How many people are travelling?
+User: just me, me myself and i, moi
+Wizard: There are no flights from Las Vegas to Sapporo.
+User: fine. get me a flight to sacramento.
+Wizard: There are no results for this flight either.

@@ -1,0 +1,23 @@
+User: I am leaving from Beijing and want to go to Curitiba
+Wizard: Unfortunately we do not offer any flights out of Beijing as of right now.
+User: oh okay. I can leave from Madrid then
+Wizard: That works! When do you want to travel?
+User: on or after septembr 11
+Wizard: Do you have a specific budget I should work with?
+User: 3600 for 2 adults
+Wizard: How about a 15 day stay at a 3 star beachside hotel?
+User: not bad at all. Is that the only option?
+Wizard: Nope, we also have another 3 star hotel near the museum and market. Here we offer 16 day or 10 day trips.
+User: Yas, what else can you tell me about the hotel?
+Wizard: It has 6.61/10 guest ratings, free parking, free breakfast, and free wifi.
+User: What about the other hotel?
+Wizard: The other one has 8.22/10 guest ratings, and also free parking, free breakfast, and free wifi.
+User: That one is way better. What are the dates for this package?
+Wizard: It's from Sep 14-18.
+User: I thought you said it was 15 days?
+Wizard: You are correct! It is actually from Sep 14-28.
+User: thats better lol, okay so how much is it?
+Wizard: It's 2450.26 for economy and 3120.26 for business.
+User: put us down for business
+Wizard: Done! The two of you are headed to Curitiba!
+User: thnx

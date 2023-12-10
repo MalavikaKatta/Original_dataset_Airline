@@ -1,0 +1,13 @@
+User: I need to find a vacation between the 12 of september and 2nd of October for under 6500, leaving from Sydney.
+Wizard: and heading to ?
+User: anywhere
+Wizard: For how many travelers?
+User: just me
+Wizard: I have 19 days available at the Sunset Baron, rated 3.5 stars which provides breakfast, parking and wifi at no charge.
+User: kk what are the date
+Wizard: Sept 14 to oct 2nd
+User: That's perfect! Is the hotel near anything in particular?
+Wizard: It is close to the airport and not far from the museum and shopping
+User: Perfect! So convenient! Book it for me please :slightly_smiling_face:
+Wizard: I will book the package at 2799.45USD. Thank you and enjoy the weekend.
+User: Thanks!

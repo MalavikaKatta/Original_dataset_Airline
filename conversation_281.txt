@@ -1,0 +1,31 @@
+User: Hi! I want to book a trip for me and four friends for spring break!
+Wizard: I can definitely assist you with that. What will your departure city be and do you have a destination in mind?
+User: We are leaving from Salvador. Do you have any trips to Kingston?
+Wizard: I have plenty of packages from Salvador to Kingston. When is your Spring Break?
+User: We have pretty flexible dates, we were hoping to fly out between September 2nd and 17th
+Wizard: Do you have a budget for this trip?
+User: Yes, our total budget is of 14200
+Wizard: I have 6 day and 8 packages available. Any preference?
+User: It depends, what kind of hotels and activities are included in the packages?
+Wizard: I have 2.5 star, 3 star 3.5 star hotels available. All of them include free wifi. A couple are located near the museum and a couple in the heart of the city near the park. Which location are you more interested in?
+User: Being in the heart of the city sounds good! Or do you have any close to the beach?
+Wizard: Unfortunately, I have nothing available close to the beach in Kingston at the moment. In the heart of the city, I have the Cosmos Inn available for 6 or 8 day packages. This is a 2.5 star hotel which also includes free parking and a free breakfast. You can fly to there either on economy or business class and still stay within your budget.
+User: ok! Are any extras included in the price?
+Wizard: No there are not. Would you like me to provide you with some pricing on the 8 day package via business class?
+User: Yes that would be great. Could you give me the price of the 8-day package in economy and in business so that I can compare?
+Wizard: Cosmos Inn - 8 days in economy class is available from September 8th to Sept 14th. The total cost on this package is 9141.53USD.  Cosmos Inn - 8 days in business class is available from is also available on the same dates for a total cost of 11812.93USD. I can manage this for the 5 of you.
+User: Great thanks! Last question about this package, does the hotel have a pool or other amenities?
+Wizard: I am sorry, but I do not have access to this information in my database.
+User: Alright, that's ok. The other destination we were considering is Lima
+Wizard: I have a 9 day package available at the Wolf Inn. It is a 3.5 star resort located near the park. It includes free wifi, free parking and a complimentary breakfast and I only have economy flight available at this time. The total cost is 14057.6USD, so it comes in just under your budget.
+User: That sounds pretty good! Otherwise do you have anything close to the beach?
+Wizard: I apologize. All of our resorts  located close to the beach in either Kingston or Lima have already been booked up. Would you like to look at other possible destinations?
+User: Those are the two destinations we were considering. Can you give me any additional information about the Wolf Inn?
+Wizard: The flight departs on September 8th at 11am and returns on September 15 at 2am . Again, this is in economy class seating.
+User: Ok! If we increased our budget to 15200, would there be other packages you would recommend for Lima?
+Wizard: No unfortunately Wolf is the only resort in Lima available at the moment.
+User: How about in Kingston, would other options become available with a slightly higher budget?
+Wizard: That's pretty all that is available in Kingston too. Would you like me to proceed with booking before there are no places left?
+User: Yes! Then we will go for the Lima package at Wolf Inn!
+Wizard: Perfect, I will take all your information down and proceed with the booking. Have a nice day!
+User: Thank you very much!

@@ -1,0 +1,13 @@
+User: Hi there, I'm looking to book a trip to Manaus. Do you think you can help me find the best deal?
+Wizard: Sure can! Where are you hailing from?
+User: My family and I will be coming from Leon.
+Wizard: And how big is the family?
+User: I'll just be going with my wife and son.
+Wizard: Do you have a budget range?
+User: Yeah actually, I do. I have absolutely no plans of spending beyond 2900.
+Wizard: Unfortunately that budget won't work. Do you have any other cities you would like to visit?
+User: Are you sure about this? Not even for just a few days?
+Wizard: Unfortunately not for Manaus. did you have any alternatives?
+User: No i'm afraid not!
+Wizard: I'm sorry I will not be able to help then. Good luck with your search!
+User: Thank you.

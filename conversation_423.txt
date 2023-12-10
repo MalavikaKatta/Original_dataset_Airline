@@ -1,0 +1,17 @@
+User: Hi My cousin is getting married so I'm looking for a place to stay in Milan from August 27th to September 1st :slightly_smiling_face: I'd be leaving from Punta Cana
+Wizard: Great :slightly_smiling_face: Ok, I have El Mundo Hotel available from August 27-31. It’s a four star hotel near the airport with free wifi and breakfast.
+User: That could work! How much is it?
+Wizard: 2488.66USD
+User: Is that the price for 2 people?
+Wizard: Just one. Would you like to know the price for two adults?
+User: yes that would be great! I'm going with my husband
+Wizard: Ok :slightly_smiling_face: In that case I could book the two of you for 4977.33USD
+User: That's a bit expensive! Do you have any cheaper deals?
+Wizard: I’m sorry, nothing available for two people at a lower price from Punta Cana to Milan :disappointed:
+User: What about if we left earlier? Like the 25th?
+Wizard: I do have options available leaving on the 25th, however they are more expensive.
+User: Ok, let me see them
+Wizard: Let me know when you are ready to book :slightly_smiling_face:
+User: My husband didn't want to come anyways and we can't afford to both go so I guess i'll book hotel for one person
+Wizard: Ok, sure thing! I will take care of that for you
+User: Thank you!

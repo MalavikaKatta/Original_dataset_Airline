@@ -1,0 +1,14 @@
+User: Hi I want to go to Tijuana from Santo domingo for 2400
+Wizard: One person?
+User: yea
+Wizard: Are you available for travel from September 12th to the 20th?
+User: ya
+Wizard: We have the 3 star Resort Jade Covert available for 9 days during that time period. It includes amenities such as wifi, parking and a complimentary breakfast.
+User: ok....ok...anything to Indianapolis?
+Wizard: 13 day package okay?
+User: sure
+Wizard: The Hotel Vanilla is a 3 star hotel located near the park, beach, airport and university and included amenities such as wifi, parking and a complimentary breakfast.
+User: cool beans. Anything to Denver?
+Wizard: We have a nice 4 star hotel in Denver available for 15 days for 1375.21USD departing September 9th and returning on the 23rd
+User: ugh. i want this. unfortunately im stuck working a dead end job and dont have any vacation days left. Thanks for entertaining my imagination tho
+Wizard: You are welcome, come again.

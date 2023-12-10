@@ -1,0 +1,26 @@
+User: Hi there :slightly_smiling_face: I just managed to get my boss to agree to a HUGE vacation time slot!! I am so excited to do some traveling. I'm traveling from Hamburg and I have a few cities I'm thinking of seeing...
+Do you have packages to Tijuana?
+Wizard: Which days are you travelling and what would be your budget?
+User: I'm free to travel from August 30 to September 20. Budget is to be determined
+Wizard: We have 9 days trip at 2694.73$, or 13 days at 3051.45USD. The best rated hotels are 3.0 stars
+User: I just want to know more about the hotels in Tijuana first. Which package has the the hotel rated 3 stars?
+Wizard: We have Resort Jade Covert - 13 days, at 3051.45USD (ECONOMY). or 9 days at 3422.61USD (ECONOMY CLASS). The same hotel for 13 days in a BUSINESS class fight is 3947.27USD
+User: Great, let me just ask you about Kingston also. Do you have flights to Kingston
+Wizard: from where?
+User: also from Hamburg
+Wizard: yes, we have stays hotels at 2086.77 (3.5 stars, 8 days),2048.14 (4 stars, 8 days), and 1951.44, 3.5 star, 10 days, or 1653.85 (4.3 stars, 8 days)
+User: awesome, thanks for the detailed response. Can you check trips to Salvador?
+Wizard: We have 3.5 star hotels, for 10 days at 3070.39 (economy class) or 10 days at 3971.30 (Business Class)
+User: Is the hotel near any attraction?
+Wizard: It's near the museum, palace and theatre
+User: Now I'd also like to check out trips to Miami
+Wizard: We have 3.5 star hotels at 3196.25USD economy class or 4098.82 business class, both for 10 days
+User: Can you tell me about the amenities here
+Wizard: Majestic Island Inn & Suites - 10 days ,  free wifi, free breakfast, free parking
+User: ok i just want to compare really quickly with the Resort Jade Covert in Tijuana. do you know if its near anything interesting?
+Wizard: it's near a shopping center
+User: Can you tell me the price for Miami if its for two adults and four kids?
+Wizard: it ranges from 7146.39 to 13263.81 USD.
+User: what do i get for 7146.39?
+Wizard: 3 star hotel, guest rating is 8.86, free wifi, breakfast and parking. Triple Aegis - 11 days
+User: Deal. Book it

@@ -1,0 +1,41 @@
+User: hello i am booking from buenos aires to tokyo
+Wizard: Hello :slightly_smiling_face: I can help with that! Did you have dates in mind?
+User: yes - august 27 until september 9th
+Wizard: Unfortunately, we do not have a package matching the exact dates you provided. Are you flexible with your schedule?
+User: i dont need the exact dates but within that date range, sorry I shouldve clarified
+Wizard: No need to be sorry, boss. Would you be interested in a trip from September 2 to 7?
+User: yes sure, that’d work. whats the hotel like
+Wizard: Excellent! The hotel is the Bonzai Hotel, a 3-star hotel near museums and shopping. Guests have rated it 6.77/10, and amenities include free wifi and spa. How many would you be booking for?
+User: i also wanna check out buenos aires to salvador
+Wizard: For sure, would this trip be in the same date range as the one you provided previously?
+User: yes
+Wizard: We have a trip from August 27 to September 1, taking you to the Water Motel, a 3.5 star adults only hotel near the museum, palace, and theatre. Would this be of interest to you?
+User: ok not bad. what if i left from toluca
+Wizard: I would be able to book you from August 29 to September 6, also at the Water Motel. Would you prefer this option?
+User: interesting. i will consider it
+Wizard: Wonderful, how many people would you like to book for?
+User: but i will also consider toluca to tokyo
+Wizard: I have an available trip from Toluca to Tokyo from August 27 to September 5. Would you like to learn more about this trip?
+User: ok tell me more
+Wizard: You would be staying at the Lunar Island Resort, a 3 star hotel putting you near museum and shopping. The hotel comes with free wifi and a spa, and guests have lavished a 6.91/10 rating upon it. Would you be interested in booking this hotel?
+User: is that the same hotel if i left from buenos aires?
+Wizard: It would be a different hotel. Would this be okay with you?
+User: well i would like to compare the two
+Wizard: Certainly, what would you like to know?
+User: can I have a side by side comparison. rating, amenities, location
+Wizard: I'm sorry, I do not understand.
+User: tell me all the qualities of each hotel. compare them for me
+Wizard: Lunar Island Resort is a 3 star hotel putting you near museum and shopping. The hotel comes with free wifi and a spa, and comes with a 6.91/10 guest rating
+User: nah. whats available in salvador. how many different hotels
+Wizard: Would you be looking to depart from Buenos Aires?
+User: sure
+Wizard: I have located one hotel in Salvador: the Water Motel, a 3.5 star adults-only hotel near the museum, palace, and theatre. Would you be interested in booking this hotel?
+User: what if i left from toluca
+Wizard: I have located one hotel in Salvador: the Water Motel, a 3.5 star adults-only hotel near the museum, palace, and theatre. Would you be interested in booking this hotel?
+User: is that from toluca
+Wizard: The aforementioned hotel is for trips departing from Toluca.
+User: ok. lets book the hotel in fukuoka
+Wizard: Wonderful, how many adults and children would you like to book for?
+User: 2 adults
+Wizard: The trip will cost 8020.11USD, thank you for your business! We hope you have a wonderful trip.
+User: thanks

@@ -1,0 +1,18 @@
+User: Do you do flights out of Punta Cana?
+Wizard: Sure do! Where to?
+User: I had Kochi in mind, but I’m not sure if there are actually flights there?
+Wizard: There actually are some flights between Punta Cana and Kochi! Can you tell me more about your travel dates and budget?
+User: I have September 11 to 17 off, budget isn't a problem. I want the longest trip
+Wizard: Sounds good. I have something for your exact dates! It will be an 8 day stay at a 3.5 star hotel in the heart of Kochi!
+User: Is anything included with the room?
+Wizard: It has free wifi and you can easily access a nearby park.
+User: Can you also check Sydney for me?
+Wizard: Nothing to Sydney unfortunately.
+User: is there a better hotel in kochi by chance?
+Wizard: No there is not.
+User: ok lets book the one you found me then!
+Wizard: Alrighty, just for yourself right?
+User: yes it will be just me. whats the cost?
+Wizard: You can get an economy seat for 4353.35 or a business seat for 5653.9.
+User: ok i’ll just do economy this time
+Wizard: Sure, your trip is booked for you! Look out for a confirmation email coming your way.

@@ -1,0 +1,12 @@
+User: I need to get to Madrid please - quickly.
+Wizard: From?
+User: And I need to stay in the heart of the city, near restaurants. Salvador.
+Wizard: I've got a 5 star hotel. It's not in the heart of the city exactly but it's close to the museum, cathedral, and palace, so I'd say it's pretty nicely located.
+User: Ah, ok - yes, there are rarely notable Cathedrals in the suburbs. Should be sufficient... And are you able to book 8 adults and one child there for 2900 dollars?
+Wizard: Sorry no, you'd have to raise your budget.
+User: In that case my lawyers will have to book on there own - one child and one adult.
+Wizard: Can't do that for under 2900 either...
+User: How much would it be then?
+Wizard: 3651.61 for one adult + one child.
+User: Ok, that's fine. I will go ahead with booking
+Wizard: Alright! It will be a 14 day trip from the 9th to the 21st.

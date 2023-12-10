@@ -1,0 +1,4 @@
+User: I need to get from Sacramento to Osaka on Sept 1
+or shortly thereafter
+Wizard: Osaka is not a destination that we have packages in from your departure city.
+User: Then I will take my search elsewhere

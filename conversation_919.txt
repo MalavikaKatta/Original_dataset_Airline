@@ -1,0 +1,6 @@
+User: I'm so excited, I get to take my entire team anywhere I want! Money is no object. Just gotta make it fit into out busy schedule. We can only go between August 31 and September 3rd.
+Wizard: Where are you leaving from?
+User: Tofino will be our point of departure
+Wizard: Sorry, we do not offer flights from Tofino.
+User: I'll try someone else, sayonara
+Wizard: Goodbye

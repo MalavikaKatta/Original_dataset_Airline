@@ -1,0 +1,15 @@
+User: Hello
+Wizard: hello there
+User: Could you book me a flight from Belem to Punta Cana?
+Wizard: One adult?
+User: 2 adults
+Wizard: Do you have a set date of departure?
+User: No date of departure for this trip, but I would prefer earlier if possible
+Wizard: The earliest I have is Sept 2nd, how does that sound? That package would put you in Punta Cana for 16 days. Do you have a cap on how much you want to spend?
+User: That should work. I actually don’t for this trip. But can you keep it to something reasonable, like under 6100?
+Wizard: This particular package on economy class flights is 4289.9USD. Do you want more details on the hotel?
+User: is it near the airport?
+Wizard: It is near the cathedral and the palace. In Punta Cana, I have nothing near the airport available.
+User: Thats fine, lets just go with that
+Wizard: Okay your stay will be at the Sunrise Elephant Hotel and you will depart on Sept 2 and return on Sept 17. We appreciate your booking
+User: Thanks!

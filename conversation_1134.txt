@@ -1,0 +1,21 @@
+User: Heyyy! I would like to book an awesome trip for me and ma gurls from Fort Lauderdale to Minneapolis.
+Wizard: How many will you be?
+User: 3 adults
+Wizard: For what time period would you like to travel?
+User: September 7th to 19th! and we've got 2800 between the 3 of us.
+Wizard: I have 2 choices, would you prefer to be close to the museum or the university?
+User: ooooo frat boyz!!!!! University pleaseeee!!
+Wizard: I have the Antique Mantle in Minneapolis with either a 7 day stay or an 11 day stay located near the university.. It has a rating of 2.5 stars and included wifi, parking and breakfast. 11 days = 2602.69USD and 7 days = 2474.8USD.
+User: What are the dates for it?
+Wizard: The 7 or 11 days?
+User: 11
+Wizard: The 11 day package is from September 8th to September 18th
+User: Perf! Do you have anything to Phoenix? We heard its a fall break hot spot!
+Wizard: I have the The Recreation Inn , also close to the university, from Sept 9th to the 19th at 2266.58USD. This is a 3 star hotel with free parking, wifi and breakfast.
+User: How much??
+Wizard: 2266.58USD
+User: Is that for economy?
+Wizard: Yes, business is 2632.65USD
+User: Well I think we'd like to splurge a bit and this package seems way better! Can you book it for us?
+Wizard: Absolutely I can. I will look after it right away. Have a fun trip.
+User: Thanks!!

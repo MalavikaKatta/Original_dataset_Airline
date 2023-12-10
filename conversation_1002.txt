@@ -1,0 +1,15 @@
+User: I wanna go to Philadelphia
+Wizard: Where are you leaving from? And when do you want to go?
+User: I can leave from Tokyo? And I wanna travel between August 30th and September 14th
+Wizard: I do have a 15 day package for you in Philadelphia! It is a 2.0 star hotel near the park and museum. It has a guest rating of 6.61/10 and offers free parking, wifi, and breakfast.
+User: Can you book it for 5?
+Wizard: Yup! For 5 it will be 17611.29 in economy class and 22931.80 in business class.
+User: Ok - do you also have an availability in San Francisco by any chance??
+Wizard: Yes, I have a 2.5 star hotel near a museum. It has 6.91/10 guest rating and offers free parking, wifi, and breakfast. We offer 9 or 8 day packages there.
+User: Better than Phili hmmm ok let’s book that for 5!
+Wizard: Would you want to go for 8 or 9 days? On business or economy flights?
+User: I'll take 9 days Whats the price difference in flights
+Wizard: 17834.48 for business class and 13805.86 for economy class.
+User: Ahhh ok economy class please
+Wizard: Alrighty it is booked! Anything else?
+User: Nope! Thanks!!

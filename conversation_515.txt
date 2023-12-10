@@ -1,0 +1,15 @@
+User: hello................
+Wizard: Hi
+User: dont care when i leave........... be back sept 9.............waht can i have...
+Wizard: Where are you leaving from?
+User: queenstown..
+Wizard: We have trips to Vitoria, Goiania and Minneapolis
+User: no. whats available in philadelphia
+Wizard: 11 days and 5 days trips
+User: what dates?
+Wizard: August 30 to September 2nd , as well as September 12 to September 15
+User: ok, well, clearly u didnt listen to the date i said i had to be back by....so... where can i stay in chicago
+Wizard: 2 star and 2.5 stars hotel near airport or museum
+User: gross. not interested how many stars would the hotel in philadelphia from august 30 to september 2 be.............
+Wizard: 2 stars hotels
+User: I am not interested

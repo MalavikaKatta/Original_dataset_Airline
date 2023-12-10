@@ -1,0 +1,15 @@
+User: I want to go to Kabul from Baltimore
+Wizard: I'm afraid we do not have any flights from Baltimore to Kabul. Would you like to go to another city?
+User: London?
+Wizard: I'm afraid we do not have any flights from Baltimore to London. Would you like to go to another city?
+User: Toluca?
+Wizard: I'm afraid we do not have any flights from Baltimore to Toluca. Would you like to go to another city?
+User: Fortaleza?
+Wizard: Yes, we have packages for that. How long would you like to go for and what is your budget?
+User: 4100 budget.
+Wizard: And is this flight for one person?
+User: ya
+Wizard: How long would you like to go for? We have 8, 12 and 13 day packages.
+User: 13
+Wizard: Excellent choice. Would you like me to book it straight away?
+User: actually no. I cant book anything. I dont have any vacation days left.

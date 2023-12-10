@@ -1,0 +1,7 @@
+User: I just got an intership and I need to check out my possibilities Puebla to Minneapolis and I have a 4300 budget to travel between Septemeber second until september eighteenth
+Wizard: We can't provide anything for you at the moment destination Minneapolis. Can I look up other cities for you?
+User: Disappointing.. But yes, look at Rome
+Wizard: Nor to Rome. Neither of these destinations are available through Puebla.
+User: What about in Atlanta?
+Wizard: Nor Atlanta.
+User: This is HORRIBLE

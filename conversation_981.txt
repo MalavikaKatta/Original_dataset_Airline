@@ -1,0 +1,25 @@
+User: Hi there!
+Wizard: How can I help you?
+User: I am looking to fly out to Santos I can leave from two possible cities: one of them is Cancun
+Wizard: Do you have a budget?
+User: no budget. but it needs to be between tomorrow and September 20
+Wizard: Do you have a hotel rating preference?
+User: I think a 3 star should be suitable for me. I’m not a person with particularly fancy tastes, and neither are any of my 7 companions on this trip
+Wizard: 8 adults altogether?
+User: correct!
+Wizard: Would you rather have a 19 day stay or 14 day stay?
+User: I need something between the dates of September 3 and 20 ideally.
+Wizard: One package is from September 4th to 21st and the other is from September 2nd to 14th.
+User: There’s nothing shorter?
+Wizard: No
+User: Ok I suppose I can be flexible with my dates. Can you tell me more about the hotel?
+Wizard: Which trip would you rather do?
+User: leaning towards the 4th to 21st
+Wizard: This a a 3 star hotel close to shopping, 8.37/10 guest rating, free breakfast and wifi, business flights for 22417.40, economy flights for 17467.20.
+User: that sounds very close to what I asked for, good job!
+Wizard: Would you like to book?
+User: yeah
+Wizard: Economy or business?
+User: lets all do business class
+Wizard: Great! Your package is booked! Have a great trip!
+User: Sounds good I meant to say, but also thanks! :slightly_smiling_face:

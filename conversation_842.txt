@@ -1,0 +1,11 @@
+User: I gots ta get to Minneapolis from Lima
+Wizard: Ok! When?
+User: on or after sept. 8th
+Wizard: I have a 2.5 star hotel for 10 days. Would you like to hear more?
+User: yeah
+Wizard: So, its called the Antique Mantle. It has a 7.15/10 guest rating. The hotel is near a university and has free parking, free breakfast, and free wifi!
+User: is there anything with a higher rating. trying to find madonna
+Wizard: I have only one other hotel showing up and it is also 2.5 stars in rating.
+User: how much is it
+Wizard: 1691 dollars for 10 days at the Antique Mantle.
+User: ok ill take it and i guess ill just explore the other hotels until i find madonna. thanks

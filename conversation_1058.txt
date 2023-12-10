@@ -1,0 +1,20 @@
+User: i live in toluca but want 2 vacation somewhere can u help me
+Wizard: You want a vacation for 2 people?
+User: no i  want a vacation for myself
+Wizard: Well, there are many places we can send you to from Toluca. Do you have any preference whatsoever? Departure date? Budget?
+User: i have 4 thousand, eighth hundred dollars... and i can travel between sept 6-19
+Wizard: I have a very good package for you at 2925.98USD. This deal is a 15 day stay at the 5 STAR Hotel Serene Palms Resort in Leon, Spain, on the beach, close to the palace.
+User: oh wow that sounds amazing!! is there a spa?? can i get free breakfast??
+Wizard: No spa or free breakfast at this one
+User: well where else can i go
+Wizard: My next highest rated hotel is the Hotel Grand Residence, 4 star rated hotel near shopping and the cathedral located in Rome. Includes breakfast and wifi but still no spa.
+User: ok what's the next best?
+Wizard: The Elton in Houston, 2.5 stars, located near the mall, includes parking, wifi and breakfast
+User: not impressive... so.. Rome or Leon
+well Leon is a nicer hotel - how long is the Rome trip tho?
+Wizard: 14 days
+User: minor difference. I prefer Leon in that case
+Wizard: Do you want me to start the process of booking Leon for you?
+User: yeah, do that please
+Wizard: It has been booked!
+User: much appreciated

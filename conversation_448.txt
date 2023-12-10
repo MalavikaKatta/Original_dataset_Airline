@@ -1,0 +1,9 @@
+User: I'd like to take a vacation between august 30th and September 2nd for 5 adults and 1 kid for 2700.
+Wizard: What city would you like to depart from?
+User: San Jose. My budget is 20900 too and we have no specific date for return
+Wizard: I also need to confirm return date as in your original statement you said it was Sept 2nd
+User: yeah thats correct, I'm getting my plans all mixed up today. We would like to return on the 2nd
+Wizard: do you have specific destinations you would like me to verify?
+User: no anywhere is fine
+Wizard: regrettably, I do not seem to have any departures out of San Jose
+User: that's redonkulous. I'll go somewhere else then.

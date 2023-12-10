@@ -1,0 +1,10 @@
+User: Beijing to Stuttgart.
+Wizard: I can book you 17 days if you leave from Kobe
+User: I cant leave from kobe, only bejing
+Wizard: I cannot accomodate this request.
+User: Well how about instead of stuttgart we look at Goiania
+Wizard: No can do.
+User: well then look into flights for 13 people anywhere
+Wizard: Leaving from Beijing?
+User: yes
+Wizard: I do not have any flights leaving from Beijing.

@@ -1,0 +1,15 @@
+User: Salut! I am ze number one pastry chef in ze world! There is this fantastic beautiful intoxication pastry made by an ami of mine in Melbourne. Im in Guadalajara and I need, need, need to have a taste can you get me there, my good friend?
+Wizard: Sure! Do you have a budget?
+User: $3300 around I think should suffice for everyone
+Wizard: How many people will be travelling?
+User: all my lawyers and my 3 cherished children
+Wizard: How many adults are going?
+User: 5 will be joining me
+Wizard: So that will be 5 adults and 3 children people altogether?
+User: yess
+Wizard: Great! When would you like to leave and return?
+User: anytime works for us
+Wizard: Unfortunately there are no results for your request in my database. Is there another destination you would like to try?
+User: NO, it has to be melbourne
+Wizard: There are no results in my database, apologies.
+User: thanks for nothing

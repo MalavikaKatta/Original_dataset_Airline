@@ -1,0 +1,15 @@
+User: Is it possible to get from Alexandria to Fukuoka for 3200
+Wizard: Will you be travelling on your own?
+User: No - there will be two adults and one child in total.
+Wizard: I'm afraid it's not possible with that budget of yours.
+User: Surely you can get us to Indianapolis.
+Wizard: I sure can! What about a 14 day package at Hotel Vanilla for just 1914.82 for the whole family?
+User: Great price for a two week stay! What’s the hotel like though?
+Wizard: There is free parking, free breakfast and free wifi! It's also by a park, beach, airport, and university so there are plenty of activities for your family to get involved in!
+User: Lovely - beachside is ideal for the young one. May I ask what the rating is?
+Wizard: The guest rating is 7.15 out of 10. Want to purchase this trip?
+User: What is the official rating though&gt;
+Wizard: 3 stars. It's the best we have.
+User: That’s fine ; I am but a mere writer after all. And the length of stay certainly trumps the quality of residence. Please book it.
+Wizard: Perfect! I'ts been booked! Enjoy your stay :slightly_smiling_face:
+User: Thank you kindly.

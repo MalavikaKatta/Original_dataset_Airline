@@ -1,0 +1,11 @@
+User: yo im taking 6 kids and 4 adults on a trip yo
+Wizard: Sounds cool! Where are you going and where are you coming from?
+User: gonna go to Leon from Boston
+Wizard: When would you like to go? And do you have a budget?
+User: 18100
+Wizard: We have a package that is perfect for you! It is an 11 day stay at a fantastic 5.0 star hotel, rated 9.16/10 by guests, next to a market.
+User: sounds dope. Is there another hotel yo?
+Wizard: That is the only one that works with you budget.
+User: ok, ill take it yo
+Wizard: Great! It will be 17296.23. I will confirm this reservation for you!
+User: Yo! thanks dude!

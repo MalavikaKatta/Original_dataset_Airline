@@ -1,0 +1,15 @@
+User: Hi there.. I need to get out of town. I've got writer's block being stuck in the house..
+Wizard: I can help with that! Where would you like to go?
+User: Brasilia perhaps. My spouse and child will travel with me.. so three of us in total.
+Wizard: Great. Where would you be flying out of?
+User: Also, my budget is tight.. I haven't had a good year and can spend about 4000 but would like to stay for 9 days. Leaving from Mexico City
+Wizard: You're in luck: I have exactly what you might be looking for! 9 days at the prestigious Sublime Tower, from September 10 to 17. How does that sound?
+User: That sounds quite ideal.. what would the cost be?
+Wizard: For one adult, 3558.40USD for business class, and 2794.59USD for economy class.
+User: Two adults, one child. I thought I made it clear before that there would be three of us.
+Wizard: Unfortunately, I do not have trips to Mexico City for this parameter which fits under this budget. Would you like to consider leaving some guests behind, or searching for an alternate destination?
+User: I absolutely would not leave my family behind... a little ridiculous for you to suggest that.. However, I would consider going to Paris
+Wizard: Unfortunately, we do not have a trip to Paris for the given parameters.
+User: Not if we travel for 8 days either?
+Wizard: The cheapest trip we have to Paris is 6725.50USD, albeit at a very nice 4 star hotel!
+User: Ah jeez, still out of my price range though. Well thanks but no good.

@@ -1,0 +1,18 @@
+User: I need a booking for 6 adults from Milan to Punta Cana
+Wizard: Do you have a budget?
+User: No, I’ve got a trust fund
+Wizard: When would you like to leave?
+User: Doesn’t matter
+Wizard: We have a 0 star hotel near a palace, 0/10 guest rating, from September 2nd to 12th, business class, total cost is 22183.33. There is also a 2.5 star hotel near the beach, 0/10 guest rating, from September 10th to 15th, business class, total cost is 20805.57.
+User: I’m gonna need stronger ratings. Try Puebla instead. 
+Wizard: We have  a 4 star hotel near a park, 8.49/10 guest rating, free parking, breakfast, and wifi. This package is from August 30th to September 9th, for business class the price is 25367.59 and for economy class the price is 19615.32.
+User: Not bad! Is it located near nightlife?
+Wizard: My database does not have this information.
+User: Can you tell me anything about the location..?
+Wizard: It is near a park. The hotel is called Los Campeones.
+User: What’ve you got available in Dublin?
+Wizard: We have a 2 star hotel in the heart of the city, near a park, mall, and university. The hotel has a 5.14/10 guest rating and free breakfast, wifi, and parking. This package is from August 30th to September 13th. The business class flights cost 15241.10 and the economy class flights cost 11822.12.
+User: Don’t bother giving me information on anything under 4 stars from now on! I guess puebla is the only suitable option you can give me ?
+Wizard: Yes.
+User: Fine. Book that
+Wizard: Okay. This is booked for you! Have a great day!

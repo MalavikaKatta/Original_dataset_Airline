@@ -1,0 +1,18 @@
+User: Hello. I'd like to leave from Tel Aviv
+And go to Puebla
+Wizard: Are you travelling alone?
+User: I'm traveling with 6 adults including myself. We have 2200 between us
+Wizard: There are no results.
+User: How about......if we left from Tofino?
+Wizard: Still nothing.
+User: How about......if we went to Portland instead
+...but this time...
+...with 3 adults...
+...and...
+...wait for it...
+...2500 in cold, hard, cash
+Wizard: Portland from Tofino or Tel Aviv?
+User: Whichever works
+Wizard: There are no results.
+User: Well I can't say I didn't try hard enough
+Wizard: Bye! Come again!

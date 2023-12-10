@@ -1,0 +1,12 @@
+User: Hello there. I would be intersted in travelling from Cordoba to Tokyo and I’m hoping you could help me with that
+Wizard: Do you have the dates when you'd be travelling and a budget?
+User: 20200. 4 adults 2 kids
+Wizard: I have 8, 9 and 11 days trips at 19674.88USD, 18702.67USD and 19736.42USD, at 3 star hotels with spa and free wifi
+User: Spa and free wifi sounds nice. I would be interested in the 9 day trip What are the flight details
+Wizard: 3.0 star hotel near museum & shopping mall, in ECONOMY class. Guest rating is 6.77
+User: I want to know the flight details please
+Wizard: september 2 - 9th
+User: What time would we leave from Cordoba??
+Wizard: 9:38 pm on Friday September 2nd
+User: Ok, I think that’ll work
+Wizard: Alright. It's done

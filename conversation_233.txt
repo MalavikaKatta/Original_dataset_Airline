@@ -1,0 +1,20 @@
+User: I'm a fashion designer and I'm going to be doing an internship with a VERY  famous fashion designer. Do you have any flight and hotel packages to Rome?
+Wizard: Sure thing! Leaving from where?
+User: Busan
+Wizard: Unfortunately I don’t have anything available from Busan to Rome
+User: Okay....how about to San Antonio? :unamused:
+Wizard: Would you like to travel to San Antonio or leave from there?
+User: To San Antonio from Busan. I live in Busan.
+Wizard: Ok! How about the Winter Hill Inn? It’s available from August 25-September 1st.
+User: I cannot leave before the 27th.
+Wizard: In that case I can book you September 1-8 at the same hotel.
+User: Can you give me flight details please?
+Wizard: You will leave Busan at 11 am on Thursday September first and arrive at 11:24 pm in San Antonio. You will depart from San Antonio at 1 am September eighth and return home at 1:24 pm.
+User: How about some details on the Winter Hill Inn? I really want to be near a park.
+Wizard: It is near a park, movie theatre and a mall! The hotel is 2.0 stars with a guest rating of 4.74 and features free parking, wifi, and free breakfast
+User: 2 star hotels are usually dumps. Do you have anything better?
+Wizard: There is another 2 star available in San Antonio but the guest rating is 7.15/10. 
+User: Hate to sound like a princess but over my dead body I will stay in a 2 star hotel, specially in San Antonio. I am a fashion designer. Plus I'm travelling alone! You got anything in Barcelona instead? We have a house of design there too.
+Wizard: Ok! I have a couple of 3.0 star hotels available in Barcelona. Would this be ok?
+User: No that won't do either. I need a five star for under $3900.
+Wizard: I’m sorry but I have nothing meeting your requirements for the destinations you have given me.

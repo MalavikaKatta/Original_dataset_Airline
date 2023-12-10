@@ -1,0 +1,17 @@
+User: Hi. I am in dire need of a vacation.
+Wizard: Ok! Where would you like to leave from? I can look up the cheapest vacation options for you.
+User: I'd like to go to Mannheim for 8 days leaving from Paris. I have September 1 to September 19th off. What is available? This time, money isn't a problem, I'm treating myself. I'm looking for luxury this vacation.
+Wizard: You can spend a luxurious 8 days in Mannheim at the Regal Resort for only 761.4USD! That includes round trip business class flights.
+User: That's exactly what I'm looking for! I'd also like to compare for trips to Porto Alegre. What can you offer?
+Wizard: I can book 5 days at a 4.0 star hotel in Porto for 4898.49USD.
+User: Anything with 5 stars?
+Wizard: I cannot find anything with 5 stars for Porto at that time.
+User: Ok, can we take another look at the Mannheim package then?
+Wizard: The Mannheim package includes free wifi and a spa in your hotel.
+User: Oh my! And how many stars?
+Wizard: The Regal Resort is 5.0 stars.
+User: Absolutely perfect! What are the arrival and departure times?
+Wizard: You will depart Paris at 11 am on Tuesday, September 6th and arrive in Mannheim 12:18 the same day. For the return flight you will leave Mannheim at 5:00 am and arrive at 6:18 am on Tuesday September 13th.
+User: Great, I'd like to book this one please.
+Wizard: Sure thing, consider it done!
+User: Thank you!

@@ -1,0 +1,13 @@
+User: I need to get to St. Petersburg to shoot another movie. Im in Guadalajara
+Wizard: Sorry to inform you we currently do not offer flights between those two cities. Is there somewhere else you'd like to go?
+User: this happened last time too ugh. I’m kind of getting sick of Selena always ranting about her Justin and Demi problems ugh. I’ll just go to Goiania anyway and hope for the best.
+Wizard: We do have some options for that. Our best one is a 3.5 star hotel close to the museum, shopping, and airport. We have availabilities for 14 days.
+User: sure that works. Tell me more about the package
+Wizard: It has a guest rating of 8.69/10, free parking, free breakfast, and free wifi.
+User: what are the dates
+Wizard: Sep 14-27.
+User: kk. How long is the flight and can i get business?
+Wizard: Of course, I can get you into business class for 3261.73.
+User: thanks. book it.
+Wizard: Consider it done! Anything else I can do for you today?
+User: Nope. Thank you

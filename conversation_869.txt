@@ -1,0 +1,22 @@
+User: Good Morning I Am Writing To Inquire About Possible Booking Availabilities
+Wizard: Sure! Do you have some destinations in mind?
+User: I Want To Take My Two Grandchildren To Paris
+Wizard: Where will you be leaving from?
+User: I Would Be Leaving From San Juan With My Two Grandchildren
+Wizard: What is your budget?
+User: Three Thousand Six Hundred Dollars Exactly .To Pay For Tickets For Myself And My Two Grandchildren
+Wizard: When would you like to leave and/or return?
+User: On The Sixth Of September
+Wizard: Is there a date you need to be back by?
+User: I Would Be Returning On The Twenty Fourth Day Of September With My Two Grandchildren
+Wizard: We have one result for your specific request. The Queen's Jungle Hotel is a 4 star hotel near a mall, museum, and cathedral. The hotel has a 8.69/10 guest rating and offers free wifi and a complimentary breakfast! This package is extends from September 7th to 21st and is an economy class flight all for the price of 3341.90.
+User: Does This Hotel Have A Playground On Its Premises For My Two Grandchildren
+Wizard: My database does not give me this information however, the museum would be a great place to take your grandchildren.
+User: I Do Not Know How To Find This Information On The World Wide Web... Why Don't You Tell Me About Trips To Houston I Can Do With My Two Grandchildren
+Wizard: Thank you! Is there anything else I can help you with? Would you like to book this package to Paris?
+User: Please Help Me Book A Trip To Houston For Myself And My Two Grandchildren
+Wizard: There are no results for Houston.
+User: I would Like To Know If I Can Fly From San Juan To Houston With My Two Grandchildren
+Wizard: No sorry.
+User: Then I Will Book The Trip To Paris
+Wizard: Okay great! Your trip is booked! Have a great day and enjoy the trip!

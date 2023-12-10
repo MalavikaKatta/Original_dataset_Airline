@@ -1,0 +1,9 @@
+User: I would like to take my wife and 4 kids on a trip from Toronto to Porto
+Wizard: 2 adults, 4 children?
+User: yeah
+Wizard: I have no packages available from Toronto to Porto Alegre.
+User: How bout to  La Paz?
+Wizard: Neither I apologize
+User: What about Cleveland?
+Wizard: No packages available Toronto - Cleveland
+User: Nothing at all?!?!?!?! That’s shocking. Guess i’ll have to discuss some different options with the wife, I might be back.

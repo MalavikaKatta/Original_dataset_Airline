@@ -1,0 +1,6 @@
+User: hi there. need to book a trip to denver
+i live in houston
+sept 10 to 11
+Wizard: Ok! I can help you with that. Do you have a budget?
+User: budget is $3300
+Wizard: Sadly I have nothing available for your date range. Are you flexible on when you travel?

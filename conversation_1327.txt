@@ -1,0 +1,17 @@
+User: Hey hey! So spring break is Sept 26 - Oct 3.
+Wizard: I can check for spring break packages for you. Do you have certain places you would like me to check for you?
+User: Curitiba is one of the hot destinations of this year. It'd be totally awesome if we can go there!
+Wizard: Where would you be leaving from?
+User: We study in Atlanta.
+Wizard: And how many will you be?
+User: Myself and my 6 best friends!
+Wizard: Do you have a budget for this trip?
+User: Together we have 17900.
+Wizard: Then the Dual Basin Residence is within your budget at 16097.25USD. It is located on the beach near shopping, market and the mall and includes breakfast for your whole party every morning along with wifi and parking.
+User: How's the ratings of this hotel?
+Wizard: It is a 3 star hotel with a 8.22/10 guest rating.
+User: Actually we were also think of Dublin... wondering if there's anything better available there?
+Wizard: In Dublin, I have a 6 day stay available at a 2 star rated hotel in the heart of the city and close to the park, university and mall. This stays also includes wifi, parking and breakfast for your whole party.
+User: Okay we would definitely prefer Curitiba then. We'll take it :slightly_smiling_face:
+Wizard: Curitiba it is. I will book that for you right away. Happy spring break!
+User: Thx!! :heart:

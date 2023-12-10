@@ -1,0 +1,21 @@
+User: Hi there! My wife and I have 5 lovely children.
+We are free to travel between August 31 and September 18.
+We have a few destinations in mind, first one is Sacramento.
+Oh, and we're located in Sendai.
+Wizard: Sure thing. We can send you to Sacramento for 7 days or 13 days, what would you like?
+User: Well, I have a budget of 9700. Which would fit in my budget zone?
+Wizard: The cheapest option in Sacramento for that many people is Salt Water Inn at 15399.53USD, so Sacramento is not within your budget.
+User: How about Rio de Janeiro?
+Wizard: Nothing is available in Rio de Janeiro. I can try to see if I can get some options by making your dates flexible. Would you like me to try?
+User: My dates are not exactly flexible.
+However, I have a third destination in mind.
+Maybe I'll have better luck with Vancouver?
+Wizard: No Vancouver is not available either.
+User: Okay fine let's make the dates flexible and see if we can find something.
+Wizard: It still did not yield results, any other destinations I could check for you?
+User: Nothing for Rio de Janeiro either?
+Wizard: Nothing to Rio de Janeiro either.
+User: Would you see if there's anything cheaper for Sacramento if the dates are made flexible?
+Wizard: I am no longer showing packages form Sendai to Sacramento, I am sorry everything must have booked up. Please come again.
+User: That's unfortunate! I think I will have a discussion with my wife again. We might need to change our preferred destinations. I will contact you again once we reach a decision. Regardless, thanks for your help!
+Wizard: Thank you for your immense patience!

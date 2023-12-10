@@ -1,0 +1,20 @@
+User: Yo, im from Hiroshima. My b-day is coming up soon and me and my 3 amigos wanna party in Recife.
+Wizard: Ok! I have the Glee from Sept 8-16 available. The hotel is 4 stars and near a park.
+User: mmm are there any 5 star hotels?
+Wizard: I’m sorry, I only have this 4 star hotel and a 3.5 star one.
+User: can you check for 5 star hotels in Frankfurt?
+Wizard: I have a 5 star available in Frankfurt for 11 days from Sept 10-19!
+User: That sounds pretty good, do you have more information on the hotel?
+Wizard: Of course! It has 9.32 stars in its user rating, free breakfast, and free wifi included.
+User: ok, well could you check for 5 star hotels in Ulsan?
+Wizard: I have The Sapphire Time available - also 5 stars, near a park, market, and theater.
+User: whats the guest rating?
+Wizard: 8.98
+User: not bad. Do they offer free breakfast and wifi?
+Wizard: They sure do!
+User: great! I'll take this one then.
+Wizard: Sure thing :slightly_smiling_face: I’ll book that for you. Would you like to fly economy or business class?
+User: business fo sho
+Wizard: Sure! For 4 adults that will be 3707.83USD
+User: cool beans. thanx
+Wizard: My pleasure!

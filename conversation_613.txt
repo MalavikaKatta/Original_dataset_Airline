@@ -1,0 +1,20 @@
+User: Hi! My wife told me to look up some possible vacations
+Wizard: Where would you like to go and where are you leaving from?
+User: We live in Dublin. Going to Sacramento
+Wizard: How many adults and children will be travelling?
+User: 2 adults, 1 child
+Wizard: Do you have a budget?
+User: 2100
+Wizard: Do you know when you'd like to leave?
+User: Yes, we'd like to have our vacation be sometime in the first two weeks of September
+Wizard: We have a business flight from September 1st to 12th. This is at a 2 star hotel near a park, museum, and university. The hotel has a 6.51/10 guest rating and offers free breakfast, wifi, and parking. This package will cost 1866.90.
+User: Ok that sounds appealing aside from the 2 star hotel. Don't think Martha will be okay with a 2 star hotel
+Wizard: It is the only options for this destination. Want me to check another destination?
+User: Our next city of interest is Hamburg
+Wizard: There are no results for Hamburg. Would you like me to check another destination?
+User: Oh dear. Please check Punta Cana
+Wizard: There are no results for this either.
+User: Would different results appear if I increased our budget by $1000?
+Wizard: There are no results even with the increased budget.
+User: My wife is going to make me sleep on the couch for this.
+Wizard: Apologies.

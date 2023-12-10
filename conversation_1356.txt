@@ -1,0 +1,26 @@
+User: Oh my god there are so many places I want to go but I don't know which to choose from.
+Wizard: Let’s start with one place - where you’d like to leave from!
+User: Oh I'm from Santo Domingo.
+Wizard: Ok! Do you have any destinations in mind or would you like me to suggest a few?
+User: Yeah I have a few in mind. I hear Queenstown is great, very historical. Let's start with that.
+Wizard: And do you have a budget?
+User: Nah, not really. It's flexible.
+Wizard: Any dates in mind?
+User: Oh yes! Friday September 16 to Wednesday September 28.
+Wizard: Ok ! I have Queenstown Emerald Mountain Hotel from Sept 18th-28th. This is a 4 star hotel near a museum with a 8.22/10 guest rating. The facility also hosts free parking, free breakfast, and provides unlimited wifi use at no extra charge.
+User: Wow that's very good. I'm definitely keeping that one in mind. I have to say though, I'm also curious about St. Louis.
+Wizard: Sorry, I have nothing within your date range.
+User: Oh that's fine. How about Columbus?
+Wizard: I have 5 or 7 day trips to Crown Jungle Inn available. It is a 2.5 star hotel near the beach and a palace. It has a 8.49/10 guest rating and provides free parking and free wifi.
+User: Ah Queenstown still sounds much better.
+Wizard: Shall I book Queenstown for you?
+User: Hmmm can I just ask about one more destination please? I'm also thinking about Busan.
+Wizard: I have one hotel in Busan - the Smile Hotel. You would stay 9 days at this 3 star hotel near a park and museum with free parking, free breakfast, and free wifi all included.
+User: How much would that be and how much would the Queenstown one be?
+Wizard: This Busan package would cost 4840.13USD with economy class flights.
+User: And the Queenstown one?
+Wizard: The Queenstown package price is 2443.66USD if you fly economy class.
+User: Whoa, huge difference! I think we have a clear winner then. Queenstown it is!
+Wizard: Ok! I’ll go ahead and book that then.
+User: Great, thanks!
+Wizard: My pleasure :slightly_smiling_face:

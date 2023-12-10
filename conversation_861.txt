@@ -1,0 +1,11 @@
+User: from Punta Cana. To indianapolis
+Wizard: How many people will be traveling?
+User: just me
+Wizard: Do you have set dates or budgets?
+User: 2900 and no set dates
+Wizard: Okay, we have a 3.0 star hotel with 7.15/10 rating and a 2.5 star hotel with 6.37/10 rating. Would you like to hear more about these two options?
+User: yeah just tell me about the 3 star
+Wizard: It is has great location! Close to the park, beach, airport, and university. It also offers free parking, free breakfast, and free wifi. We offer business or economy packages for 5 days.
+User: Sounds good. Book it for me pls. If the business package fits my budget book that one
+Wizard: Done! The business package is booked for you for 2437.55!
+User: thanks

@@ -1,0 +1,17 @@
+User: Hey hey :slightly_smiling_face:
+Wizard: How many people in your group?
+User: So, me and the 5 little ones wanna go to see their mother who works in Washington
+Wizard: From where?
+User: Kingston
+Wizard: Any specific dates?
+User: nope - we can go whenever!
+Wizard: We have no direct flights from Kingston to Washington. Can you meet somewhere else?
+User: we can go to Phoenix and borrow my sister’s mini van - we’ll make a little road trip out of it!
+Wizard: would you prefer to stay in Phoenix 6, 7 or 9 days?
+User: 9 would be better to give us extra driving time
+Wizard: For 9 days I have the The Prism 2.5 star hotel at The Prism. How does that sound?
+User: What is the guest rating?
+Wizard: 7.06/10
+User: not bad. amenities?
+Wizard: free parking, free breakfast, free wifi
+User: alright, Let’s book it !

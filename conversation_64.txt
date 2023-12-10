@@ -1,0 +1,44 @@
+User: Hello wozbot!
+Wizard: Hey there! How can I help you?
+User: My husband and I are recently married, we are looking for a honeymoon vacation.
+Wizard: Where were you thinking?
+User: Perhaps Toronto. We are currently in Rome for business, we'd like to leave from here. We're looking at going from August 18 to August 29th.
+Wizard: Ok, great! Are you flexible on those dates by any chance?
+User: Not very. The divorce is planned for August 30th.
+Wizard: I could book you August 24-August 29?
+User: Yes please.
+Wizard: Ok, great! Would you like to know any more information before I book?
+User: Yes of course! Is the hotel 5 stars?
+Wizard: The hotel is 3 stars.
+User: This is a very special time for us. I'd like to see what you have that's 5 stars please.
+Wizard: How about 4 stars from August 17 to August 22?
+User: That is good. Is there a spa?
+Wizard: There is no spa.
+User: How about breakfast and wifi?
+Wizard: Yes - both are included for free!
+User: Great! How much is this package with business class?
+Wizard: The package costs 4446.60USD with business class flights.
+User: That sounds good. My husband loves Vancouver, can we take a look at some packages?
+Wizard: Ok! Would you like to leave from Rome or Toronto?
+User: From Rome please, and I have a preference for a hotel with a spa. If possible.
+Wizard: Hmm.. I'm not seeing any Vancouver options with spas available :disappointed:
+User: Any 5 star hotels?
+Wizard: I've only got 4 star hotels
+User: In that case, how about Columbus?
+Wizard: The only dates I have available in Columbus are August 15-25.
+User: Ok, what about Calgary? My new boyfriend lives there.
+Wizard: I have a 4 star available from August 17-August 21 in Calgary for 2 people.
+User: Great! How much?
+Wizard: 3201.93USD.
+User: Is there a spa?
+Wizard: Sadly there is no spa :disappointed:
+User: Are there any available that do have a spa?
+Wizard: Not in Calgary, sorry about that.
+User: That's ok. My husband would probably prefer the Toronto package. Can you please give me the flight details?
+Wizard: Certainly! Would you like to fly economy or business class?
+User: Business class!
+Wizard: You will leave Rome at 9:00 am on Wednesday, August 17th 2016 to arrive in Toronto at 4:07 pm on Wednesday, August 17th 2016.
+Leaving Toronto, you flight departs at 1:00 am on Monday, August 22nd 2016 and arrives in Rome at 8:07 am - Monday, August 22nd 2016.
+User: Perfect, lets go right ahead and book this one
+Wizard: Consider it done!
+User: Thank you wozbot, it was a pleasure dealing with you.

@@ -1,0 +1,24 @@
+User: hi 
+Wizard: How can i help you today?
+User: do you offer flights from san jose to buenos aires?
+Wizard: I sure do :slightly_smiling_face: For how many people?
+User: if its a good deal then i’d like to book for 6 adults
+Wizard: When would you like to travel?
+User: between sept 12 and 25
+Wizard: For 6 adults I can book 15 days from September 12-25 at a 3 star hotel near a park and museum for $27860. The hotel has a 6.61 guest rating as well as free parking, breakfast, and wifi.
+User: check denver first
+Wizard: Ok! Same dates and number of travellers?
+User: yes yes all the same please
+Wizard: In Denver I would have four different options for you - the Brass Renaissance Resort for 10 days (a three star hotel with 8.86/10 guest rating) from Sept 13-21, Solar Inn for 10 days (a three star hotel with 8.69/10 user rating) from September 15-23, or 8 days from Sept 12-18, and lastly the 3 star Oriental Resort (unrated by users) is available for a nine day stay from Sept 13-20.
+User: The Brass sounds most appealing. Is it near any points of interest?
+Wizard: It is near a park.
+User: and the solar inn?
+Wizard: No nearby points of interest are listed in my database.
+User: and can you give me a sense of the costs associated for brass?
+Wizard: 8938.88USD would be the price for 6 adults.
+User: economy?
+Wizard: That’s correct.
+User: how much for business class
+Wizard: 11309.90USD
+User: lets do it
+Wizard: Indeed! Ok, great! I will go ahead and book that.

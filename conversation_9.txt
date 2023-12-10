@@ -1,0 +1,19 @@
+User: Hello, I am planning to book a trip to pittsborgh
+Wizard: Hello. Would that be Pittsborgh, Pennsylvania?
+User: i think so!
+Wizard: And what city will you be departing from?
+User: We will be leaving from Fukuoka
+Wizard: how many people will be travelling together?
+User: there will be myself, 1 adult, and my four kids
+Wizard: Do you have specific dates in mind?
+User: none at the moment
+Wizard: and for how long would you like to go for?
+User: also not sure yet
+Wizard: I have no flights available to Pittsburgh, but I have package available to Vancouver
+User: I would like to see the availabilities in Vancouver please
+Wizard: I have several available.  Do you have a budget in mind?
+User: I have $12600 to spend on this vacation
+Wizard: It would be helpful if you could provide me with some dates
+User: we are very flexible with dates anything would work
+Wizard: I am very sorry  but I have nothing available at the moment
+User: that’s very unfortunate, thank you anyways

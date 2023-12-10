@@ -1,0 +1,11 @@
+User: You can help me by booking a flight out of Cordoba to Salvador for me and my friend. Leaving ASAP and back before September 8. Oh and I'll need the best hotels you can get
+Wizard: Okay. You want to go to Cordoba?
+User: No I'm in Cordoba. I want to go to Salvador
+Wizard: Do you have a budget?
+User: No I have no budget, but I have a parakeet, you want to hear about my parakeet?
+Wizard: We have one hotel result with 4 different packages. Would you like to hear more?
+User: Only if its a good hotel
+Wizard: It is a 3.5 star hotel, near a museum, palace, and theatre.
+User: 3.5 star, are you serious? Ok screw it, check LA instead
+Wizard: These are only 3 star hotels.
+User: This is hopeless

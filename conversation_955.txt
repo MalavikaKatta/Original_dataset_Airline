@@ -1,0 +1,15 @@
+User: I got married in Puebla this past tuesday
+Wizard: Where would you like to have your perfect honeymoon?
+User: glad to hear it! Ok so we’d like to go to Brasilia for 11 days and between the two of us we have 3300
+Wizard: Sorry, I don't have anything that matches your budget. Do you have any other places in mind
+User: lets try going to fortaleza
+Wizard: That sounds like a nice choice! I can take you there for 10 days. You can stay at a 3 star hotel close to the mall. How does that sound?
+User: and it fits in our budget?
+Wizard: Sure does! You can jump on economy seats for 3265.0!
+User: do we have to pay for breakfast at the hotel?
+Wizard: Nope, they've got it covered! Same with wifi and parking.
+User: what are the dates?
+Wizard: 10 days from September 6-15. Would you like me to book this for you?
+User: yes put us down
+Wizard: Done! Have a great time at Fortaleza!
+User: Thank you!

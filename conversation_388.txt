@@ -1,0 +1,14 @@
+User: I heard Madonna and her friend were going to Santa Cruz. I need to go there and try to get a dope picture for People Magazine so I can get rich quick.
+Wizard: ok, what is your budget?
+User: 2000
+Wizard: Which days would you like to go?
+User: i want to leave today
+Wizard: Which days would you like to return?
+User: it doesnt matter
+Wizard: How many will you be?
+User: just me
+Wizard: Where are you leaving from?
+User: Lima
+Wizard: Sorry, I don't have any results for that
+User: If i increase my budget by 1000 are there any results?
+Wizard: Sorry, I don't have anything

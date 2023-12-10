@@ -1,0 +1,37 @@
+User: please get me out to paris!
+Wizard: When would you like to leave and where would you like to go?
+User: sept 11-26. I don't care about my point of departure
+Wizard: Do you want to go to Paris or leave from Paris?
+User: the former
+Wizard: Can you leave from Rosario?
+User: can you get me to paris for under 4000?
+Wizard: For under $4000, I have 14 day packages in Paris from several points of departure. Can you leave from New York?
+User: yes i can! Is it by a park, then?
+Wizard: I do not have hotels available in Paris near a park at the moment. However, I do have one near a palace.
+User: ok lets try birmingham
+Wizard: Birmingham from anywhere?
+User: yes, i can just use my points
+Wizard: All my hotels in Birmingham are near a museum
+User: what about Marseille?
+Wizard: In Marseille, I have hotels either by the museum or the cathedral
+User: what rating are these hotels?
+Wizard: In Birmingham or Marseille?
+User: Marseille first
+Wizard: In Marseille, all available hotels around your date of September 11 are 4 star hotels
+User: do any of them stand out?
+Wizard: Hotel Duchesse has an excellent guest rating of 8.98/10, includes wifi and is near the museum.
+User: Which is the hotel near the cathedral? I'm thinking I could take my dogs out in that area
+Wizard: I have the Grand Hotel, a 4 star hotel which also has an excellent guest rating of 8.69/10, includes wifi and has a spa to relax in.
+User: Where would you have me flying from, if I were to go to Marseille?
+Wizard: Are you able to go from Cancun, Mexico?
+User: How much would that cost?
+Wizard: Puebla?
+User: cost?
+Wizard: One more choice - Athens, Greece. The cheapest is out of Puebla at 2954.73USD
+User: How long would I be staying at the Grand Hotel in that Puebla option?
+Wizard: Your stay would span 10 days from September 12 to September 20.
+User: And the flights are in which class?
+Wizard: 2954.73USD for economy and  3804.65USD for business
+User: okay put me on economy please!
+Wizard: I will book you at the Grand Hotel for your 10 day stay via economy class right away. I wish you a pleasant trip.
+User: much appreciated, thanks

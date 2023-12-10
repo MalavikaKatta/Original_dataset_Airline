@@ -1,0 +1,12 @@
+User: I need to book a trip for the whole family from Tampa but we don't know where to go. Can you help us?
+Wizard: Sure! How many are you and what's your budget?
+User: 5 adults and 7 kids! Yup, the lot of us. We want to spend no more than 32800.
+Wizard: Do you have any date constraints?
+User: Oh yes! Between September 12 and 26!
+Wizard: In that case, I would like to recommend you our best deal: a 15 day stay at a prestigious 4 star hotel in Queenstown with free breakfast, wifi, and parking during your entire stay. For the whole family it will just be 31122.0.
+User: That sounds amazing, and it's within those dates? Is that economy class?
+Wizard: Yup it's from the 12th to the 25th, and it will be economy class.
+User: Ok perfect, book me!
+Wizard: Consider it done! Have a good trip :slightly_smiling_face:
+User: Thanks!
+Wizard: My pleasure!

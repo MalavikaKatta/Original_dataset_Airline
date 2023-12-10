@@ -1,0 +1,21 @@
+User: Hi im from Hauston looking to get to my internship
+Wizard: Where would you like to go and when would you like to start?
+User: Ulsan, i should be ther on August 27th
+Wizard: Let me see what I can find. Do you have to stick to a budget?
+User: $5600 unfortunately very tight budget
+Wizard: I have here 11 days in Ulsan at a 5 star hotel for 4484.47 USD, what do you think?
+User: What do you have in Athens
+Wizard: I have 5 day stays starting at 4038.40 USD in Athens.
+User: When does it leave?
+Wizard: For 4102.24 USD, you can leave on August 27th.
+User: I will have to book that
+Wizard: Great! The Lunar Jewel Lodge is a 3 star hotel with free wifi and parking.
+User: you know wha never mind scratch that i want to book the 11 day stay in ulsan
+Wizard: The Crimson Seaside Hotel has 4 stars and a 7.06/10 user rating. It's located near the market and royal palace, and offers free wifi and parking.
+User: when would it leave and return?
+Wizard: It leaves August 27th at 1:29 am and returns on September 5th.
+User: That seems great! and what is that like compared to if i wanted to go to Tolucca
+Wizard: I'm sorry, but I cannot find any results for Tolucca.
+User: OKay well let’sbook the one to ulsan
+Wizard: Fantastic, you're all booked up!
+User: Thank yoU!

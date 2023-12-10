@@ -1,0 +1,17 @@
+User: hi
+Wizard: Morning!
+User: i cant book anything so i’m just gonna waste your time so i can dream about a better life where i have vacation days left. can you check trips to cleveland from la paz
+Wizard: Would that be just for you?
+User: yep
+Wizard: We do not  handle travel packages from la paz to cleveland
+User: anything to philadelphia then?
+Wizard: In Philadelphia, we have a partnership with the Mirror Inn, a 2 star hotel, where you can either stay for 4 days or 10 days. It features free wifi, breakfast with 1 parking spot included.
+User: well i have 1600 in the bank so does it fall under that?
+Wizard: A 10 day stay at the Mirror Inn, with business seats on the plane included, would run you 1044.34USD
+User: wow, yay for me. can you tell me more about the hotel, is it near a beach or anything?
+Wizard: It is near a park and museum and has a 6.61/10 guest rating
+User: cool. anything to san diego?
+Wizard: We have partnerships with a couple of hotels in San Diego - the 2 star Anomaly Inn & Suites and the 3 star Spare Time, both of which suit your budget. Are you interested in hearing more about a particular one?
+User: the 3 star
+Wizard: The 3 star Spare Time is available for a  7 day stay, is located near a park, features free wifi, breakfast and 1 parking spot, has an excellent guest rating of  8.86/10 and costs a total of 970.40USD via business class seats on the plane.
+User: ah. if i could book, i would book this one. well thanks for your time, i’ll come back next year and save my vacation days for a trip to San Diego.

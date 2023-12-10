@@ -1,0 +1,18 @@
+User: hello
+Wizard: Hi! How can I help you?
+User: i would like tto go from beijing to san juan. on friday september 2
+for at most 2100$ with 1 adult
+Wizard: Unfortunately we only have flights from North Vancouver, Montreal, and Cleveland.
+User: ok. leaving from campinas and arriving at Baltimore
+Wizard: I have 3 packages from Campinas to Baltimore but they are not within your budget.
+User: oh ok, that's fine. How much is it?
+Wizard: The cheapest option is 3048.00.
+User: ok. what about from campinas to san juan
+Wizard: Campinas to San Juan has no results within your budget, 
+User: ok. im ok with 3048. ill book the one from campinas to beltimore
+Wizard: Okay. Would you like information on this package before you book it?
+User: yes
+Wizard: It is a 3 star hotel stay from September 12th to September 20th. Amenities include free breakfast, wifi, and parking. This package is 3048.00, would you like to book this package now?
+User: ok
+Wizard: Great! Your trip has been booked! Thank you and have a great day!
+User: thank you

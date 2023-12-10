@@ -1,0 +1,7 @@
+User: Hello! I am going to Kabul!
+Wizard: Where from, pal?
+User: Bringing many children - fourteen in total! We leave Tofino
+5 Adults we are and the children
+Wizard: How many adults and children?
+User: I have already told you 5 adults and 14 kids
+Wizard: There are no results for this search.

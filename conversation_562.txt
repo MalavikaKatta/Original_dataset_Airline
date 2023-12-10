@@ -1,0 +1,39 @@
+User: Hey there!
+Wizard: You are now on chat, how can we help you today?
+User: I am looking to go to Belem between August 27 and September 14. Lets see whats available from Ulsan
+Wizard: Do you have a spending limit for this trip?
+User: Nah not really
+Wizard: Will you be travelling alone or accompanied by anyone?
+User: Just looking for me right now
+Wizard: From Ulsan to Belem, we have 7, 8 or 10 day packages available within your dates. Which one is your preference?
+User: What are the hotels like?
+Wizard: For the 8 and 10 day packages I have a selection of 4 star hotels. For the 7 day package, I also have a 4.5 star hotel.
+User: Lovely! And the date ranges?
+Wizard: It all depends on which one you choose but I have departures as early as August 27 and as late as Sept 8.  All packages return by Sept 13 at the latest.
+User: What if I left from Mexico City?
+Wizard: Mexico City to Belem?
+User: Yes
+Wizard: Same dates?
+User: Yes
+Wizard: I have a wider variety of ratings on hotels available from Mexico City. Which type of rating are you looking for? Are you looking for something near the beach?
+User: Sure, beach side would be nice. And a 4 star rating at least
+Wizard: How long do you want to stay?
+User: Doesn't matter, just want to travel within my date range
+Wizard: I have a 10 day package deal at Hotel Triumph, a 4 star rated hotel which includes all the amenities such as wifi, parking and breakfast. This package is available from August 28 to Sept 6 and can be booked on either economy class or business class.
+User: Lovely! Can you tell me what is available in Indianapolis as well?
+Wizard: From Mexico City to indianapolis?
+User: Yes please :smile:
+Wizard: Are you able to extend your stay until Sept 15?
+User: Sure, We could do that
+Wizard: I have plenty showing up as available once I extend the date. These are all 9, 14 and 15 day packages, Any particular ones of interest?
+User: Great :smile: I don't care too much about the length of the stay, I just want the hotel to be as nice as possible
+Wizard: These are all 3 star hotels. The nicest hotels available were from Ulsan to Belem.
+User: Hmm ok, well what about from Ulsan to Indianapolis?
+Wizard: All 2.5 and 3 star rated hotels for that time period. Everything else is booked.
+User: Ok well lets go back to Belem from Ulsan
+I like the Hotel Triumph
+Would it be available for my 6 colleagues as well?
+Wizard: Unfortunately not
+User: Just book the Triumph for one adult please!
+Wizard: That will be a total of $7706.49USD on a business class flight. I just want to confirm that business class is fine?
+User: Yes, business class is preferred thanks!

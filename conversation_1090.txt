@@ -1,0 +1,13 @@
+User: I would like to go to Hiroshima from Seoul for 3500
+Wizard: Hello. How many people do you want this trip for?
+User: just me myself and i
+Wizard: Unfortunately, it does not appear that we have flights from Seoul to Hiroshima.
+User: What about from Seoul to San Diego?
+Wizard: It does not appear that we have flights from Seoul to San Diego either.
+User: What about from Cordoba to San Diego?
+Wizard: I have possibilities of 2 different hotels in San Diego for you. Do you have certain travel dates and a length of stay in mind?
+User: nope just whenever
+Wizard: I can suggest the Spare Time for an eleven day stay for you. It has a 3 star rating with a 8.86/10 guest rating, and offers all the amenities such as wifi, parking and breakfast as part of your package.
+User: nice! I’ll take it
+Wizard: Your total comes out to 2009.43USD and you fly out Sept 14 and return on September 23. Thank you for your business and have a very nice trip.
+User: Thnx

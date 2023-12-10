@@ -1,0 +1,19 @@
+User: me again... I'm still burnt out from work
+Wizard: Oh hello, let me try and book something accommodating
+User: I've got august 17- september 2 off tho so I'm gonna treat myself before my second vacation
+Wizard: where are you from? and where do you plan on going?
+User: I'm leaving from Marseille and I want to go to Osaka... I have a penpal there
+Wizard: are your dates flexible? do you have a budget to consider?
+User: or maybe I will visit the woman who donated a kidney to me in St. Petersburg... either one is fine. no, I have to go in the time that I am off from August 17-Sept 2. lets not worry about the money yet
+Wizard: okay perfect! we only have 5 day trips will that be okay?
+User: hmmm yeah I guess I could do that. what is available?
+Wizard: there are three hotels available, Hotel Opportunity (3.0 star), Prophecy hotel (2.5 stars) both have free wifi and Breakfast and the Aquamarine Majesty Hotel which is 4 stars and has free wifi and parking
+User: ok, and anything in St. Peterburg?
+Wizard: viewpoint is the only available hotel in St. Petersburg. its a 3 star hotel with free parking, wifi and breakfast starting at $1883
+User: ok. and what is the price for Aquamarine Majesty Hotel?
+Wizard: majesty Hotel Starts at $3453 and the other two start at $2500
+User: could you tell me the user rating of Viewpoint in St. Petersburg?
+Wizard: the guest rating is 8.69/10
+User: that sounds lovely. let's go ahead and book Majesty
+Wizard: perfect! done and done!
+User: dope! thanks

@@ -1,0 +1,25 @@
+User: Hi there! Can you find me a trip to Kingston between August 25 and September 4?
+Wizard: Hello, we will do our best to comply with your request. In order to proceed, I must have a departure city provided to me.
+User: I'm leaving from Santiago on a very tight budget of 3100 dollars.
+Wizard: I have a few selections available to you. Where are you leaving from and what is your budget?
+User: As I said, I am leaving from Santiago on a tight budget of 3100 dollars.
+Wizard: and where would you like to go?
+User: To Kingston, which is what I said before.
+Wizard: I have nothing available from Kingston to Santiago
+User: I have no patience for this. I am looking for a trip to Kingston from Santiago.
+Wizard: I understand, Kingston to Santiago.
+User: A trip to Kingston from Santiago on a budget of 3100 dollars.
+Wizard: and when would you like to go?
+User: Between August 25 and September 4th.
+Wizard: I have 4, 6, and 7 day packages. What is you preference?
+User: Lets look at the 6 day packages.
+Wizard: Ebony Manor Inn & Suites
+User: How much would that cost?
+Wizard: 1911.41USD
+User: And how many stars does this hotel have? What are the amenities included?
+Wizard: 4.0 star hotel
+User: Is breakfast included? wifi? parking?
+Wizard: free breakfast, free wifi, free parking. Book?
+User: No. I will book elsewhere.
+Wizard: I am sorry we could not be of assistance today. Have a nice day!
+User: Good bye.

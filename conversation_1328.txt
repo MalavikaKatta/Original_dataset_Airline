@@ -1,0 +1,21 @@
+User: I need to get to Osaka from Dallas so I can find Mewtwo, he's the last one I need to find and I heard he was spotted in Osaka.
+Wizard: I have an 11 day package at the 4 star Aquamarine Majesty Hotel from September 22-October 1.
+User: Those dates are great for my schedule. Can you tell me more about the hotel tho?
+Wizard: Great! This hotel is near a park and a museum, it has free parking and free wifi, and it has received a 8.69/10 guest rating.
+User: good good. I also heard Mewtwo was spotted somewhere in Phoenix. Can you check there for me too?
+Wizard: In Phoenix I have two different 2.5 star hotels.
+User: Okay what are they close to?
+Wizard: The Prism is near a museum and airport.
+User: What is the other one close to?
+Wizard: I do not have information on nearby points of interest for Lunar Valley hotel.
+User: What are the hotels guest ratings?
+Wizard: 7.06 and 8.69, respectively.
+User: Okay well I think I like the hotel that is close to the museum and airport anyway. Can you tell me more about it?
+Wizard: It has free breakfast, parking, and wifi.
+User: Great.I like the first package you told me about in Osaka. I would like to book it please.
+Wizard: Ok, sure thing! For one adult? Economy class or business?
+User: 2 adults and how much is business?
+Wizard: Two adults in business class would cost 10254.20USD.
+User: Okay book it!
+Wizard: Great - I will proceed with booking. Enjoy your stay!
+User: Thanks!

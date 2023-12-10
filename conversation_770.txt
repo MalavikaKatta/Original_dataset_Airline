@@ -1,0 +1,5 @@
+User: Jerusalem to Tel Aviv, got flights?
+Wizard: I’m sorry, I don’t have any flights available for you.
+User: What would happen if i tried jerusalem to portland instead?
+Wizard: I’m sorry, I have nothing available out of Jerusalem.
+User: cool, THANKS FOR NOTHING!!!!

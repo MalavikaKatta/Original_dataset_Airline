@@ -1,0 +1,23 @@
+User: Hi i'm from Buenos Aires, and I want to book a trip
+Wizard: Where would you like to go?
+User: I was thinking maybe Rome
+Wizard: Do you have a budget?
+User: Not at the moment, but i'm looking for something affordable
+Wizard: Okay, will you be travelling alone?
+User: Yup!
+Wizard: Any specific dates you'd like to travel?
+User: Ideally August 17th until the 31st
+Wizard: There is a 4 star hotel that includes free breakfast and wifi. The trip is from August 27th to the 31st and costs 2953.37.
+User: Where would that be?
+Wizard: This package is for Buenos Aires to Rome. Would you like me to check packages for Alexandria?
+User: Yes please
+Wizard: There is a package from August 17th to the 22nd at a 2.5 star hotel which includes free breakfast, wifi, and parking. The economy class costs 1866.13 and the business class costs 2487.49.
+User: What rating does this hotel have? Are there any better?
+Wizard: No, unfortunately the only rating is a 2.5 for this destination.
+User: Anything else with better amenities?
+Wizard: For Alexandria?
+User: yaaaa
+Wizard: No, sorry, this was the only result for this destination.
+User: Okay nevermind then let's book the one to Rome?
+Wizard: Great! Your trip is booked! Have a great day!
+User: Thnk you!

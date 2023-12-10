@@ -1,0 +1,12 @@
+User: Please find me a package for 22 adults from Kabul to Tofino
+Wizard: Do you have a budget?
+User: No
+Wizard: When would you like to leave Kabul?
+User: 25 of august
+Wizard: There are no availabilities for this many people.
+User: how about 6 people
+Wizard: There are no availabilities for this number of people either.
+User: 8 from Kabul to Recife
+Wizard: No results for this either.
+User: 8 people from Kabul to anywhere on god’s green earth then
+Wizard: There are no results in my data base. Sorry!

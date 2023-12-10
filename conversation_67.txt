@@ -1,0 +1,19 @@
+User: Hi im looking to book my Honeymoon
+Wizard: I can help you with that. Where are you looking to go?
+User: We were thinking of Fortaleza
+Wizard: Ok, sure thing. What would be your departure city of choice?
+User: We will be leaving from Santos
+Wizard: Perfect! I've got a couple of hotels available from August 17-23.
+User: leaving on the 17th is perfect! what options do i have there?
+Wizard: Ok, leaving on the 17th I have two hotel options - both are 3.0 stars with free parking, wifi, and breakfast.
+User: what are the price differences?
+Wizard: Would you like to compare the packages with economy or business class flights?
+User: yes please, is there a different price between hotels?
+Wizard: The first hotel would be 877.94USD with economy class flights and 1082.29USD with business class. The second hotel package costs 938.26USD with economy class flights and 1142.61USD for business class.
+User: what options do you have in philadelphia, with the same dates?
+Wizard: Unfortunately I have nothing available in Philadelphia, USA for those dates.
+User: I think Fortaleza seems like a better destination can we book the cheapest option?
+Wizard: Sure! So you'd like to book the Fortaleza package for 877.94?
+User: yes please! that would be wonderful
+Wizard: Consider it done :slightly_smiling_face: Have a nice day.
+User: thank you very much!

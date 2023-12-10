@@ -1,0 +1,15 @@
+User: Cancun please
+Wizard: Where will you be departing from?
+User: We’ll be leaving from vancouver
+Wizard: It looks like I have a 12-day package available for 1230.73USD. Would you be available to travel from the 27th of August to the 7th of September?
+User: `is that for me and my friend]
+Wizard: I can book this trip for two, however that will bring your total cost to 2461.47USD. Is this OK?
+User: ahh okay. and if i wanted to go to rome
+Wizard: I can book you in Rome at Secret Bay from the 27th of August to the first of September. This package for two will cost 3827.32USD.
+User: whats the most expensive package do you have/
+Wizard: The most expensive package I can find you is 6009.18USD for 7 days in the Double Pastures, a 4-star hotel with a 8.98/10 guest rating.
+User: is that for business class?
+Wizard: Yes, this is a business class flight.
+User: LEt’s book it
+Wizard: Nice! You're booked at the Double Pastures. Have fun in Rome!
+User: thank you!

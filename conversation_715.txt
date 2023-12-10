@@ -1,0 +1,19 @@
+User: Hi, I could use some help planning a low-budget honeymoon.
+Wizard: Ok, where would you like to go?
+User: Ideally Calgary. We can leave from St. Petersburg anytime after Tuesday Aug 30
+Wizard: What is your budget?
+User: 1200 max
+Wizard: For 2 adults?
+User: Exactly!
+Wizard: We have a 4 star hotel near a university, free parking and wifi, leaving September 7th and returning the 19th, business package costing 475.43 and economy package costing 356.68.
+User: Wow that's a good deal! Do you have anything leaving earlier though?
+Wizard: We have a package at the same hotel leaving September 2nd and returning the 8th.
+User: That's better! How much is that one?
+Wizard: 585.28.
+User: And that's the economy package?
+Wizard: This is the business package.
+User: This one is perfect then!
+Wizard: Would you like to book it?
+User: Yes please!
+Wizard: Great! You will receive confirmation shortly. Have a nice day and enjoy the honeymoon!
+User: Nice, thanks!

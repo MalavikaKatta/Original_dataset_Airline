@@ -1,0 +1,14 @@
+User: I need to get to Porto Alegre. from Lima
+I need to return by September 10
+but I will leave as soon as possible
+and I'm bringing a friend, I'll be paying for her
+Wizard: The most luxurious package with availability in Porto at the moment is the Golden Keep Hotel available for 5 days from Sept 6 to the 10th. It is only a 4 star rated hotel, but it does have a perfect 10/10 guest rating, the highest rating possible.
+User: what have you got available in Puebla
+Wizard: Nothing  at the moment. Are you able to change your dates at all?
+User: I can return on the 11th instead. does that yield anything better?
+Wizard: No it does not.
+User: well the Porto 4 star will have to do
+Wizard: It is near the beach, park and shopping with business class seats. Would you like me to book you?
+User: yes, do that
+Wizard: Total price for this package for 2 adults is 8723.68USD.  Thank you for your booking.
+User: thanks

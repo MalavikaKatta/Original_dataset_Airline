@@ -1,0 +1,15 @@
+User: Hey I need to get out of here, just need some space to myself!
+Wizard: Sure :slightly_smiling_face: Where are you looking to get out of?
+User: Seattle! I just need a break from all the performing all those cameras. My best friend will be coming with me. We're thinking of going to Minneapolis
+Wizard: I have a lovely 2.5 star hotel in Minneapolis for a 9 day stay.
+User: 2.5 stars? Are you kidding me? Do you think I'm a 2.5 star kind of person? I think I deserve much better than that! Give me the best you got!
+Wizard: I only have 2.5 star hotels available in Minneapolis.
+User: Let's try Punta Cana then, there's got to be something better there!
+Wizard: Certainly! I have 3 and 3.5 star hotels available in Punta Cana. Which one would you like to hear about first?
+User: 3.5 only? I guess if that's the best you've got... I also need to get back by October 1st at the latest for my gig.
+Wizard: I have a package leaving Sept 26 and returning to Seattle on the 1st!. 6 days at 3.5 star rated Sunrise Elephant Hotel. It has 8.69/10 from past users, is near a cathedral and a palace, and includes free wifi and parking.
+User: That sounds pretty good. But do you have anything longer?
+Wizard: No- this is the longest trip available.
+User: Fine, if that's the best you got, I'll take it.
+Wizard: Yes, of course. Expect email confirmation shortly.
+User: Cool!

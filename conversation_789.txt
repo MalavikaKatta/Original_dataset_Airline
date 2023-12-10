@@ -1,0 +1,6 @@
+User: I need to get to Kabul, can you help me out here?
+Wizard: Yes, indeed I can! Where would you be leaving from?
+User: I live in Munich.
+Wizard: Unfortunately we do not fly directly from Munich to Kabul. Is there an alternate destination that I could arrange for you?
+User: You've got nothing else?
+Wizard: I’m sorry  - nothing :disappointed:

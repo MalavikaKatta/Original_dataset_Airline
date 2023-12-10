@@ -1,0 +1,13 @@
+User: yes im looking for mewtwo in Marseille ook? leaving from Fortaleza
+with 2200 sept 11th
+Wizard: Will you be going alone?
+User: yupp uh huh
+Wizard: There are no results.
+User: go to atlanta then
+Wizard: Do you prefer 3 stars or 3.5 stars?
+User: throw that extra .5 in
+Wizard: This is a 13 day stay from September 11th to 23rd. The hotel is located near a beach, has a guest rating of 8.8/10 and offers free parking and wifi. The cost is 1936.37.
+User: what is nearby the 3 star hotel?
+Wizard: Nothing from what my database gives me.
+User: 3.5 it is then. lets book it
+Wizard: Great! It's booked. Is there anything else I can do for you?

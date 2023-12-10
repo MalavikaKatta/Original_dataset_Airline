@@ -1,0 +1,14 @@
+User: Hey, I really need to get out of Tofino for a while. Any chance to leave on Aug 29?
+Wizard: Where would you like to go?
+User: Stuttgart would be a cool place to go.
+Wizard: Do you have a budget?
+User: I've only got 3100 actually.
+Wizard: Are you travelling by yourself?
+User: Right on.
+Wizard: There are no results showing for your request.
+User: Any chance if I leave from Busan instead?
+Wizard: Nothing within your budget.
+User: Uh.. okay. I guess I can settle for Dallas. Still leaving from Tofino though.
+Wizard: No, sorry.
+User: Alright I'm gonna give it a last shot. What about Dallas from Busan?
+Wizard: No, sorry!

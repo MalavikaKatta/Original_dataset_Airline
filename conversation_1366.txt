@@ -1,0 +1,15 @@
+User: I need to get to Fortaleza on September 8th or soon after!
+Wizard: Where are you coming from?
+User: Guadalajara. I only have 2300 but I need the best hotel!
+Wizard: Will it be just you?
+User: yes just me, it's for work, need to take pictures of some very important people
+Wizard: Well, we only have two 3 star hotels in Fortaleza. One has guest ratings 8.69/10. The other 7.15/10. Are you interested?
+User: The 8.69 then! how long is the package?
+Wizard: It's 18 days leaving on the 12th.
+User: Great, how much is it?
+Wizard: 1763.55 with economy flight seats or 2242.69 with business flight seats.
+User: What happens if I increase to 3300...could I get a 4 star hotel with that?
+Wizard: Unfortunately no. We only have the two 3 star hotels in Fortaleza.
+User: Ok, I'll stick with the 18 day package. Economy please!
+Wizard: It is booked for you! Hope you have a pleasant trip!
+User: Thanks

@@ -1,0 +1,55 @@
+User: Ok i got a week off starting Sept 8. I live in Tampa, show me some cool places I can go!
+Wizard: Do you have a budget?
+User: I'm flexible with the budget - can pay what it takes if the destination really catches my eye :wink:
+Wizard: You can go to Phoenix, Santo Domingo, Long Beach, Lima or Ciudad Juarez,. Also, Kobe.
+User: You got trips to the city of Kobe?
+Wizard: Yes. 14 days in Tokyo for 4334.78USD
+User: I only have seven days though...any chance I could book a shorter trip?
+Wizard: Yes, we have 4 days and 5 days trip
+User: How much does the five day trip cost?
+Wizard: Oh I am sorry, the place of departure isn't from Tampa
+User: Do you have anything from Tampa that goes to Europe? I feel like this is taking far longer than it should...
+Wizard: I have a trip to Atlanta
+User: Okay lets say I settle for Santo Domingo
+Wizard: Sorry, I only have trips to Punta Cana
+User: can you please just find a trip to take me out of this godforsaken town
+Wizard: So we have 7 days at 704.37USD
+User: IS this for Santo Domingo?
+Wizard: yes
+User: Can you check the other destinations, starting with Phoenix? I want to know hotel details
+Wizard: So we have 
+1) 7 days in Santo Domingo for 704.37 (3 stars hotel)
+2) 13 days in Santo Domingo for 740.98 (3 stars hotel)
+3) 7 days in Santo Domingo for 823.14 ( 4 stars hotel)
+4) 13 days in Dallas for 493.36 (2.5 stars hotel)
+User: That is neat  but can you please tell me about your offerings in Phoenix only.
+Wizard: 1) 5 days in Phoenix, 710.99$, 3 stars hotel
+2) 4 days in Phoenix, 747.95USD, 3 stars hotel
+User: if they're both 3 stars, why does it cost more to stay in the second one for less days...are the user reviews higher, or do they have more amenities?
+Wizard: The second departs earlier than the first.
+User: Can you give me the same information for your Long Beach packages?
+Wizard: 1) 4days,  1152.25USD, 3 star hotel
+2) 8 days, 1202.17USD, 3 starhotel
+User: And how about Lima?
+Wizard: 1) 8 days, 4 stars hotel, 1095.80USD; (business, 1356.78USD)
+2) 6 days, 3.5 star hotel, 1523.22USD
+User: Cool, just got to ask about Ciudad Juarez too before I make up my mind! :slightly_smiling_face:
+Wizard: 8 days at 3.5 star hotel for  875.12USD, 5 days at 3.0 star hotel at 1279.99USD,  10 days at 2.5 star hotel at 1721.54USD
+User: Can you tell me more about the hotel in Santo Domingo, I just want to see if its near the beach
+Wizard: near palace, market & museum
+User: I'd like to have a hotel in Santo Domingo that is near the beach please.
+Wizard: ok, I will book that for you
+User: Can you tell me more before you book. I want to know price, ratings, and amenities.
+Wizard: All the hotels in Santo Domingo are near the beach
+User: Book me for September 8 to 15
+Wizard: We have 7 day trips starting on September 7th at either a 3 star hotel (704.37 for economy class, and 842.52 business class.) or a 4 star hotel ( 823.14 for economy class and 974.69 business class)
+both hotels are near beach and include free breakfast. 
+User: Okay book me the four star hotel and business class.
+Wizard: ok. For this one, it leaves on the 7th and come back on the 13.
+User: I want to leave on the 8th. 
+Wizard: We only have the 3 star hotel
+User: Thats fine, what amenities does it have?
+Wizard: free wifi, free breakfast, free parking
+User: When is the return date for this trip?
+Wizard: 14th. It will be 842.45
+User: Ok I'll take it.

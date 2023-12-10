@@ -1,0 +1,8 @@
+User: looking to go from mos eisley to kyoto on august 27
+Wizard: I can't seem to find any flights from Mos Eisley to Kyoto. Would you be able to leave from another destination?
+User: ok lets leave from sacramento
+Wizard: You're in luck! I can book you at the Quiet Garden Resort from August 27th to September 2nd. Would you like me to book this package?
+User: that works great! book book book !
+Wizard: Booked!
+User: thanks 
+Wizard: Thank you for using our service!

@@ -1,0 +1,15 @@
+User: hey I need to get home asap!!! PLEASE get me to Sapporo
+Wizard: I can help you with that! Where will you be coming from?
+User: I'm in Indianapolis, was backpacking around Indiana. Can I leave like, two days ago? Its super important that I get home!!!
+Wizard: I'm afraid the only package we have available from Indianapolis to Sapporo is a 10 day package that leaves Sunday September 18. Shall I book that for you?
+User: could you get me there any sooner from Fukuoka?? I found a flight going to Fukuoka from here in an hour
+Wizard: I'm sorry. We still have nothing that leaves sooner than September 18. What would you like me to do for you?
+User: damn it.. Birmingham? from Indianapolis?
+i have family in Birmingham I can stay with
+Wizard: We have one package only, a flight that goes from Indianapolis to Birmingham on Tuesday September 13th. Will that do for you?
+User: that's fine if its the soonest I can get
+Wizard: I'm afraid it is. Shall I book it for you?
+User: unless you can get me to Birmingham from Fukuoka even sooner?
+Wizard: There is a flight from Fukuoka to Birmingham that leaves also on the 13th, but 5 hours earlier. Shall I book the one from Fukuoka then?
+User: ah no, may as well stay in the country Indianapolis to Birmingham please. thank you
+Wizard: Ok then! It's been booked! And you are welcome!

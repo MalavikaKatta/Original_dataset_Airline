@@ -1,0 +1,23 @@
+User: Hi, I need some help booking a very important trip.
+Wizard: Okay! Where to?
+User: We need to get to Indianapolis.
+Wizard: From where?
+User: We're stationed in Santos.
+Wizard: Do you have a budget?
+User: I'm willing to pay up to 32900.
+Wizard: How many people will be travelling altogether?
+User: 7 adults including myself, and my 5 kids are also coming along.
+Wizard: When would you like to leave?
+User: We're flexible.
+Wizard: We have a 2.5 star hotel
+User: Is that the only hotel you have in Indianapolis?
+Wizard: Yes.
+User: Can you tell me a bit more about it?
+Wizard: It's near the beach and shopping, 6.37/10 guest rating, free parking, breakfast, and wifi.
+User: Will we still be okay budget-wise if we fly business?
+Wizard: The cost for the business package is 32198.94 and is from August 31st to September 16th.
+User: Is that the only package you can offer?
+Wizard: Yes and the economy package costs 24786.99.
+User: I'll take the business package then. Please confirm the booking.
+Wizard: Of course. You will receive a confirmation email shortly.
+User: Cool, thanks!

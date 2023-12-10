@@ -1,0 +1,10 @@
+User: Hi there. I need to go to Tel Aviv for a meeting
+Are there any flights from Paris?
+Wizard: Do you have a budget?
+User: Show me what you've got.
+Wizard: Nothing.
+User: Monterrey then? In this case we'll be going 7 adults total.
+Wizard: There are no avialabilities.
+User: Unbelievable...Tofino is my last option
+Wizard: There are no results for this either.
+User: I guess this is going to work

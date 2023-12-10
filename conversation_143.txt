@@ -1,0 +1,15 @@
+User: i want ot travel to melbourne. i will leave from kyoto
+Wizard: Unfortunately there are no flights heading from Kyoto to Melbourne. How about Sapporo?
+User: i can leave from berlin
+Wizard: Unfortunately there are no flights heading from Berlin to Melbourne. How about Munich?
+User: ok well i would go to Caprica as well
+Wizard: Unfortunately there are no flights from Berlin headed to Caprica. How About Hamburg?
+User: no not hamburg, i have an outstanding warrant there. i would go to Naples instead
+Wizard: In that case, I would recommend flying in from Berlin, as I can offer you a six-night package at the Courtyard Resort for 640.85 USD if you leave on August 19. Would you like me to book this package?
+User: I want to try to travel between august 15 and august 18
+Wizard: Unfortunately the closest package I can offer you to those specifications is from the 15th of August until the 27th. Otherwise the earliest you could leave would be August 19th.
+User: ok, i can be flexible on the dates... i will book the package leaving on the 19th for 15 people
+Wizard: Unfortunately with a party of 15 people you would need to leave by the 24th or stay until the 31st. Are either of these options OK?
+User: lets book it
+Wizard: Your trip has been booked! Enjoy your stay!
+User: sweet thank you

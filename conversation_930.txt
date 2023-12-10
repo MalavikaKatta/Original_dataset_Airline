@@ -1,0 +1,4 @@
+User: Hi there. I need flights from Beijing to Busan
+For 3 adults
+Wizard: Hello! I’m sorry to inform you we actually don’t service Beijing. Can I help you with something else?
+User: thanks!

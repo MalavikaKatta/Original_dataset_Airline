@@ -1,0 +1,4 @@
+User: I'm looking to pay 0 to get out Tijuana
+Wizard: We don't offer any free flights.
+User: What about $400
+Wizard: There are no results within your budget.

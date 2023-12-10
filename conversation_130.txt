@@ -1,0 +1,11 @@
+User: Hey, I'm looking to book my honeymoon from Houston to Santo Domingo for a week on August 26th. My budget is 1500.
+Wizard: I cannot offer you anything less expensive than 1932.27 USD. Is your budget flexible?
+User: No. Is there anything in my budget from Houston to Cancun?
+Wizard: And your budget is not flexible?
+User: No I already spent too much on the wedding so my budget is fixed.
+Wizard: I can offer you 5 days in Cancun at a 4 star hotel for 1474.18 USD.
+User: I think that will work! What all does the hotel offer?
+Wizard: Everything that one needs: free breakfast, wifi and parking!
+User: Great! Let's book it!
+Wizard: A confirmation email will be sent to you shortly. Have a nice day!
+User: Thanks!

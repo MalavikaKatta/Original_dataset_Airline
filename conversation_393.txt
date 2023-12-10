@@ -1,0 +1,17 @@
+User: Hello online, I am the happiest man on earth! I have 4 beautiful children, a beautiful wife, a great life and on top of it all my beautiful wife has now let me look after what we hope will be a beautiful vacation. I have $8600, let's look at some possible fun trips for me, plus my beautiful wife, PLUS my beautiful family.
+Wizard: I would be happy to help you with that! Where will you be departing from and do you have any destinations in mind?
+User: We live in beautiful Frankfurt! I don't know, I was asked to look into Munich.
+Wizard: I have a luxury package to offer you:  A  six day stay at the Regal Bluff, a 5 star hotel close to a university. You could even fly there in business class for 1752.90USD and still be way under your budget. The dates of this package are from September 6th to 11th. Do those work for you?
+User: We were hoping for a longer vacation! That one sounds very nice and luxurious but let's check out beautiful Paris?
+Wizard: The longest package I have for Paris is a 9 day holiday at the 4 star Autumn Treasure Hotel. Would you like more details about this option?
+User: yes absolutely
+Wizard: Ok so complimentary breakfast and wifi are included in the price of 2698.30USD. The package would be 3171.76USD if you preferred to fly in business class. The dates of your stay would be from August 31st to September 8th.
+User: That one sounds pretty good. I need to look at your packages in Belem, see if there is anything on the beach there.
+Wizard: I have several options for you. The first is an 11 day holiday at the Zion Hotel. It is a 4.5 star hotel by the beach. The price includes free breakfast wifi and parking. The dates this package are from August 24th to September 2nd and it would cost you 5530.24USD.
+User: That's a bit too soon for us
+Wizard: What dates would you prefer?
+User: We can only travel during beautiful September from the 1st to the 14th
+Wizard: Then I can offer you a shorter stay at the same hotel from September 8th to the 14th. This 8 day package would cost you 4930.52USD in economy.
+User: I kinda like this one myself! There's no way I can book without wifey's approval. I will let her know about all the fantastic packages you have available and we will call you back to confirm. Thank you for all your help, life is beautiful!
+Wizard: Glad to be of use! I look forward to hearing from you soon.
+User: :+1:

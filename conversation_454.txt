@@ -1,0 +1,8 @@
+User: Book me Jerusalem to Salvador, between August 24 and August 27. 12 adults
+Wizard: Do you have a budget?
+User: 2800
+Wizard: We have an 8 days trip and a 6 days trip
+User: Do you have anything shorter?
+Wizard: no i am sorry, not from Jerusalem to Salvador
+User: Ok you know what, I'll take the 6 day trip then. Book it, bot
+Wizard: We actually dont have anything from Jerusalem to Salvador

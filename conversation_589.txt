@@ -1,0 +1,25 @@
+User: My boss gave me 8 days off! Get me out of Kingston on Sept 6, or shortly after
+Wizard: Do you have a budget?
+User: Not really!! I make good $$
+Wizard: Where would you like to go?
+User: You tell me!! Open to suggestions!
+Wizard: The closest package to your requests is an 8 day stay from September 8th to 15th at The Glee. This is a 4 star hotel near a park, they have 8.22/10 guest ratings, free breakfast and wifi. This business class package costs 2946.55.
+User: Thats hard to turn down!! Would you happen to have an Asian destination for me?
+I've never been!
+Wizard: No, sorry. We only have flights to Germany, United States, Mexica, and Brazil.
+User: Ooh lets hear about what you have in Germany
+Wizard: We have one package for Munich, Germany. This is a 5 star hotel near a university, it has a 0/10 guest rating, and free wifi. This package is from September 10th to 17th. The business class package is 2336.16 and the economy class is 1751.69.
+User: 5 star with 0/10 guest rating? Forget that! Ok since you offer flights to the US, would you be able to get me to SL?
+Wizard: No, just Chicago and San Juan.
+User: San Juan might be nice...Whats the hotel like there?
+Wizard: Its a 2.5 star hotel, 8.49/10 guest rating, near a museum, free parking, breakfast, and wifi. From September 18th to 25th. Business class is 2705.80 and economy class is 2150.88.
+User: Worth considering. Could you get me to Porto??
+Wizard: The only flight there is to Recife.
+User: Recife is cool. Could I get a hotel near some attractions?
+
+Wizard: Recife is an 8 day stay from September 8th to 15th at The Glee. This is a 4 star hotel near a park, they have 8.22/10 guest ratings, free breakfast and wifi. This business class package costs 2946.55.
+User: Ok thats all I need to know, I want that one!
+Wizard: The trip to Recife?
+User: Indeed
+Wizard: Great! This flight is booked for you! Safe travels!
+User: Thank you

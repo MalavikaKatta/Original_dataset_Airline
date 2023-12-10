@@ -1,0 +1,7 @@
+User: i want to go somewhere
+Wizard: I want to help you go somewhere. But where did you have in mind?
+User: idk. i will leave from calgary
+Wizard: How does 17 days in Puebla sound?
+User: i can travel between september 1 and september 20. 3700 dollar budget
+Wizard: Perfect, then you might enjoy a stay at the Grand Brewery Mexico between September 1 and 17 for 1817.31USD.
+User: done, book

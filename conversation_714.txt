@@ -1,0 +1,20 @@
+User: Well you start by booking me from Belem to Rome. My dates are flexible.
+Wizard: Great! And will you be travelling alone?
+User: Yes, if you don't count my legions of groupies and stalkers.
+Wizard: I have packages available ranging from September 2nd until the 17th. Do you have a preference for your length of stay?
+User: I only prefer that you put me in the poshest hotel in town.
+Wizard: I have several 4.0 star hotel options for you. Would you like me to narrow them down for you by amenities, location, or user review rating perhaps?
+User: 4 star? you're doing me dirty here, but sure, fine. which one is best rated by its guests?
+Wizard: The Double Pastures has been rated at 8.98/10 stars by previous guests.
+User: But what amenities?
+Wizard: Free breakfast and free wifi.
+User: No spa?
+Wizard: No spa :disappointed:
+User: Alright whatever I guess. Short on time here: I'll take it
+Wizard: Would you like to book economy flights?
+User: Is that some kind of sick joke? NO, of course not! First class if you have it, if not then business
+Wizard: I have business class flights available! For 3610.79USD
+User: What dates would this be for?
+Wizard: September 6th to 11th
+User: That will do. Book it already!!!
+Wizard: Done :slightly_smiling_face: Thank you for using our services.

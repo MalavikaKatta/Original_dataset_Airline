@@ -1,0 +1,17 @@
+User: San Diego to Pittsburgh for 7 adults total
+Wizard: Hi there, how much are you willing to pay?
+User: anything
+Wizard: How long would you like to stay and when do you want to leave?
+User: whenever
+Wizard: The best package I have in Pittsburgh is at a 3.5 star hotel, rated 8.86/10. I also have a few 2.5 star hotels. What would you like to hear more about?
+User: i only want to hear about the very best, so business class and high rated hotels
+Wizard: Okay, this 3.5 star hotel is our very best in Pittsburgh. It is rated 8.86/10 by guests. It offers free parking, free breakfast, free wifi, and is located near a park. I have a 11 day package with business flights for 6878.36.
+User: okay. do you have anything to Calgary
+Wizard: Sure do! The best package we have in Calgary puts you in a 4.0 star hotel, with guest rating 0/10. It is close to a university and offers free wifi and parking. For business packages, we have 12 or 6 day ones.
+User: Ok what do yu have for burlington?
+Wizard: In Burlington our best is a 3.0 star hotel with guest ratings of 8.69/10 and easy access to a park. While there, you can enjoy free breakfast and free wifi. We have a 6 day business package available.
+User: i think ill take the 4 star business package to Calgary
+Wizard: Sounds good! Would you prefer to stay for 6 or 12 days?
+User: 12
+Wizard: Perfect! The 12 day business package is booked for you for 3743.45. Email confirmation is coming your way!
+User: thanks

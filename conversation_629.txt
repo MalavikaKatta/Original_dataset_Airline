@@ -1,0 +1,28 @@
+User: Hello. I've received an offer of temporary employment from a global ad agency. I am currently trying to determine which office to work in
+Which is entirely predicated on the selection of travel packages that you can offer me
+My point of departure is Barcelona "Look at flights to Manas please.
+It must be between Aug 31 and Sep 16
+It must also be less than 1900"
+Wizard: Sorry, I don't have anything to Manas
+User: How disappointing. Proceed to look at flights to Paris
+Wizard: 9 or 10 days trip at a 4.0 stars hotel?
+User: 10 days
+Wizard: 894.93USD in Economy class or 1086.86USD in business class
+User: I'm not done looking yet. I also want to know about your offerings to San Jose
+Wizard: 4 star hotel near the beach for 9 or 11 days
+User: Which 11 days?
+Wizard: September 3rd to 12th
+User: I would like to know more about the amenities please.
+Wizard: Near beach and museum
+User: I don't believe that either are amenities.
+Wizard: Oh I am sorry, this hotel has free parking, free breakfast and free wifi
+User: What about the hotel in Paris?
+Wizard: 4 star hotel with free breakfast, free wifi.
+User: What are the dates for Paris?
+Wizard: What days would you like to travel?
+User: I've already told you this, please refer to above
+Wizard: I have trips from August 31st 2016  to September 9th 2016
+User: Book me that one I guess
+Wizard: So 10 days trip at Autumn Treasure Hotel (4 stars) from August 31st to September 9th, with free breakfast & free wifi at  894.93USD. For one person only?
+User: yes for one person
+Wizard: Ok I will book that for you

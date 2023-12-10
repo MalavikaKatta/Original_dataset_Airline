@@ -1,0 +1,11 @@
+User: So I need a 5 star hotel for 7 adults in Manaus ASAP. Departing from Queenstown
+Make it happen
+Wizard: Do you have a budget?
+User: :unamused: No
+Wizard: When would you like to leave?
+User: ASAP means as soon as possible.... just so you know
+Wizard: There are no results from Queenstown.
+User: Queenstown to Stuttgart then
+Wizard: There are no results from Queenstown.
+User: You're pretty useless huh? Ok check Detroit.
+Wizard: We don't have any of these flights leaving from Queenstown. The flights we have available for 7 people leaving from Queenstown are package to Minneapolis, Punta Cana, Rosario, and Porto Alegre.

@@ -1,0 +1,23 @@
+User: were they going to punta cana? im in mexico city i need to get there
+Wizard: Would you like me to book a trip for you from Mexico City to Punta Cana?
+User: yes thats what i said
+Wizard: Excellent, did you have any dates in mind?
+User: i can leave on august 30th
+Wizard: Great, will you be traveling alone?
+User: yes. and keep it under a grand
+Wizard: We have a trip departing on August 30th and returning on September 3. You will be staying at the charming La Estrella del Mar hotel, situated near the palace. The trip costs a total of 270.32USD. Would you like to confirm this booking?
+User: well whats the hotel rating? it better be good
+Wizard: Of course! I am pleased to tell you that the hotel is 0 star, and has a 0/10 guest rating.
+User: gross theres no way im gonna score any candid pics there..what else
+Wizard: I have one other hotel in Punta Cana, but not for the departure date you listed. Would you still be interested in this option?
+User: fine yeah look into it
+Wizard: We have a trip departing on September 7 and returning on September 11. You will be staying at the noble el Mar, a 2.5 star hotel located  on the beach. The trip costs 219.55USD - does this sound good to you?
+User: 2.5 stars are u kidding me. I need something diva-worthy what if i up it to 2g's
+Wizard: I do not understand, sorry.
+User: 2000 dollar budget check it
+Wizard: Would you like to explore alternate destinations?
+User: no I need to check Punta Cana
+Wizard: Would you like to choose an alternate date?
+User: fine
+Wizard: We have a trip departing on September 10 and returning on September 15. You will be staying at the noble el Mar, a 2.5 star hotel located  on the beach. The trip costs 270.28USD - does this sound good to you?
+User: i said 2.5 wasnt good enough

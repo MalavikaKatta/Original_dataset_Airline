@@ -1,0 +1,14 @@
+User: Stuttgart to SL
+Wizard: Dates, # of passengers please
+User: August 30 until September 12
+Wizard: Would you prefer 9 days or 13 days?
+User: Doesn't matter Whats the hotel
+Wizard: Do you have an amount of money you want to spend in mind?
+User: no
+Wizard: 3 star or 5 star hotel?
+User: I would of course enjoy the 5 star more
+Wizard: The luxury 5 star Lunar is available for 13 days for $3094.89USD if you choose to fly business class.
+User: How much would the economy package do?
+Wizard: $2408.63USD same departure dates
+User: I'd rather just go for the business class Can we book the Business class trip
+Wizard: Yes we can, have a pleasant trip.

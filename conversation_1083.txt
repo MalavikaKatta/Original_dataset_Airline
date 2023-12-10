@@ -1,0 +1,13 @@
+User: I have 14 days vacation
+Wizard: Could you provide the dates for me please?
+User: whenever
+Wizard: Where would you like to go and from where?
+User: I don’t know where i want to go, i was hoping you could help me decide. I would be leaving from Rome. I only have $400 tho
+Wizard: I have no packages available out of Rome for $400. best I can do is 4 days in Milan at $710.13
+User: cant afford it. What if I left from Porto?
+Wizard: If you left from Porto instead of Rome,  I can offer you a 4 day package at the Hotel Fernando Ribero for 193.43USD
+User: Can you tell me more about the hotel?
+Wizard: It is a 2.5 star hotel located near the park, shopping and a mall and it includes free parking, unlimited wifi use and a nice breakfast. It is available from September 18 to September 21.
+User: Sounds pretty damn good! I’ll take er!
+Wizard: I will take down all your details and proceed with the reservation. Thank you for your time today and enjoy your trip.
+User: Thank you!

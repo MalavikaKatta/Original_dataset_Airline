@@ -1,0 +1,23 @@
+User: Good morning! Can you help me out with booking my next vacation?
+Wizard: Yes, where would you like to go?
+User: Well, I have a few places in mind, would you mind checking them for me one by one?
+Wizard: Sure. Before I do I will need a little bit more information. Where are you leaving from?
+User: I'm based in Valencia.
+Wizard: Do you have a budget?
+User: Nothing set in mind yet. Can you provide a few options in different ranges if possible and I can try to make up my mind?
+Wizard: Sure. Are you travelling with anyone else?
+User: Not planning on it.
+Wizard: When would you like to leave?
+User: Oh, this is quite important. I got Tuesday, August 30, 2016 to Saturday, September 10, 2016 approved by my boss, so the date is definitely not flexible.
+Wizard: We have a nice package to Athens at a 3 star hotel, near a mall, 0/10 guest rating, free parking and wifi, from August 30th to September 10th. Economy package is 2528.73, business package is 3372.76.
+User: I've been having Mannheim on my mind. Can you check that for me?
+Wizard: Fabulous! We have a 5 star hotel near a park, 8.98/10 guest rating, spa, free wifi, economy package is 1096.47, business package is 1311.50, departing August 30th and returning September 3rd.
+User: Do you have longer packages at this hotel?
+Wizard: Unfortunately we do not, this is our only package to Mannheim.
+User: Okay that's fair. Lastly, can you check Fortaleza for me?
+Wizard: We have a 3 star hotel by a mall, 7.15/10 guest rating, free parking, breakfast, and wifi, the economy package costs 2466.74, the business package costs 3167.70, and the trip is from September 2nd to 6th.
+User: Okay you know what... my favorite is the business package to Mannheim. Can we go back to that?
+Wizard: Sure. Would you like to book it?
+User: Yes that'd be awesome if you can book it for me!
+Wizard: There! It is booked! You will get a confirmation email within the next 20 minutes. Have a nice day and safe travels!
+User: Super!

@@ -1,0 +1,15 @@
+User: hello
+i need to book a couple things for work that are coming up
+lets see.... im gonna be in leon on the 27th of august and i believe ill need to go to Ulsan from there whats available
+Wizard: What city will you be departing from?
+User: leon
+Wizard: I can offer you a seven-day package leaving on the 27th  for 2881.80USD. Would you like me to book this package?
+User: and returning when?
+Wizard: You would be returning on the 1st of September.
+User: that is fine.can i book it for my 6 colleagues as well
+Wizard: That will bring your price to 20167.57 USD. Is this ok?
+User: would it be any cheaper if we left from Belo Horizonte instead
+Wizard: Unfortunately that would bring your price to 26733.34USD. Would you like me to book you a package from Leon?
+User: ok in that case yes, lets book leon
+Wizard: Wonderful! Your trip has been booked. Enjoy your stay!
+User: thank you very much

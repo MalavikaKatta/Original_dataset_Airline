@@ -1,0 +1,17 @@
+User: hello
+Wizard: Hi there :slightly_smiling_face: How can I help you today?
+User: i am planning my honey moon. leaving from miami on sunday august 28 2016. for 5 days to stuttgart. max 2900
+Wizard: I have a one day stay available in Stuttgart from September 2-September 1, does that interest you?
+User: september 2 - 1?
+Wizard: Yes. Those are the dates. Sorry.
+User: what about kingston?
+Wizard: I only have trips that leave in September. Would this be ok?
+User: ok for 5 dayss?
+Wizard: Yes. You could go from September 7-11
+User: ok
+Wizard: Great! Would you like to book?
+User: yes what are the activities and prices
+Wizard: The price would be 1191.32 USD. You would be staying in the heart of Kingston near a park. The hotel has free wifi, breakfast, and parking. Shall I go ahead and book that for you?
+User: yep
+Wizard: Great, booked
+User: ok thanks

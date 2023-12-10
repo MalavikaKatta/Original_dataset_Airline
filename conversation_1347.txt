@@ -1,0 +1,9 @@
+User: I am one adult travelling to Maceio. Do you have any flights out of Osaka?
+Wizard: I will check what our availabilities are. First, Do you have a budget?
+User: This is a business trip. I have a budget of 6900
+Wizard: When would you like to leave and/or return?
+User: 12 to 30
+Wizard: Travelling alone?
+User: yes like I said "I am one adult" I am definitely getting my secretary to do this next time now find me something cause time = $
+Wizard: Are you looking for a certain rating for hotels or location of hotel?
+User: who are you, the Grand Inquisitor?!? GET ME THE BEST FOR MY MONEY THIS IS A BUSINESS EXPENSE

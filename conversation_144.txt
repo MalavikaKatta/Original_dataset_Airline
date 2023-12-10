@@ -1,0 +1,15 @@
+User: Hi I wanna take a 12 day trip from Hiroshima to Phoenix, leaving on August 27th.
+Wizard: Will anyone be joining you?
+User: No, I don't like other people.
+Wizard: Not a problem, and do you have a budget?
+User: No, I'm rich.
+Wizard: Would an 8 day stay at a 3 star hotel for 4202.50USD, with economy flight leaving on August 27th interest you?
+User: Possibly. Is there anything from Hiroshima to Baltimore?
+Wizard: Are your dates flexible? I cannot offer dates earlier than September 1st for a flight from Hiroshima to Baltimore.
+User: No. That's okay. Is there anything for Boston instead of Baltimore?
+Wizard: there's a 2.5 star hotel starting at 4162.73USD for 8 days with a departure flight leaving on August 27th, or a 3 star hotel starting at 4586.75USD for 8 days with a departure flight leaving on August 30th. Do either of these interest you?
+User: no. I think ill take the trip to Phoenix. Does the hotel offer wifi?
+Wizard: Yes, the hotel offers breakfast, wifi and parking!
+User: Great! I'll take it
+Wizard: Sure thing! Your reservation has been completed.
+User: thank you

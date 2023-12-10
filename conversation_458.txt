@@ -1,0 +1,16 @@
+User: Hi, this is quite urgent, my sister needs me to book a trip for her. She needs to go to Queenstown between september 9-24 leaving from Queenstown. What do you have?
+Wizard: I do not understand. Would you like to go to Queenstown and leave from Essen?
+User: She lives in Fort Lauderdale and needs to go to Queenstown
+Wizard: How about the Silver Orb Palace? It is five stars and can be booked from August 30-September 7th for 2281USD
+User: Her dates are not flexible, she is only available between the dates I gave you
+Wizard: What are the dates? Are they flexible?
+User: September 9-24. Like I said, they are not flexible
+Wizard: You will arrive in Queenstown on September 12 and stay at the Emerald Mountain Hotel. You will return to Fort Lauderdale on September 20th.
+User: It's not for me, its for my sister, can you please cut me some slack and pay attention? Like I said, it's been a rough week
+Wizard: Will I book this trip?
+User: Not yet, tell me more abut the Emerald Mountain Hotel
+Wizard: Emerald Mountain Hotel is a 4 star hotel near a museum with free wifi, breakfast, and parking.
+User: How much is it?
+Wizard: 4012.13USD
+User: Just under budget. ok bye now
+Wizard: Goodbye

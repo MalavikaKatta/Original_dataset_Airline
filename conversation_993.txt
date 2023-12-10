@@ -1,0 +1,7 @@
+User: I need to book a business trip - something impressive... thinking… las vegas
+3 adults find me the best you can out of mannheim after september 11th
+Wizard: The best hotel we have in Las Vegas is a 3.0 star hotel. Would you like to know more about this option or do you have another possible destination?
+User: Try Fortaleza
+Wizard: The best in Fortaleza is also a 3 star hotel.
+User: Fukuoka?
+Wizard: We do have a better option in Fukuoka. It's a 3.5 star hotel in the heart of the city with guest ratings of 8.22/10. Is this better?

@@ -1,0 +1,14 @@
+User: I'm looking to take 5 friends to Leon.
+Wizard: Where are you leaving from and are these all adults?
+User: I am leaving from Leon and going to Tijuana. Yes, adults...
+Wizard: Okay. Do you have a budget?
+User: ...No
+Wizard: Okay. When would you like to go?
+User: Whenever the best package is available
+Wizard: We have a 3 star hotel, 7.15/10 guest rating, near shopping, free parking, breakfast, and wifi, departing September 2nd, returning September 12th, business class flights, total cost for this package is 21536.38.
+User: Not interested. What's available in San Diego?
+Wizard: Our best package in San Diego is a 3 star hotel, 8.86/10 guest rating, near a park, free parking, breakfast, and wifi, departing September 8th and returning September 14th, business class flights, and the total cost of this package is 11278.15.
+User: Montreal, find me something better.
+Wizard: We have a 4 star hotel near a mall and market, 8.86/10 guest rating, free parking and wifi, departing September 6th and returning the 10th, business class flights, and in total the package costs 19135.83.
+User: Good enough. Book it.
+Wizard: Great! It is booked! Have a great day and keep an eye out for a confirmation email!

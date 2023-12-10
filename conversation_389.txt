@@ -1,0 +1,15 @@
+User: hi. i need a vacation. im in berlin and wondering about trips to milan
+Wizard: I can help you book a vacation! What dates did you have in mind?
+User: from berlin to milan. what is available
+Wizard: I have a 13 day trip departing on August 26, returning on September 7. Would you like to hear more about this option?
+User: yes, I would. paint me a picture with your words
+Wizard: With pleasure. For a paltry 646.37USD, you can let loose amidst the luxuries of the 4 star Pink Star Hotel, whose guests have given it a 8.37/10 rating. You will be within easy walking distance of the heart of the city, with museums and the cathedral on offer. The award-winning continental breakfast and state-of-the-art wifi are also provided for our valued guests, free of charge.
+User: what if i went to san juan? what would the packages be like?
+Wizard: Would you like to hear more about our 10 day package from September 6 to 14th?
+User: yes, yes. indulge me
+Wizard: You would be staying at the exclusive Supreme Seaside Inn & Suites, a 2.5 star hotel near the park and mall. For only 1657.59USD, you will have full access to amenities such as free breakfast and wifi. Would you like me to book this package for you?
+User: less of a marvel  but lovely in its own right. what if I splurged and went all the way to Frankfurt? what kind of trip could I have then?
+Wizard: We have a trip available for 14 days, from August 29 to September 11. Would you be interested in hearing more about this option?
+User: yes please, tell me more
+Wizard: The trip will be at the delightful Mellow Palms Resort, which is rated 4.5 stars and 8.86/10 by its guests. For only 810.54USD, you will be able to enjoy free breakfast and free wifi. Should I book this trip for you?
+User: sounds like a great hotel!

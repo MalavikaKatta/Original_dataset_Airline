@@ -1,0 +1,27 @@
+User: Can you get me to Kyoto
+Wizard: Ok! From where?
+User: I need to be there for at least four days
+Wizard: Have you a budget?
+User: I’m on the road so I can head there from any origin point. Budget is 3500
+Wizard: Travelling alone?
+User: two adults. oh and please find me a place near a park
+Wizard: I can get you 4 days in Kyoto for 1857.63USD if you leave from Sapporo.
+User: but the park?
+Wizard: No options near parks in Kyoto, sorry.
+User: Ok then scratch that. Try Maceio
+Wizard: Two hotels available - both near parks!
+User: Great news
+Wizard:  Hotel Regal Time has packages from Sept 17-20 with a 3.5 star rating. Royal Cavern Maceio is available from Sept 12-15 and bares the same 3.5 rating, but the Regal is 4.93 points higher in terms of guest reviews.
+User: Okay! Regal would be my choice for Maceio
+Wizard: Shall I book?
+User: Whats the most compatible hotel in Rome that you can get me?
+Wizard: I have no park-side hotels in Rome, but I have several near cathedrals.
+User: Ok then lets just go with Regal please!
+Wizard: You’ve got it, boss! Business class or economy?
+User: What are the associated costs?
+Wizard: 2597.58USD for economy and 3176.95USD for business, departing from Santa Cruz.
+User: This is for two adults?
+Wizard: Correct.
+User: Book it, bot!
+Wizard: Consider it done, amigo :slightly_smiling_face: Enjoy your stay.
+User: Thank you!

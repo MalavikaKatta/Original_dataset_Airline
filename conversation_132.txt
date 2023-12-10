@@ -1,0 +1,15 @@
+User: helllloooo, couple of lovebirds here looking to get away to Burlington for our honeymoon :heart_eyes::smiley_cat::two_women_holding_hands:
+Wizard: Hello, I can offer you a deal on a 12-day package in Burlington at the Noble Bazaar Resort. Your flight would leave from New York. How does that sound?
+User: we are not in New York :confused: can we leave from Stuttgart?
+Wizard: I have round-trip packages from Stuttgart running from the 27th to the 31st and from the 18th to the 22nd. Do either of these dates work for you?
+User: leaving on the 18th is great but we would like to go for 7 days perhaps there's something avialable in Santiago?
+Wizard: I have one package for Santiago, unfortunately it only runs from the 26th to the 30th of August. Would you like to hear more about this package, or would you like to try another destination?
+User: lets go back to Burlington in that case.. how much for the package leaving on August 18?
+Wizard: The best deal I could offer you on this package would be 4645.29USD. The Celestial Inn & Suites is a 3-star hotel with a 8.69/10 guest rating, free breakfast and free wifi. Would you like me to book this package?
+User: aww man, I really can't go that much over the budget... the wedding was way too expensive. how much for the Santiago trip?
+Wizard: The Santiago package is 1176.93USD in total.
+User: wow, ok.. let's book that then, assuming the hotel is nice?
+Wizard: You would be staying in the Una casa, a 3-star hotel with a 0/10 guest rating, free breakfast, free wifi and free parking.
+User: ok, that's good enough. let's book it :smile:
+Wizard: Your desination has been booked. Enjoy your trip!
+User: thanks!

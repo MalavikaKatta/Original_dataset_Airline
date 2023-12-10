@@ -1,0 +1,14 @@
+User: I need to find a nice travel package that is available between today and Friday Sept 16
+Wizard: Do you have a budget?
+User: 2900
+Wizard: Do you have a destination in mind?
+User: No as long as I leave from Cordoba
+Wizard: Travelling alone?
+User: yes
+Wizard: We have two results. A 6 day package to Tampa from the 11th to 16th, and a 5 day package to Atlanta from the 12th to 16th.
+User: I can only leave on the 12th. So tell me more about the second option please
+Wizard: It is a 3 star hotel near the beach, 7.15/10 guest rating, free parking and wifi, economy flights, and the cost is 2801.25.
+User: No breakfast included?
+Wizard: No, unfortunately.
+User: I guess that sound okay, I'll take it
+Wizard: Great! Booked! Have a nice day!

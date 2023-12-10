@@ -1,0 +1,12 @@
+User: I dream of one day going to San Diego and doing the pub tour. My friends have all done it and they say it's awesome.  What can you offer me in San Diego?
+Wizard: If you depart from Philadelphia, I can offer you a 4-day package in San Diego for 497.50USD. Would you like to hear more about this package?
+User: I have to leave from Recife! Philadelphia is too far away, and I want beer. Lots of beer. How about Curitiba?
+Wizard: Are you looking to depart from or travel to Curitiba?
+User: I have to leave from Resife. It's where I live my boring life.  Curitiba sounds like it has a great nightlife.
+Wizard: Would you be interested in 11 days at the Hotel Leisure? If you fly out on the 30th of August the package is only 1088.27USD.
+User: What abut something in Frankfurt? They also have lots of beer there!
+Wizard: If you leave on the 27th I can offer you a 9-day package in Frankfurt for 3907.92USD. Would you like to know more about this package?
+User: Sure, what kinds of things are close by. I dream of going to museums, going to the beautiful parks...
+Wizard: I don't have any information on the Mellow Palms Resort location, however I can tell you it is a 4.5-star hotel with a 8.86/10 guest rating, free breakfast and free wifi. Would you like to book this package?
+User: How much?
+Wizard: The total cost of this package is 3907.92USD.

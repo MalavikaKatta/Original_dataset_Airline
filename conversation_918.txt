@@ -1,0 +1,18 @@
+User: Hi there
+Wizard: Hello there, how may I be of help?
+User: You can take me to Tampa. Whats the nicest hotel you have there?
+Wizard: The nicest is a 3 star hotel close to the park, museum, beach, and airport. It offers free wifi, breakfast, and parking. Guests in the past have rated it 8.8/10. Does this sound appealing to you?
+User: I just want to ascertain that it is somewhere a pop star might stay at. You can verify that you don't have anything better in town?
+Wizard: I confirm.
+User: I’ll take your word for it! Ok lets talk numbers
+I have 1300
+And I’d like to get there on September 12
+Wizard: Where are you leaving from?
+User: Portland
+Wizard: I can offer you a 10 day business package at the hotel previously mentioned for 938.53 starting from Sep 14.
+User: I don’t need business class. Well actually
+It can’t hurt I suppose
+Yes I’m down
+Lets do it
+Wizard: Okay, I will book the business package for you! Anything else you need?
+User: Thats it

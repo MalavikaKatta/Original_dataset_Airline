@@ -1,0 +1,6 @@
+User: Beijing to Tijuana Sept 6-Sept 9
+Wizard: Do you have a budget?
+User: 1900
+Wizard: Travelling alone?
+User: no there are 7 of us
+Wizard: There aren't any results showing for Beijing to Tijuana

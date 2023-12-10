@@ -1,0 +1,19 @@
+User: Hello, there!
+Wizard: Hi there! What can I do for you?
+User: We want to take our five kids out of Cairo
+Wizard: I'd be happy to help! Where are you thinking of?
+User: First on the list is St. Louis. Trip would need to be between now and September 18
+Wizard: Do you have a budget you must follow?
+User: Have 9400 budgeted, hope thats enough! :slightly_smiling_face:
+Wizard: Sure is! That can take you to SL for 9 days at a 3.0 star hotel near the beach :slightly_smiling_face:
+User: Would this hotel offer free wifi? I’d like to still be able to work if anything came up.
+Wizard: Not just free wifi, it also offers free breakfast!
+User: Not to waffle too long on this decision, but can I also see what you have available in Guadalajara?
+Wizard: Nothing available for Guadalajara unfortunately.
+User: I’ve heard Santo Domingo also has some nice beaches, got anything there?
+Wizard: Nothing either :disappointed:
+User: Ok that SL choice really wasn’t bad, lets just book that
+Wizard: I agree! You can get the entire family into business class for 7290.39. Otherwise, economy seats are 6014.26.
+User: I want to treat my family, lets do business
+Wizard: Perfect! I have confirmed the booking. You will depart in 2 days on the 4th. Better start packing :slightly_smiling_face:
+User: Will do! Thanks!

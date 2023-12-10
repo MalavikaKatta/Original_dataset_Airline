@@ -1,0 +1,4 @@
+User: Hi I need a break from Gotham City, the crime rate is just too high. I'd like to go to Hogsmead with 3 kids and 9 adults.
+Wizard: I cannot find any trips from Gotham City to Hogsmead. What about Dallas to Vancouver?
+User: No thank you, in that case I will stay in Gotham City. Thanks for your help.
+Wizard: Goodbye.

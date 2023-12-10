@@ -1,0 +1,17 @@
+User: My name is Lorraine. I would like to book a vacation for myself and my three darling grandchildren, leaving as soon as possible but returning before the children start school on September 19.
+Wizard: Where would you like to leave from and where would you like to go?
+User: We would be setting off from Burlington. We would be looking to land in Toronto.
+Wizard: Burlington to Toronto for 1 adult and 3 children.  I have several options.  Would you prefer to stay in Toronto for 8 or 12 days?
+User: I would prefer a longer trip, please! However, it behooves me to make mention of my 3300 budget for this voyage.
+Wizard: Most everything I have in Toronto for September is under your $3300 dollar budget. For a 12 day stay, the Hotel Eric Perrier is priced at $2441.0USD and has a 4 star rating. It also has an excellent guest rating of  8.8 / 10.
+User: I would like to know if this hotel offers any amenities?
+Wizard: Daily breakfast is part of the package, as well as wifi. If you wanted to travel by business class with the children, the price would be 2863.7USD, still below your budget.
+User: Can you also be so kind as to check for tickets to Philadelphia?
+Wizard: I have one package available in Philadelphia, but unlike Toronto, I only have a 5 day package.  The Mirror Inn is priced at 2498.21USD and has a 2 star rating. The guest rating on this hotel is 6.61/10
+User: Understood. I would like to submit an application for the Toronto package, for the economy seat option. But before I do, can you remind me of the dates?
+Wizard: You would depart Burlington on September 8th at 11am and return on September 19 at 3am.
+User: The return flight is past the children's bedtime. Do you have any other selections?
+Wizard: That is the only flight available from Burlington to Toronto on that day.
+User: Very well. Please book this trip for me, thank you.
+Wizard: I will go ahead with the booking for you. Safe travels.
+User: Thank you

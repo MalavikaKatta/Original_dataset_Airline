@@ -1,0 +1,13 @@
+User: Hi I've got investors to meet with in Nagoya sometime in the near future. I can leave from anywhere
+Wizard: When would you like to leave?
+User: Whenever
+Wizard: Do you have a budget?
+User: no
+Wizard: We only have 3 star hotels but do you prefer business class flights or economy?
+User: Business. Where are the hotels located? I'd like to be in the heart of the city.
+Wizard: Unfortunately there is only one hotel available and it is near a university.
+User: That could work I guess, what is the price?
+Wizard: 4077.62 is our cheapest business package.
+User: Cool, book it please
+Wizard: Great! It's booked! Have a great day!
+User: :smile:

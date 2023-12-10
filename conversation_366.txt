@@ -1,0 +1,36 @@
+User: I want to go to Curitiba.
+Wizard: Hi there, where would you like to go from?
+User: Phili
+Wizard: for how many people?
+User: 5 adults altogether
+Wizard: Do you have a budget?
+User: Nah, I'm too cool to worry about money. Money is meant to be spent anyway, right?
+Wizard: Which days would you like to travel?
+User: August 28th and September 18th. My dates are flexible too btw
+Wizard: We have a few options available, 
+there's Pinnacle for 13 days and 7 days. it's in Curitiba, Brazil. the hotel's a 3.0 star hotel, with a museum and market nearby.
+Total price: 8465.4USD
+Then, we have Crown Market Palace for 13 days, also in Curitiba, Brazil. this one's a 3.5 star hotel with a 8.22 / 10 from guests. with a beach, breakfast, wifi, and free parking, the price comes to 8652.21USD
+User: What are my options if I want to go to La Paz from Phili?
+Wizard: Which days would you like to travel?
+User: The same dates as before silly
+Wizard: You could possibly stay at the Echo. It's in La Paz, Bolivia, it has 4.0 stars and a 8.98 / 10 from guests. You'd be getting breakfast, wifi and free parking here. If you want to stay for 5 days, it would cost 5589.20USD. It would also cost 5589.20USD to stay 4 days. Additionally, if you'd like to spend 6697.89USD, you'd be able to stay for 5 days!
+User: Okay cool. What about if I left from Santiago?
+Wizard: Sorry, I don't have any results for trips departing from Santiago at the dates and price range give
+User: ugh that's so lame. Well what if I left from Santiago and go to Curitiba? Is there anything there?
+Wizard: Sorry, I don't have any results for this request either...
+User: hmm okay let me think for a sec.... i just wanna compare my options first.
+Wizard: Sure, no problem
+User: I think I like the first option for the trip to La Paz. Is this flight economy or business?
+Wizard: Departing from Philadelphia?
+User: Yeah!
+Wizard: economy class
+User: Is the third option to La Paz business class?
+Wizard: yes, it is business
+User: what days are the flights?
+Wizard: August 18 - September 18
+User: Whoa!  A whole Month?!
+Wizard: Yes
+User: hmmm I think I'll take it! yeah! book this one for me please!
+Wizard: I will book this trip then
+User: Thank you so much! this is gonna be the best vacation ever!!!!1

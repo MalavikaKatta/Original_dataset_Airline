@@ -1,0 +1,28 @@
+User: Hey there I'm looking for a trip from St. Louis to Kabul.
+Wizard: Sure thing! When would you like to go?
+User: After September 6
+Wizard: Ok, travelling alone?
+User: Yeah, it's for a job.
+Wizard: Sadly we do not offer flights to Kabul from St. Louis. Where else can I look for you?
+User: But I've done it before.
+Wizard: This trip is not currently available.
+User: It's been done before, so don't pretend that you don't have flights from Kabul to St. Louis. It's really important for me to get there.
+Wizard: There are no flights from St. Louis to Kabul. Can I look into another destination for you?
+User: Yeah, I figured. I can't believe you guys got rid of it. Is this a question of money? If I offered you more money, then would a trip from St. Louis to Kabul suddenly present itself?
+Wizard: Sadly we do not offer flights to Kabul from St. Louis. Where else can I look for you?
+User: So if I raised my budget by a few hundred dollars, then would you have a package to Kabul for me?
+Wizard: Sadly we do not offer flights to Kabul from St. Louis. Where else can I look for you?
+User: Okay, so what if I offer an extra $1000. Then would you have a trip to Kabul from me?
+Wizard: Sadly we do not offer flights to Kabul from St. Louis. Where else can I look for you?
+User: No where else damn it! I need to get to Kabul!
+Wizard: Sadly we do not offer flights to Kabul from St. Louis. Where else can I look for you?
+User: Nowhere else!
+Wizard: Sadly we do not offer flights to Kabul from St. Louis. Where else can I look for you?
+User: You can't look anywhere else because Kabul is the only place I need to be.
+Wizard: Sadly we do not offer flights to Kabul from St. Louis. Where else can I look for you?
+User: I'll go somewhere that will take my money and get me to Kabul.
+Wizard: You will go somewhere else? I can help you with that. Where would you like to go?
+User: I mean I'm going to another service.
+Wizard: Goodbye.
+User: Bye. And thanks for nothing.
+Wizard: You are welcome :slightly_smiling_face:

@@ -1,0 +1,25 @@
+User: Can you check Guadalajara first? I'll be leaving from Curitiba
+Wizard: No worries. Do you have a fixed budget?
+User: I only got 7300.
+Wizard: We have a 9 day trip at a 3 star hotel costing 4237.73 for business or 3294.57 for economy. What do you think?
+User: When is this trip?
+Wizard: From Saturday September 17th to Sunday September 25th. Does this interest you?
+User: That could work.. is this the longest trip you have?
+Wizard: Yes indeed. Shall I proceed with booking?
+User: Not so fast.. what amenities does this hotel provide?
+Wizard: Free parking, breakfast, and wifi! Sounds amazing, doesn't it?
+User: Does sound pretty good.. I'm curious about Sao Paulo though. Can you help me check?
+Wizard: We have a 9 day trip that offers free breakfast and wifi, costing 556.73 for economy and 658.91 for business. Does this pique your interest?
+User: That's a good deal! What kind of hotel is ut?
+Wizard: It's a 3 star hotel, which is the most highly rated that we have, with a guest rating of 6.91/10. There are also plenty of activities for you nearby as the hotel is situated in the heart of the city within walking distance of a cathedral and a theatre. Doesn't this sound amazing? Ready to book?
+User: This does sound pretty good... before I book though, can you just help me look into Hiroshima?
+Wizard: Of course! I can offer you a 14 day package for 4853.37 for economy class at a hotel that includes free breakfast and wifi. Not a bad deal, right?
+User: How's the rating and star level of the hotel? Is it as good as the Sao Paulo one?
+Wizard: Yes it is! It's also 3 stars but the guest rating is 7.15/10. What do you think?
+User: And I assume that's also the highest rated you've got? Are there also nice activities nearby?
+Wizard: Actually, we also have a 12 day package at the Hotel Oishi which is 4.5 stars and has a guest rating of 8.86/10. Business class costs 7184.43 whereas economy is priced at 5506.62. And there is also a famous museum nearby. Does this interest you at all?
+User: Hm that's a tough choice... What are the dates for this? And also for the Sao Paulo one?
+Wizard: The dates for this are Monday September 12 to Friday September 23. For the Sao Paulo one, it's Tuesday September 13th to Wednesday September 21st. Which do you prefer?
+User: The dates for the Sao Paulo package works better for me actually! And I also think I shouldn't splurge on this trip since I'm not being paid... I'll take the Sao Paulo trip then! Business class though... :slightly_smiling_face:
+Wizard: Consider it booked! You will be receiving an email within the next 24 hours. Have a good trip!
+User: Great! Thanks :slightly_smiling_face:

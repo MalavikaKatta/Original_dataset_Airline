@@ -1,0 +1,23 @@
+User: hello, I’m looking for an impressive package to Minneapolis
+from Sao Paulo
+for 6 adults
+Wizard: Do you have a budget?
+User: no. I’m spending to impress here
+so spare no expense
+Wizard: When would you like to leave Sao Paulo?
+User: any time after today
+Wizard: All we have in Minneapolis is a 2.5 star hotel.
+User: yuck, ok try Atlanta please
+Wizard: Our best here is a 3.5 star, is this okay?
+User: not really... anything better in Goiania?
+Wizard: Results include 2.5 and 3.5 star hotels in Goiania.
+User: brutal. what are the guest ratings for the 3.5 star
+Wizard: 7.15/10 and 8.69/10
+User: where is the 8.69 one?
+Wizard: Goiania has the 7.15 and 8.69 guest ratings. Atlanta has a 8.8/10 guest rating though.
+User: oh ok, so there are two in Goiania... what amenities are included for the 8.69 in Goian?
+Wizard: Free parking, breakfast, and wifi. The hotel is also located near the airport, shopping, and a museum!
+User: not bad I guess... and the 8.8 guest rating in Atlanta, what is that hotel located near?
+Wizard: It is near a beach and offers free wifi and parking.
+User: ok. I am going to shop around before I rush into anything
+thanks though

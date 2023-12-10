@@ -1,0 +1,18 @@
+User: Hello. Here is what my perfect trip would be: A trip for one adult (me) and two children from St. Petersburg to Melbourne.
+Wizard: Unfortunately nothing is currently available. Can I help you find another perfect trip?
+User: Hmm. How about Ulsan
+Wizard: Now this we do have! Which dates would you like to travel?
+User: Anytime!
+Wizard: Would you like me to stay under a certain budget?
+User: no budget!
+Wizard: Sounds good. The best package we have for you is a 11 day vacation at a 5 star hotel with 8.98/10 guest rating.
+User: Lets do it!
+Wizard: I have the business package for 11450.32 and the economy package for 8871.58. Which one would you like to go with?
+User: Can I just get a double check on the dates please?
+Wizard: Yup, it's from September 3-12.
+User: Lets do it!
+Wizard: Do you want to go with the business package or the economy package?
+User: Economy please!
+Wizard: Perfect! I have booked it for you. Reservation details will be emailed to you. Have a nice trip!
+User: Thanks!!
+Wizard: You are most welcome!

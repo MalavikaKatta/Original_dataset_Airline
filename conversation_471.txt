@@ -1,0 +1,23 @@
+User: hi
+Wizard: Hello
+User: looking to leave Rio de Janeiro for a spell
+Wizard: From where?
+User: between this thursday and september 2. leaving from rio de janeiro, want to know where i can go
+Wizard: You can go to Manaus, Salvador, Porto Alegre, Goiania
+User: can i get to porto alegre for under 1900?
+Wizard: yes, for $637.79
+User: but can you tell me if the hotel is any good...do the guests like it?
+Wizard: 3.5 star hotel, guest rating 8.8 on 10
+User: can you confirm which dates this package will be?
+Wizard: from august 30 and september 2nd in economy class. We also have business class at 733.41
+User: do you have a longer trip to porto? that only takes up half my vacation
+Wizard: Not to Rio, but to Manaus, Brazil, yes, at 8 days for 583.65$, or Salvador at 616.31 for 7 days.
+User: that sounds decent, which place has the better hotel?
+Wizard: Salvador has 3.5 star hotel
+User: and Manas?
+Wizard: 2.5 stars
+User: ok, and the dates for salvador are?
+Wizard: August 27 to September 2nd
+User: ok not to be nitpicky but can you tell me a little more about the amenities at salvador, and whether its near anything exciting?
+Wizard: near hotel, museum, palace, theatre  vs. hotel, shopping for Manaus
+User: brilliant! ok sign me up for the santos package please

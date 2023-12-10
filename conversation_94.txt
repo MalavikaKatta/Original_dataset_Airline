@@ -1,0 +1,13 @@
+User: Hi! I'd like to plan my honeymoon, but I've spent way too much on my wedding and need to stick to a budget of $4600. Can you offer anything to Marseille for 5 days leaving from Salvador on August 17?
+Wizard: I dont have anything for your budget or start date
+User: I'm afraid that I really need to stick to my budget. Can you look up packages for Rome?
+Wizard: I have the perfect package for you! It is at the Secret Bay in Rome, with a flight leaving on the 17th and returning on the 20th, The total cost on this package is $4517.97USD.
+User: That is excellent. The hotel is how many stars? Is there a spa?
+Wizard: It is a 0 star hotel but it includes free breakfast and wifi. Unfortunately, it does not have a spa.
+User: Holy moly! That is not a good way to start a marriage! Do you have any other packages?
+Wizard: Not in Rome.  Do you want me to look at other destinations?
+User: Let's go back to the Marseille deals, and I will reconsider my budget and dates.
+Wizard: The most economical deal we have at the moment in Marseille from Salvador is  $5203.99USD in a 4 star hotel which includes free wifi. It is available from August 21st to August 24th.
+User: Great, I'd like to book this one please!
+Wizard: Perfect, I will take down all your details and send you the confirmation. Enjoy your stay in Marseille!
+User: Thank you!

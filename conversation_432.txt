@@ -1,0 +1,16 @@
+User: I need to go to San Jose between August 27 and September 5. Leaving from Goiania
+Wizard: Do you have a budget?
+User: Yeah i got 5 grand
+Wizard: This is what I have for you: Snowy Nugget Inn - 11 days, in San Jose, United States, a 2.5 star hotel, near par and  museum for 4209.87USD. Guest Rated it 9.16/10
+User: Hmm ok what are the exact dates?
+Wizard: From August 25 to September 3rd
+User: Do you have anything leaving on August 27? I still have class on the 25th
+Wizard: We have trips to San Jose, Leaving on September 2nd and coming back on the 3rd. OR leaving on the 3rd, coming back on the 8th
+User: do you have something leaving for hiroshima on the dates i gave you
+Wizard: Sorry, I do not
+User: How about to Hamburg
+Wizard: Yes, we have 6 days trips at 3 and 4 star hotels. Leaving the last week of August, costing from $2700 to $4000
+User: Do any of them fit my schedule of August 27 to September 5
+Wizard: We have 30 - 31, 27 - 28, 30 - 31, this is all I have
+User: Ok you know what, lets just book the original San Jose trip instead then.
+Wizard: ok

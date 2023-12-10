@@ -1,0 +1,17 @@
+User: Hi yes, to Jerusalem please.
+Wizard: How many are you and where are you coming from?
+User: Just me. I'll leave from Lima.
+Wizard: I'm afraid we do not offer any packages from Lima to Jerusalem. Would you like to book another destination?
+User: Tofino?
+Wizard: I'm afraid we do not have any flights destined to Tofino either. Would you like to book another destination?
+User: Ugh if you can't get me to New York then we're done.
+Wizard: That is indeed possible! We have two packages, one lasting 18 days and the other 14 days. Which one would you like?
+User: For New York I'm only willing to spend 1600. Do both of them work?
+Wizard: Yes indeed!
+User: What are the hotels like?
+Wizard: It's all the same hotel. 2.5 stars with a guest rating of 8.22/10. Free parking, breakfast, and wifi come with the package and the hotel is situated near a museum and an airport. Which package are you interested in, the 14 or the 18 day one?
+User: No shorter packages?
+Wizard: I'm afraid not. Shall I book the 14 day package for you then?
+User: Alright I guess I have no choice. Please take care of the booking for me!
+Wizard: Excellent! It has now been booked. You will receive a confirmation email with the next five minutes. Have a good day.
+User: thanks!

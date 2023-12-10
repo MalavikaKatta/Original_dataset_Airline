@@ -1,0 +1,32 @@
+User: Hey! You can help me by finding a trip to Philadelphia from Maceio.
+Wizard: In Philadelphia you can stay at a 2.5 star hotel for 11 days. As for Fukuoka, 11 days at a 2.5 star hotel would cost 4719.74USD. I can offer 14 days in Essen for 3787.14USD; this would be at a 2.0 star hotel. 4 days at a 2.0 star hotel in San Antonio would cost 2311.48USD.
+User: Let's start with Philadelphia, how much is it I upgrade to business class?
+Wizard: For this hotel in Philadelphia, it would cost 3340.56USD to travel from Maceio by business class.
+User: And for a four star hotel?
+Wizard: Sorry, I only have 2.5 star hotels available in Philadelphia.
+User: Let's see about Fukuoka upgraded to business class and a four star hotel.
+Wizard: I have a 3.5 star hotel available in Fukuoka, The Oceanside Hotel. It has a guest rating of 8.22/10. I could book you a business class trip for 11 days at 6228.88USD.
+User: Is this hotel in the downtown area of the city?
+Wizard: I do not know the location of The Oceanside Hotel within the city of Fukuoka, sorry.
+User: Is there a spa in the hotel?
+Wizard: There is no spa in the hotel, but there is free wifi.
+User: I will keep this option in mind. How about Essen, do you have anything less than 14 days?
+Wizard: Do you have a length of stay in mind?
+User: Around 11 days.
+Wizard: Sorry, I am only coming up with 14 day trips to Essen. Perhaps another nearby departure city would work?
+User: Good idea. What about Canoas?
+Wizard: It seems that Canoas is not in my database.
+User: What about porto alegre
+Wizard: I have multiple 5 day options available from Porto to Essen. 
+User: I would prefer 11 days
+Wizard: Do you have a departure date in mind? Or an approximate departure date?
+User: Anytime in the month of September
+Wizard: Unfortunately I only have 5 days options leaving from Porto available at this time.
+User: In that case, let's go back to the Fukuoka 11 day package.
+Wizard: Would you like me to explore your Fukuoka options leaving from Porto Alegre?
+User: Yes please.
+Wizard: I can offer 13 days in Fukuoka for 5777.48USD.
+User: In that case, I will take the 11 day package. One more thing, is there free breakfast?
+Wizard: The 11 day trip to Fukuoka from Maceia is also during August. However, the Oceanside Hotel does provide free breakfast!
+User:  I'll book this one. Thank you, friend!
+Wizard: Great, thank you!

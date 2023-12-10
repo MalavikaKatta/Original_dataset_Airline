@@ -1,0 +1,13 @@
+User: Hi. I'm looking for an adventure from Thursday, August 18 to Saturday, September 3. I'm thinking of going to Fortaleza. Yes, with free breakfast of course. I'm leaving from Essen.
+Wizard: I can book 8 days in Fortaleza for 2026.51USD, 9 days in Ciudad Juarez for 3393.97USD, 9 days in Burlington for 2119.26USD, or 9 days in Buenos Aires for 2085.15USD. All of these options have free breakfast.
+User: Can you tell me more about the Fortaleza package?
+Wizard: I can book 8 days in Fortaleza for 2026.51USD.
+User: How many stars is the hotel?
+Wizard: The hotel in Fortaleza is 3.0 stars with a user rating of 7.15 stars.
+User: Is there free wifi?
+Wizard: There is free wifi and free parking in addition to free breakfast.
+User: I like the Fortaleza package. How about the Ciudad Juarez and Burlington packages, is there free wifi and parking in addition to breakfast?
+Wizard: The hotel in Ciudad Juarez has free parking and wifi, but the hotel in Burlington does not offer free parking. It does, however, have free wifi.
+User: I'll book the Fortaleza package please.
+Wizard: You will leave Essen at 10:00 am - Wednesday, August 17th 2016. Thank you for using this service.
+User: Perfect. Thank you for your help

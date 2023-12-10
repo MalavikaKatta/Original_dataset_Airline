@@ -1,0 +1,11 @@
+User: I need to get back home asap, its an emergency
+Wizard: Will do my best to help! Where is home and were are you currently?
+User: from tofino to melbourne
+Wizard: I regret to inform you we don't offer flights between those two cities. Can you leave from somewhere else? Or land somewhere else?
+User: i can leave from jerusalem
+Wizard: No luck with Jerusalem either...
+User: can you check flights to sydney then
+Wizard: Sorry, nothing available here either.
+User: not even from tofino
+Wizard: Sadly no.
+User: crap. I'll have to look somewhere else then, thanks anyway

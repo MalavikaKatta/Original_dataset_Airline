@@ -1,0 +1,20 @@
+User: Vacay time woooohooooooo
+Wizard: May I book a trip for you?
+User: Listen I'm on a budget soooooo I want you to find me the best deal ever understand? We want to go to Phoenix with the kids.
+Wizard: How many of you will there be? And where will you be leaving from?
+User: There is my wife, me, her mother :grimacing: and our gaggle of 5 kids
+Wizard: 3 adults and 5 children then?
+User: Yes that's it  we need a good deal
+Wizard: What is your budget and where will you be leaving from?
+User: We live in Atlanta and no more than $4800 for ALL of us got it?
+Wizard: I have an amazing 15 day package costing at a total of $4415.39 for all of you. You will be all set up at a 3 star hotel located near a museum and a university, and this will include free parking, free breakfast, and free wifi. Would you like me to book this for you?
+User: 3 star? Got anything better?
+Wizard: I'm afraid not. That is the most upscale hotel we have of all the packages.
+User: What 't the guest rating on the 15 day package?
+Wizard: It's the same hotel for the two packages that we have, and the guest rating is 6.91 out of 10. Would you be interested in booking the 15 day package?
+User: NO. I would like to see what else you have. Do you have any other hotels or are you giving me just one choice?
+Wizard: I'm afraid we only have two packages available for what you're looking for, and they're both with the same hotel. Would you be interested in booking one of these packages?
+User: Can you stop asking me that please! We take one vacation every 3 years and I need to look at all my options! If I increase my budget to $5800, what can you offer us?
+Wizard: I am afraid that increasing your budget will leave you with the same options, with the 3 star hotel. Is there another destination you would like me to search for you?
+User: It's nice that you are meeting my budget but I really need to look at more than just one 3 star hotel in Phoenix. I will shop around and get back to you if I can't find something better. Have a nice day.
+Wizard: Thank you for stopping by. Good luck!

@@ -1,0 +1,26 @@
+User: HI I NEED TO GO ON VACATION I LIVE IN WASHINGTON WHERE CAN I GO
+Wizard: How much would you like to spend on this vacation?
+User: 3300 DOLLARS
+Wizard: For one person?
+User: YEAH
+Wizard: Are you looking for a luxury hotel or something low key?
+User: I WANT TO BE PAMPERED
+Wizard: As far as pampering goes, I have a lovely property in Paris, France available for 18 days. The 4 star Queen's Jungle Hotel, is located near the museum and cathedral with shopping available nearby.  It also includes use of wifi and a lovely free breakfast.
+User: OH OK SOUNDS NICE WHAT IS THE PRICE
+Wizard: Would you like to travel on business class?
+User: YEAH OK
+Wizard: 2472.61USD for your 18 day package
+User: WHERE ELSE COULD I GO THO
+Wizard: Are you interested in a beach vacation?
+User: OF COURSE!
+Wizard: I have the The Rose Sierra Hotel available in Santo Domingo for 19 days located on the beach and close to shopping for  1363.47USD via business class.
+User: WHAT IS THE HOTEL RATED
+Wizard: It is a 3 star hotel with a guest rating of  7.06 / 10 and included free use of wifi, a parking spot and breakfast also free of charge
+User: IS IT CHEAPER THAN THE PARIS ONE OR MORE EXPESNIVE
+Wizard: Paris, France is 2472.61USD for your 18 day package and Santo Domingo is 1363.47USD for your 19 day package, both based on business class travel
+User: OK IS THERE ANYWHERE ELSE I CAN GO THOUGH???
+Wizard: I have 2 locations. one in Santos and the other in Recife.
+User: ARE THEY HIGH STAR RATINGS??
+Wizard: Santos is a 4 star rating, with a 8.49/10 guest rating
+User: I LIKE PARIS MORE CAN U BOOK PARIS FOR ME
+Wizard: I have taken care of that for you and will forward confirmation. Thank you for booking your holiday 

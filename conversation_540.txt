@@ -1,0 +1,15 @@
+User: hola. I am here in Miami
+Wizard: Hello!
+User: Me and my terrific partner are imagining a little trippy. That’s 5 adults, 2 children. And we would like to travel between August 27-30
+Wizard: Where would you like to hypothetically go?
+User: Wherever! BUT 14900 for all of us, total, please!
+Wizard: The only thing available is a trip to Dallas?
+User: whaaat ok Dallas it is! Details?
+Wizard: They offer free breakfast and wifi. Departing August 27th and returning on the 30th. This trip costs 9324.44 for the business package and 7473.33 for economy.
+User: Fantastic! Is it on the beach by chance?
+Wizard: Unfortunately no.
+User: Ah shucks. oh well Lets do it!
+Wizard: business or economy?
+User: Lets splurge for business!
+Wizard: Great! Your flights have been booked! Safe travels!
+User: Thank you kindly :smile:

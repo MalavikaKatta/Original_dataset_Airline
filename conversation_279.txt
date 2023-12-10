@@ -1,0 +1,9 @@
+User: Hello you may know me as the best Pokemon Hunter in the world
+Wizard: Hello.
+User: i need to get to Rio de Janeiro
+Wizard: You can leave Recife Saturday August 27th
+User: but I can only leave from Santos
+Wizard: For less money on the same day you can leave and spend 261.99
+User: I will offer you $20000 to get me there
+Wizard: You only need to spend 261.99 good bye
+User: ok very good

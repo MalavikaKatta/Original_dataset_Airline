@@ -1,0 +1,21 @@
+User: Yo! I've rounded the crew up and we want to do something huge
+Wizard: OK :slightly_smiling_face: How many are in your group?
+User: We have 7 adults. Leaving from Phoenix
+We all got September 6 to 26 blocked off
+Wizard: Any destination in mind?
+User: What would a trip to Kingston look like?
+Wizard: I’ve got a couple options in Kingston for you. To help me narrow them down, could you provide me with a budget for your trip? Or perhaps a desired length of stay?
+User: We have 27100 between the 7 of us. Whats the longest trip you can find?
+Wizard: The longest trip would be 9 days. You would be staying at the Cosmos Inn, a 2.5. star hotel with a 6.37 guest rating; it is near a park in the heart of the city.
+User: I'm sure we can do better! Can we go to Hamburg then?
+Wizard: Would you like a higher hotel rating?
+User: Sure, or that
+Wizard: In Hamburg I can offer you 10 days at either a 3 or 4 star hotel in the heart of Hamburg.
+User: tell us more about the 4 star
+Wizard: The Traveller Inn has free breakfast and free wifi. It has been well received by guests with its 8.69 user review rating.
+User: Thats not bad. Wait could you find a better hotel in Kingston tho?
+Wizard: I can offer a 3.5 star hotel near a museum for 8 days in Kingston?
+User: Would that cost more or less than the 10 days at the Traveller?
+Wizard: That would cost 10269.29USD, while the Hamburg package would cost 20741.24USD.
+User: Wow lets go with that then, the difference in pricing is astronomical
+Wizard: Certainly! I will book the Kingston package for you all.

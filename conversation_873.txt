@@ -1,0 +1,20 @@
+User: well i’d like for our next trip to be a family reunion in kyoto we don’t have a point of departure in mind, but we have 4 adults and 2 children to book for actually. sorry i mistyped that
+we are departing from kyoto. but do not have a destination in mind
+Wizard: Could you let me know your dates and planned budget?
+User: yes definitely. dates are september 6 to 19
+budget of 19900
+Wizard: Thank you! We have some trips to Rome, Kobe, Ulsan, Fukuoka, and Paris. Any of these interest you?
+User: you mind if we go through them in order?
+Wizard: In Rome we have a 15 day package at a 4 star hotel. We have 14 day packages in Kobe at a 3.5 star hotel, in Ulsan at a 4 star hotel, in Fukuoka at a 3.5 star hotel, and in Paris at a 4 star hotel.
+User: thats a lot of appealing options. is the rome hotel near the cathedral?
+Wizard: It is indeed! It also offers free breakfast and free wifi. Guests have rated it 8.98/10.
+User: And how much does this cost?
+Wizard: 16174.2 if you fly economy.
+User: Ok I think I want to narrow it down to this one or Ulsan Can you give me more detail on that hotel?
+Wizard: Absolutely! The hotel in Ulsan is close to a market and a palace. It offers free wifi and parking. In the past, guests have rated it 7.06/10. The 14 day package costs 3553.83. We also have a business package available for this option if that's something of interest to you.
+User: this is also very attractive I think since we can afford rome, I’m leaning more to that
+Feel like it would be more culturally different than what we’re used to
+Wizard: I agree with you. Would you like me to book it for you?
+User: Please book it
+Wizard: Consider it done!
+User: Thank you

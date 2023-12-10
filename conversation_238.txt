@@ -1,0 +1,21 @@
+User: Hi im in Munich and want to go to Dallas
+Wizard: Great! Any dates in mind?
+User: not atm
+Wizard: Ok! I have one hotel available from August 26-30. How does that sound?
+User: Can you tell me about it?
+Wizard: Absolutely! The hotel is located in the heart of Dallas near a museum and has free wifi and breakfast included. It has a 2.5 star rating with a guest rating of 5.14
+User: hmm interesting are there any better rated hotels?
+Wizard: I’m sorry but that is the only one I have available. I can check out other destinations for you if you would like.
+User: Sure what about kobe??
+Wizard: I have several hotels in Kobe for you! They go up to 4.5 stars. Have you got a budget in mind to help me narrow down the best one for you?
+User: Lets see the best ones available
+Wizard: That would be the Ivory Legacy Hotel - a 4.5 star with free wifi.
+User: how much?
+Wizard: I have a 6 day package available for 3052.85USD.
+User: When would i be departing
+Wizard: You could leave August 30th
+User: That would work!
+Wizard: Ok, great! Shall I go ahead and book?
+User: Yes please!
+Wizard: You’re all set :slightly_smiling_face: Enjoy!
+User: thanks

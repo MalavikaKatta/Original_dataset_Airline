@@ -1,0 +1,23 @@
+User: Can I go to La Paz from Santos between september 12th and 27th?
+Wizard: Sure! I have Echo available from September 13th-20th. How does that sound?
+User: Sounds good, could you tell me more about the hotel and the price? I don't have a budget.
+Wizard: The hotel is 4 stars with 8.98/10 in user reviews. The price for economy class flights in your package would be 2203 dollars.
+User: That is really good actually. What is the price for business class
+Wizard: 2809.92USD for business class.
+User: nice. Do you have anything to Marseille?
+Wizard: I sure do! I have two different 4 star hotels available. One with a 8.98/10 guest rating and another with 8.69/10.
+User: Give me info on the 8.98/10
+Wizard: Hotel Duchesse is near a museum, has free wifi, and has packages available from Sept 12-17 or 16-22.
+User: coolio. Do you have anything to San Antonio?
+Wizard: I do, but the hotels are all 2.0 stars. Do you want to hear about them?
+User: no thanks. Can you tell me what you have in Pittsburgh?
+Wizard: In Pittsburgh I have two different 2.5 star hotels within your date range.
+User: I think I like the La Paz package but what do they have amenities?
+Wizard: La Paz has free parking, free breakfast, and free wifi at the hotel I mentioned for you earlier.
+User: okay thats fine. Can you book me for the Marseille trip from the 16th to 22nd?
+Wizard: I sure can! Economy or business class?
+User: How much is the business one?
+Wizard: 4020.63USD
+User: works for me, book it
+Wizard: Great - consider it booked!
+User: Thanks!

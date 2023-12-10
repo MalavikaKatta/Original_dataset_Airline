@@ -1,0 +1,26 @@
+User: got a big family trip coming up tomorrow that I havent booked yet - ha! we have 13800 to bring our 5 kids somewhere. need to be back by september 17 for work
+Wizard: Sounds great, where would you like to go?
+User: we live in St. Petersburg and want to check out Munich
+Wizard: Absolutely. How many adults would be on this trip?
+User: 2 adults. and of course the 5 youngsters
+Wizard: We've got what you're looking for! How does Munich from September 6 to 12 in a five-star hotel sound?
+User: five stars, yes! I like it! what are the deets?
+Wizard: You would be staying near the university, and wifi-comes free.
+User: price?
+Wizard: At 9449.92USD, you would be well under budget.
+User: St. Louis
+Wizard: I could offer you yet another 5-star hotel stay, this time a longer trip too - August 31 to September 14!
+User: you’re giving me life here today! what would the hotel be like?
+Wizard: This hotel gives you free breakfast and wi-fi, and guests have showered it with a 8.98/10 rating.
+User: Awesome!!!!! what is that hotel called
+Wizard: Lunar
+User: what is available in Burlington?
+Wizard: You could get away for a very economical price at 1879.2USD, if you choose to stay at the 2.5 star Excursion Motel from September 7-14.
+User: hmm I can’t possibly pass on two 5 star offers. what is the price for the Lunar package?
+Wizard: It would be quite reasonable, at 5122.47USD.
+User: very reasonable indeed
+lots left over for another vacay perhaps! is the hotel located near the beach or anything like that?
+Wizard: Unfortunately, I cannot say that it is.
+User: ah well, I’m sure it’ll be more than suitable. i think ill go ahead with that booking
+Wizard: Great, it is done!
+User: thanks bud!

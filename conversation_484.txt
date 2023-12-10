@@ -1,0 +1,15 @@
+User: Good morning to you! I'd like to take my family somewhere exotic...I've been coming up with a list of where to go from Punta Cana. Can you check on Mexico City
+Wizard: Do you have a budget?
+User: 2900 for 2 adults and 4 children
+Wizard: When would you like to go?
+User: Look for travel packages to Mexico City first
+Wizard: We have two 3 star hotels and two 3.5 star hotels. All packages are 5 day stays. Do any of these spark interest?
+User: Can I get the 3.5 star hotel and the business class flight for under my budget?
+Wizard: No sorry, the business flight is for a 3 star hotel.
+User: Book one thats between August 31 and September 8
+Wizard: There is a flight from September 2nd to 6th at a 3 star hotel and there is also a trip from September 1st to 5th at a 3.5 star hotel. Which one would you like me to book?
+User: How much does the second trip cost?
+Wizard: 2860.74
+User: Perfect, book it
+Wizard: Great! Your package has been booked! Safe travels!
+User: Thanks!

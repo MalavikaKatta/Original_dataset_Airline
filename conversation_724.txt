@@ -1,0 +1,15 @@
+User: Toronto to Denver got it?
+Wizard: Sure :slightly_smiling_face: Dates? Budget? How many in your party?
+User: 3300, 1 person, ASAP!
+Wizard: Ok! When would you like to leave?
+User: as soon as humanly possible
+Wizard: I have a trip leaving on Sept 6th until the 12th?
+User: How much would it cost?
+Wizard: $629
+User: Wow couldn't I spend a little more? Not to flaunt my wealth or anything but I'd like to stay at a nice hotel if I can...
+Wizard: The package quoted above is a 4.0 star hotel with a 8.69 guest rating!
+User: A thing like that! Just in the interest of being thorough, can you also look up Toronto to Puebla?
+Wizard: Sure! I could get you to Puebla Sept first for 1600 dollars at a 3 star hotel with a 8.8/10 guest rating
+User: Ok lets keep it in Denver then
+Wizard: Alright, you got it :slightly_smiling_face:
+User: Thanks!

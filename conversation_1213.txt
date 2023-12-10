@@ -1,0 +1,20 @@
+User: san jose to guadalajara
+Wizard: When would you like to go?
+User: between septemeber 6 to 21
+Wizard: How many total will be traveling? And do you have a budget?
+User: one no
+Wizard: Alrighty then, our very best in Guadalajara is a 3.0 star hotel with 8.37/10 guest ratings and located near a park and an airport. I can offer you a 14 day stay with business flights.
+User: san jose to cordoba
+Wizard: In Cordoba I can get you a 5.0 star hotel with 8.98/10 ratings next to a museum. We have a 11 day trip available.
+User: san jose to kyoto
+Wizard: In Kyoto it will be a 3.0 star hotel also next to a museum. Average guest rating is 8.22/10 and the longest trip is 9 days.
+User: san jose to calgary
+Wizard: In Calgary we have a 14 day trip to a 4 star hotel next to a university.
+User: how much for the cordoba one
+Wizard: 2990.99 in business class and 2330.97 in economy class.
+User: what is the calgary guest rating
+Wizard: 0/10
+User: ok cordoba... sounds better..
+Wizard: I agree. Would you like me to confirm the business or economy package for you?
+User: business pls
+Wizard: Done! Anything else I can do for you today?

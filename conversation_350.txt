@@ -1,0 +1,9 @@
+User: hi. I want to go to Tofino from Burlington. please recommend me packages from Sunday 21 to August 24 for 2200 for 7 adults.
+Wizard: The only result I have is one trip from Burlington to Calgary.
+User: ok what if I increase my budget by 300$
+Wizard: No sorry but you can afford a trip to Denver from Burlington.
+User: ok I will go to Calgary
+Wizard: This is a 4 star hotel for 2179.40. This trip is from September 2nd to 8th. Would you like me to book it for you?
+User: ok for seven adults
+Wizard: Yes. Your trip is now booked! I'm glad I could help you today and thank you for using our services
+User: ok Thank you!

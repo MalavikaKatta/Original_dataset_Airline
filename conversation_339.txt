@@ -1,0 +1,16 @@
+User: Hi, can you please tell me how much would it cost to for two adults and a child to go from Seoul to Naples for five days?
+Wizard: Would you be interested in spending 11 days in Naples for $6351?
+User: That is way over our budget of 3200. There really isn't a shorter trip available?
+Wizard: I’m sorry, there is nothing else available in my database for shorter duration.
+User: Can you please try Seoul to Long Beach. Also for five days and same amount of travelers.
+Wizard: 6 days in Long Beach would cost $7119.86USD
+User: Can you find any flights leaving Seoul that I could look into instead?
+Wizard: I can send you to Hiroshima for 4 days at 1429.35USD. If you could spend 14 days away I can find you a package in Kyoto for only 645 dollars.
+User: How good are the hotels in Hiroshima and Kyoto?
+Wizard: In Kyoto you would stay at a 3 star hotel. In Hiroshima, the same.
+User: Which hotel has higher customer ratings?
+Wizard: In Kyoto the guest rating is 0/10. Hiroshima for 7.15.
+User: Glad I asked, wow. Okay book us for Hiroshima for 4 days please.
+Wizard: Ok! I will book that for you :slightly_smiling_face:
+User: Thank you!
+Wizard: You're welcome

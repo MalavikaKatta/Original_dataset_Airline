@@ -1,0 +1,15 @@
+User: Get me and a friend onto a flight to Porto!
+Wizard: From where?
+User: Jerusalem
+Wizard: I am sorry, my system doesn't return me anything
+User: You and your system are TRASH. Get me to Santo Domingo then
+Wizard: im sorry, maybe try another time
+User: No apology not accepted. You will get me my trip or die trying
+Vitoria to Porto Alegre then
+Wizard: Good news! I have 11 days trip in 4 stars hotel near the beach park and shopping mall at 2764.33USD or 3529.26USD flying business class
+User: Thats more like it. I need to be back before Sept 10
+Wizard: In that case, only 3.5 stars hotel are available
+User: Say it ain't so. Ok what if I went from Vitoria to Santo Domingo
+Wizard: No results found.
+User: Usually I wouldn't want to be caught dead in a 3.5 star hotel, but I'm short on time here. Get us on that trip, business class
+Wizard: Great, I will book it for you ASAP. Thanks for coming

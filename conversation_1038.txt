@@ -1,0 +1,4 @@
+User: I want to leave Kabul on or after Sept 6 please
+Wizard: We have no flight out of Kabul
+User: Well I will leave from Tel Aviv then
+Wizard: No Flights out of Tel Aviv either

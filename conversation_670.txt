@@ -1,0 +1,10 @@
+User: I need to book a company vacation from August 29th until September first
+Wizard: For how many people and to where?
+User: Ahhhh lets see, in total there are 22 of us. Leaving Tel Aviv and going to Buenos Aires
+Wizard: Are your dates set or can they be changed?
+User: Set, we have to be back at work
+Wizard: I cannot find any hotel bundles in Buenos Aires out of Tel Aviv for that many people. Can I try other cities for you?
+User: Check out Washington
+Wizard: Washington is also unavailable
+User: Is anywhere available…?
+Wizard: For a group of 22 out of Tel Aviv, we have nothing available

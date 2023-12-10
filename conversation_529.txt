@@ -1,0 +1,17 @@
+User: Hey hey. Got 6 days off starting Sept 8. Flying out from Cleveland. Got any recommendations?
+Wizard: budget?
+User: Willing to splurge if its an attractive option!
+Wizard: Can you leave the 8th? We have a holiday to Naples that starts that day.
+User: Yes that would be ideal actually
+Wizard: The package includes a stay at Courtyard Resort which boasts 3 stars and 8.8/10 for user reviews. It's in the heart of Naples and close to a museum. What do you think?
+User: That sounds really good to me but I would like to weigh my options a little first. Do you have any other destinations to show me?
+Wizard: I can also suggest trips to Philadelphia and Chicago, but those only leave September 12th. Is that too late for you?
+User: Lets hear about the trip to Philadelphia
+Wizard: Sure, this is a trip to Philadelphia, US. With this package you would stay at a 2 star Mirror Inn close to a museum and a park.
+User: Thats alright but I’m a little disappointed with the hotel. Would Chicago offer a better one?
+Wizard: The hotel in Chicago has 2.5 stars. How fancy of a hotel are you hoping to stay at? And by that I mean how many stars?
+User: I was hoping for something similar to the one in Naples. Ok thats fine though. How much would the Naples package cost?
+Wizard: 2998.72USD with economy and  3862.24USD with business class plane tickets.
+User: Ok book me for economy and lets call it a day
+Wizard: Sounds good! I will proceed with booking.
+User: thank you kindly

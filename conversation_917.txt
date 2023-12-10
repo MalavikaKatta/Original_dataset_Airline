@@ -1,0 +1,20 @@
+User: Hello. Do you have five star hotels for me in Osaka?
+Wizard: Where are you leaving from?
+User: I'm leaving from Maceio. Well
+...We...
+My friend and I
+Wizard: Budget?
+User: We have all the money in the world, my friend!
+Wizard: When would you like to leave and/or return?
+User: We can travel whenever. I do have obligations back here on the 19th of September
+Wizard: Unfortunately we do not have any packages.
+User: None at all? Then try getting me there from Baltimore instead
+Wizard: We have a package at a 4 star hotel near a park and museum, 8.69/10 guest rating, free parking and wifi, from September 2nd to 14th, business is 5841.26, economy is 4543.31.
+User: There's no better hotel? We're used to five star hotels
+Wizard: No 5 star hotels, sorry.
+User: Let me ask my friend, one second...Ok we'll settle for this
+Wizard: Okay, thanks for the input. Would you like to book the business flights or economy flights?
+User: Um business
+Wizard: Okay! Your package is now booked! Have a great day!
+User: Thank you
+Wizard: Anytime!

@@ -1,0 +1,17 @@
+User: I want to go to Barcelona from anywhere between the 12th and the 28th of September. I have 2100 and my assistant will be coming along. I am specifically looking for hotels near a park or beach or both.
+Wizard: I have 2 different hotels available in Barcelona but the Nova Resort is the only one located near a park. How long would you like to stay in Barcelona?
+User: I'm not picky, i'm travelling for work. What is the hotel near the park like?
+Wizard: It is in the downtown area close to a park and the university, it has 3 star rating witn an excellent guest rating of 9.16 om 5 and has wifi included along with parking. The price for a 10 day package is  1453.6USD, but it is also available for 9 days at 1725.59USD on a different date.
+User: Not bad at all. Are there any hotels near a park in SL?
+Wizard: The only hotel I have available in St. Louis is the Chateau Inn & Suites , which is not near a park but is close to the beach.  This is a 15 day package and if you can leave from La Paz,  then the price is 1350.52USD
+User: hmm very tempting. Anything in San Juan?
+Wizard: Yes but nothing near a park or beach
+User: Okay then that is out of the question. I think I will go to Barcelona for the 9 day package. When does it leave?
+Wizard: It leaves from Sept 18 from Paris, France
+User: When is the return date?
+Wizard: The retund date is on Sept 26
+User: good. the price is 1725.59 right?
+Wizard: Yes 1725.59USD is the price for 2 adults flying on economy class
+User: Ok good. We will book this one then
+Wizard: I look after all the details and send you confirmation. Have a nice weekend.
+User: Thank you for the help!

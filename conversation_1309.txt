@@ -1,0 +1,11 @@
+User: I need to get home on or after September 8th!
+Wizard: Where are you going and where will you be coming from?
+User: I need to go to Belem from Stuttgart!
+Wizard: Will you be going on your own? And do you have a budget in mind?
+User: yes and I have 4000
+Wizard: How long would you like to go for?
+User: as long as I can, its a family emergency
+Wizard: Not a problem. We have a 10 day package at the fabulous 4.5 Zion Hotel, costing only 1989.62 for economy class and 2553.44 for business. Is this something that interests you?
+User: yes! Please book me the economy package!
+Wizard: Your package is now booked. Enjoy your stay.
+User: Thank you!

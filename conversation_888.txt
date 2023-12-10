@@ -1,0 +1,21 @@
+User: My place just burnt down and I need to get home immediately!
+Wizard: I am very sorry to hear that. Where are you leaving from? Where would you like to go?
+User: I've been backpacking around the world for 3 months and now I'm in Vitoria.
+Wizard: Where do you need to get to?
+User: Mexico City. I need to leave on or after September 16.
+Wizard: ok! Have you got a travel budget?
+User: I got $3000 left to my name, that's why it's crucial I get home and deal with the insurance company!
+Wizard: The only result I’m getting is a 15 day package to Mexico City for 2504.13USD. You would leave on September 20th. Is that ok?
+User: I guess that would work. Nothing sooner?
+Wizard: Sorry - that’s the best I can do.
+User: What if I leave from Rio de Janeiro instead?
+Wizard: The soonest I can get you out of Rio de Janeiro is also the 20th of September.
+User: What if I leave from Vitoria and go to Cancun instead?
+Wizard: Once again, I have trips only on September 20th.
+User: And from Rio de Janeiro to Cancun?
+Wizard: September 20th or 21st.
+User: The original 15 day package to Mexico City, what hotel is it at?
+Wizard: Hotel Tropic, a 3 star hotel on the beach.
+User: Well I guess I'll  take it, the insurance should reimburse me and 15 days gives me enough time to find another home.
+Wizard: I’ll go ahead and book that for you :slightly_smiling_face:
+User: Thank you!

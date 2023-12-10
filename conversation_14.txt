@@ -1,0 +1,9 @@
+User: Hi, I have a big family and we can't afford a big vacation, we want to go to Atlantis from Mos Eisley for $3600 at most.
+Wizard: Do you have a preferred set of dates for this trip?
+User: Nope
+Wizard: And how many adults and how many children are you bringing with you to Atlantis?
+User: 12 adults and one child.
+Wizard: I'm sorry, but we do not currently have any travel packages available for this destination.  Do you have any other destinations that you might like to travel to?
+User: No, we are visiting family in Atlantis. Can you check once more please?
+Wizard: I'm sorry, but I do not currently have any travel packages available for this location.  Are you quite sure that I cannot interest you in another travel destination?
+User: Yes, I'm quite sure. Thank you for your help.

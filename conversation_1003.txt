@@ -1,0 +1,15 @@
+User: Can you get 4 strapping men out of Sacramento between the dates of August 31 to September 20
+Wizard: I can help you with that. Can you please tell me where you would like to go?
+User: Curitiba sounds like its popping this year
+Wizard: I have two choices in Curitiba, one is on the beach, the other near the museum and the market you have a budget for this trip?
+User: We have 16400 saved up!
+Wizard: For that budget, I can send you to the Crown Market Palace for 17 days and you can be right on the beach.
+User: How many stars this joint got?
+Wizard: 3.5 stars with a guest rating of 8.22/10. Your breakfast is also included in your 17 day stay  as is you wifi and parking.
+User: But can you check Cancun out for a better hotel potentially?
+Wizard: All my hotels in Cancun are either 3 stars or 3.5 stars
+User: is the 3.5 star hotel on the beach?
+Wizard: No, near a cathedral
+User: Ok get us that Market Palace then
+Wizard: Departure Sept 2nd and return on the 18.  It has been booked, enjoy!
+User: Thanks bro!

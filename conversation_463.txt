@@ -1,0 +1,17 @@
+User: get me from Buenos Aires to the nicest hotel in Punta Cana. And I mean ASAP!!!!
+Wizard: Does August 30th as a departure date work for you?
+User: Yes, I just need to get back by Sepetember 12.
+Wizard: Great! The package I’m looking at would have you back on Sept 4
+User: Ok, but how good is the hotel. I need business class tickets also.
+Wizard: The hotel is unrated. The price with a business class ticket would cost 2625.38USD
+User: What about Fukuoka then, can you find me a five star hotel there
+Wizard: The hotel is in Punta Cana. 
+User: I want Buenos Aires to Fukuoka
+Wizard: And you would only like options for 5 star hotels?
+User: Preferably, yes. Thats where my superstar self ought to stay, away from the riff raff.
+Wizard: I’m sorry but the highest hotel rating I can find is the Oceanside Hotel with a 4 star rating.
+User: Ratings, amenities, is it near anything cool?
+Wizard: Its in the heart of the city and has free wifi. The package costs 8316.1USD from September 3-11
+User: What would it cost if I booked for two adults
+Wizard: 14828.39USD with business class flights.
+User: BOOK IT.

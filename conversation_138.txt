@@ -1,0 +1,12 @@
+User: hey what's available from mtl to mexico city?
+Wizard: Hello! How about a stay at the Hotel Tropic from August 17th-30th? 1189.39 if you book now. Would you be interested?
+User: i wanna leave the 18th if i can.. i could leave from philadelphia instead. anything ?
+Wizard: I can't seem to find any flights from Montreal to Mexico City on the 18th of August. If you're leaving from Philadelphia the closest date I can give you to your requested date is the 24th of August. Would you like to hear more about this package?
+User: hm, nah thats ok what about Philly to Santos?
+Wizard: I do have a flight to Santso leaving on the 18th. You would be spending 7 days at the Hotel Globetrotter and returning on the 23rd of August. Would you like me to book this trip?
+User: that sounds like an option.. anything from montreal to santos though before i book for sure?
+Wizard: You could fly out on the 18th, spend 6 days at the hotel Globetrotter and return on the 22nd. Would you like me to book this trip?
+User: how much is the package from Philadelphia?
+Wizard: The package from Philadelphia is 2164.30USD. The package from Montreal is 3052.39USD.
+User: ok. i want to book the trip from montreal for me and 5 colleagues
+Wizard: Excellent! Your trip has been booked. Enjoy your stay!

@@ -1,0 +1,28 @@
+User: HI
+Wizard: Hi what can I do for you?
+User: I NEED TO CHECK MONTREAL FOR MEWTWO!!
+Wizard: I understand. You would like to travel to Montreal. Where will you leave from?
+User: I AM IN MEXICO CITY 
+Wizard: Would that be Mexico City?
+User: I AM IN MEXICO CITY
+Wizard: How many people in your party?
+User: 3 ADULTS
+Wizard: Dates please
+User: I CAN LEAVE AFTER MONDAY SEPTEMBER 12
+Wizard: An do you have a maximum number of days that you would like to remain in Montreal?
+User: NO
+Wizard: I have a 19 day stay for you for 5812.63USD.  Is that an appropriate length of time for you?
+User: YEAH!!!!!!!!'
+Wizard: It is a 4 star rated hotel called The Illustrious Haven Hotel, located near the market and the mall. You'll also get free parking and free wifi with your package. We have space between Sept 12 and 30.
+User: I NEED TO CHECK OUT PARIS AS WELL THOUGH OK??
+Wizard: Mexico City to Paris for 3 adults, same dates?
+User: YEA!!!!
+Wizard: Do you have a cap on what you would like to spend?
+User: I WILL SPEND 10 THOUSAND THREE HUNDRED DOLLARS
+Wizard: I have 2 very comparable 4 star hotels, both free wifi and breakfast included, one at 8501.57USD, and the other at 10199.69USD. The main difference is that the second is located near the palace and museum.
+User: HOW LONG ARE THOSE STAYS
+Wizard: Both 10 days. Would you like more information on either one of these choices?
+User: MORE INFO ON THE PALACE
+Wizard: That would be the Hotel Regal Universe with a 10 day stay from Sept 18 to Sept 26. 4 star, free wifi and breakfast, and as discussed previously near the museum and the palace all for 10199.69USD for your group of 3.  Should I book this one?
+User: YEAH!! SOUNDS PERFECT!! ALRIGHT!!!!!!!!!
+Wizard: I will look after that, have an awesome trip

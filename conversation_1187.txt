@@ -1,0 +1,22 @@
+User: Hey, I live in beautiful Toronto but I kinda need a break from my friends, can you find me a getaway?
+Wizard: Sure! Do you have a budget?
+User: None, I'm rich!
+Wizard: When would you like to go?
+User: I got my boss to give me between Sept 12 and October 3rd off, can you do it?
+Wizard: Sure! We have trips to Columbus, New York, Indianapolis, and St. Louis.
+User: Been to SL - HATE it. New York - MEH. Whatcha got in Columbus. Remember - I''m RICH! Actually I'm messing with you. I have $5600 but that's rich for ME.
+Wizard: You can definitely afford our best in Columbo! We have a 19 day package from September 14th to October 2nd at a 3.5 star hotel. The hotel is near shopping, mall, museum, and is in the heart of the city. They offer free breakfast and wifi with a guest rating of 8.22/10. The business package is 1692.68.
+User: Do you have a shorter stay at a higher rated hotel? Can you check what is available between Sept 12 and Sept 25th instead?
+Wizard: No but we have a 14 day stay from the 12th to 25th at the same hotel.
+User: I want a higher rated hotel
+Wizard: There are no higher rated hotels
+User: Let's check Indianapolis then
+Wizard: The highest here is 3 stars
+User: SL?
+Wizard: The best one is 3.5
+User: New York?
+Wizard: 2.5
+User: WOW I got $5600 to spend and you have nowhere for me to go all out and spend it
+Wizard: We do, just nothing above 3.5 star hotels.
+User: Well, I guess I'll book the Columbus package and spend the rest of my money partying! Better be a nice 3.5 star.
+Wizard: I'm sure it is! Your package is booked. Have a nice day!

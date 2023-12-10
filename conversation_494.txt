@@ -1,0 +1,7 @@
+User: PORTLAND TO ATHENS SEPT 11 TO 15 I WANT THESE EXACT DATES PLEASE
+Wizard: Do you have a budget?
+User: UNDER 1800
+Wizard: How many people?
+User: ME ONLY
+Wizard: I'm sorry to inform you but there are no flights to Athens. Is there a different destination you'd like to explore?
+User: NOOOOO

@@ -1,0 +1,24 @@
+User: HI. Get me to Santiago
+Sept 13-24
+Leaving from wherever
+Wizard: Will you be travelling alone?
+User: I will travel alone
+Wizard: How many days were you planning on staying in Santiago?
+User: 4 minimum
+Wizard: I have 8 and 12 day packages available. Which would you prefer?
+User: Well how much money are they each?
+Wizard: It varies on the type of accommodations you are looking for. Do you have a certain budget?
+User: Yes, I can spend 1900 dollars
+Wizard: On a 8 day package that suits your budget in Santiago, I have the Una casa  available with a Sept 14 departure at a price of 204.19USD
+User: And is the hotel near a park?
+Wizard: It departs from Vitoria, Spain. I hope this is suitable for you. The hotel is not near a park but is near a museum.
+User:  Museums do not allow live animals though. What can you get me in Osaka
+I can leave from anywhere -not just Vitoria
+Wizard: I have the perfect package in Osaka for you at 789.67USD, but only if you can depart from Busan, South Korea. Are you able to swing that?
+User: Sure, I frequently travel to Busan. What are the hotel details?
+Wizard: The 4 star Aquamarine Majesty Hotel, is located near a park and has a 8.69 / 10 guest rating. It includes free parking and free wifi and departs n Sept 16 and returns on Sept 19.
+User: You’ve done a lovely job catering to my needs. Thank you for that. 
+Wizard: Will you like me to proceed with the booking?
+User: Yes please
+Wizard: Safe travels!
+User: Gracias!

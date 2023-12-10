@@ -1,0 +1,11 @@
+User: Hi, I'm leaving from Diagon Alley and going to Coruscant on a budget of $3400. The dates don't matter, but I cannot afford anything over my budget.
+Wizard: And how many children and adults will you be bringing with you?
+User: Just myself.
+Wizard: I'm sorry, but this travel destination is not available.
+User: What about Neverland on the same budget?
+Wizard: Neverland is unavailable.  Vancouver would be available, however.  Would you like to select another location?
+User: No I cannot do another location. What if I increased my budget by $400?
+Wizard: I am sorry, but we do not have any trips available to the Neverland travel destination.
+User: nor Coruscant?
+Wizard: Coruscant is not available either.
+User: Ok thanks.

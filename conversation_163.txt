@@ -1,0 +1,21 @@
+User: I need to get away from work, how about Paris?
+Wizard: Where is it that you will be leaving from?
+User: I'm in naples
+Wizard: Great! Will you be travelling alone?
+User: Just me this time
+Wizard: Do you have a budget?
+User: I'll spend whatever I need to
+Wizard: Are there specific dates you have in mind?
+User: It's gotta be between August 27 and September 9
+Wizard: Are your dates flexible?
+User: No, my boss wouldn't have it
+Wizard: We have a 6 day stay at the Autumn Treasure Hotel starting on August 27th. This is a 4 star hotel and offers free breakfast and wifi. The cost is 1071.36. Does this interest you?
+User: Hmm, what can you offer me in Cleveland?
+Wizard: We have a 6 day stay at a 3 star hotel. They offer free breakfast, wifi and parking. This flight leaves at 8:00 am, August 30th.
+User: How much would this cost me?
+Wizard: This would cost 3174.47.
+User: Guess I'll take the Autumn Treasure Hotel stay then. Could you upgrade my flight to business class? How much would that cost?
+Wizard: This cost is 1291.31 and the flight leaves at 9:00 am. Would you like me to book this for you?
+User: Sounds good
+Wizard: Great! You're flight is booked! Have a great day and enjoy your vacation!
+User: Thanks!

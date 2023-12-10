@@ -1,0 +1,17 @@
+User: Hi! You can help me by giving me the best honeymoon in Cancun!
+Wizard: Sure thing! Where will you be coming from? And do you have a budget?
+User: Well we just finished our wedding in Burlington so we can leave from here anytime. We blew out both of our bank accounts for the wedding so now the both of us can put together only 1800.
+Wizard: I'm afraid we don't offer anything that fits your budget. Is your budget flexibl?
+User: Can you find me something in Tampa?
+Wizard: Most certainly. We have a 7 day package at the Dual Loch Hotel which has 3 stars and has a guest rating of 8.8/10. It includes free parking, breakfast, and wifi, costing at 1487.43 for economy and 1785.35 for business. Would you be interested in booking?
+User: Nice! Is it close to something cool?
+Wizard: It is close to many things, including a park, a museum, a beach, and an airport. Would you like to book this trip?
+User: Before I get too carried away, is this the only option that works for us?
+Wizard: The only other package we have is a 4 day one with the same hotel, costing at 1755.8 for economy class. Which package would you prefer?
+User: So it's actually cheaper to stay longer??
+Wizard: That's what I've found in my database, yes.
+User: Okay.. We were thinking of only stay 4 days to save money and go back to work earlier... but in this case... We'll go for the 7 days!
+Wizard: Would you like to book economy or business class?
+User: I'm going to splurge for biz since I can afford it :slightly_smiling_face:
+Wizard: Good choice! Your package has now been booked. Enjoy your holiday!
+User: Thank you!

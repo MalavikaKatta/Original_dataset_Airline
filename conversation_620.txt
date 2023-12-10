@@ -1,0 +1,9 @@
+User: Goiania to Marseille, I need a flight for 14 adults for 2300 total. This is very important, do you understand?
+Wizard: There are no results for your request.
+User: Evidently the importance of my request is lost on you. Fair enough, find me one ticket for Kyoto then,
+Budget at 7500
+Wizard: Our best package comes to 5725.00. The hotel is 3 stars, near a museum, 8.22/10 guest rating, free breakfast and wifi. This is from September 2nd to 13th and this is the business flight.
+User: Good
+Wizard: Would you like to book this?
+User: I would
+Wizard: Great! It is booked! Have a great day!

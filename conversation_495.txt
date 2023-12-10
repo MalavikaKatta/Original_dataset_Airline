@@ -1,0 +1,10 @@
+User: Listen up! im marrying my boo on saturday, and afterwards her and I want to have the best honeymoon 4600 can buy
+get us to kyoto will ya?
+Wizard: Okay. Where from?
+User: detroit
+Wizard: When would you like to leave for your honeymoon?
+User: anytime after this saturday
+Wizard: We have a package leaving on the 4th of September and returning on the 13th. This is at a 3 star hotel that offers free breakfast and wifi and the cost is 4168.49 for business class seats. Does this interest you?
+User: wow you know what, that absolutely works. how can i confirm this booking?
+Wizard: I will book it for you and you will receive a confirmation email within the hour. Have a great day and enjoy the trip!
+User: Thank you!

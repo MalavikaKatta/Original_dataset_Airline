@@ -1,0 +1,7 @@
+User: I have 11 days for vacation this year! I only have $400 to spend tho. I leave from Santiago. What kind of packages are there?
+Wizard: It's your lucky day! I have the Hotel Oro available for 8 days in Vitoria Spain for $323.50USD.
+User: Thats perfect! Can you give me more information about this package?
+Wizard: It is only available for that price from August 27 to September 3rd. This specially priced package includes free wifi, parking and breakfast and is located in the heart of the city.  It carries a rating of 3 stars.
+User: That sounds great :slightly_smiling_face: i'd like to book this right away please
+Wizard: I will proceed with your request. Enjoy your vacation.
+User: Thanks!

@@ -1,0 +1,31 @@
+User: heyyyyy there I just got approved to take my 10 vacation days in the upcoming weeks :smile: im looking to leaving from indianapolis, but I just wanna explore my options for now. so can you let me know what’s available under 1900?
+Wizard: You have trips to Santodomingo, Curitiba, Cairo, San Jose, and Vancouver
+User: wow! tell me more - what’s the hotel like in curitiba?
+Wizard: 3 star hotel
+User: With what amenities? what is it close to?
+Wizard: Close to park, heart, includes free wifi, free breakfast, free parking
+User: how much is the price? how long is the trip duration?
+Wizard: Heart of the city, 12451.67USD for 19 days in business class or 9624.57USD for 19 days in economy class
+User: jeeeez that’s not under 1900 dollars! my budget is 1900.00 USD
+Wizard: How many people are you?
+User: just me
+Wizard: Sorry I dont have anything in that price range.
+User: nothing at all from indianapolis.. to anywhere?
+Wizard: Oh yes, sorry I have trips to Santo Domingo, Cairo, San Jose, Vancouver, Cancun and St. Louis
+User: oh ok! hmm can I hear about the hotel in San Jose?
+Wizard: 2.5 star hotel near park and museum, 1627.71 for 17 days. User review of 9.16 on 10
+User: neat! whats the hotel called?
+Wizard: Snowy Nugget Inn
+User: what would be the hotel in santo domingo? what would it be like?
+Wizard: The Rose Sierra Hotel, 3 star at 1849.63USD for 19 days
+User: cool! what’s included in the package? is it on the beach?
+Wizard: Yes, its near the beach, includes free wifi, free breakfast, free parking
+User: ok, i like that. what’s the user review?
+Wizard: 7.06
+User: ok. and just one more thing - how does cairo’s hotel look?
+Wizard: 3 star hotel near university at 1313.41USD
+User: how long would it be?
+Wizard: 18 days
+User: ok. thanks well, lets go ahead and book santo domingo. i wanna stay on the beach
+Wizard: ok, you're booked
+User: thank you :slightly_smiling_face:

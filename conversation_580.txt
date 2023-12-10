@@ -1,0 +1,9 @@
+User: By chance, can I take my family from Recife to Rome? Thats me, my wife, and my son
+We have $4700 to spend and ideally want to go for 12 days
+Wizard: When would you like to leave?
+User: Anytime that fits within the budget
+Wizard: Are you able to increase your budget at all?
+User: I'm afraid not
+Wizard: Do you have another destination you'd be willing to visit?
+User: If there's nothing fitting our budget, then try Los Angeles?
+Wizard: There is nothing from Recife to Los Angeles.

@@ -1,0 +1,9 @@
+User: Hello there! Looking to get away between August 27th and August 30th! Can you help me?
+Wizard: Do you have a destination in mind?
+User: Not at the moment, but i am from Mexico City
+Wizard: I have several packages to Punta Cana, Dominican Republic available. How flexible are you with your dates?
+User: Im thinking as long as we end before August 31st. What are the packages like in Punta Cana?
+Wizard: Unfortunately I do not have any packages ending before August 31st. However I can offer you two packages which end on the 31st of August. Both feature a stay in La Estrella del Mar,  a 0.0 star hotel with a 0/10 guest rating. However you have the choice between flying business and economy, bringing your total to 292.21USD or 219.58USD, respectively.
+User: 0 stars seems attracting! I think i will fly Economy for this cheap trip!
+Wizard: Wonderful, your trip has been booked!
+User: amazing! thanks!

@@ -1,0 +1,17 @@
+User: I wanna find a vacation between yesterday and the 24th for under 3200 and leaving from Tijuana
+Wizard: Ok! Do you have a destination in mind?
+User: no
+Wizard: Ok, well I’ll let you know the top options I’ve got. I have a 16 day package to Porto, 14 days in Los Angeles, Rio de Janeiro, or Tampa, 13 days in Vancouver, or Goiania.
+User: Tell me about Porto
+Wizard: The hotel Amistad is 3.5 stars with 9.16/10 from past guests. It is near a mall, shopping district, and univeristy. The total with economy flights would be 3064.92 dollars, including breakfast and wifi.
+User: Tell me about the Goiania package
+Wizard: With economy class flights, you could stay at Scarlet Palms Resort for 2903.54 USD. This 3.5 star hotel is near a park and shopping district.
+User: whats the guest rating
+Wizard: 7.15/10
+User: I like the one to Porto can you book it?
+Wizard: Sure! Will that be everything for you today?
+User: ya but are there business class flights for porto?
+Wizard: Not within your budget, sorry.
+User: ok thats fine, economy it is.
+Wizard: Great - I’ll book economy class. Enjoy your trip!
+User: thanks

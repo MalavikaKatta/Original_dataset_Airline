@@ -1,0 +1,17 @@
+User: Hi I've got 9 days free and I'm looking for a vacation. I live in San Francisco.
+Wizard: Absolutely! Where do you want to go and when do you want to go there?
+User: No, dates or places in mind. Was hoping you could help me. Something as cheap as possible.
+Wizard: Do you have a budget?
+User: Just something crazy cheap.
+Wizard: I have 9 days at the Cosmos Inn in Kingston for $2764.
+User: That's not crazy cheap
+Wizard: I can't accomodate your request
+User: what's the cheapest you got?
+Wizard: The cheapest package I can see at this point is to Mexico City for 1061.36USD.
+User: How about a budget of $400?
+Wizard: I have one trip under 400 - 7 days at the Crown Jungle Inn in Columbus for 399.8USD.
+User: Yes let's go with that!
+Wizard: Ok! I will go ahead and book it for you. Would you like further information first?
+User: No, it sounds good. I'll take it.
+Wizard: Ok, consider it booked! Please watch for confirmation
+User: Thanks!

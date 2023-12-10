@@ -1,0 +1,39 @@
+User: Hi there, I'd love to book a vacation. I need a break!
+Wizard: Where are you located?
+User: I'll be leaving from sf but I haven't really decided on where to go exactly yet.
+Wizard: Yes, of course! What are your desired dates of travel?
+User: Sometime between Sunday September 11 and Tuesday September 27 would be great!
+Wizard: Can you tell me how much money you’re willing to spend?
+User: I don't really have a budget in mind. But the package that would make the most of my money and give me the greatest offer is what I'm looking for.
+Wizard: Sure! What destination should I look at first?
+User: How about Pittsburgh?
+Wizard: In Pittsburgh I have a 15 day package available for as low as 1500 dollars. You would be staying at a 2.5 star hotel with a 6.91/10 guest rating. The hotel includes free parking, wifi, and complimentary breakfast, and is situated near a park. The date of departure would be the 12th of September and the return date would be September 26th.
+User: That doesn't sound bad.
+Wizard: Would you like to hear about shorter packages available in Pittsburgh?
+User: Nah the time frame sounds good. I'm curious about another city though!
+How about Stuttgart?
+Wizard: I have one package available in Stuttgart which departs from San Francisco September 20th and returns the 27th. You would spend 9 days at a 3 star hotel near a museum for just over 2500 dollars with economy flights. The hotel’s guest rating is 7.15/10 and it features wireless internet access, breakfast, and parking at no extra charge.
+User: I'm curious about Punta Cana.
+Wizard: I have two different hotels in Punta Cana - one with 10 day packages and the other with 5 day packages. Would you like to hear about both?
+User: Nah I think I prefer a longer trip so just tell me about the 10 day package please.
+Wizard: Sure! That would be the Scarlet Peaks Hotel - a 3 star hotel near a cathedral. For a price of 1992.41 USD, your 10 day stay would include free wifi and breakfast every day. You would leave on September 11th and return home on the 20th. Previous guests have rated this hotel 6.77/10.
+User: This also sounds really good!
+Wizard: Yes! Would you like to book anything yet?
+User: I'd love to check out Rome, it's somewhere I've always wanted to go!
+Wizard: In Rome I have two different hotels with 9 day packages, one hotel with a 10 day packages, or another hotel with 15 day packages. Which would you prefer to hear about first?
+User: Let's try the 15 day one!
+Wizard: If you chose to spend 15 days in Rome, you could stay at The Double Pastures. This hotel is 4 stars, near a cathedral, and boasts a 8.98/10 guest review rating. The package departs September 11th and returns the 24th. Included with this vacation are wifi access and breakfast. If you chose to fly economy, the price would be $3787.88.
+User: Wow that sounds really nice! What if I decide to stay in Rome for 10 days?
+Wizard: In that case you would stay at the Hotel Emerald Legacy, a hotel with very similar features to The Double Pastures but a differing guest rating with 8.22/10. The price for this 10 day package would be 3534.46USD and you would depart September 11th to return on the 19th.
+User: And for 9 days?
+Wizard: There is the unrated Secret
+User: the unrated Secret?
+Wizard: There is the unrated Secret Bay, a hotel with free breakfast and wifi. There is also the 4 star Hotel Grand Residence with the same amenities as the others. This hotel has a 8.8/10 guest rating.
+User: How much would those cost?
+Wizard: The Grand Residence would be 2703 for 9 days while the Secret would be 2337.15
+User: You know what? I think I've decided! Could you please book the 15 day package to Rome for me?
+Wizard: I absolutely can! Are economy class flights ok?
+User: Yes, that would be perfect!
+Wizard: Ok! You will receive a confirmation email shortly. Enjoy your stay!
+User: Great, thanks!
+Wizard: My pleasure :slightly_smiling_face:

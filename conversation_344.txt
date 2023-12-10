@@ -1,0 +1,21 @@
+User: Hello! I'm looking to take my family on vacation soon, and wanted to get a sense of prices
+Wizard: Absolutely! When would you like to go? And where are you located?
+User: We live in Punta Cana, looking to travel between August 25 and September 5. Can you tell me how much it would cost to go to Pittsburgh?
+Wizard: Ok! Sure! How many of you would be travelling?
+User: Two adults and two children
+Wizard: Would you be interested in travelling from August 27-September 2?
+User: Potentially, if that's all you have. Can you let me know how much that costs?
+Wizard: That would cost $3961.65 for your entire family.
+User: Yikes, that is over our budget of $2300. Can you see how much a trip to Indianapolis would cost?
+Wizard: I can book Aug 30-Sep 7 for  2031.51USD
+User: Could you find something that fits within August 25 to September 5?
+Wizard: Not in Indianapolis, I’m sorry :disappointed:
+User: Alright. In that case, can you check prices going to Toronto?
+Wizard: I can book August 27 until September 2nd for 1807.58USD.
+User: Excellent. What kind of hotel comes with that package?
+Wizard: The hotel is 3 stars with a user rating of 8.86 stars. The hotel has free wifi, parking, and breakfast.
+User: And are the flights economy or business class?
+Wizard: Economy
+User: How much would it cost if we upgraded to business class?
+Wizard: Sorry but I don’t have any business class options available.
+User: Okay thanks for your help. I will get some feedback from the Mrs. and come back to you with a decision soon!

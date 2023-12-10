@@ -1,0 +1,25 @@
+User: Toronto to San Diego
+Wizard: How many of you will be going and for how long?
+User: 1 and depends on how long your stays are
+Wizard: Do you have a budget in mind?
+User: $3,700
+Wizard: Do you have a preference for a hotel? Our best one is 3 stars as part of a 9 day package. How does that sound?
+User: Anything better? In Atlanta?
+Wizard: The best we have is a 3.5 star hotel for 10 days with a 8.8/10 guest rating. Are you interested?
+User: What would would the price on this one be for 3 adults?
+Wizard: I'm afraid I don't have this hotel for 10 days for 3 adults, but I do have it for 4 days. Would you be interested in that? I also have a 10 day package for 3 adults at a 3.5 star hotel but with no guest rating. What do you think?
+User: How much for 4 days business class? For 3 adults
+Wizard: 3396.53. Would you like to book this?
+User: Can you check what you have in Stuttgart for 1 person under $3700?
+Wizard: I certainly can! There's a 3 star hotel for 7 days, costing at 2085.43 for economy and 2652.29 for business. Does this interest you?
+User: I think I will take the one in San Diego but would like more info before I finalize things.
+Wizard: Great choice! The San Diego package offers free breakfast, free parking and free wifi at a 3 star hotel with a guest rating of 8.86/10 and a park nearby, all of it coming to a grand total of 2135.65 for economy class and 2541.90 for business, and this is for all of 3 of you . Does this please you?
+User: San Diego would just be for me actually. I will meet the investors there.
+Wizard: Ready to proceed with booking?
+User: How much for just me then?
+Wizard: 711.88 for economy and 847.30 for business class.
+User: Okay let's go with business then.
+Wizard: For just one person
+User: yes
+Wizard: It's been booked! Enjoy your trip to San Diego.
+User: Thank you

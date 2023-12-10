@@ -1,0 +1,19 @@
+User: Hello there! I have 12 days off starting on August 22, and I'm leaving from Santo Domingo
+Wizard: Do you have a budget?
+User: Not a strict budget
+Wizard: Are you travelling with anyone?
+User: Just by myself
+Wizard: You can go to Punta Cana, Atlante, Punta Cana, and Tampa.
+User: Could I do 12 day trips at each of these cities?
+Wizard: There is an 8 day trip from the 24th to 31st of August.
+User: To where?
+Wizard: Atlante.
+User: How much does it cost?
+Wizard: 428.64
+User: Okay sign me up! Do I get a choice of hotels?
+Wizard: The only hotel for this is 3.5 stars and offers free wifi and parking.
+User: That will do
+Wizard: Would you like me to book this for you?
+User: Yes please. Thank you!
+Wizard: No problem! Your trip is booked! Thank you and have a great day!
+User: Thank you! You too!

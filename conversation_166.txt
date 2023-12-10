@@ -1,0 +1,15 @@
+User: Hi there… I need to get some overseas inspiration for my new novel… I’ve got a bit of writers block here in Ciudad Juarez, too much going on
+Wizard: Are there any places you have in mind?
+User: I was thinking about Manaus. I’m looking to spend a good week away
+Wizard: Are you looking for specific dates?
+User: Not really…but I’m on a budget (of course - being a writer and what not). 4500 is what I’ve got to spend. Also, my wife and son will be accompanying me
+Wizard: I have one result for a flight from Ciudad Juarez to Manaus. It is an 8 day stay at a 3.5 star hotel, they offer free breakfast, wifi and parking. The price you'll be looking at is 4178.82. Would you like me to book this?
+User: I’m wondering about Sendai as well though- I could use a little Oriental flare in my writing. Anything available from Ciudad Juarez within my budgeT?
+Wizard: Unfortunately, there are no flights to Sendai within your budget.
+User: ok… Well are there any other options in Manaus? I just don’t wanna jump at the first thing..
+Wizard: Sadly, no. There is only the 8 day stay at the 3.5 star hotel.
+User: And what is that hotel called?
+Wizard: Serene Garden. There is a flight at 10:am on August 25th, and a 3:00 am on August 30th. Would you like me to book one of these flights?
+User: 10 am is far more reasonable travelling with a child, so the August 25th package please.
+Wizard: Wonderful! Your flight has been booked! Have a great day and a splendid vacation!
+User: Terrific :smile: Thanks for your service!

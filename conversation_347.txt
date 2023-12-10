@@ -1,0 +1,15 @@
+User: I want to go to Paris from Maceio with 6200$.
+Wizard: We have two 4 star hotels. 
+User: what about from Maceio to Detrut
+Wizard: There are no results from Maceio to Detrut.
+User: from maceio to Paris?
+Wizard: I have packages to paris
+User: what about to Minneapolis?
+Wizard: How about a 2.5 star for 3422.75?
+User: 3422.75. looks good to me
+Wizard: This package has a museum, park, and mall, plus free wifi, breakfast, and parking. This trip is from August 27th to September 4th.
+User: ok
+Wizard: Would you like me to book this package for you?
+User: yes please
+Wizard: Your flight is booked!
+User: thak you

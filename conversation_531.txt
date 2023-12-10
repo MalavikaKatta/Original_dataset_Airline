@@ -1,0 +1,5 @@
+User: Can I take my wife and son from Madrid to Santos for 4800??
+Wizard: Let me check that for you! No flights from Madrid to Santos.
+User: and Ulsan?
+Wizard: No flights from Madrid to Ulsan.
+User: wow

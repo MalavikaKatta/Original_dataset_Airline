@@ -1,0 +1,9 @@
+User: I need to get to Fortaleza from Paris. We will be 2 adults and 7 children
+Wizard: Do you have a budget in mind?
+User: 19500
+Wizard: We have a 13 day package that costs 14924.38 for economy. Does this interest you?
+User: Possibly. What is the hotel like?
+Wizard: It's a 3 star hotel with a guest rating of 9.32/10 and it includes free parking, breakfast, and wifi. Would you like to book?
+User: yes that is perfect. Could you book this for me?
+Wizard: Most certainly. Your package has now been booked. Expect an email with details concerning the package shortly.
+User: THANK YOU!

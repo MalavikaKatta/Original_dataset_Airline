@@ -1,0 +1,14 @@
+User: I want to go on a 4 day trip
+Wizard: Great! Where would you like to go and from where will you be leaving?
+User: how bout La Paz. i live in dallas
+Wizard: Between which dates were you thinking of taking this trip?
+User: august 19 to september 7 anytime in there
+Wizard: I have 4 day packages to La Paz starting at 921.10 USD. Do you have a budget in mind?
+User: do you have anything in Fortaleza?
+Wizard: Certainly, I have packages to Fortaleza starting at 1589.99 USD.
+User: both sound good as long as it is within my dates i cannot move those around do you have anything in a 4 star hotel in Le Paz
+Wizard: Yes, the Echo package is  a 4 star hotel for 921.10 USD. You would depart on September 4th and arrive on September 7th.
+User: Is the Echo near the museum?
+Wizard: I do not have that information, but I can tell you that the hotel includes breakfast, wifi and parking.
+User: well okay I can always take the tram in to the city. I will book that one.
+Wizard: Your trip is booked. Enjoy!

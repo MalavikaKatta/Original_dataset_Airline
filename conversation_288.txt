@@ -1,0 +1,12 @@
+User: Please check if there is a flight to Naples from Fort Lauderdale leaving August 31
+Wizard: Would August 30th be ok? It is the closest available date I have available right now.
+User: No to August 30th but what about August 27?
+Wizard: Would August 24th be ok? It is the closest available data I have available right now.
+User: No that won't work for me. Can you please check Fort Lauderdale to Punta Cana leaving on August 31
+Wizard: I can book you 5 days in Naples if you leave from Fort Lauderdale on August 31st.
+User: Oh good, how much would that cost
+Wizard: 2449.21USD at a 3.0 star hotel.
+User: Do you have a five star hotel available?
+Wizard: I have a 4 star available for 3158.9USD
+User: Done. Book it.
+Wizard: IT is booked!

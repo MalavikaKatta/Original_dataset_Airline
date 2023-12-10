@@ -1,0 +1,15 @@
+User: Hey, looking to surprise my baby mama in Tofino by bringing my 2 kids for a visit.
+Wizard: Great! Where will you be traveling from?
+User: Fukuoka.
+Wizard: Unfortunately, we have no results for this itinerary.
+User: Hmm ok, well we can travel to San Diego and go from there.
+Wizard: Is this San Diego to Tofino you're looking for?
+User: no, Fukuoka to San Diego
+Wizard: I can get you there from September 12 to 19, for a total of 11460.60USD.
+User: Where would we be staying?
+Wizard: You would be staying at the Majestic Mountain Inn, which offers free breakfast, wifi, and parking!
+User: How many stars?
+Wizard: 2.5 stars, 6.91/10 guest rating
+User: Book it please
+Wizard: I have booked this trip for you!
+User: Thanks!

@@ -1,0 +1,19 @@
+User: I should hope so. Vancouver to Berlin
+5 star hotel, business class, the works
+Wizard: How many are travelling?
+User: AFter sept 3
+Wizard: Could you leave on the third?
+User: That would not be my preference
+Wizard: Golden Crown Hotel and Sanctuary are both available from September 8th-17th. Both are 5 stars and feature free breakfast and wifi.
+User: That is impressive. Which one do you think is more impressive?
+Wizard: Sanctuary holds a 8.8/10 user rating while Golden Crown Hotel has 8.49/10
+User: Tell me more about Sanctuary. What is it near?
+Wizard: Located near a museum, the Sanctuary package would cost $2870.53 with business class flights for a 10 day stay.
+User: amenities?
+Wizard: Free breakfast and wifi, as previously stated.
+User: and the price is for 6 adults?
+Wizard: No, the price is for one adult.
+User: ok multiply that by 6 and we'll have a deal
+Wizard: Your total will be 17223.19USD. Would you like to confirm booking?
+User: Yes please
+Wizard: Done! Have a good trip.

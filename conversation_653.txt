@@ -1,0 +1,23 @@
+User: Hey! I need to get out of Jerusalem by Sep 2 for a while. Any options for Queenstown?
+Wizard: Unfortunately not...is there another destination city I can look up for you?
+User: What if I leave from Marseille?
+Wizard: In that case I can definitely get you to Queenstown! How does a trip from September 12 to 17 sound to you?
+User: I need to leave by Sep 2 though, is that possible?
+Wizard: Absolutely, does August 30 to Sept 2 work?
+User: I need to stay at least for a week
+Wizard: Unfortunately, our longest trips are 6 days long.
+User: Alrighty then, what are the 6 day trip options?
+Wizard: The option is the one I previously mentioned to you, which departs on September 12.
+User: Can you check for trips to Hamburg from Jerusalem then?
+Wizard: I regret to say that we do not offer trips from Hamburg to Jerusalem.
+User: Sorry I was asking for trips to Hamburg from Jerusalem
+Wizard: Unfortunately we don't have that in our database either.
+User: What about Hamburg from Marseille then?
+Wizard: We do have that - how does 8 days at the Hotel Peter, from August 31 to September 7, sound to you?
+User: Forgot to tell you though, my budget is 1700
+Wizard: How many adults and children are traveling with you? For one adult, this package is well below your budget.
+User: Just myself. Are there longer packages that would be below my budget?
+Wizard: 8 days is the longest we have, but I can get you this trip for only 148.11USD. Should I go ahead and book?
+User: Just $148.11? Okay let's book it!
+Wizard: Yup! Perfect, its booked! Have a great trip!
+User: thanks!

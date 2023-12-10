@@ -1,0 +1,9 @@
+User: hello i am going to go to baltimore some time between september 10th and september 24th
+Wizard: Where will you be leaving from?
+User: cleveland
+Wizard: Do you have a budget?
+User: i will spend whatever i need to
+Wizard: Will you be travelling alone?
+User: yes i am alone
+Wizard: We have one result. It is a 9 day stay from September 12th to 20th at a 3 star hotel. The hotel has a 7.06/10 guest rating and they offer free parking and wifi as well as complimentary breakfasts. The business flights included in the package would put the price to 838.20, for economy flights the price is 717.52.
+User: thank you

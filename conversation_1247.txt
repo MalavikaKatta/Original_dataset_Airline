@@ -1,0 +1,15 @@
+User: get me out of santiago for 13 days
+Wizard: where would you like to go?
+User: i dont care
+Wizard: when would you like to go?
+User: anytime
+Wizard: I have several options out of Santiago. Do you have a spending limit for this trip?
+User: 400
+Wizard: For $365.36USD,  I can get you to Vitoria, Spain to a 3 star hotel located right in town, in business class to boot.
+User: Is this my only option?
+Wizard: yes
+User: oh…well then I guess I’ll take it hahah
+Wizard: Business or economy?
+User: business duh
+Wizard: Your trip has been booked at the Hotel Oro  for 4 days. Enjoy your stay.
+User: thank ya kindly.

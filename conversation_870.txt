@@ -1,0 +1,18 @@
+User: hi there. berlin to atlanta please
+sometime between september 8 and 25
+Wizard: How big is your group?
+User: we are 7 in all
+Wizard: Splendid. We have a few 3.0 star hotels and 3.5 star hotels. Do you have a specific allowance for this trip?
+User: we’d like to keep the spending to a minimum how long can we stay at the 3 star hotel?
+Wizard: We have 8 day and 5 day packages.
+User: how much for 8. economy flights
+Wizard: That would be 22218.95 total.
+User: Yikes. How much to go to Pittsburgh?
+Wizard: We have two 2.5 star hotels in Pittsburgh, and we have 10, 13, and 14 day packages. If you have a more precise idea of how much you are hoping to spend, I can help you narrow down your options.
+User: we are just looking for the best value for length of stay. so how much is 14 days
+Wizard: That sounds fair. The 14 day economy package is 18789.55. Business is 24096.66.
+User: sounds like an improvement. ok lets just go ahead with that one then
+Wizard: The economy package?
+User: yes please
+Wizard: Booked! Anything else I can do for you today?
+User: you’ve done all we could ever ask of you, thanks!

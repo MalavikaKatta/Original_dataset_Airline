@@ -1,0 +1,15 @@
+User: Ok so I need to get from Vitoria to a bunch of possible places between September 2 and 21. budget is strictly 3200. can you first look at paris pls
+Wizard: Are your dates flexible at all?
+User: It just needs to be within that time period
+Wizard: would you prefer a 6 or 12 day stay?
+User: 12 days
+Wizard: I have a 2 star hotel available with free wifi departing on August 30 and returning on Sept 10. Total price on this 12 day package is $828.33USD. Is this of interest to you?
+User: Its not bad. But I want to see if there's better options elsewhere Can you check, for the same parameters, Punta Cana?
+Wizard: For the record, that package is called the Muse. I will now proceed with your second request. To Punta Cana, Dominican Republic from Vitoria, Spain I have 15 day and 21 day stays open. Which would you prefer?
+User: 21 if it fits the dates I gave you. Whats the price?
+Wizard: That package departs on Sept 2nd returning on Sept 21. The total price for this 21 day stay including flights, is $1654.42USD. please note that there are no amenities included with this package.
+User: Oh ok I might be able to put up with that. Ok let me ask about one last city: what you got for Curitiba?
+Wizard: A 12 day stay at the Crown Market Palace, located on the beach is $2113.27USD. This package includes all the amenities such as free wifi, breakfast and free parking.
+User: Its cool how many options there are for my budget. Ok since the Punta Cana trip is the longest, I'll take that one
+Wizard: I will confirm your stay at the La Estrella del Mar for 21 days on an economy class flight for a grand total of 1654.42USD. We appreciate you using our services.
+User: Wonderful

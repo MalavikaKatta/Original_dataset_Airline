@@ -1,0 +1,11 @@
+User: Hello! I'm booking for a honeymoon right after our wedding in Monterrey.
+We can leave any day after September 6.
+Wizard: Where do you want to go?
+User: Ideally Ulsan for 5 days.
+Wizard: Do you have a budget?
+User: 4400 tops... spent too much on the wedding already :disappointed:
+Wizard: There is nothing available within your budget
+User: Nothing?? That's unfortunate. I guess we can also settle for Rome.
+Wizard: There is still nothing available.
+User: Oh man.. that really sucks.
+Wizard: Okay. Have a nice day!

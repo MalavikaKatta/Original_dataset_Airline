@@ -1,0 +1,8 @@
+User: Hey, I'm looking for a trip to Chicago.
+Wizard: Where from? How many people are travelling? What is your budget? When do you want to leave?
+User: I'm traveling from Belem by myself. Budget's set at 3900. I have to travel between 9/1 and 12. These dates are not flexible.
+Wizard: Our best package is a 2.5 star hotel near a park and museum, 8.22/10 guest rating, free parking, breakfast, and wifi, from September 2nd to 8th, business flight, price is 2856.29.
+User: Any other options?
+Wizard: No.
+User: Alright then. I'll take it.
+Wizard: Great! Have a nice day!

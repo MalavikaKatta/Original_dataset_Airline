@@ -1,0 +1,15 @@
+User: I want to go to Burlington from Valencia
+Wizard: Do you have a budget in mind and will you be going alone?
+User: I will be going alone and I have 4100
+Wizard: You can go for 11 days for 2722.53 with economy. This includes free breakfast and wifi. Would you like to book?
+User: When is this trip?
+Wizard: From Sunday September 17th to Monday September 26th. Want to book?
+User: Do you have anything between the 10th and 20th?
+Wizard: Yes, we have a 12 day package with those exact dates costing 2337.54 for economy. Are you interested?
+User: Maybe. Can you give me more info on the hotel?
+Wizard: It's a 3 star hotel that is near a park and includes free wifi. Still interested?
+User: Yeah I think I would like to book this. How much for business class?
+Wizard: It would be 3006.32.
+User: Business
+Wizard: It's been booked. Enjoy your trip.
+User: Thank you!

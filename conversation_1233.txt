@@ -1,0 +1,22 @@
+User: Hi there, I really want to go to Osaka but don't really know what kind of trip I want. I heard from my friend you guys have a wide range of offerings so I want to check out what are the availabilities for Osaka.
+Wizard: Sure! Where are you leaving from?
+User: I'm from Cleveland.
+Wizard: Of course! I have a few different hotels available. To help me narrow them down, could you provide some additional information? Maybe a budget, desired departure date, desired length of stay, etc.
+User: Can you show me things between Sept 12 and 28? I've a ballpark budget of 3600.
+Wizard: Ok! The longest trip I can offer you would be at Prophecy Hotel. The hotel is 2.5 stars with a 7.06/10 user rating. The hotel is near a museum, has free wifi and breakfast, and costs 2225.77USD.
+User: Do you have other packages with better hotels?
+Wizard: I have an 8 day package at Aquamarine Majesty Hotel! It is a 4 star hotel with a 8.69/10 guest ratings. The hotel is near a park and museum and provides free wireless internet access and parking.
+User: That's not bad, how much is this one?
+Wizard: 2652.5USD for economy class flights. You can fly business class for a total of 3401.68USD if you prefer.
+User: How many days is the first package you showed me?
+Wizard: 13 days.
+User: I assume this 4 star one is the best you can find?
+Wizard: That is correct.
+User: If I increase my ballpark by 300 will you be able to find something better?
+Wizard: It seems Aquamarine Majesty Hotel is the nicest we have available in Osaka.
+User: Okay thanks for your help! I'll take it.
+Wizard: No problem! Would you like to book business class?
+User: It fits in my budget right? Let's book business.
+Wizard: It fits your budget, yes.
+User: Ok let's go for it
+Wizard: Consider it done :slightly_smiling_face: Enjoy your stay!

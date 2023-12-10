@@ -1,0 +1,19 @@
+User: Hi, I need to get to Sendai for a business meeting.
+Wizard: Where from?
+User: I can leave from SL.
+Wizard: Do you have a budget?
+User: I'm hoping that 1700 will do.
+Wizard: How many people will be travelling?
+User: I'll be going alone.
+Wizard: When would you like to leave?
+User: Anytime!
+Wizard: There are no trips within your budget?
+User: What if I go to Puebla?
+Wizard: There's a 4 star hotel near a park, 8.49/10 guest rating, free parking, breakfast, and wifi, from August 30th to September 3rd, business package is 1511.47, economy package is 1236.90.
+User: That's not bad! Is that the only option for Puebla?
+Wizard: There is one more for a 3 star hotel, 8.8/10 guest rating, free parking, breakfast, and wifi, from September 1st to 10th, business package is 1531.20, economy package is 1255.81.
+User: I see.. I think I still prefer the first one for Puebla.
+Wizard: Would you like to book it?
+User: That'd be nice.
+Wizard: Great, your package is booked, have a great day!
+User: Thanks!

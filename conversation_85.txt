@@ -1,0 +1,17 @@
+User: Hi! I have a $3300 budget and am looking for a vacation
+Wizard: I can help you with that! From where would you depart?
+User: Im leaving from miami on August 25th
+Wizard: How about 8 days in Seattle for 481.66USD?
+User: that sound amazing! what type of hotel is that?
+Wizard: The hotel is 3.5 stars and only 8 minutes away from Seattle
+User: thats amazing! are there any other destinations available?
+Wizard: I have lots! Do you have a preference?
+User: maybe somewhere warm and somewhere that i could be back by August 29th
+Wizard: I have trips to Long Beach for August 25-August 30?
+User: how about naples?
+Wizard: I haven't got any trips to Naples within your budget. I have something available for 3421.98USD though if you would be interested?
+User: i cant. I think the vacation to seattle seems most appropriate
+Wizard: Sure! So, 8 days for 481.66? Is that the option you would like to go with?
+User: you got it!
+Wizard: Perfect! I will go ahead and book that for you.
+User: thanks!

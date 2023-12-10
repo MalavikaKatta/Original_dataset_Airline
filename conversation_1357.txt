@@ -1,0 +1,19 @@
+User: I need to book a business trip for 4 potential large clients and I, Leaving from Philadelphia
+Wizard: Okay, Where would you like to go and when?
+User: It doesn't matter where as long as it is big and impressive, the best of the best. After Sept 25.
+Wizard: The best is a 20 day stay at a 4 star hotel from September 26th to October 14th.
+User: What's the guest rating on that?
+Wizard: 8.8/10 and the hotel is in Rome.
+User: Is it close to any interesting landmarks?
+Wizard: Shopping and a cathedral.
+User: If I make it a 5 day stay, can you find something nicer? I have unlimited budget
+Wizard: We have another 4 star hotel, 5 day package from the 29th of September to the 3rd of October. The hotel has a 8.98/10 guest rating, is close to a museum, shopping, and a market, and offers free wifi.
+User: What city is this one in?
+Wizard: San Juan.
+User: San Juan is cool. Is this one available with business class flights and how much is it?
+Wizard: Yes it is, it would be 9503.73.
+User: What about the 20 day package in Rome?
+Wizard: 18762.47 for business flights.
+User: I'll book the San Juan package in business class flights, 20 days is much too long with my clients
+Wizard: Great! It is booked! Have a great trip and good luck!
+User: Thank you

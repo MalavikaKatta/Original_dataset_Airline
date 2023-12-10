@@ -1,0 +1,3 @@
+User: Do you have trips out of Tel Aviv?
+Wizard: Unfortunately no. Are you able to depart from elsewhere?
+User: I can’t!!!

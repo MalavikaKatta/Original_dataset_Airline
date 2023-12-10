@@ -1,0 +1,9 @@
+User: I need to book a flight to find my last Pokemon. I would need to leave from Montreal and go to Hiroshima. I will also need to leave on August 19th. Im with 4 other adults as well.
+Wizard: Is there a budget for your trip?
+User: Yes, $16600.
+Wizard: I have a nice 4.5 star hotel for 5 days starting at 13685.34USD for you, however it leaves on the 26th of August. Are you flexible with your dates?
+User: Look, just tell me, is there anything for Curitiba?
+Wizard: There's a nice 7 day package for a 3 star hotel with a departure flight on the 18th.
+User: That's perfect, how much would this end up being?
+Wizard: The package comes to a total of 12496 USD and that's including breakfast, wifi and parking!
+User: That is excellent! I can finally find my last Pokemon! Thank you!

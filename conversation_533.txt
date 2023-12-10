@@ -1,0 +1,7 @@
+User: Hey I'd like to take my wife and five kids somewhere nice, just wanted to do some research We would be leaving from San Jose, and were looking into some places
+Do you have anything between there and Queenstown between Sept 1-16?
+Wizard: Hi. I regret to inform you that flights from San Jose to Queenstown are not provided with your packages.
+User: How about Punta Cana
+Wizard: Flights to Punta Cana are not provided either. Any other places I can look up for you?
+User: Frankfurt
+Wizard: Frankfurt is also not a destination we serve from San Jose.

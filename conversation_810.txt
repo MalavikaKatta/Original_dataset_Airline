@@ -1,0 +1,16 @@
+User: Do you do flights from Santo Domingo to Frankfurt?
+Wizard: We sure do! Are you interested in a 10 day trip to Frankfurt? We've got some great hotels!
+User: That would be great! I have 4300 to spend and I’m bringing 6 grandchildren along with me
+Wizard: Unfortunately none of the options in Frankfurt fit within your budget. Do you have somewhere else you would like to go?
+User: Let us try again but with Punta Cana
+Wizard: That's a great choice! We have quite a few offerings in Punta Cana. Do you have any date constraints?
+User: Yes, we’d like to leave between sept 6 and 20
+Wizard: Perfect, we have 2 packages from Sept 7 to 17. One is 3 star hotel with a 8.49/10 guest rating, located close to a palace and a theater. Another is a 2.5 star hotel with a 7.15/10 guest rating, located close to a museum, a cathedral, and a palace. I have economy and business options for both.
+User: I’d like to stay near the museum, so that I can take the children. Does it offer free breakfast?
+Wizard: Sounds like a good choice! It offers not just free breakfast... also free wifi!
+User: How much would this option cost us?
+Wizard: I can offer the economy package for 2101.5 and the business package for 2313.5.
+User: And this is for one adult and six children?
+Wizard: Yes!
+User: Please book this
+Wizard: Consider it done! Time to pack your bags :slightly_smiling_face:

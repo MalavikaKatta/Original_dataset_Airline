@@ -1,0 +1,18 @@
+User: Hey, my buddy and I want to have the best time of our lives!
+Wizard: Ok! Where are you looking to go?
+User: We're thinking of going to Rome, we hear it's the hottest place to be.
+Wizard: And where are you leaving from?
+User: Santa Cruz. We've only got 13000 though, that should be enough for an awesome trip!
+Wizard: I have 9 day packages for you available at the unrated Secret Bay or the 4 star Hotel Grand Residence! Are you interested in hearing more about these?
+User: The 4 star sounds great, tell me more!
+Wizard: It has a 8.8/10 guest rating, free breakfast and free wifi, and is close to shopping and a cathedral.
+User: That sounds so good, how much is that?
+Wizard: 7460.60USD to fly business class or 5744.51USD for economy.
+User: That's definitely within our budget! I'm curious about one other city though. Could you just check Phili for us please?
+Wizard: In Philadelphia I have the Mirror Inn available for either 9 or 15 days. It is a 2 star hotel near a park and a museum, has free parking, breakfast, and wifi, and has 6.61/10 as a user rating.
+User: Oh the Rome deal sounds much better.
+Wizard: Ok! The Hotel Grand Residence then? Would you like to fly business or economy class?
+User: Yes, that one please. Business class all the way! Woo!
+Wizard: Alright - please watch for a confirmation email. Enjoy your stay :slightly_smiling_face:
+User: Awesome, thanks!
+Wizard: My pleasure!

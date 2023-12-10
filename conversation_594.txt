@@ -1,0 +1,9 @@
+User: I wanted to take my children - there are seven - and my beautiful wife on a vacation somewhere
+We would be traveling from Fukuoka, and have 13700 to spend
+Do you have flights to Santo Domingo?
+Wizard: Sorry, I wasn't able to find anything
+User: Shucks. How about Belem?
+Wizard: Nor for this one
+User: What! Ok how about Los Angeles...surely you have that
+Wizard: I am sorry but I am not able to find any results with that either. Come back to us later!
+User: FAT CHANCE

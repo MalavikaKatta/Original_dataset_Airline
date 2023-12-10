@@ -1,0 +1,8 @@
+User: Phoenix to Monterrey
+Wizard: Do you have a budget?
+User: I don’t think so
+Wizard: Do you know when you'd like to go?
+User: yeah between September 6th and 9th. but the dates are flexible
+Wizard: And will you be traveling alone?
+User: no. 6 adults
+Wizard: There are no flights showing from Phoenix to Monterrey.

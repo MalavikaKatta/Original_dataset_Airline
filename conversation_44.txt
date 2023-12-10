@@ -1,0 +1,23 @@
+User: Hi! I'd like to go to Boston from Mos Eisley on August 15th.
+Wizard: Hey there! I'm having trouble finding trips to Mos Eisley for that date. How about a trip to Vancouver instead?
+User: Not Vancouver, anything for Porto Alegre?
+Wizard: Sure! I can book you 14 days in Porto Alegre, but you would leave August 18th. Is this ok?
+User: What about if I leave from Rome instead of Mos Eisley?
+Wizard: I can book you 6 days in Boston for 2390.12USD if you leave from Rome
+User: Is departure on the 15th of August?
+Wizard: Departure is on August 27th for that price.
+User: I need to leave on the 15th of August.
+Wizard: When would you like to return?
+User: I don't have a specific date in mind.
+Wizard: Do you have another departure option?
+User: nope.
+Wizard: Sorry, I have no trips to Boston leaving from those destinations on August 15th.
+User: What about Porto Alegre?
+Wizard: I have a trip to Porto Alegre that leaves from Rome on August 15th. It is 12 days long.
+User: How much is it?
+Wizard: 3334.98USD or 3344.57USD depending on the hotel.
+User: I should have mentioned earlier, we are 6 adults.
+Wizard: Oh! In that case, the cost ranges from 20009.92USD to 20067.46USD.
+User: That's way too much! I have a budget of 3700 USD!
+Wizard: Sorry, I cannot offer anything in Porto Alegre for 6 adults at that price.
+User: Ok, thank you for your help, friend.

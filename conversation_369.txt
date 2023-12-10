@@ -1,0 +1,17 @@
+User: I HAVE TO LEAVE FOR DENVER ON OR BEFORE AUGUST 23.
+Wizard: Great, from which city would you be departing?
+User: MARSEILLE
+Wizard: How many adults and children will be on this trip?
+User: JUST ME
+Wizard: Do you have a budget in mind?
+User: 2900 AND I NEED TO STAY IN YOUR BEST HOTEL IN Denver
+Wizard: Just to confirm, would you be traveling from Marseille to Denver?
+User: FROM MARSEILLE TO DENVER ON OR BEFORE AUG 23 AND I HAVE TO STAY AT YOUR BEST HOTEL FOR UNDER 2900. COMPRENDE?
+Wizard: I am pleased to announce that we have a travel package available, leaving Marseille for Denver on August 23 and returning on August 27. You will be staying at the acclaimed Oriental Resort, a 3 star hotel with close proximity to museums and universities. The hotel boasts a 0/10 guest rating and features free wi-fi. You would be flying economy class, and the total cost comes out to 1665.15. Would you like to confirm this booking?
+User: WHAT DO YOU HAVE IN 5 STAR RATED HOTELS. I NEED TO STAY AT THE BEST OF THE BEST.
+Wizard: Unfortunately, I do not have a 5 star hotel available. Are you flexible with your dates?
+User: AS LONG AS I LEAVE THE 23RD AT THE LATEST
+Wizard: Unfortunately, I do not have a 5 star hotel available for the listed conditions. Would you like to confirm the previous booking?
+User: NO ABSULUTELY NOT, IT'S NOT WHAT I WANT
+Wizard: I am excited to announce that we have a travel package available, leaving Marseille for Denver on August 23 and returning on August 28. You will be staying at the esteemed Brass Renaissance Resort, a 3 star hotel with close proximity to the park. The hotel boasts a 8.86/10 guest rating and features free wi-fi and free breakfast. You would be flying business class, and the total cost comes out to 2662.97. Would you like to confirm this booking?
+User: ANOTHER 3 STAR RATED HOTEL...GOOD BYE!

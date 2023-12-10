@@ -1,0 +1,23 @@
+User: We are 3 adults and three kids looking for a vacation between August 18 and September 4
+Wizard: I have several different flights to Vancouver, Canada during this travel period.  Would you like to leave on the 19th or the 27th?
+User: How much does each option cost?
+Wizard: I have two options available for you: one costs $4253.69 and the other costs $5295.89.  Which one would you prefer?
+User: What kind of hotel is offered for each?
+Wizard: Both hotels are 4.0 star hotels with 8.8/10 ratings.
+User: What kind of flight is offered for each?
+Wizard: These are both Economy flights.
+User: I can increase my budget by $200, does that open up any new options?
+Wizard: No.  
+User: Are there any other flights to Vancouver leaving  around the same time from another departure city?
+Wizard: How do you feel about Dallas?
+User: I would like to depart from Baltimore
+Wizard: You can only go to Toronto, Calgary, or Kingston Canada from Baltimore.  Which would you prefer? Do you have preferred travel dates?
+User: Any time between August 18 and September 4.
+Wizard: I can offer you a 2.5 star hotel with a guest rating of 6.37/10 or a 3.0 star hotel with a guest rating of 8.86/10.  Which would you prefer?
+User: For which destination?
+Wizard: Kingston has the 2.5 star hotel and Toronto has the 3.0 star hotel.  Or I can offer you a 4.0 star hotel with a 0/10 rating if you would like to travel to Calgary.
+User: How much does each of these packages cost?
+Wizard: Package number #1 to Kingston costs $6251.33 USD, Package number #2 to Toronto costs $5695.54, and Package number #3 to Calgary costs $6494.94 USD.
+User: What class would I be flying in for each of these destinations?
+Wizard: All three flights are Economy flights.  If you would like a Business Class flight, I can offer you one to Calgary.  The cost of this travel package would be $8666.20 USD.  Would you like more information on this option?
+User: I would like to buy the Toronto package

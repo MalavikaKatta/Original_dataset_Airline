@@ -1,0 +1,10 @@
+User: Jerusalem to Belem 2 adults 4000 dollar budget. Leave on September third
+Wizard: There are no results.
+User: Fine. Leaving from Sapporo
+Wizard: There is nothing within your budget.
+User: Well I’ll up it to 5200. I’ll leave one person behind
+And I’ll go to Busan instead
+Wizard: There is a 4.5 star hotel near the beach, 8.8/10 guest rating, free breakfast, wifi, and parking. This package is from September 8th to 14th and the cost is 4531.64.
+User: Ok, that’s fine
+Book it
+Wizard: Done! Have a good day!

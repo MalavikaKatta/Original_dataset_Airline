@@ -1,0 +1,6 @@
+User: Guess what? I'm a recently married person looking for a honeymoon package from osaka to manaus!
+Wizard: Manaus sounds like an excellent choice! Do you have a budget in mind?
+User: yeah we have 6300 dollars left over after the wedding
+Wizard: I'm afraid we do not have any packages to offer you at that price. Is there any chance you can stretch your budget?
+User: its all we have... can it get us to burlington instead?
+Wizard: Not at that price, I'm afraid. Sorry.

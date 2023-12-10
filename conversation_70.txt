@@ -1,0 +1,17 @@
+User: Hi 7 colleagues and i are planning on going on a trip can you help?
+Wizard: Where are you leaving from?
+User: we can leave from Birmingham
+Wizard: Ok! Did you have a date and destination in mind, or would you like to hear your cheapest options?
+User: there is no budget at the moment. We are planning on going to paris
+Wizard: Sounds good - I've got a hotel in Paris from August 17-26
+User: We need to find a vacation between August 26th and September 15th
+Wizard: Would August 30-September 8 work?
+User: yes it would!!
+Wizard: Great! I have the Queen's Jungle Hotel available for those dates.
+User: what type of rating does it have
+Wizard: The hotel has a 4 star rating.
+User: how much would that be?
+Wizard: For 8 adults at the Queen's Jungle Hotel from August 26-Sept 15 the cost would be 15570.5USD. 
+User: this sounds perfect!
+Wizard: Great! Shall I go ahead and book that for you?
+User: yes please

@@ -1,0 +1,13 @@
+User: Hi there,
+Wizard: Hi! Where would you like to go?
+User: I need to get to Porto with 10 adults. going from Tel Aviv if possible. anytime is good but i need to keep it under 3000
+Wizard: Unfortunately there are no flights for this request in my database.
+User: how about leaving from Jerusalem instead
+Wizard: There is nothing for this search either. Is there another destination you'd like to visit?
+User: yeah in that case lets try flights going to Madrid then
+Wizard: From Jerusalem?
+User: yes
+Wizard: There are no results for this request either.
+User: ok how about tel aviv to madrid?
+Wizard: There are no results for this either unfortunately.
+User: rats!

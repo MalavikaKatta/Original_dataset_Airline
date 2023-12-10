@@ -1,0 +1,7 @@
+User: I'd like to find a vacation between tomorrow and September 14th from Santos to Leon
+Wizard: I have the Serene Palms Resort - a 5 star beachside resort near a palace with free wifi available from September 1-9. The package for one adult with economy flights would cost $2881
+User: How much for business?
+Wizard: 3699.41USD
+User: great, this package sounds good to me. lets book it
+Wizard: You bet! Enjoy your stay.
+User: Thank you... friend

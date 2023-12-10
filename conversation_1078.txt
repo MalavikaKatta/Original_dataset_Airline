@@ -1,0 +1,16 @@
+User: Hey!
+Wizard: Hello
+User: So, I am travelling a family trip.. since I am in charge I wanna go to Sao Paulo! That's my top destination..
+Wizard: From where?
+User: Can you get me, my wife, and 5 kids there from Marseille for 16500?
+Wizard: Can you depart on September 7th?
+User: No. Not until the 20th
+Wizard: Is a 19 day holiday too long?
+User: As long as we're back by the 7th of October, its all good! Tell me about the package
+Wizard: That one would have you back on October 8th
+User: Rats - no good! Check out Salvador instead
+Wizard: I found you a 17 day holiday in Sao Paulo from the 21st of September to the 6th Azure Spire Hotel, 2 star near the cathedral and the theatre for 6480.13USD including your breakfast
+User: 2 stars... you really think I can bring that to the old lady without repercussions? anything better in Detroit?
+Wizard: Nothing in Detroit
+User: fine. book the longer one in Sao Paulo
+Wizard: I will proceed with booking!

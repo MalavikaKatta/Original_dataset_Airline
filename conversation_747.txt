@@ -1,0 +1,14 @@
+User: Hey. I need to get from Goiania to Hamburg
+Budget isn't an issue, can you just give me the best options?
+Wizard: Would you be more interested in hotel ratings, length of trip, or amenities?
+User: I just want the best
+Wizard: I would say our best package, though it is an economy flight, is at a 4.5 star hotel near the airport, has a 9.16/10 guest rating, free parking and wifi, from September 8th to 12th, and the cost is 2684.24.
+User: There's no option for business class flights?
+Wizard: Not for this package,
+User: Hmmm. What else?
+Wizard: It is a 4 star hotel in the heart of the city, 8.98/10 guest rating, free breakfast and wifi, from September 1st to 6th, business flights, and the price is 2793.73.
+User: I can also go to Rio de Janeiro. What are the best packages?
+Wizard: Our best package is a 3 star hotel near a park, museum, and university, 8.22/10 guest rating, free parking, breakfast, and wifi, from September 10th to 19th, business class flights, and the cost is 832.75.
+User: Okay, to be honest I'd still prefer the business flight to Hamburg.
+Wizard: Okay! I'll go ahead and book this for you, keep an eye out for a confirmation email. Have a great day and safe travels!
+User: That was easy! thanks

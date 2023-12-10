@@ -1,0 +1,17 @@
+User: Hello. me and my grand child would like to go on a a trip.
+Wizard: Can you give me more information on what your requirements are?'
+User: I won 3300 on the slots and would like to go to Kobe
+Wizard: Cool! Do you have any dates in mind?
+User: I'm available from September 12 to the 26th
+Wizard: Where will you be flying from?
+User: phoenix.
+Wizard: Nothing goes from Phoenix to Kobe on your budget. Any alternate destinations?
+User: I can go to Burlington, I suppose.
+Wizard: I can get you to Burlington...how would you like to stay at the Celestial Inn & Suites?
+User: This hotel... Does it have amenities?
+Wizard: They offer free breakfast and wifi!
+User: When does my airplane take off to take me to Burlington?
+Wizard: The flight departs at 10:00AM on September 12, and the return flight departs at 3:00AM on September 18.
+User: This is terrible. I cannot leave at 3 am!
+Wizard: All of our return flights from Burlington depart at 3:00AM.
+User: Goodbye, you can't offer me a good trip!

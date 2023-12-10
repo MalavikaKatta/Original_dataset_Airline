@@ -1,0 +1,10 @@
+User: I want to go to brasilia from mannheim, can you recommend me packages from Saturday august 27 to Monday, September 12 for 2500 for 1 adult
+Wizard: Sorry, I have nothing available.
+User: um dates are flexible
+Wizard: How about August 27-31?
+User: ok
+Wizard: That would cost 1943 dollars.
+User: ok great
+Wizard: You want to book?
+User: pls book that one for me thx
+Wizard: Yes, I will

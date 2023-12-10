@@ -1,0 +1,15 @@
+User: Get me out of Berlin and to Campinas. Business class flights only. Get me the best hotel in Campinas
+Wizard: What dates are you looking into and what is your budget?
+User: Leave ASAP, return before September 2
+Wizard: I am sorry, I don't have anything within that date range
+User: Ok what if we take a longer trip and return on September 11
+Wizard: would you like 11 days or 15 days trip?
+User: Just get me back before September 11 is all I ask
+Wizard: we have 2 options
+User: Praytell
+Wizard: We have 11 days for 4489.34USD or  15 days for 4722.70USD. Both 4 star hotel business class. One comes back Sept 10, the other Sept 15.
+User: I also want to see if I can go to Stuttgart from Berlin. Again, book the best hotel only
+Wizard: We only have 3 star hotels ranging from 632 - 700$
+User: 3 stars??? Um no :mask: Ok book two adults to Campinas, returning on September 10.
+Its business class right?
+Wizard: ok will do, booking right away!

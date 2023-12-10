@@ -1,0 +1,29 @@
+User: hi i have been given access to multiple intership positions
+all abroad
+so I want to plan a trip to which ever one has the best deal to scope it out
+Wizard: I can help you out with that! Where are you coming from?
+User: i am in Barcelona. and I can travel from sept 6-21
+Wizard: What is one of the cities you can go to?
+User: kobe also i have 4700 dollars tops for this trip, keep that in mind
+Wizard: Okay, our best deal for you is an 11-day long trip with a stay at a 3.5 star hotel for 3895.67.
+User: is it downtown?
+Wizard: I do not have any information regarding whether it is in the heart of the city.
+User: what about amenities?
+Wizard: All guests have access to free wifi.
+User: ok well
+check Los Angeles ok
+Wizard: In Los Angeles we can also offer you an 11 day stay. This time it will be a 3.0 star hotel next to the airport and mall. All for 2475.71.
+User: free wifi as well?
+Wizard: Not just free wifi, also free parking and free breakfast!
+User: ah, great. what are the dates
+Wizard: It's from September 8-18.
+User: before i book anything can you check San Diego
+Wizard: Sure. In San Diego our best is a 9-day trip at a 3.0 star hotel near the park for 1388.27.
+User: which has a higher user rating - Los Angeles or San Diego?
+Wizard: They are the same: 8.86/10. They also offer the same amenities.
+User: oh, wow.. both are good reviews... well Los Angeles is near a mall.. I think that's where the mall of america is
+I want that one
+Wizard: Alrighty then! Would you like to go for a business upgrade for 3153.44 or the economy for 2475.71?
+User: yes - business
+Wizard: Sounds good! This is booked for you. You depart today so better get going!
+User: yes, you're right.. thank you

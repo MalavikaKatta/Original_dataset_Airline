@@ -1,0 +1,27 @@
+User: I’m planning a family vacation for my half dozen little rug rats and wife! We’ve got fifteen grand put aside for this trip so spare no expense finding us a great stay! Tijuana is where we live, and we have been talking about going to San Diego.
+Wizard: Lovely! How many adults and how many children will be traveling on this trip?
+User: 2 adults 6 kids
+Wizard: I've found a trip for you! It would be at the Anomaly Inn & Suites, where you would be staying from September 12 to 17. Does this sound good to you?
+User: ohh uh I should’ve told you that we are only free to travel from Sept 5-12.. my bad!
+Wizard: I can indeed. Does September 6-10 sound good?
+User: That would work with our schedule.. what is the hotel like?
+Wizard: Its a 2.5 star near the park, but enjoys a 6.91/10 guest rating.
+User: What’s available in Ulsan?
+Wizard: Unfortunately, nothing.
+User: Really? Not even for 16000?
+Wizard: Not for any price - we just don't offer flights from Tijuana to Ulsan. Apologies!
+User: Ah, ok. Well last place we wanna check is Buenos Aires
+Wizard: We've got results in Buenos Aires! Would you prefer flying business or economy?
+User: Can we afford both on our budget? I think I’d like to hear about the hotel details first
+Wizard: You certainly can afford both! The hotel is the the Olive Market Hotel, a 4 star hotel in the heart of the city, near a park.
+User: Great! Amenities ?
+Wizard: Free parking, free breakfast, and free wifi!
+User: Sounds terrific! What is the price comparison for economy flights compared to business class?
+Wizard: Business class costs 14258.97USD, and 11161.51USD for economy.
+User: hmm ok, well I think economy class would be better for us. More money to spend on activities
+Wizard: Should I go ahead and book this trip for you?
+User: What are the dates?
+Wizard: September 7 to 12.
+User: Ok, let’s book it!
+Wizard: Done. Have a wonderful trip!
+User: Thanks :smile:

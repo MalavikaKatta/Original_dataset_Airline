@@ -1,0 +1,8 @@
+User: Hey
+Wizard: Hi
+User: Book a trip for 5 adults from Jerusalem to Kingston, and do it fast. Leaving August 21 Returning August 24
+Wizard: I will book you 9 days at Ebony Manor Inn & Suites from August 23-31. You will leave from Sacramento.
+User: No we will not. We will be leaving from Jerusalem and going to Kingston. Do you understand?
+Wizard: No, you will go to Denver and leave from Kingston.
+User: Jerusalem to Kingston. I swear if I have to repeat myself again then I will sue
+Wizard: 10 days from Dublin to Kingston for 3426.86 USD

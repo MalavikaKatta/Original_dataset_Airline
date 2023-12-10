@@ -1,0 +1,23 @@
+User: I'm looking to book a trip from Hamburg starting August 15th. I have a 14 day vacation. What packages can you recommend?
+Wizard: Hi there! From where will you be leaving?
+User: Hamburg
+Wizard: Will you be travelling with a companion, and is there a budget for this trip?
+User: No and no.
+Wizard: I have packages available to Manaus, Denver, Ciudad Juarez and South Korea. Do any of these places interest you?
+User: Can I get more information for Manaus?
+Wizard: The package includes a 10 day stay in a 2.5 star hotel and economy flights with a departure on August 19th.
+User: Do you have information for Denver?
+Wizard: The Denver package has a 9 day stay in a 3 star hotel with business class flights and a departure on August 15th.
+User: How about Ciudad Juarez?
+Wizard: You would stay at a 2.5 star hotel and depart on August 15th in economy class.
+User: Do you have information for the trip to Korea?
+Wizard: Certainly! This package includes an 8 day stay at a 5 star hotel with economy flights. Departure is on August 17th. I also have a package to Japan leaving August 17th.
+User: Are there any other hotel options for the Denver trip?
+Wizard: Yes, there are two, but departure flights are on August 26th and 27th.
+User: Is there a trip to Denver that leaves on the 15th?
+Wizard: Yes, but they are also all 3 stars. Solar Inn is a 3 star hotel and would be the least expensive at 1881.10 USD for 9 days. Would you like me to list others?
+User: No, I think I will book this trip to Denver!
+Wizard: Great! Shall I book it now?
+User: Sure!
+Wizard: The reservation is complete! Have a nice day!
+User: Thank you!

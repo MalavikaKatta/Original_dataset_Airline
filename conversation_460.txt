@@ -1,0 +1,11 @@
+User: I want to book a trip from Paris to Ciudad Juarez for at most 4000 for one person
+Wizard: Can you leave August 31?
+User: anytime
+Wizard: Ok, August 31 until September 12 there is an availability at the Hotel Holiday. The hotel is 3.5 stars, next to a palace, has a guest rating of 8.8, free wifi, free parking, and includes complimentary breakfast.
+User: How much?
+Wizard: $2,365
+User: anything at a higher end hotel?
+Wizard: No
+User: Alright, 3.5 stars will do.
+Wizard: Shall I book Hotel Holiday?
+User: yes!

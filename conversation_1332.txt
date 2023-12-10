@@ -1,0 +1,16 @@
+User: Hello, I'd like to go to Kyoto
+Wizard: Where will you be coming from?
+User: Toronto. I'd like to go sometime between September 17 and October 7 please
+Wizard: Will it be for just you?
+User: yes. Preferably not more than 4300 please
+Wizard: No problem. I would like to recommend you the Sakura Inn. We have a 9 day package at this 3.0 star hotel close to the museum that may interest you.
+User: How much would that cost?
+Wizard: Total would be 4199.56 including economy flights and wifi at the hotel.
+User: And what are the dates for this trip?
+Wizard: Sept 24 - Oct 1
+User: That sounds pretty good. But do you have anything at a nicer more upscale hotel?
+Wizard: I presented you our best rated hotel in Kyoto. Do you want to try with another destination?
+User: No, that's fine. I'll take this package.
+Wizard: Okay! I can process the booking for you! Once done, you will receive an email notification.
+User: Great thanks!
+Wizard: You are welcome!

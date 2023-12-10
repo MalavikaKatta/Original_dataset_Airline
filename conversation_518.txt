@@ -1,0 +1,17 @@
+User: Hellllo! I am bringing my spouse and infant on a little getaway :+1::skin-tone-4:
+Wizard: Where to?
+User: We’ve got a 3500 dollar budget and wanna see what is available in Cleveland. We are sick of the sun in Porto
+Wizard: When would you like to leave?
+User: We have vacation days from August 27-September. Septemeber 13, sorry
+Wizard: There are no flights from Porto to Cleveland. Is there a different location you can fly from?
+User: Ahh hm.. well no, but we would be open to going to Pittsburgh
+Wizard: I'm sorry but there is nothing from Porto Alegre to Pittsburgh within your budget.
+User: And for Porto Alegre to Cleveland?
+Wizard: There is nothing within your budget for this either.
+User: What about in Santos?
+Wizard: There is a 4 star hotel near shopping, includes free breakfast and wifi and is from September 1st to 4th and costs 1906.92. There is also a 3 star hotel near shopping, includes free breakfast and wifi from September 4th to 13th and costs 2154.10 for business class seats, if you're looking for a longer vacation.
+User: Lovely! Ok, what are the hotel names
+Wizard: Hotel Globetrotter for the 2154.10 and Elite Estate Hotel for the 1906.92.
+User: Ok, I like it. Can we book Globetrotter?
+Wizard: Sounds great! You will get a confirmation email within the next 20 minutes! Have a great day and thank you!
+User: Thanks :slightly_smiling_face:

@@ -1,0 +1,15 @@
+User: Id like to book a trip. I have a very tight budget of $2600. I would need to be there between August 27th to September 11th.
+Wizard: Let me see what I can find you. Where will you be leaving from?
+User: Toluca
+Wizard: Can I interest you in an 8 day stay at a 3.5 star hotel in Kingston, an 11 day stay at a 5 star hotel in Leon,  or a 9 day stay at a 2.5 star hotel in San Juan?
+User: What are the prices for each package?
+Wizard: The 3.5 star Kingston package is 2028.28 USD, the 5 star Leon package is 2584.26 USD, and the 2.5 star San Juan package is 17619.17USD.
+User: What are the dates for the Leon package?
+Wizard: Departure is on August 30th and you return on September 8th.
+User: what about the dates for the Kingston one?
+Wizard: You would depart on the 27th of August and return on the 3rd of September.
+User: I think I will book the Kingston Package.
+Wizard: Excellent choice! It includes free breakfast and wifi. Shall I go ahead and book the trip?
+User: Sounds great! Yes, thank you!
+Wizard: Have a nice day!
+User: Thank you

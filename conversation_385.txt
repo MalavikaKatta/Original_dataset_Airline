@@ -1,0 +1,24 @@
+User: I'm so happy, my wife is finally letting me plan the family vacation! We saved all of our loonies and twonies this year and we have a whole $5000 to spend! Now, I have to impress her by getting the best possible information on all of our options. I think Belem would be a great place to take the kiddies!
+Wizard: I'd be happy to look into that for you! From where are you leaving?
+User: We live in Goiania
+Wizard: And how many kids do you have?
+User: We have 5 beautiful children, 2 girls and 3 boys. Their names are Sansa, Arya, Robb, Brandon and Rickon.
+Wizard: I'll also need the dates you are available. Then i'll be able to start presenting you with some options!
+User: We can leave from August 30th to September 6th, before winter sets in
+Wizard: For those days, I have one package which is a 4 day stay at the Gentle Tower Resort. Its a four star hotel close to the beach and the airport and it has excellent user reviews. Is that a long enough stay for you?
+User: We would prefer something longer....winter is coming. How about south to Baltimore. What do you have available there on the dates I gave you?
+Wizard: The packages we have to Baltimore do not fit in your budget. Did you have any other destinations in mind?
+User: well how much is it?
+Wizard: The cheaper one is over 17000
+User: We've heard Hamburg is really kid friendly!
+Wizard: I have something for you in Hamburg! I can offer you a 7 day holiday at Hotel Peter. You would be staying in the heart of the city and close to a museum. The package includes free breakfast, wifi and parking and you could fly in business class and still be within your budget.
+User: How much is that one? Is that one on business class too?
+Wizard: The one in Hamburg is 4963.89USD in business and 3722.99USD if you prefer to fly in economy. The Gentle Tower package is 4407.43USD and is only available with economy flights.
+User: What dates for Hambuurg?
+Wizard: Your stay there would be from August 31st to September 5th.
+User: And in Belem?
+Wizard: That one is from September 2nd to the 5th.
+User: Well we definitely would not fly business class with all those kids, definitely economy whatever we choose. You said Gentle Tower is on the beach, is Hamburg also on the beach?
+Wizard: No, the Hamburg hotel is in the heart of the city and close to a museum.
+User: How many stars is the hotel Peter rated?
+Wizard: It is a 3 star hotel.

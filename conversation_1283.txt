@@ -1,0 +1,15 @@
+User: Melbourne please
+Wizard: From where?\
+User: In Long Beach right now
+Wizard: I'm sorry, we do not currently offer any packages with that route at this moment. Please try another destination.
+User: Okay fine... I could go to Kingston to see my bestie too
+Wizard: How long would you like to go for?
+User: Doesn't matter as long as it's a nice hotel
+Wizard: We have one 4 star hotel that offers 6 and 12 day packages. Which do you prefer?
+User: 4 star is the best you got?
+Wizard: Correct.
+User: 6 days only please. Business flights are available right?
+Wizard: Yes indeed. Business costs 2533.69 at our 4 star hotel that includes free parking, breakfast and wifi. Would you like to book?
+User: Alright sure let's get this over with
+Wizard: Perfect. Your package has now been reserved. Bon voyage!
+User: Thanks!

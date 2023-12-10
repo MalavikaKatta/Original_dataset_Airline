@@ -1,0 +1,13 @@
+User: haayyyyy
+Wizard: Hello.
+User: i got a week off from august 27-september 3. i think i wanna take a ski trip to miami
+Wizard: Where will you flying out of?
+User: pho
+Wizard: What will be your budget
+User: no budget
+Wizard: I have a beautiful 6 day star atthe Triple Aegis, it is near a mall and a park, with a 3 star rating, it comes with Free parking wifi and breakfast in total only $1105
+User: wow spectacular! what are the flight details?
+Wizard: It leaves on the 27th and returns on the 1st, shall I go ahead and book that for you?
+User: yeah i like it! please book, thank you
+Wizard: Done and done!
+User: thank you very much kind friend, cheers!

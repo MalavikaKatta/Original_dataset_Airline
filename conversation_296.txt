@@ -1,0 +1,15 @@
+User: hi. i have a 6 days vacation. starting friday sept 2 2016. and id like to go to paris
+Wizard: Where are you leaving from?
+User: from toronto
+Wizard: Do you have a budget?
+User: no
+Wizard: There are only packages from Toronto to Denver and one to Atlanta
+User: what not to parises? or Marseille
+Wizard: There are two options for trips from Toronto to Marseille. Would you like more information?
+User: yes
+Wizard: Both hotels are 4 stars. The first option is from September 16th to 18th. The hotel offers free wifi and there is also a museum nearby. The economy seats cost 2365.33 and business seats cost 2985.90. The second option is from September 17th to 18th, the hotel is near a cathedral and offers free wifi and spa. Economy seats for this package costs 2454.40 and business seats cost 3106.38.
+User: ok economy please, cathedral and spa option
+Wizard: Great! Do you want to book this trip?
+User: yes
+Wizard: Lovely! Your trip has now been booked! Thank you and have a nice day!
+User: thx. bye.

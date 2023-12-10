@@ -1,0 +1,22 @@
+User: hi there. i really wanna pretend im somewhere else
+i dont have any time off and only 2900 dollars though
+Wizard: Why hello. Do you have a destination in mind?
+User: yeah. im in punta cana..
+and thinking about burlington
+Wizard: I have an 18 day package and a 13 day package. Which one would you prefer?
+User: hey either one - if i can afford both! are they at different hotels?
+Wizard: Yes they are two different hotels and they are both within your budget. They are both 3 stars, but the 13 day package has a considerably higher guest rating. Which one would you like to hear about?
+User: tell me about the 13 day please
+Wizard: Breakfast and wifi are included with the package. Economy class costs 1589.30 whereas Business class costs 1960.36. Would you like to book this trip?
+User: is it downtown?
+Wizard: Yes it is! And near a park :slightly_smiling_face:
+User: oh wow…. awesome. could u check packages to Sydney for me too?
+Wizard: I'm afraid we have nothing for Sydney. Shall I book the trip to Burlington?
+User: aw, drat... no i cant book anything
+i would like to hear if u have anything in madrid though
+Wizard: We have a 20 day stay at a 5 star hotel in Madrid. Are you interested?
+User: wow - of course i am! tell me more
+Wizard: The hotel has a guest rating of 9.16/10 and includes breakfast and wifi. For economy, the package would come to a total cost of 1809.49 and for business class it's 2292.77. Would you like to book this?
+User: that’s so cheap!
+Wizard: Yes indeed. A perfect vacation. Shall I go ahead and book this?
+User: i told u i cant book. thanks for letting me know whats out there tho

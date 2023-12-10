@@ -1,0 +1,17 @@
+User: Good afternoon. My husband and I would like to travel with our 6 kids. We have time off between August 15th and 19th. What can you offer for us?
+Wizard: May I ask what your budget is?
+User: 8300 dollars.
+Wizard: Is there any place in particular you would like to go?
+User: Nothing in mind yet, I'm looking for some ideas.
+Wizard: Great! Where will you like to leave from?
+User: Stuttgart
+Wizard: We have a flight to Valencia at a 5 star hotel, the cost of this package is 5695.69, and they offer free wifi. Does this interest you?
+User: Yes it does, can you give me a few more offers that I can compare?
+Wizard: There's a flight to Queenstown, New Zealand for 6347.76 at a 5 star hotel, they offer free breakfast and wifi, and the dates are also from the 15th to 18th of August.
+User: This one is my favorite as of yet. Can you show me one more?
+Wizard: Unfortunately these are the only options.
+User: In that case, let's take another look at the Queenstown package. What are the flight times? It is difficult to take a flight in the middle of the night with young children.
+Wizard: There is a flight that leaves at 7:00 am and one that leaves at 9:39 am. The flights back leave at 1:00am and 3:39 am.
+User: I'll take the one that leaves at 7:00 am are for the return at 1:00 am.
+Wizard: Great! Your trip has been booked! Have a nice day and enjoy the vacation!
+User: Thank you!

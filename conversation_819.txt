@@ -1,0 +1,16 @@
+User: Hello! I would like to book a classic Marseille getaway
+Would be leaving from Birmingham City
+Wizard: Can you tell me some of the things you are looking for as well as for how many people and your desired date of departure?
+User: i'd like to book the poshest trip 3900 can fetch me. just for one
+Wizard: How about a 7 day getaway to Marseille for 3123.49USD?
+User: What kind of hotel would that be at?
+Wizard: That would be a 4 star hotel near the museum. I also have a 4 star hotel near the cathedral for 2437.41USD. Would you rather be near the museum or the cathedral?
+User: What amenities would I get with the cathedral place?
+Wizard: The Grand Hotel, located near the cathedral, not only has free wifi, but also a spa on the premises. The guest rating is a 8.69/10.
+User: But no wifi?
+Wizard: It has free wifi.
+User: Lets do it then
+Wizard: Are you okay with a September 12th departure and return on the 17th?
+User: Yes that will work!
+Wizard: I will start the booking. Thank you and enjoy your stay in Marseille.
+User: Thanks!

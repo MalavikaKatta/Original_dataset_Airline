@@ -1,0 +1,13 @@
+User: need a vacay
+i only got 3 days off work tho august 27-31
+i wanna go to Kobe whats available?
+Wizard: If you can fly out from Sapporo, I can book you at White Square from the 27th until the 31st f or only 565.53USD.
+User: im leaving from brasilia
+Wizard: In that case, your price increases to 4220.10USD. Is this OK?
+User: not bad... what about if i went to punta cana for the same dates?
+Wizard: Unofrtunately the only available package for Punta Cana is from the 24th to the 28th of August. Is this ok?
+User: is the package to Kobe august 27-31?
+Wizard: Yes.
+User: ok well that will be the only one to work for me right now. lets book it
+Wizard: Your vacation has been booked. Enjoy your stay!
+User: thank you

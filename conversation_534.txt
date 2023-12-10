@@ -1,0 +1,8 @@
+User: Say, With just 1900 dollars and little more than a dream, could I make it from Seattle to North Vancouver?
+Wizard: We have a 2.5 star hotel near the beach, departing August 30th and returning September 9th. Business class costs 1142.65 and economy costs 962.46.
+User: but, for even more of a hard-hitting pacific fog/rain/drizzle getaway….. where oh where might he be able to stay in San Juan?
+Wizard: There is a 13 day at a 2.5 star hotel. The hotel is close to a market and offers free breakfast and wifi. Departing flight is September 1st, returning September 13th. Cost is 892.82 for business class.
+User: and if I took my little nineteen hundo nest egg flew on over to Miami. what might that look like?
+Wizard: Where do you want to leave from?
+User: alas Seattle is what i call “home" 
+Wizard: There's a 3.5 star hotel near the airport, departing September 2nd and returning on the 10th. 1096.28 is the price for the business flight.

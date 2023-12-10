@@ -1,0 +1,19 @@
+User: Hola! I need to go on a trip!
+Wizard: Certainly! What can I assist you with?
+User: The 6 kids miss their mommy very much. Can you take us to Jerusalem?
+Wizard: I’m sorry but I’m unable to offer packages to Jerusalem at this time. Would there be an alternate destination you could travel to ? Can I perhaps find you another destination ?
+User: ..... I think I got a good idea!! I can maybe go to Naples and since it's so nearby my wife can just walk over from Jerusalem eh?
+Wizard: Absolutely! Where would you like to leave from?
+User: Cordoba
+Wizard: Great! I have several options for you. Would you like to stay for 9 days? I also have shorter packages available if you prefer.
+User: 9 days is fine. Just need a hotel with something to do for the kids maybe... outdoor activities or at least wifi if all else fails
+Wizard: The 9 day package would be at the 3 star Courtyard hotel in the heart of the city near a museum. There is free breakfast and wifi included in your stay and the hotel has a 8.8/10 guest rating.
+User: How much is it?
+Wizard: 2603.2USD if you choose to fly economy class
+User: Are there options that are significantly better?
+Wizard: I have an 8 day package the Tower Hotel, a 4 star hotel with a 8.86/10 guest rating - though not near any noted points of interest - for 4085.46USD (economy class). The package also includes free wifi and free breakfast.
+User: You know what, I'd prefer to take the kids to the first one. At least they can see the museum and stuff.
+Wizard: Great idea :slightly_smiling_face: Shall I go ahead and book that for you?
+User: Oh you can do that?? YES PLEASE!
+Wizard: Of course - consider it booked!
+User: Thanks so much! My kids and wife will be so excited :slightly_smiling_face:

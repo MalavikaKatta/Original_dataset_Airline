@@ -1,0 +1,12 @@
+User: Yo dude.
+Wizard: Hi! You are now connected. What can I help you with today?
+User: i wanna get out off this lame city. I can leave for 13 days dawg. Gotta dip from Puebla.
+Wizard: OK! Where would you like to go?
+User: anywhere man.
+Wizard: Do you have a departure date in mind? I can send you to Tijuana for ten days if you leave August 30th. This would be under 500 for flights and hotel!
+User: I only got $400
+Wizard: The cheapest option in Tijuana, or any destination for that matter, would be 419.96USD.
+User: well dang. how 'bout if I skedaddle from Montreal?
+Wizard: Leaving from Montreal, you could spend 4 days in San Juan for only 175.89USD!
+User: that's dope! I'll take it. you're pretty helpful
+Wizard: Glad to be of service :slightly_smiling_face:

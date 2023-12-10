@@ -1,0 +1,27 @@
+User: I’m good, you?
+Wizard: Never bad! How can I help you?
+User: I’d like to leave Busan
+Wizard: Why yes, where would you like to go?
+User: Do you do flights to Long Beach?
+Wizard: Sure thing! What are your preferred travel dates?
+User: Between Sept 8 and 26 please
+Wizard: Is there a cap to how much you'd like to spend?
+User: There’s no cap, I’m a lucky duck
+Wizard: You sure are... we have a 3 star hotel close to a park with 8.49/10 guest rating, and a 2.5 star hotel close to the airport with 6.91/10 guest rating. Both have free parking, free breakfast, free wifi.
+User: Whats the cost though?
+Wizard: For the 3 star hotel I have a 6 day economy package for 3331.87, business package for 4304.65. For the 2.5 star hotel, I have 6 day economy package for 3121.59, business package for 4046.30.
+User: How about trips to San Juan? Would you be able to find me better than a 3 star rated hotel?
+Wizard: You are in luck! There is a 4 star hotel in San Juan with a 8.98/10 rating. It boasts easy access to museums, shopping, and markets.
+User: Yes please check flights to Kingston please
+Wizard: In Kingston you can get a 4 star hotel with 8.22/10 rating or a 3.5 star hotel with 8.69/10 rating. Are you interested in knowing more or would you like me to check some other destinations?
+User: Just tell me a little more about the 4 star hotel please. Nearby attractions, amenities, etc.
+Wizard: It's close to a museum and it's got free parking, breakfast, and wifi.
+User: Do you do Busan to Fort Lauderdale?
+Wizard: We do, but we only have a 2 star hotel. Don't think you'd want that...
+User: What’s the longest stay you can get me at that 4 star hotel you mentioned?
+Wizard: For Kingston, I only have a 5 day package from Sept 12-15. For San Juan, the longest I have is a 9 day package from Sept 14-21.
+User: How much would the San Juan trip cost, for economy class?
+Wizard: This offer is available for 1624.19!
+User: Please book that one!
+Wizard: Your trip has been reserved for you! A confirmation email with all the details is coming your way shortly.
+User: Thank you!

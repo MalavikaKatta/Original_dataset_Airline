@@ -1,0 +1,15 @@
+User: Yes hi! I live in Santos and I want to book a holiday of up to 16 days. Do you have any trips I can take that fit within a budget of 0$?
+Wizard: I am sorry but we do not offer free trips
+User: Really? Not even to Cordoba?
+Wizard: We do not offer free trips.
+User: That's really a shame. Alright, what if I increase my budget to 400$, what can you do for me?
+Wizard: I can actually send you to Rio de Janeiro for 9 days for $152.86USD. Does this interest you?
+User: That could be fun, can you give me more info about the package?
+Wizard: You would have to be available from Aug 30 to September 7. I can even send you in business class if you would like. It would be at the  Hotel Fernando Ribero, which is rated 2.5 stars.
+User: Yes!!! Business class!! Can you give me other trip options?
+Wizard: For business class to the hotel Fernando Ribero, it would be 204.56USD. All other options to Rio de Janeiro are above your $400 budget.
+User: How about to other destinations?
+Wizard: Hotel Fernando Ribero in Rio de Janeiro is the only one for under $400. Would you like to book it?
+User: Yes, since 400 really is my budget, I'll book the Hotel Fernando Ribero package. It won't be the most exotic holiday, but it is a very good deal!
+Wizard: I will proceed with the booking.
+User: Great, thank you!

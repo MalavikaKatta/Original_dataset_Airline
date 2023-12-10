@@ -1,0 +1,11 @@
+User: Hey, i want to go to rome from kochi. Can you find me some packages between september 2nd and 6th for 4300
+Wizard: Are your dates flexible?
+User: Yes my dates are quite flexible
+Wizard: Actually, on further inspection I have found a 4 star hotel available from Sept 2-6 for you! You would stay at the Hotel Grand Residence - a 8.8 user rated hotel with free breakfast and wifi. The total price for this package is $2917.
+User: Is there a business flight for this package?
+Wizard: There sure is! The cost to upgrade to business class would bring your total to 3794.31USD
+User: oo la la! that sounds like a great way to spend my money. Is this hotel near anything?
+Wizard: It is near shopping and a cathedral
+User: OOOOOO SHOPPING!!! I'll take it! Sign me up!
+Wizard: Sure thing :slightly_smiling_face:
+User: Thanks!

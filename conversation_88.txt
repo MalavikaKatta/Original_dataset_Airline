@@ -1,0 +1,13 @@
+User: Hi! My 3 best friends and I are looking for a trip to Neverland between August 16 and 19 on a very tight budget of $3500. What can you do for us?
+Wizard: Hello. Are you totally set on Neverland or do you have any other possible places you would like to visit?
+User: Sorry, my mistake. we are leaving from Neverland and would like to go to Leon.
+Wizard: If you could leave out of Santiago or Valencia, I may have something available in Leon. Is that a possibility?
+User: Sure, why not! Lets see what's available.
+Wizard: Out of Valencia?
+User: Our friend The Amazing Peter can take us anywhere, Valencia Spain would be the most convenient.
+Wizard: From August 17 to the 23rd, I have a beautiful 5 star property called El Hotel Del Mar available for a 7 day stay. Are you able to stay until the 23rd?
+User: I'll have to check with my 3 best friends. How much is the package?
+Wizard: It's well within your budget at $1739.33USD.  
+User: August 17 to the 23rd works for everyone, even Peter Pan, who will take us to the airport. Is breakfast included?
+Wizard: Awesome. I will take care of confirming the booking for you right away.
+User: Thank you very much!

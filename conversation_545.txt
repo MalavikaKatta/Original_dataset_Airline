@@ -1,0 +1,15 @@
+User: SL to Rome, what hotels you got?
+Wizard: Good day, I will help you with your booking. Would you have departure dates and number of people?
+User: 2 people. Departing ASAP.  Back before Sept 14
+Wizard: All of our packages from St. Louis to Rome are a 10 day stay. Do you have any special requests concerning hotels?
+User: They just have to be the best
+Wizard: All of our hotels in Rome, except for 1,  carry a 4 star rating. I can give you the price on the most expensive.
+User: Does the most expensive one also have the highest guest rating?
+Wizard: The Hotel Grand Residence is $9455.55USD and has a 8.8 /10 star rating. Our earliest flight departs on Sept 2.
+User: and return date?
+Wizard: September 10. At that price, we have placed you in business class all the way.
+User: Good, I'm glad you did that. Ok lets just check Miami really quickly. Whats the best hotel you can find me there?
+Wizard: 3.5 stars located near the airport
+User: Yea...lets go with Rome instead then. Book it
+Wizard: I have taken care of the booing for you. Have a good trip.
+User: THANK YOU!

@@ -1,0 +1,17 @@
+User: Hello. Looking to travel out of Leon with a client
+I want to find a really nice hotel to impress him - have big business deals to close
+Wizard: Where would you like to go?
+User: Denver would be one choice. With an unlimited budget, can you describe the best trip money can buy?
+Wizard: When would you like to go?
+User: Anytime after September 6
+Wizard: Our best package is a 4 star hotel, 8.69/10 guest rating, free wifi, from September 9th to 21st, business class flights, 4214.99.
+User: Thats a good start. near the university?
+Wizard: My database doesn't tell me.
+User: ok great. lets check some other places in that case
+look into the best package in brasilia?
+Wizard: We have a 3.5 star hotel near a beach, theatre, and shopping, 8.69/10 guest rating, free parking, breakfast and wifi, September 10th to 19th, business flights, 6632.76.
+User: I like that its near the beach, but 3.5 star is a little low. Lets also check out Punta Cana then
+Wizard: We have a 3 star hotel.
+User: Ok book 2 adults business class to Denver
+Wizard: Done! Enjoy the trip!
+User: Excellent, thank you

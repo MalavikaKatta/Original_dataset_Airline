@@ -1,0 +1,14 @@
+User: London to Burlington. Sept 12 to 25
+For one
+Got anything?
+Wizard: Budget?
+User: don't have one!!
+Wizard: I have two hotels available - Celestial Inn & Suites (3 stars/8.69 guest rating) or Excursion Motel (2.5 stars/6.77 guest review)
+User: What are the dates for the Celestial?
+Wizard: September 12-17
+User: Would you be able to get me a longer stay at the other hotel?
+Wizard: Sorry, the other package is also a 6 day trip.
+User: How much does the Celestial cost then
+Wizard: 793.3USD
+User: book it!
+Wizard: Sure thing :slightly_smiling_face:

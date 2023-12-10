@@ -1,0 +1,19 @@
+User: Hey I'd love to bring my 4 kids to go see their mom who's currently working in Washington, could you find me a flight?
+Wizard: Yes! This will be 1 adult and 4 children?
+User: yes please
+Wizard: And where will you fly out from?
+User: We live in Boston
+Wizard: Do you have a budget or dates you would like to leave and/or return on?
+User: Nah we're flexible. As long as I can take my kids to go see their mother.
+Wizard: I am sorry to inform you that we have no flights from Boston to Washington. Is there somewhere else you can fly to?
+User: What! It's going to be difficult dragging 4 kids around, but sure I guess we can try Phoenix instead of Washington.
+Wizard: Lucky for you we have packages for Phoenix. How long would you like your stay to be?
+User: I guess the longer packages would be great, thanks.
+Wizard: Okay, our longest package is 10 days. The hotel is 2.5 stars, with a 7.06/10 guest rating, near the airport and a museum, and the hotel provides free breakfast, parking, and wifi. This package is from September 21st to 30th.
+User: How much would that cost?
+Wizard: For business or economy flights?
+User: I'm wondering for both, please.
+Wizard: For economy it is 2167.71 and business is 2556.30.
+User: I'll fly business please! The kids will have a lot of fun with that.
+Wizard: Awesome! Your package has been booked and you should receive your confirmation email within the next 20 minutes! Have a great trip!
+User: Thanks!

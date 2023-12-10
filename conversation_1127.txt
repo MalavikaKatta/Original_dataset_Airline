@@ -1,0 +1,5 @@
+User: I want to go to Miami from Beijing  between september 6th and 9th for 3500 and 5 adults altogether. The only thing I am flexible with is the price, if i need to I can increase it by 200
+Wizard: I have nothing available from Miami to Beijing
+User: Well IF I make my dates flexible are there any results?
+Wizard: From Beijing to Miami, even if I make the dates flexible, I get no results, which means we just don't have any packages to that destination from that destination
+User: Okay, well thanks anyway.

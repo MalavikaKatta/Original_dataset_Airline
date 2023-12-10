@@ -1,0 +1,22 @@
+User: Need to get to Essen
+Wizard: And from where will you be departing?
+User: Berlin
+Wizard: I have 15 days at the Relaxation Hotel for  576.46USD.
+User: How many people is this for?
+Wizard: are you travelling alone?
+User: no
+Wizard: How many are in your party?
+User: My wife, my lawyer, me and my 5 kids
+Wizard: In that case, the cost of the Relaxation Hotel package increases to 3510.67USD
+User: What can we do at the Relaxation Hotel, this is an information gathering mission but I would like to spend some quality time with the kids
+Wizard: It is near a palace, has free wifi, and breakfast costs are included.
+User: what if we fly business class, how $$$$
+Wizard: 3857.61USD
+User: Is this all you have in Essen?
+Wizard: Yes.
+User: what's the rating on the hotel?
+Wizard: 3.0 stars. 6.61/10 user rating.
+User: If I increase my budget to a total of $6100, do you have something nicer in Essen?
+Wizard: No, that is the only option in Essen.
+User: Well I guess we have no choice then LOL let's reserve it On business class
+Wizard: Ok, you’ve got it!

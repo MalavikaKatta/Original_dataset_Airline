@@ -1,0 +1,19 @@
+User: I want to take my five friends with me from San Diego to Frankfurt for my birthday bash
+Wizard: Sure! 6 adults total then?
+User: ya
+Wizard: when would you like to go on this trip?
+User: I dont care
+Wizard: Anything in particular you are looking for in your accommodations?
+User: I want the best. Nothing under 5 stars
+Wizard: One of our absolute best packages happens to be located in Frankfurt, it is a 5 star luxury hotel with a 9.32/10 guest rating. Is this something that interests you?
+User: It might. Let me take a peek at my other destinations first. This party needs to be perfect. Can you check Marseille
+Wizard: We also have a 5 star luxury hotel in Marseille with a 8.69/10 guest rating, except this one also includes a spa. This package is only available for 5 days whereas the Frankfurt package is available for 10 days.
+User: Nice. Anything in Pittsburgh?
+Wizard: All available packages in Pittsburgh at the moment are all at 2.5 star properties.
+User: I think the Marseille trip is the best since there’s a spa. Is there a spa in the hotel in Frankfurt?
+Wizard: No, the Atlantis Peaks Resort in Frankfurt does not have a spa on the premises
+User: ok then i’ll go with marseille
+Wizard: There are business class seats available with this package. Do you want me to book you on those? The total cost will be 18412.34USD for the 5 day package.
+User: ok just as long as I get business class
+Wizard: You are booked at the luxury Résidence Alpha for 5 days on business class.
+User: thanks

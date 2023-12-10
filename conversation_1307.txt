@@ -1,0 +1,13 @@
+User: Please get me back to Manaus asap!!
+Wizard: Ok! Where are you leaving from?
+User: Currently in Osaka actually
+Wizard: Great! When would you like to leave?
+User: ASAP!!!
+Wizard: I have Hotel Aquamarine River available starting September 14th until the 22nd if this interests you?
+User: Oh I forgot to mention I only have 4300 bucks to spend.. will this work?
+Wizard: Actually, yes! This package is right within your budget at a price of 4217.11USD.
+User: Okay great! Before I book anything, can you check if there are any trips that leave earlier if I go from Stuttgart?
+Wizard: From Stuttgart to Manaus the soonest departure I have is also September 14th.
+User: Alright I'll still leave from Osaka! Please finalize this deal for me!
+Wizard: Sure thing! You will depart Osaka at 9 AM September 14th.
+User: Awesome. Thanks so much!

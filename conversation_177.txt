@@ -1,0 +1,13 @@
+User: Madonna and Will Smith are on a trip to Houston. A picture of them is worth millions. I need to go to Houston.
+Wizard: Okay. Where are you leaving from?
+User: Ciudad Juarez, and I'm on a strict budget of 2800 USD.
+Wizard: Travelling alone?
+User: Yes sir! No one else can know about this.
+Wizard:  Do you have travel dates in mind?
+User: I need to leave on August 17th. So I'm already late.
+Wizard: How long do you want to be in Houston?
+User: As long as my budget will carry me for.
+Wizard: Sorry but there are no trips from Ciudad Juarez to Houston. Would you be able to leave from somewhere else?
+User: But I NEED to go there! What if I increased by budget to 3800 dollars?
+Wizard: I'm sorry but there are no results for your request in my database.
+User: Oh no... I'll have to go to a different agency.

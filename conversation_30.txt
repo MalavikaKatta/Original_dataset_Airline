@@ -1,0 +1,17 @@
+User: Good afternoon, I'd like to book a trip with my son from August 18 to August 29. He and I would be leaving from Curitiba. What destinations can you offer?
+Wizard: I can offer 11 days in Hamburg for 3550.41USD. You would return on August 28th
+User: Goodness that's too expensive. Is there anything you can offer around $2600?
+Wizard: I can also offer 10 days in Vancouver, Canada for 4319.83USD, 9 days in Frankfurt for 4615.35USD, or 12 days in Paris for 4771.39USD.
+User: Is there anything for 2600USD between the dates of August 18 and August 29th? For less than 10 days?
+Wizard: Would you be interested in spending 9 days in Manaus for 1162.21USD?
+User: Fantastic! What are the departure and arrival dates?
+Wizard: You would depart on Friday, August 19th and return Saturday, August 28th.
+User: What is the hotel, and how many stars does it have?
+Wizard: The hotel is called Hotel Mundo and has a 2.5 star rating. I can also offer you 5 days at Scarlet Palms Resort, a 3.5 star rating hotel, for 1358.78USD.
+User: I like the Scarlet Palms Resort. What are the departure and arrival dates?
+Wizard: You will depart Wednesday, August 24th 2016 and return home on Sunday, August 28th 2016.
+User: Is there an indoor pool at the hotel?
+Wizard: There is free wifi and breakfast at the hotel.
+User: Ok I'll book this one.
+Wizard: Sure thing. I will book 5 days at the Scarlet Palms resort for one adult and one child. Thank you.
+User: Thank you!

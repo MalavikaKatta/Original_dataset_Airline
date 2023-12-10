@@ -1,0 +1,8 @@
+User: Hi do you have packages for 8 adults from Tel Aviv to Vitoria?
+Wizard: Hi! Do you have a budget?
+User: No, I don't
+Wizard: When would you like to leave?
+User: August 26, And return August 29
+Wizard: There are no flights from Tel Aviv or to Vitoria.
+User: What about Tel Aviv to Goiania
+Wizard: There are no results.

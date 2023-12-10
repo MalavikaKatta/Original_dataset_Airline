@@ -1,0 +1,11 @@
+User: Hi there, I'm coming up on the 10th anniversary with my lady, and I thought I'd treat her and I to something special this year. Boston is where I call home, and I thought it sure would be nice to get out of town for a change
+What destinations are on offer from my city?
+Wizard: Many destinations are possible. Do you have a budget or date of departure?
+User: We can leave any time, though the sooner the better.
+Wizard: Do you have a budget?
+User: You think you can do me a little favour and get us this trip for free? I never forget a favour.
+Wizard: I cannot book trips for free.
+User: I have about $400 stashed away, is that enough to get me out of here?
+Wizard: You can spend 20 days at the Summer Covert Club in Atlanta for 368.93USD.
+User: Right on! The wifey will be thrilled! This is the price for two adults...correct?
+Wizard: For two adults the price is 737.87USD.

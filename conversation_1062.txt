@@ -1,0 +1,25 @@
+User: TORONTO PLEASE AND FROM BELO HORIZONTE
+Wizard: For 1?
+User: YES ONE ADULT MAN
+Wizard: Tell me about what your priorities are in a hotel
+User: I LIKE EVERYTHING I WANT TO KNOW EVERY LITTLE DETAIL AND I WANT TO COMPARE IT ALL
+Wizard: WHOA! Do you have a budget?
+User: NO I HAVE UNLIMITED MONEY
+Wizard: So you want the best of the best?
+User: I DUNNO I GUESS SO
+Wizard: I'll start with the Hotel Eric Perrier 4 star hotel, in proximity of the airport and the cathedral 8.8/10 guest rating, free breakfast, free wifi, 3265.54USD business class flights
+User: OK THAT IS PRETTY GOOD. ANYTHING BETTER IN CLEVELAND??
+Wizard: Pleasant Court Inn is available for 10 days, 3 star hotel in close proximity of the park and theatre, excellent guest rating of 8.98/10, free parking, free breakfast, free wifi 3113.63USD business class flights
+User: WHAT ABOUT IN PITTSBURGH
+Wizard: Majestic Mountain Inn is available for 12 days 2.5 star hotel in close proximity to the park, 6.91/10 guest rating, free parking, free breakfast, free wifi  3087.40USD business class flights
+User: IT IS IN SAN DIEGO??
+Wizard: No it is in Pittsburgh, that's just the name of the hotel
+User: WELL WHERE CAN I STAY IN MACEIO
+Wizard:  Hotel Regal Time is available for 11 days, 3.5 star hotel in close proximity of the park, market and theatre, 8.8/10 guest rating, free breakfast, free wifi, 1634.97USD business class fligths
+User: THAT SOUNDS VERY NICE
+Wizard: Would you like to book it?
+User: HOW LONG IS THE TRIP TO HOTEL ERIC PERRIER
+Wizard: 12 days
+User: I WANT TO DO HOTEL REGAL IN MACEIO. BOOK PLEASE
+Wizard: I will book that now
+User: GOOD BYE

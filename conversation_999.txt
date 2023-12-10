@@ -1,0 +1,13 @@
+User: From between Sept 6 and Sept 11, I’m on break. Leaving from Columbus
+Wizard: Do you have a budget?
+User: 4800
+Wizard: We have a package to Santo Domingo, Hamburg, Berlin, and Nagoya.
+User: How’s the hotel in Nagoya?
+Wizard: 3 stars. Berlin however has two 5 star hotels.
+User: Ooh tell me more!
+Wizard: About the 5 star hotels in Berlin?
+User: What are the key differences between them?
+Wizard: The Sanctuary has a 8.8/10 guest rating, is near a museum, 3995.31 for business flights and 3104.78 for economy flights. The Golden Crown Hotel has a 8.49/10 guest rating, is near a museum and cathedral, 3976.10 for business flights and 3085.49 for economy flights. Both hotels offer free breakfast and wifi and are from September 8th to 11th.
+User: I think the Sanuary holds the edge then. lets book it, business class
+Wizard: Awesome! Your package is booked! Enjoy your trip!
+User: Thank you!

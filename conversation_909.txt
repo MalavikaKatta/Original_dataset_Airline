@@ -1,0 +1,21 @@
+User: Hi there. I'm trying to take the family somewhere nice this month
+I've been working hard to save up all year, and have 23400 to spend
+Wizard: Okay! Where would you like to go?
+User: Do you have flights to San Jose?
+Wizard: Yes. How many people are you?
+User: Two adults, 4 children
+Wizard: Where are you flying out from?
+User: Flying out of Fukuoka please
+Wizard: When?
+User: Something between September 1 and 9 please
+Wizard: We have a result for a 4 star hotel by the beach and also close to a museum. The hotel has a 8.8/10 guest rating and offers free parking, breakfast, and wifi. This package is from September 2nd to 7th and costs 9355.99 for business class and 7392.37 for economy.
+User: Wow I'm impressed Lets keep that on hold
+My wife wanted me to check some other cities out too
+Can you take me to Hamburg?
+Wizard: We have a 4 star hotel in the heart of the city, 8.98/10 guest rating, free breakfast and wifi, from September 1st to 8th, 12012.20 for economy and 15441.35 for business.
+User: How are your packages to Phoenix?
+Wizard: This is a 2.5 star hotel near the airport and a museum, 7.06/10 guest rating, free breakfast, parking, and wifi, from September 2nd to 6th, 20145.70 for business, 15508.67 for economy.
+User: Ok thats definitely not quite as appealing. Can you put us down for San Jose?
+Wizard: Sure! No problem! Have a great family vacation!
+User: Thanks! Is it confirmed yet?
+Wizard: No problem!

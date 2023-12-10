@@ -1,0 +1,25 @@
+User: Hi we want to go to San Juan
+Wizard: Where will you be leaving from?
+User: Gotham city
+Wizard: How many people will you be bringing along?
+User: 7 kids and 14 adults with me
+Wizard: What is your budget?
+User: $3,000
+Wizard: Do you have any dates in mind for travel?
+User: Not really
+Wizard: The cheapest package we have for your request is over 8000.
+User: so scratch my budget
+Wizard: We have no trips flying out of Gotham City. Is there a different city nearby?
+User: I can leave from St. Louis instead
+Wizard: We only have flights from Montreal.
+User: We can work with that
+Wizard: We have one 4 star hotel and the rest are 2.5 stars. Which would you prefer?
+User: 4 star, tell me about it
+Wizard: There is a museum, shopping, and a market. The hotel offers free wifi. This package is from September 6th to 9th and costs 11095.78.
+User: and the 2.5 stars because i dont think i have that money
+Wizard: Your cheapest option is 8308.86.
+User: tell me about it why dont you
+Wizard: Its offers free breakfast and wifi, with a market close by. This has economy class seats and the trip is from September 4th to 7th. Would you like me to book this package for you?
+User: Yes please go ahead that one actually seems better
+Wizard: Great! Your trip is booked!
+User: Thanks!

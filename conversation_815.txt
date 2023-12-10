@@ -1,0 +1,13 @@
+User: Hello, you can get my friend and me to Mexico City. From Puebla - this shouldn’t be difficult
+Wizard: How much are you willing to spend?
+User: Get us there whenever but get us back before September 21. We are willing to spend whatever it takes to get the best flights and hotels
+Don’t bother if its not 4.5 stars or better
+Wizard: The very best in Mexico City is only a 3.5 star hotel. It has a 8.37/10 guest rating though. Will this suffice or do you want to try another city instead?
+User: Try Santo Domingo
+Wizard: In Santo Domingo I can get you a business package at a 4 star hotel with 8.8/10 guest rating. It offers free wifi, breakfast, and parking and is conveniently located near the beach and shopping.
+User: What dates?
+Wizard: September 7 to 20.
+User: Sign us up
+Wizard: Confirmed. You are going to Santo Domingo! 2477.25 total for everything. The confirmation email is on its way. Anything else I can do for you?
+User: did you book us business class?
+Wizard: Of course, business it is!

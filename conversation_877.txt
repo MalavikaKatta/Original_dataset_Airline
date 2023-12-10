@@ -1,0 +1,17 @@
+User: Do you do flights out of Seoul?
+Wizard: Sure do! Where to?
+User: I have Boston in mind
+Wizard: We do have a few options for Boston from Seoul. When would you like to go? And how many are you traveling with?
+User: Traveling alone. September 5 to 16
+Wizard: We have a 6 day package at a 2.5 star hotel that matches your needs for 3616.69.
+User: Which six days?
+Wizard: September 6-10.
+User: Ok I’d like to find a longer stay elsewhere if possible. Can you also look up Santos for me?
+Wizard: Unfortunately we don't have any trips form Seoul to Santos. Any other places you'd like to visit?
+User: Try San Francisco
+Wizard: In San Francisco we have a 10 day package from September 5-13 at a 2.5 star hotel. Does that sound better?
+User: Whats the cost?
+Wizard: We have the economy package for 2871.66 and the business package for 3713.8.
+User: Please get me on the economy!
+Wizard: You are all set! An email confirmation is on its way to your inbox.
+User: Thanks!

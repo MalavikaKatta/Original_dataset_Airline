@@ -1,0 +1,8 @@
+User: I NEED TO GET OUT OF NORTH VANCOUVER ON SEPTEMBER 8TH. CAN I GET A FLIGHT TO DUBLIN?
+Wizard: Why yes of course! We have a 13 day package costing 1181.12 for economy class leaving North Vancouver on September 14th. How does that sound?
+User: NO I NEED TO LEAVE ON THE 8TH.
+Wizard: The earliest flight we have is September 11th. 
+User: NO I NEED TO LEAVE ON THE 8TH. DO YOU HAVE ANYTHING LEAVING FROM CLEVELAND
+Wizard: Again, our earliest flight is still September 11th. Would you like to leave from another city?
+User: NO BUT I CAN GO TO SACRAMENTO
+Wizard: I'm sorry, our earliest flight is still September 11th. How else can I help you?

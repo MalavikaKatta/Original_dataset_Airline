@@ -1,0 +1,13 @@
+User: ay i need to get my parents out of SL this month ok??? can u book them somewhere from St. Louis til the 28th for 4300 bucks and get em out of here today if u can
+Wizard: We have a trip to Toronto leaving today and returning on on the 23rd and another trip to Santo Domingo or San Francisco leaving tomorrow and returning on the 28th. Which one would you prefer?
+User: whoa that's amazing. which one is cheaper
+Wizard: San Francisco is cheapest at 945.18, followed by Santo Domingo at 3015.99. Toronto costs 3179.24.
+User: san francisco is way cheaper wow,. how many stars are the hotels
+Wizard: It's a 2 star hotel with 6.37/10 guest ratings.
+User: i am gonna need something nicer to sell my folks on it tho. what is the santo domingo  hotel like?
+Wizard: It's a 3 star beachside hotel with 7.06/10 ratings and conveniently located next to shopping.
+User: that sounds better for sure! is the toronto hotel even nicer?
+Wizard: It is! It's a 4.0 star hotel next to the airport and the cathedral. It has an average 8.8/10 guest rating.
+User: ok well that's gonna have to be the winner in that case. go for it
+Wizard: Alright booked. Your folks are headed to Toronto for 16 days! The flight leaves this afternoon. Better let them know soon!
+User: thanks dude

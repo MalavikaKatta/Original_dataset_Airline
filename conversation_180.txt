@@ -1,0 +1,12 @@
+User: hiiiii there. I have an interview in Burlington!!!! Can you get me there?
+Wizard: Where will you be leaving from?
+User: From Salvador and I'd like to be there between August 19 and September 5th.
+Wizard: Will you be travelling alone?
+User: Yes! For the very first time! I have a few interviews for a fall internship!
+Wizard: We only have flights to Brazil for those dates.
+User: Oh my. What about Rome?
+Wizard: You would like to leave from Rome or fly to Rome?
+User: I'd like to fly to Rome from Salvador
+Wizard: We have a flight from the 30th of August to the 2nd of September. This is at a 4 star hotel that offers free breakfast and wifi. The cost is 3073.70. Would you be interested in this package?
+User: The dates are fine, but the price is WAY over my budget of 1400 dollars!
+Wizard: There is nothing in my database that is under 2000

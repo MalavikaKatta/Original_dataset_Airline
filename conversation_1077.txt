@@ -1,0 +1,14 @@
+User: i want to get some work done. there are a few puppers that need my magic touch
+can you get me 4 days or more in Sendai for 5000
+Wizard: Leaving from where?
+User: wherever
+Wizard: Are you travelling alone?
+User: i have an assistant
+Wizard: We have 17 days from September 7th to 22nd at a 4 star hotel, 8.8/10 guest rating, near a park and museum, and free wifi.
+User: 
+Can I leave from Alexandria and spend under 5000
+Wizard: Yes the trip from Alexandria is 4887.69.
+User: hmm what if I left from Milan?
+Wizard: 4476.52.
+User: ok. book it out of Milan please
+Wizard: Done! Have a great day and enjoy the trip!

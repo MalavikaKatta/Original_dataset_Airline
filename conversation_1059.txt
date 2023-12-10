@@ -1,0 +1,19 @@
+User: hello. lima please
+Wizard: From where?
+User: osaka
+Wizard: Do you have a budget?
+User: 5300 dollars
+Wizard: For 1 adult?
+User: yes for one adult
+Wizard: When would you like to leave?
+User: september 14th i start my holidays. and i must be back to work october 4th
+Wizard: Do you prefer a 3.5 star hotel or a 4 star hotel?
+User: I want to stay on the beaches and near markets, and I want free wifi
+Wizard: Every hotel is near a park.
+User: that is pretty good...book the 4 star please
+Wizard: Okay. Would you prefer 11 days from September 15th to 24th or 9 days from September 26th to October 3rd?
+User: 11 days how much would that cost?
+Wizard: For business flights, 4054.90 and for economy flights, 3152.83.
+User: economy please
+Wizard: Great! It is booked! Have a great day and enjoy the trip!
+User: i appreciate your assistance

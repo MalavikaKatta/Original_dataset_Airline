@@ -1,0 +1,19 @@
+User: I have 8 days off coming up. Really want to get out of the country
+the country being brazil
+do you have flights to mexico city?
+Wizard: Can you provide desired dates please
+User: september 9 to 17
+Wizard: What city in Brazil would you like to depart from?
+User: Fortaleza. For one adult only
+Wizard: I have the perfect package for you: Fortaleza to Mexico City, 8 days, departing Sept 10th and returning Sept 17, at the 3.5 star Coast, with an excellent location near the beach, museum and close to shopping
+User: I was actually just googling attractions in Phoenix. do you offer flights there?
+Wizard: No flights to Phoenix
+User: Ok lets go with that Mexico City package
+Wizard: Would you like the price?
+User: I have an uncapped budget but sure, can't hurt to know
+Wizard: 2317.74USD if you fly on  business class seating
+User: How much for economy class
+Wizard: 1834.55USD on economy class seating for the 8 day package
+User: Ok book it!
+Wizard: I shall book it for you right away
+User: thank you!

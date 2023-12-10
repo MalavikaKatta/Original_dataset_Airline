@@ -1,0 +1,27 @@
+User: Hellooooo. I’m looking to get out of Valencia and check out Hiroshima
+Please let me know what is available between August 27 and September 14
+Wizard: Are the dates flexible?
+User: No
+Wizard: I have 7 days from September 8th to 13th at 4.5 star hotel for 2964.61$
+User: Whats close to the hotel?
+Wizard: a museum
+User: OkWhat do you have available in Ciudad Juarez?
+Same date range
+Wizard: I have 3 star and 3.5 stars hotels, for 7- 11 and 13 days
+User: Anything on the beach?
+Wizard: Hotels are near museum, palace or market ... nothing on the beach unfortunately
+User: Anything on the beach or somewhat luxuiours in Fortaleza, leaving from Valencia?
+Wizard: We have 10 days, 8 days or 6 days trip
+User: What are the hotels like?
+Wizard: all 3 stars hotel
+User: And on the beach?
+Wizard: Near shopping mall, park and museum
+User: Well what do you have available in Fort Lauderdale??
+Wizard: 2 stars hotel near the market for 2605.86USD economy class and 3364.5USD business class
+User: Ah, not interested in a 2 star. Can you tell me more about the 4.5 star in Hiroshima
+Wizard: 2964.61USD for 7 days in economy class or 3828.45USD in business class.
+User: What is the hotel like?
+Wizard: free wifi near museum
+User: Ah, ok. Well lets go ahead and book Hiroshima
+Wizard: ok, I will do that and send you a confirmation as soon as it is done.
+User: Thanks

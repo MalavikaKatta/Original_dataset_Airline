@@ -1,0 +1,13 @@
+User: I need to get out of Salvador. I don't know if I can, but I want to. With 3400, can that get me to Houston?
+Wizard: I am sorry but I dont have anything from Salvador to Houston
+User: what about to leon
+Wizard: We have 8 - 10 - 12 days trips staying at 5 star hotels
+User: what kind of amenities at the 5 star hotel?
+Wizard: free wifi
+User: k how about...san juan
+Wizard: 4 star hotels for 10 days @ 2499.28USD
+User: Pittsburgh
+Wizard: we have 8 - 11 and 12 days trip
+User: what about the hotel?
+Wizard: 3.5 and 2.5 hotels
+User: ok cool thanks! just wanted to know even though i can't book

@@ -1,0 +1,12 @@
+User: I'm good, thanks! I'm looking to book a trip for a group of children with me as their chaperone.
+Wizard: Sure! How many children total?
+User: 12!
+Wizard: That is a lot! Where are you headed from? And what's the total budget?
+User: I don't want to spend any more than 2000, and we'll be coming from Belo Horizonte.
+Wizard: Sorry, we don't have anything that works with the size of your party and budget. Would you be flexible with you budget by any chance?
+User: I'm only willing to increase by $200, would it be possible to find something with that?
+Wizard: Unfortunately it is still a no. Anything else I can help you search?
+User: Not even a nearby city for a couple of days?
+Wizard: Sadly no. Not with a budget of 2200.
+User: Okay then, thanks for your help anyway!
+Wizard: You're very welcome!

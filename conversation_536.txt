@@ -1,0 +1,11 @@
+User: Where can this guy go for 2400??? I live in Mexico City. been dreaming of a trip to Milan
+Wizard: Would you like to book a trip? I can help you with that. Is Mexico City your departure and Milan your destination?
+User: yes
+Wizard: dates of travel?
+User: none yet. as in i'm not sure. just tell me about whatever is in your system and i will ponder the possibilities
+Wizard: we do not have any packages in Milan from Mexico City
+User: Really. do you have packages to baltimore then?
+Wizard: no
+User: i came here to dream, not to get nightmares. i'll give you one last chance mexico city to munich or i hang up
+Wizard: I apologize but we do not have any flights out of Mexico City
+User: i do not apologize but i will never be using this service again

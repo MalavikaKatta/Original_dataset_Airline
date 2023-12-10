@@ -1,0 +1,7 @@
+User: Two tickets from Toronto to Dublin please!
+Wizard: Hello! for when?
+User: August 30 or after please, flexible on the return date
+Wizard: I have nothing to Dublin! We do have many other destinations to choose from as we offer packages in all over the world. Can I interest you in a different destination?
+User: Very well, could you try Miami then?
+Wizard: I regret that Miami is not one of the destinations we offer from Toronto. Are there others?
+User: No there are not...time to write up a scathing review of this service.

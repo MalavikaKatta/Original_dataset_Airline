@@ -1,0 +1,27 @@
+User: You can help me by looking for some trips, so that I can escape my problems if only for a short while. I need to get out of Nagoya for a bit
+You got flights to Leon?
+I'd like to stay there for 10 days, and I'd like to take my wife and son
+Wizard: When would you like to leave?
+User: Not picky with dates, but I hope soon!
+Wizard: Do you have a budget?
+User: 5400
+Wizard: Is there a different destination?
+User: Calgary also works
+Wizard: There are no results for this either. Are you able to increase your budget?
+User: Unfortunately not...I'm not exactly in good financial standing here Can you think of something here...I really need a trip
+Wizard: Do you have any other possible destinations in mind?
+User: Those were the only two in mind. You got any other ideas?
+Wizard: We have trips to Sydney, Munich, Osaka, Kyoto, Tokyo, and Kobe.
+User: These are all under my budget?
+Wizard: yes.
+User: Its rather curious that I can get to Sydney but not Calgary But I suppose thats not your fault In any case, can you give me more details?
+Wizard: For Sydney?
+User: Correct
+Wizard: This is a 4 star hotel near a park, 8.86/10 guest rating, free breakfast, wifi, and parking, departing August 30th, returning September 7th, economy class seats, 5279.67.
+User: Let me just ask about Munich also
+Wizard: The hotel in Munich is a 5 star hotel near a university, 0/10 guest rating, free wifi, departing September 6th, returning September 14th, economy seats, 4635.19.
+User: 0/10 guest rating???
+Wizard: Correct.
+User: That is rather frightening Ok I'll ask my wife if Sydney is a suitable destination and get back to you 
+but thanks for all your help, I feel much better now
+Wizard: No problem! Have a nice day!

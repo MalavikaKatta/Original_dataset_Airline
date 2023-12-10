@@ -1,0 +1,5 @@
+User: I would like to go to Salvador from Detroit with 4 adults and 11 children total
+Wizard: Sure! When can you leave?
+User: Anytime
+Wizard: Unfortunately all I can find in Salvador right now are Adult Only hotels. Are there any other destinations I could look at for you?
+User: no

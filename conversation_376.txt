@@ -1,0 +1,17 @@
+User: Hey there!
+Wizard: Good morning! How may I help you?
+User: I’ve been tasked with booking my own little Brady bunch a dandy tripadoodle the end of this summer :smile: There’s me, my wife, and 7 little angels. We would like to check out our options in Mexico City, leaving from Munich, with a budget of 12600.
+Wizard: I'd love to help you with that! The first package I can offer you is a 7 day stay at Hotel Tropic which is close to the beach and shopping. It would be from September 2nd to 7th. Would those dates work for you?
+User: Wow, yippee! That’s a stupendous sounding vacation! Oh yes, those dates are just fine. I guess I should’ve told ya earlier but we are free to travel from August 30th until September 12th.
+Wizard: Great! Should I book this one for you or would you like to consider more options?
+User: I’ve gotta be good and thorough though, this trip is gonna set the standard for all our family getaways to come. What else is available?
+Wizard: Another option for your family would be to spend 7 days at the 3.5 star Exalted Willow Resort & Suites. This one is also close to the beach and would come out to 10688.56USD.
+User: Oh, so how many stars was the Hotel Tropic spot you first mentioned?
+Wizard: That one had 3 stars.
+User: Ok! Now, I have another destination that I’m interested.. are there any packages available if we went to San Diego?
+Wizard: In San Diego I can offer you a week long package at a 2.5 star hotel, Majestic Mountain Inn. It includes free breakfast, wifi and parking. The total cost of this holiday would be 10956.9USD.
+User: Ok.. well, we are also thinking about visiting Essen as that’s where my wife’s family is from. Could you tell me anything about packages to Essen from Munich ?
+Wizard: Essen would be a much cheaper destination. I have an 8 day holiday package at the Relaxation Hotel available. You could fly in business class for 3702.62USD.
+User: Hmm yes, of course. Far more affordable to travel domestically. I think Mexico City would be far more fun that seeing the crusty in-laws… Let’s go back to those packages. I think I’d like to book Exalted in Mexico City. It sounds very exotic and beautiful.
+Wizard: Sure! Would you like to go ahead with a booking or would you prefer if I check for more options?
+User: Let’s do it :smile:

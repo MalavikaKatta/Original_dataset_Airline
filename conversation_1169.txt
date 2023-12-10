@@ -1,0 +1,25 @@
+User: i am travel from septeber 8 until 20. to berlin from santa cruz
+Wizard: Okay great! Do you have a budget in mind?
+User: no budget just tell me what is best trip i can do
+Wizard: I can get you an amazing 13 day package at a 5 star hotel leaving and returning exactly on the dates that you want! It would come to 3597 total for economy and 4679.70 for business. What do you think? :slightly_smiling_face:
+User: 5 star is very great. is this a hotel on the beach?
+Wizard: I'm afraid we don't have any hotels on the beach, but there is a museum and a cathedral nearby! Would you like to book this trip?
+User: ok pls check la paz from santa cruz
+Wizard: For La Paz we have only a 10 day trip at a 4 star hotel. Economy would cost 2726.75 and business would cost 3491.67. What do you think?
+User: cheaper, hotel still nice. what is guest rating?
+are there nice amenities?
+Wizard: The hotel has a guest rating of 8.98/10, and there is free parking, free breakfast, and free wifi! Are you interested in booking this trip?
+User: it sounds good. i want to check denver too
+Wizard: We have a 3 star hotel with a guest rating of 8.86/10 with free breakfast and free wifi costing at 3258.92, and it's for 10 days. What do you think?
+User: not bad but not as nice of a hotel. good guest rating i guess tho
+can you remind  me the guest rating from the first hotel in berlin..
+Wizard: It has a guest rating of 8.49/10. Does anything sound appealing to you yet?
+User: pretty good - but lower than the 4 and 3 star ones... weird
+can u check for st. petersburg as well
+Wizard: I'm afraid we don't have any flights from Santa Cruz to St. Petersburg.
+User: ok. well i like the denver package
+do u know what attractions are nearby
+Wizard: There is a park nearby.
+User: i like it. go with that one
+Wizard: Okay I've just booked it for you. Enjoy your trip to Denver :slightly_smiling_face:
+User: thank uy

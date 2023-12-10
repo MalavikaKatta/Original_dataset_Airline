@@ -1,0 +1,8 @@
+User: Hi I am the happy father of one children.I need to book a trip to Santos from Philadelphia with a 1900 budget
+Wizard: Will it just be you and your child?
+User: nope, I'm with my wife
+Wizard: When would you like to go?
+User:  August 27 & sept 6
+Wizard: There are no flights from Philadelphia.
+User: ok im gonna have to look elsewhere. thanks
+Wizard: Have a nice day!

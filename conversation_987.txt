@@ -1,0 +1,22 @@
+User: I WANT VACATION PLZ
+Wizard: You've come to the right place :slightly_smiling_face:
+User: I LIVE IN MONTERREY
+Wizard: Many destinations await you. But first, can you tell me a bit more about your budget and travel dates?
+User: I HAVE 5 THOUSAND DOLLARS AND ONE MORE ONE HUNDRED DOLLARS. I LEAVE AUGUST 31ST COME HOME SEPTEMBER 13TH
+Wizard: Are you flying solo?
+User: I GO BY MYSELF
+Wizard: In that case, you have plenty of options! I will throw a few possibilities at you and you tell me if something catches your eye okay? Curitiba, St. Louis, Rio de Janeiro, Barcelona, Baltimore, Pittsburgh, Lima, Toluca.
+User: WHAT IS THE HOTEL IS BARCELONA
+Wizard: It's a 3 star hotel in the heart of the city near a park and a university. The guest ratings are very high at 9.16/10. And they offer free parking and wifi during your stay.
+User: OK NOT BAD I WOULD NOT MIND THE BEACH THOUGH WAHT ABOUT LIMA
+Wizard: In Lima we have a 4 star hotel near a park. It has 8.98/10 ratings and offers free wifi.
+User: I LIKE THAT RATING ITS GOOD. OK LAST ONE
+WHAT IS THE RIO DE JANEIRO PACKAGE
+Wizard: In Rio de Janeiro we only have a 2.5 star hotel :disappointed:
+User: EHAT IS THE PRICE IN LIMA
+Wizard: For 10 days it will be 814.84 on business flights and 698.86 on economy flights.
+User: WHAT IS THE PRICE FOR BARCELONA
+Wizard: 2633.76 for business and 3386.19 for economy.
+User: MUCH MORE EXPENSIVE MAKES SENSE I WILL BOOK LIMA BUSINESS CLASS GREAT DEAL
+Wizard: I agree! It is booked. You are headed to Lima :slightly_smiling_face:
+User: THANK U

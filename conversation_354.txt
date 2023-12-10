@@ -1,0 +1,8 @@
+User: Hi there, I'm planning a family vacation and was wondering if you could be of assistance. We are 8 adults leaving from Beijing to Kyoto
+Wizard: Ok! When are your dates?
+User: Leaving from Sunday August 21. Flexible with return date. But we need to keep it under a budget of A budget of $2900
+Wizard: I have no flights departing from Beijing, I am sorry.
+User: Do you have flights departing from Jerusalem instead?
+Wizard: I do not :’(
+User: So let me get this straight You do not have any flights whatsoever leaving from Beijing, to any destination
+Wizard: No, I do not deal with that Place I am so so sorry.

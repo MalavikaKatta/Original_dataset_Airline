@@ -1,0 +1,15 @@
+User: This is my first time booking a trip with a machine....hope this works....so I will be very specific. I need to go to Berlin. From Sao Paulo. We are 3 adults and 1 child. We have $14900 at most to spend on this trip. Can you figure this out? Cause if not I will call a travel agent. Please confirm that you comprehend.  Over and out.
+Wizard: When would you like to travel?
+User: As soon as possible. Do you comprehend?
+Wizard: I will check results for your specific requests.
+User: Okay how about on August 27
+Wizard: Yes we have trips from August 27th to September 2nd.  All hotels are 5 stars.  We have a great package for 11185.19 and free breakfast and wifi included. Does this interest you?
+User: Yes. Yes it does. Can you please provide more details? Are you sure this is correct?
+Wizard: Yes. The hotel has a 8.86/10 guest rating.  Flights leave at 10:00am on August 27. Returning flights leave at 1:00am on September 2nd.
+User: Do you know from your database whether it is an economy flight or a business class flight?
+Wizard: This is an economy flight. Would you like me to check the information for a business class flight?
+User: yes please check this information for a business class flight
+Wizard: Everything is the same for this flight except the price will change to 14268.47.
+User: I have $14900 to spend so that will work. Please book this exactly as discussed and send me a confirmation. I am not used to dealing with a....machine.
+Wizard: Great! Your flight has been booked. You will get a confirmation email soon. Have a great day and thank you!
+User: Thank you. You did well. I will definitely use you again.

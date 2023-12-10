@@ -1,0 +1,25 @@
+User: Barcelona is calling me. Please show me the way there from Belo Horizonte.
+Wizard: How much are you willing to spend?
+User: Money is just a number. It doesn't really matter to me.
+Wizard: Is it just you?
+User: Well... I'm actually booking for a colleague in the end.... but yes it'll just be one adult.
+Wizard: How long for?
+User: I'm free Sept 17-30
+Wizard: I can recommend a 13 day trip that will cost you 3333.60 for business class, how does that sound?
+User: What is the hotel like?
+Wizard: It's a 3 star hotel with a 9.16/10 guest rating with wifi and parking included. It's also in the heart of the city and it happens to be near a park and a university. Does that not sound appealing?
+User: Do you have a higher star level hotel in Barcelona?
+Wizard: I'm afraid 3 star hotels are the best we can do at the moment. Would you like to explore other options?
+User: Yes... San Antonio also sounds nice
+Wizard: I'm afraid we do not have any San Antonio packages that work. Are there other options that you would like to explore?
+User: I could also leave from Mannheim!
+Wizard: Would you like me to search from Mannheim to San Antonio?
+User: Yes please!
+Wizard: I'm sorry. We don't have any such packages that work. Would you like to explore other options?
+User: Could you check if you can find a better package in Barcelona than the previous one if I depart from Mannheim?
+Wizard: We have only 3 star hotels in Barcelona no matter where you leave from.
+User: I will take the 13 day trip then!
+Wizard: Business or economy?
+User: Hmmm I want to go for business.
+Wizard: Consider it done!
+User: Gracias!

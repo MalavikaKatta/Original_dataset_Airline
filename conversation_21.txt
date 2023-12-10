@@ -1,0 +1,3 @@
+User: HI im from Alexandria looking to book a 12 day vacation
+Wizard: I only have flights available to Vancouver, Canada at the moment. Would that be satisfactory?
+User: no sorry that wouldn’t. I will look elsewhere thank you!

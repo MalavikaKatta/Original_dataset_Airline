@@ -1,0 +1,11 @@
+User: I need to get to Baltimore on important business
+Wizard: Where are you going from?
+User: Houston. I can go whenever
+Wizard: Are you going alone?
+User: Yes
+Wizard: We have a 3.0 star hotel near a park with 8.69/10 guest ratings, free parking, free breakfast, and free wifi. The trip is 18 days from today to the 19th. I can get you a seat in business class. Sound good?
+User: Have you got any nicer hotels?
+Wizard: Not really. There is another 3.0 star hotel with only 7.06/10 guest ratings. I don't think you would want that.
+User: Book the original package then, please. Business class.
+Wizard: Sounds good! The business package is booked for you for 2227.78. Your flight is today so better get going!
+User: Thanks - will do

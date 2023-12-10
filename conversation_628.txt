@@ -1,0 +1,16 @@
+User: .hi.........i need a trip..
+2 go.
+Wizard: I require information concerning your destination city and where you would like to leave from
+User: .....i live in detroit by the creek...
+Wizard: Detroit?
+User: detroit is where i live. and my 4 grandkids will come with me............
+Wizard: 1 adult, 4 children?
+User: yes.....ok...can we go 2 chicago 3500 dollars....
+Wizard: When would you like to go?
+User: .....se.....september first is wen
+Wizard: I did a search for Chicago. It is not available, but I can help you look for more destinations.
+User: o no.ok... I want to go to ulsan
+Wizard: I regret that Ulsan is not available either.
+User: ...this is no fun...........vancouver, please
+Wizard: No Vancouver availability either, I apologize.
+User: thank u...........good bye.......

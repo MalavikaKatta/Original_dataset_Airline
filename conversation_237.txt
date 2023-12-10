@@ -1,0 +1,17 @@
+User: Hey i think i want to go to KYOTO
+Wizard: Where will you be leaving from?
+User: St. Louis! 
+Wizard: Do you have a budget in mind?
+User: no budget at the moment
+Wizard: How many people will you be travelling with?
+User: 3 friends with me
+Wizard: What dates would you like to travel?
+User: August 18th to the 26th preferably
+Wizard: I can get you to Kyoto from the 18th to 26th! There is a 3 star hotel and a museum as well. There is also free breakfast and wifi included. The total cost of this trip is 7818.13. Does this interest you?
+User: Any other hotels ?
+Wizard: Unfortunately no, there is just the one.
+User: Is there anything available in San Jose?
+Wizard: There are no results that coincide with your preferred dates.
+User: then i guess lets book the one to kyoto
+Wizard: Great! Your flights are booked! 
+User: Thank you!

@@ -1,0 +1,9 @@
+User: I'd like to book a trip from London to somewhere, for August 17th to August 31st.
+Wizard: I can offer you packages for the 24th to the 28th of August. In Punta Cana, you would be staying at the el Mar, a 2.5-star hotel with a 0/10 guest rating, for a total of 607.39USD.  In Baltimore, you would be staying at the Countryside Resort, a 3-star hotel with a 7.06/10 guest rating, as well as free breakfast, free wifi and free parking. The total for this package is 1012.6USD. Would you like me to book either of these packages?
+User: can i have information for a trip to Salvador as well?
+Wizard: Actually, I do have a package to Salvador that may be of interest to you. You would be flying out on the 27th of August and returning on the 31st. You would be staying at the Water Motel, a 3.5-star hotel with a 7.15/10 guest rating. The total cost of this package is 2282.40USD. 
+User: I think I will take the trip to Salvador
+Wizard: Great! Would you like me to upgrade your plane tickets from economy to business class?
+User: sure!
+Wizard: Your vacation has been successfully booked. Enjoy your stay!
+User: thank you

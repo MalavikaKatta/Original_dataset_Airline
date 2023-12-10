@@ -1,0 +1,26 @@
+User: Hi I'm from Minneapolis and I am looking for a 5 day get away for the upcoming long weekend
+Wizard: Is this a trip for one adult?
+User: yes just lonely ole me
+Wizard: Can you please give me the dates you will be free to travel?
+User: I have to leave on Friday Sept 2nd and I have 5 days off
+Wizard: I can offer you 4 day vacations to Calgary or Burlington. Which one would you like to hear about first?
+User: 4 days works fine for me.  Burlington is supposed to have amazing museums and quite the night life.  What do you have close to a museum?
+Wizard: For the days you requested, none of the hotels available are close to a museum. However, we do have a 2.5 star hotel in the heart of the city.
+User: How much is this place in Burlington?
+Wizard: Your stay at Excursion Motel would be 612.32USD. The rating, if you'd like to know, if 2.5
+User: And Calgary?
+Wizard: The Calgary package is 290.10USD and 4 stars
+User: So it's cheaper even though it is a 4 star?
+Wizard: Yes it is!
+User: what else do you have in Calgary?
+Wizard: The 4 star hotel which is the Amusement is the only one available for the weekend. The only option I can offer you would be to upgrade to a business class ticket which would increase the cost to 387.34USD
+User: what's it close to?
+Wizard: It is close to a university
+User: anything else included in the price?
+Wizard: This hotel offers free wifi and parking
+User: no breakfast?
+Wizard: No, there is no breakfast included in the price
+User: so you only have the 2.5 star hotel in Burlington and the 4 star hotel available in Calgary. No other choices for the upcoming long weekend of Sept 2nd?
+Wizard: Exactly, those are the two packages I can offer you at the moment
+User: okay I was looking for a little more variety in options, thanks anyway!
+Wizard: I'm sorry we didn't have what you were looking for. Have a good afternoon!

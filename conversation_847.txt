@@ -1,0 +1,19 @@
+User: Can you get me from Cordoba to Fukuoka?
+Wizard: I sure can! when would you like to go?
+User: Right after September 6 please
+Wizard: I have a September 6 and a September 10 departure, which do you prefer?
+User: lets go with the 10th to be safe. no budget here, but i'd like the nicest hotels and flights
+Wizard: A September 10 departure will get you a 13 day stay at the Historic Mansion Hotel, a 3.5 star hotel at a price of  3530.8USD based on a business class fare.
+User: I'm guessing you haven't got a better hotel there?
+Wizard: Nothing available in Fukuoka at the moment.
+User: Then take a look at Madrid!
+Wizard: I have the 5 star El Hotel De La Reina available on a Sept 8th departure for a 10 day package or a Sept 9 departure for a 16 day package.
+User: 5 star sounds good. but can we learn a little more about the amenities?
+Wizard: Free wifi is included and there is a free breakfast daily
+User: How much would this cost?
+Wizard: For 1 guest it will be 937.60USD
+User: I'd need to book for two please. And this is for business class, correct?
+Wizard: In  that case, the price is 1875.21USD.
+User: Put me down for that please!
+Wizard: I will book and confirm. Have a nice day.
+User: Thanks, you too!

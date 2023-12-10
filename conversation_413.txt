@@ -1,0 +1,9 @@
+User: I need to get to Beijing so I can get a picture of Madonna and her huge popstar friend, Greg.
+Wizard: OK! Would you like to travel to Atlanta instead?
+User: No, they aren't going there.  I need to get to Beijing from Mexico City and I need to leave yesterday. I have 2700. If I need to I can increase my budget by 1000
+Wizard: I’m sorry but I have no flight packages to Beijing. How about Punta Cana?
+User: ew no. I need to go to Beijing
+Wizard: Would you like to go to Atlanta?
+User: nope I want to go to Beijing
+Wizard: I’m sorry but I cannot book you a travel package to Beijing. How about Punta Cana?
+User: nope, I guess I'll have to find another way to get to Beijing....... peace out

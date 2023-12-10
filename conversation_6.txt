@@ -1,0 +1,15 @@
+User: Hey, i Want to go to St. Louis on the 17th of August
+Wizard: For how many days?
+User: I need to back by the 31st
+Wizard: What will your departure city be?
+User: I’m from Calgary
+Wizard: I have a direct flight leaving from Calgary on August 18 and returning on August 28th. Does that work for you?
+User: Yes that sounds perfect may you please tell me about the destination place
+Wizard: It is the Glorious Cloak inn hotel in St. Louis. It has a 3-star rating.
+User: That sounds lavish, what type of flight would that be?
+Wizard: You would be flying business class, for a grand total of only $1858.14
+User: Are there any possible flights with economy class?
+Wizard: I have a package at the Lunar whcih has a 5 star rating on an economy class flight on the same dates for $1558.00
+User: that sounds even better.
+Wizard: This deal includes free breakfast and free wifi. Would you like me to book it for you?
+User: Yes please, that sounds wonderful. thank you

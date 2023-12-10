@@ -1,0 +1,17 @@
+User: Good morning! So I just won the lottery and decided to offer myself the trip of a lifetime!!! There are so many places I've always wanted to visit but couldn't afford. I live in San Francisco. Anything good to Sacramento? Oh and I want to fly in business class, I want the whole shebang
+Wizard: Perfect. To confirm the above information, you would like to depart from San Francisco and go to Sacramento. On business class. Is this correct? Could you please also supply me with the dates of your trip?
+User: That is correct! I'll be free to travel between August 25 and September 13th
+Wizard: For how many adults and how many children?
+User: Just me, myself and I!
+Wizard: There are no flights available from San Francisco to Sacramento.
+User: Well that settles that. How about to Cairo?
+Wizard: I do not have any flights from San Francisco to Sacramento. Would your dates be flexible?
+User: No unfortuntely. I could go to Montreal instead
+Wizard: I do not have any flights from San Francisco to Cairo. I will try Montreal.
+User: thanks!
+Wizard: May I verify other destinations for you?
+User: Do you have anything to Montreal?
+Wizard: I do not have any flights from san francisco to montreal. I regret the inconvenience.
+User: Paris?
+Wizard: I do not have any flights out of San Francisco at all. :cry:
+User: That's too bad, i'll go looking for my perfect getaway somewhere else then thanks anyways

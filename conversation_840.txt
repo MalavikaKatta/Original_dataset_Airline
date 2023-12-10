@@ -1,0 +1,11 @@
+User: I am ze most famous chef and i need to get to Kochi from Tijuana
+Wizard: Are you traveling alone or with your assistants?
+User: I will be travelling with lawyers and children. There will be 6 adults and 6 children in total
+Wizard: Any budget or dates in mind?
+User: 36300 for budget and the dates dont matter
+Wizard: Thanks for the information! We only have one package that matches your needs. It is an economy package at a 2.5 star hotel with 6.77/10 guest rating. You get to enjoy free parking, free breakfast, free wifi, and strolls to a nearby park with the children. Total cost is 35780.47.
+User: what if i up my budget by 1500
+Wizard: Nothing better sadly.
+User: well thats alright i guess. book it
+Wizard: Great! You are one step closer to Tijuana! Keep an eye out for the confirmation email.
+User: thanks!

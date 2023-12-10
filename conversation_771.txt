@@ -1,0 +1,21 @@
+User: Hey! I'm in the search for a trip for 2.
+Wizard: Where will you be leaving from?
+User: Santo Domingo
+Wizard: Where do you want to go?
+User: Punta Cana is one of the option.
+Wizard: Do you have a budget?
+User: It'd be sweet to spend less than 3100
+Wizard: When would you like to leave?
+User: We can leave on or after Sep 2
+Wizard: There's a 2.5 star hotel near the beach, the cost is 1661.32 and is from September 10th to 19th with business class flights.
+User: Do you know the guest rating of this hotel?
+Wizard: 0/10
+User: That's not ideal. Do you have any other options for Punta Cana?
+Wizard: This is our very best option.
+User: I see. Can you check for trips to Phoenix then?
+Wizard: We have a 3 star hotel near a museum and university, 6.91 guest rating, free parking, breakfast, and wifi, from September 9th to 19th, business class flights, price is 2967.70.
+User: And that is also the best option you have?
+Wizard: Yes.
+User: Okay that's simple. I'll book the Phoenix trip!
+Wizard: Alright! Have a great day!
+User: Thanks for your assistance!

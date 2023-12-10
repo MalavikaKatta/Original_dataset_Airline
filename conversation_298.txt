@@ -1,0 +1,15 @@
+User: please find me a vacation between wed aug 31 and wed sept 21 for 2 adult and 2 kids for 4400$ max. leaving frmom fortaleza. if
+Wizard: Absolutely! Would you be interested in travelling to Sao Paulo?
+User: ya sure sao paulo
+Wizard: I can offer you a great deal on a package from September 7-13!
+User: k
+Wizard: Great :slightly_smiling_face: Would you like to know some more information about this package before I book?
+User: yes
+Wizard: You would be staying at the Deluxe Hotel, located near a cathedral and a theatre. You would have free wifi, parking and breakfast. This package costs 1769.68USD.
+User: ok
+Wizard: Would you like to book?
+User: for 2 adults and 2 kids???
+Wizard: Yes, for 2 adults and 2 children.
+User: ok lets book it!!
+Wizard: Great :slightly_smiling_face: Consider it done
+User: ok thanks so much

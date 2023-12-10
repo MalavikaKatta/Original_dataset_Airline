@@ -1,0 +1,4 @@
+User: please get me from Jerusalem to Sydney
+Wizard: I am sorry but we cannot fulfill that request
+User: do you do Beijing flights to Sydney??
+Wizard: I regret to inform you that we do not do Beijing to Sydney flights

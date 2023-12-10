@@ -1,0 +1,13 @@
+User: I wanna go from Tijuana to Goiania for 4500
+Wizard: When do you want to go?
+User: doesnt matter
+Wizard: Will it be just you?
+User: yas
+Wizard: Great! We can offer you a 13 day vacation at a 3.5 star hotel with 8.69 guest ratings. Would you like to know more about this option?
+User: yes please
+Wizard: The hotel is conveniently located close to a museum, shopping, and airport. While there from the 12th to the 24th, you can enjoy access to free parking, free breakfast, and free wifi.
+User: How much is it?
+Wizard: 2946.86 for economy class  and 3771.21 for business class.
+User: i’ll take business class
+Wizard: Alrighty! I will process the booking for you and send you a confirmation email once done!
+User: thank ay

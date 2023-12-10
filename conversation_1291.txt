@@ -1,0 +1,22 @@
+User: Hi there, what is the best hotel in Toronto?
+Wizard: You alone?
+User: Yes
+Wizard: Where are you coming from?
+User: San Juan is where I reside.
+Wizard: How long would you like to go to Toronto for?
+User: As long as the 1800 dollars in my wallet can take me.
+Wizard: Well then you're in luck! Because I can get you the 8 day package at the 4 star Hotel Eric Perrier, costing a total of 1668.81 for business class! How does that sound?
+User: Nice! Is that the best hotel in Toronto?
+Wizard: Yes it is the best. What do you think?
+User: Can I get a longer package if I opt for economy flights?
+Wizard: You can get a longer package if you opt for worse hotel. It's up to you.
+User: Okay no it's got to be the best hotel. When does this trip depart?
+Wizard: It leaves September 20th and returns September 27th. Does this entice you?
+User: Could I get a longer stay or a better hotel with an additional $1000?
+Wizard: No.
+User: Okay at least I tried! I'll take the first offer!
+Wizard: The 8 day package with the 4 star hotel? And business class?
+User: Sure... might see some celebrities in business class :wink:
+Wizard: Excellent choice. Your package has now been booked. Details will be sent to you shortly.
+User: Fantastic!!
+Wizard: You're welcome.

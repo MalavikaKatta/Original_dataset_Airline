@@ -1,0 +1,16 @@
+User: Hi i need a 5 day get away!
+Wizard: SUre thing! Where are you leaving from?
+User: Im leaving from Queenstown
+Wizard: Ok! How about 5 days in Milan?
+User: I really want to go to Sao Paulo is there anything there?
+Wizard:  could you give me an estimated date of departure?
+User: August 17, 2016 to Wednesday, August 31, 2016 are the dates i could be gone
+Wizard: Great! I've got August 17-August 20 in Sao Paulo ?
+User: that looks great. what are the hotels like?
+Wizard: Great! I've got 2 or 3 star hotels available.
+User: how much for the 3 star
+Wizard: 5 days at the 3 star hotel would cost 2289.59USD.
+User: can we go ahed and book that?
+Wizard: We sure can!
+User: thanks!
+Wizard: My pleasure :smile:

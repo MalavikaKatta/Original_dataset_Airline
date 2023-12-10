@@ -1,0 +1,23 @@
+User: looking to go on a short jaunt out of town the town in question being sacramento
+let me know what my options are if i wanted to leave today, and have 4 days free
+Wizard: Certainly! I can book you 4 days at a 3.5 star hotel in Columbus for $1538. Interested?
+User: Interested. However. Do you have other destinations?
+Wizard: I have trips to Guadalajara as well!
+User: whoa thats snazzy. what kind of hotel?
+Wizard: I have a 2.5 star or two different 3.0 star options.
+User: which is the better rated by guests?
+Wizard: The 2.5 star Resort Felicity boasts the highest guest rating with 8.49/10
+User: interesting. do you have any other options out of sacramento?
+Wizard: Those two destinations are the only ones showing up given your broad parameters. If you wanted to narrow down your specifications I may be able to find something else.
+User: I'm not sure, how bout look for something that costs more than $2000
+Wizard: With a 4 day maximum, the only place I can find is the Crown Jungle Inn in Columbus. It is beachside, near a palace, with a 8.49/10 rating.
+User: is that a better rating than the previous hotel you found in c-bus?
+Wizard: Sorry - that is the guest rating. This is a better guest rating than the last hotel in Columbus.
+User: What are the dates and price?
+Wizard: September 16-19, business class flights would be 2181.49 USD
+User: what are the amenities at the crown jungle inn?
+Wizard: Free parking and free wifi.
+User: ok cool
+Wizard: Booking now :slightly_smiling_face:
+User: thanks!
+Wizard: My pleasure

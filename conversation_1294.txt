@@ -1,0 +1,8 @@
+User: I want a vacation from Sydney to Washington
+Wizard: You are now on with an agent
+User: Yeah I have 2200
+Wizard: We do not have travel packages from Sydney to Washington
+User: How about Sydney to Houston then?
+Wizard: I am sorry but neither'
+User: I can increase my budget by 400
+Wizard: Even if you increase your budget, there are simply no flights available

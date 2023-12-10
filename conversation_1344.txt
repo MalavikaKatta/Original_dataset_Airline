@@ -1,0 +1,13 @@
+User: I'd love to go to Minneapolis sometime
+Wizard: Oh! From where?
+User: Goiania. I only have 3300 at the most though
+Wizard: There are two different hotels in Minneapolis available for that budget! Both are 2.5 stars - one near a park, museum, and mall with 8.22/10 from guests, and the other near a university with a guest rating of 7.15/10.
+User: whoa that all sounds nice
+but I want to learn more about other trips. what kind of package can I get if I decide to go to Cancun
+Wizard: In Cancun I have a 10 day package at a 4 star hotel, a 9 day trip to a 3.5 star hotel, or 7 day trips to the same 4 star hotel or a 3 star hotel. All within your budget.
+User: Wow the Cancun 10 day package sounds amazing. I want to take that package so badly.
+Wizard: Ok! I will book it for you.
+User: No no I'm not ready to book it! I want to check out Toronto first please
+Wizard: In Toronto there is a 10 day trip at a 3 star hotel, two 7 day packages to different 3 star hotels, or 5 day trips to either 3 or 4 star hotels.
+User: That sounds good, but not as good. I'm just going to think about it and get back to you.  I don't really have any days off at the moment. Thanks for all your help. Bye!
+Wizard: Goodbye

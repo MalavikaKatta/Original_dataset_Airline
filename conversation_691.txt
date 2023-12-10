@@ -1,0 +1,18 @@
+User: Hey! I need to book a flight asap. I can leave tomorrow or any day after
+Wizard: where do you need to go?
+User: Kingston. Leaving from Dublin
+Wizard: For one adult?
+User: Exactly
+Wizard: Our soonest available flight departing Dublin to Kingston departs on the 6th of September and includes a 9 day stay. Would that be appropriate for you?
+User: Will there be earlier flights if I leave from Mexico City?
+Wizard: The earliest flight I have leaving Mexico City destination Kingston is also on September 6 and that package includes a 5 day stay.
+User: Okay, what about from  Dublin to San Diego, are there earlier flights?
+Wizard: I have none from Dublin to San Diego
+User: Anything for Mexico City to San Diego by any chance?
+Wizard: Sept 6th departure is the earliest departure Mexico City destination San Diego and includes a 5 day stay.
+User: Well then, I will go directly from Dublin to Kingston then! How much will it cost?
+Wizard: I have 2 choices departing on the 6th - the 3 star Exalted Raven B&B for 666.28USD based on a 9 day package and is ONLY availabe with a business class upgrade or the 3.5 star Golden Excalibur Hotel for $577.72USD based on an economy class flight, also available on business for $673.74USD
+User: My preference would be the Golden Excalibur Hotel for $577.72USD.
+Wizard: Should I proceed with the booking then?
+User: Absolutely! Thank you!
+Wizard: Booked! Have a nice day!

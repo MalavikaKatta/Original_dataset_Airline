@@ -1,0 +1,15 @@
+User: hello i am the happy father of 3 beautiful little angels and i would like to bring them all on the vacation of a lifetime
+Wizard: Where would you like to go?
+User: and i have to bring my wife too .. so theres taht. calgary! perhaps
+Wizard: from where?
+User: Atlanta!
+Wizard: I have a 14 days flight at 3128.19USD. Staying at a 2 star hotel at 8.86 guest rating. Does that look good to you?
+User: hmm, intriguing ! and quite under budget. Where in the city is it located- near downtown?
+Wizard: It is near the airport, the hotel name is called Retro Inn
+User: oh dear that sounds dreadful. what’ve you got available in porto?
+Wizard: I dont have anything departing from Atlanta
+User: oh dear… nothing at all in porto alegre between august 30 and september 16?
+Wizard: There are only departures from San Juan
+User: hmm well that’s no good.. ok one other destination I’d like to explore.. anything available in leon?
+Wizard: Sorry, nothing departing from Atalanta
+User: well, this is rather disappointing we cannot spend our family vacation near the airport. i wont be booking anything today in this case, goodbye

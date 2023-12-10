@@ -1,0 +1,8 @@
+User: I need a vacation. A real vacation. My boss finally allowed me to take time off between September 8 and September 14. The heat in Valencia has been awful this summer.
+Wizard: Ok! Where would you like to go?
+User: San Juan. I heard it's cooler there. 
+Wizard: I have availability at the Fairyland from Sept 8-13. This hotel is 4 stars with a 8.98/10 guest rating. Its close to a museum, shopping, and market. The hotel also has free wifi for guests.
+User: Wow that sounds awesome! How much?
+Wizard: 2499.35USD for this seven day package.
+User: Thank you please reserve that for me, I'm so excited!
+Wizard: Yes, you’ve got it. Enjoy your stay.

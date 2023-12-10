@@ -1,0 +1,3 @@
+User: My name is Gary Peter and I'd like to book a trip to Diagon Alley from Godric's Hollow on August 13th.
+Wizard: Hi! I am sorry but neither of those cities appear in my system. Do you a major city near you that you could depart from? Are you interested in any other destinations?
+User: That is unfortunate. Although I suppose I am just a fictional character. Thank you and goodbye!

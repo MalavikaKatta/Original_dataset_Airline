@@ -1,0 +1,14 @@
+User: I AM IN BALTIMORE WANT TO GO TO LIMA
+Wizard: When?
+User: SEPTEMER 12 UNTIL SEPTEMBER 27
+Wizard: Do you have a budget?
+User: NO
+Wizard: How many people will be traveling?
+User: ME
+Wizard: We have a 3.5 star hotel and a 4 star hotel. Do you have a preference?
+User: 4 STAR DUH
+Wizard: Great! This is a 4 star hotel near a park, they have a 8.98/10 guest rating, and they offer free wifi. This package is from September 15th to 26th. The price of this package if you would like business class seats is 829.74 and if you would rather have economy class seats the price would be 729.45.
+User: wow very impressive. WORKS FOR ME LETS BOOK BUSINESS
+PLEASE
+THANKS
+Wizard: No problem! Your package is booked! Have a great day and keep an eye out for a confirmation email regarding your travel package!

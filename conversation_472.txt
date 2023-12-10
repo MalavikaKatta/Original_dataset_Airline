@@ -1,0 +1,10 @@
+User: Well I am currently living permanently in a cubicle on the 8th floor of a building in Puebla but I want to pretend I am somewhere else instead. Fly me to Leon please
+Whats the fanciest place I can go to for 3600
+Wizard: I must inform you that we do not fly from Puebla to Leon.
+User: How about to beautiful Toronto, can you take me there?
+Wizard: No we have limited flights to Toronto too and none from Puebla
+User: How about Athens?
+Wizard: I regret to inform you that we do not have any flights available from Puebla to Athens either. Do you have any other dream destinations I can search for?
+User: Monterrey?
+Wizard: I have no flights from Puebla to Monterrey. You may fly from other cities to Monterrey, but not Puebla.
+User: Thank you, but I will go use another service that can better satisfy my escapist fantasies

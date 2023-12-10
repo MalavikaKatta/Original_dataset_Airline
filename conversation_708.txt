@@ -1,0 +1,17 @@
+User: heyo
+Wizard: Good morning, how may we help you today?
+User: need to get to mexico city. currently stationed in dublin
+Wizard: When would you like to go?
+User: ideally around sept 8 or shortly after
+Wizard: Any return date in mind?
+User: i’ve got 5000, so as long as that can last us. oh yeah we’ll be two adults
+Wizard: How long are you looking to stay in Mexico City for?
+User: just tell me how far i can go on 5 grand ok?
+Wizard: That always depends on the type of hotel you choose and the destination, but at the moment I can definitely offer you a 13 day package in a 3 star hotel.  The Hotel Tropic offer a 13 day stay on the beach close to shopping and includes breakfast and wifi for 2182.81USD
+User: would i be able to opt for a higher end hotel if i didn't stay as long
+Wizard: We also have the Coast which is a 3.5 star hotel which includes parking and wifi located near the  museum, beach, shopping, mall for 2046.58USD.
+User: Nice, I’d prefer that…how long would that trip be?
+Wizard: This one is a 12 day package departing on Sept 10 and returning on the 21st
+User: Done deal. Lets book it.
+Wizard: Glad I could be of assistance. I will take care of that booking and forward your flight information. Thank you and have a great week.
+User: Thank you!

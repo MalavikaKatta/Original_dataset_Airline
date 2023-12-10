@@ -1,0 +1,15 @@
+User: Hi! I need to find a package that will allow me to get to an internship I've been offered. There are several cities I could go to and I haven't made up my mind up yet, can you help me compare the options?
+Wizard: Absolutely.  Where would you be departing from and what cities would you like me to check for packages?
+User: I live in Goiania and the first city I'm considering is Kobe. And it's not a paid internship so I was hoping to spend less than 2000 on flights and accomodation
+Wizard: Do you have any particular dates you would like to travel on?
+User: Ok, I need to be there from August 31st to September 12th.
+Wizard: would you prefer to stay in Kobe for 4 days or 7 days?
+User: I need to be there for the entire duration of my internship
+Wizard: For Kobe, I have packages available well under your budget, but the longest one available is a 7 day package either from Sept 1 to to Sept 7 or Sept 6 to Sept 12
+User: Ok thanks, but that won't work for me. I guess I can cross Kobe of my list. How about Detroit? Do you have anything there for the dates I gave you?
+Wizard: The longest available package that is within your dates in Detroit is an eleven day package departing on Aug 31st and returning on Sept 10th. This is about as close as I get to your dates in Detroit. Would you like me to tell you more about this package?
+User: That's too bad! I think its better if there for the entire span of dates they gave me. It would make a bad impression if I left a day earlier. How about Leon?
+Wizard: For Leon,  the longest package I have available is a nine day package from August 31 to Sept 8. The package that most suits your dates is the package in Detroit.
+User: Alright, can you tell me more about the detroit one then?
+Wizard: I apologize but my search results were not the correct ones. I do not have any flights available to Detroit from Goiania.
+User: Ok, well I guess I'll look elsewhere, thanks anyways!

@@ -1,0 +1,9 @@
+User: My friends and I would like to go Belo Horizonte please.
+Wizard: How many will you be total? And where are you coming from?
+User: We'll be 10 people coming from Guadalajara. If you could find us something really cheap, that would be great!
+Wizard: Do you have a specific budget in mind?
+User: yeah, 1800 dollars.
+Wizard: Sorry, we actually don't have any current openings in trips to Belo Horizonte. Is there somewhere else you would like to go?
+User: What? Seriously? That can't be possible. Can you double-check?
+Wizard: Unfortunately there is nothing for Belo Horizonte right now.
+User: Aw that's a shame. A lot of people will be disappointed. Thanks anyways.

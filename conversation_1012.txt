@@ -1,0 +1,17 @@
+User: Heyaaa
+Wizard: Hi! How can I help you?
+User: So  me and some coworkers need to take a little work trip from last Wednesday until last Saturday.
+Wizard: Where would you like to go?
+User: Sadly it is not a uniform decision... 14 of us wanna go Valencia
+From Beijing
+Wizard: So 14 adults altogether?
+User: Yes, please
+Wizard: Do you have a budget?
+User: Nope
+Wizard: There are no results. Is there somewhere else you'd like to go?
+User: Could you send 6 adults to Vitoria?
+Wizard: Unfortunately not.
+User: Can you send one person literally anywhere from Beijing?
+Wizard: 7 people or 15 people?
+User: one
+Wizard: Sorry, I thought you said one more. No I can't, there are no results within your requested dates.

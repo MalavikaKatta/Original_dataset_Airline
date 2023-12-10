@@ -1,0 +1,9 @@
+User: Hello there. I’m trying to get to to Sapporo
+from Paris
+Wizard: Do you have a budget?
+User: 3300
+Wizard: When do you want to leave?
+User: 25 August
+Wizard: There are no results for this request.
+User: what about for 4300
+Wizard: No, sorry.

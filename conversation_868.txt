@@ -1,0 +1,7 @@
+User: I am a world-renowned pastry chef and I need to travel to St. Petersburg - stat!
+Wizard: Sure thing! Where will you be leaving from?
+User: I live in Goiania. I will be travelling with my 2 lawyers, 2 wives and my 14 children.
+Wizard: I’m sorry, I can’t find anything available to St. Petersburg for this many people.
+User: I am willing to pay up to $5200 if need be, but you have to get me there!
+Wizard: I’m sorry.. that doesn’t change the fact that I cannot yield any results with this many people.
+User: Fine I will try your competition then GOODBYE

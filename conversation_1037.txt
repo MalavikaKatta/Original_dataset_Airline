@@ -1,0 +1,23 @@
+User: Hi there! I'm looking for a nice getaway trip sometime between tomorrow and Monday September 26
+Wizard: That sounds wonderful! Where are you coming from?
+User: I'll be coming from Seoul and I'm thinking about going to Curitiba
+Wizard: Will it just be yourself?
+User: No, it will be me and my best friend.
+Wizard: Perfect. We have quite a few range of offerings. Do you have a budget or do you just want to hear the best available packages we have?
+User: No budget, just give me the best you've got!
+Wizard: Alrighty, our best vacation package is at a 3.5 star beachside hotel. In the past, guests have rated it 8.22/10. While there, you can enjoy access to free parking, free breakfast, and free wifi. We offer a 8 day stay there with business flights available. If you are interested, we also have a few 3 star hotels available.
+User: You don't have any hotels with 4 stars? And only 8 days? I prefer something longer!
+Wizard: The 3.5 star hotel is the best available in Curitiba. And we do offer trips up to 14 days. However, they will be at 3 star hotels. Are you interested?
+User: Huh I don't know.
+Wizard: I am giving you the best options in Curitiba. Would you like to try another destination?
+User: Yeah let's try Sydney. I want the best and I've got like two and a half weeks of free time.
+Wizard: Sydney is looking better! I've got a 4.0 star hotel with 8.86/10 guest rating. I can take you there for 6 days on business flights.
+User: 6 days only? I was hoping for something longer.
+Wizard: This is the only trip available in Sydney.
+User: I think Curitiba must be better then.
+Wizard: I agree. Would you like to further explore some of the options in Curitiba?
+User: I think I'll take the beachside hotel deal for 8 days if that's the best there is.
+Wizard: Sure! It will be 12555.78 for the business package. Would you like me to book it for you?
+User: I'll take the package
+Wizard: Glad to help! This is booked for you! Hope you have a pleasant trip!
+User: Thank you.

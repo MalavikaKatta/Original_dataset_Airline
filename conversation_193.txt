@@ -1,0 +1,10 @@
+User: Hey there! I need to take some pics of Madonna and her friend in London, I work with InTouch magazine. Can you get me there from Los Angeles?
+Wizard: Do you have a budget?
+User: Yes, the company gave me 3500 to spend.
+Wizard: Are you travelling alone?
+User: yep
+Wizard: Do you have specific dates you'd like to travel on?
+User: I'd like to leave on August 17th, and stay for however long the money will keep me there for.
+Wizard: There are no flights going to London. Is there somewhere else you could leave from?
+User: No, I really must leave from LA. What if I increased my budget by 1000 dollars?
+Wizard: The only flights are to Calgary, Minneapolis, and Alexandria.

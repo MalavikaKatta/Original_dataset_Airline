@@ -1,0 +1,14 @@
+User: Hello - need to fly out to Queenstown soon
+Wizard: From where will you be flying from?
+User: I could leave from two options First is Indianapolis
+Wizard: Do you have a budget?
+User: I’d like to spend at most 4400
+Wizard: When would you like to leave?
+User: Times are flexible for me
+Wizard: Our longest package is 12 days and it's from September 12th to 22nd at a 5 star hotel.
+User: That sound superb actually! Could you tell me which hotel it is?
+Wizard: It is the Illustrious Pool Hotel.
+User: Ok how much would it cost?
+Wizard: The cost is 3456.10.
+User: I’ll confirm this booking.
+Wizard: Great! Your trip is booked! Have a great day and enjoy the trip!

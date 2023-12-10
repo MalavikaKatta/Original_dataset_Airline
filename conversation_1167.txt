@@ -1,0 +1,11 @@
+User: hey yea so i need to get 5 adults and 1 child out of osaka between september 24 to the 27th or 28th
+Wizard: Do you know where you'd like to go?
+User: nope. just keep it under 2700 dollars
+Wizard: We have one availability to Kyoto from the 25th to 28th at a 3 star hotel.
+User: sounds appropriate. what amenities?
+Wizard: Free breakfast and wifi, it is also located near a museum.
+User: and that’s the only thing within our budget? what if I increased the budget to 2900?
+Wizard: This is still the only result
+User: ok fine’book that then i suppose
+Wizard: Done! Have a great day!
+User: thanks a bunch!

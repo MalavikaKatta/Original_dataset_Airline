@@ -1,0 +1,19 @@
+User: Hi!
+Wizard: Hello
+User: HAve 2500 to try to get to my internship. Need to leave Phoenix between September 8 and 17. Could that get me tickets to Kingston?
+Wizard: Yes it can. We can set you up with a 6 day or 9 day stay in Kingston.
+User: how much would 9 days cost me?
+Wizard: 9 days in Kingston in a hotel that provides all of the amenities such as free wifi, parking and breakfast, located in the heart of the city and near a park will run you 1088.15USD.
+User: Could you get me to Houston for cheaper?
+Wizard: If you could go from the 6th to 17th of September, I have an even better deal in Houston.
+User: How cheap?
+Wizard: $759.14USD for 12 days. You can go all out on business class for $903.99USD. Are you able to swing it?
+User: But while we're at it, can we also look into Recife?
+Wizard: Recife - 9 days - 2480.52USD
+User: Can you tell me more about the hotel in Houston? My mother gets worried whenever I have to travel, she likes me to have breakfast for some reason
+Wizard: You get a free breakfast plus wifi and parking and you are located near the mall.
+User: And the name of the hotel?
+Wizard: Elton, rated 2.5 stars. Should we go ahead and book Houston for you then?
+User: Yes!!
+Wizard: Done!
+User: :+1:

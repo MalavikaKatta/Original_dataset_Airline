@@ -1,0 +1,5 @@
+User: Hi
+Wizard: Need help booking a trip?
+User: I run this start-up in Jerusalem. Do you fly out of there?
+Wizard: No,sorry we do not.
+User: Thanks anyway

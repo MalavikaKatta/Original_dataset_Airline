@@ -1,0 +1,14 @@
+User: I have business in Belem… business that requires me to be in close proximity to 5-star hotel type clients. I’m leaving from Vitoria, 3200 dollar
+budget
+Wizard: Ah I see. Do you have departure and return dates in mind? And how long would you like to go for?
+User: I just need to be there after the 21st. I can stay as long as my budget allows
+Wizard: Not a problem! Our most highly rated hotel is a 4.5 star for 6 days, and business class would cost you 3046.43, fitting you right with the budget! Does this interest you?
+User: That might be good — sounds diva worthy. is there a spa on site?
+Wizard: I'm afraid we don't have any hotels that offer spas but there is a beach!
+User: That should be fine…. I think I’ll find who I’m looking for
+Wizard: Excellent. I'll book it straight away then!
+User: Downgrade to economy class though please
+I don’t need to fly business
+Wizard: I will switch to economy seats
+User: I can use that extra money on a wide angle lens. thanks
+Wizard: You're welcome. Expect an email with all the details within the next hour.

@@ -1,0 +1,10 @@
+User: Hi there, I need to go to North Vancouver please.
+Wizard: Hello! How can I help you with your travel needs?
+User: I need to go to Montreal for under 3800 from Valencia. Could you help me?
+Wizard: Sure I can! How many people will you be travelling with?
+User: Just me. I need to go between Friday September 30 and Tuesday October 4 though
+Wizard: When would you like to travel?
+User: September 30 to October 4
+Wizard: There are no results for trips to Montreal from Valencia.
+User: Oh that's a shame. I'm out of here then. Goodbye
+Wizard: Sorry!

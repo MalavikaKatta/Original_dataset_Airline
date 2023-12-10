@@ -1,0 +1,15 @@
+User: Hi! I want to book a 5 day trip leaving from Santa Cruz on September 2nd. I don't have a destination in mind yet, what would you recommend?
+Wizard: I have several options for you, all cities in Argentina. How does that sound?
+User: That sounds good! I'm travelling with a friend and since we have such a short time, we really want to make the most of it so we have a pretty flexible budget. Are any of these luxury hotels?
+Wizard: I have a 4 star hotel located in Rosario available on a 4 day package but only from Sept 18 to Sept 21st.
+User: No, unfortunately our dates are not flexible
+Wizard: I have a five day package available departing on Sept 2nd to Miami, Florida leaving on the 2nd and returning on the 7th. It is not a luxury hotel but it has 3.5 star rating with a very good guest rating of 8.86/10.  It included free wifi, free parking and a complimentary buffet breakfast. Does this interest you?
+User: Ok, i'll keep this one in mind. Do you have any trips to outside the US?  Even if the hotel isn't as fancy we might prefer that.
+Wizard: Well I do have the Opportunity Suites, which is a 4 star hotel located in Rosario departing on Sept 4th  and returning Sept the 6th. It is only a 3 day package but it fits within your time frame and has a higher rating. The cost on this one is 2203.67USD.
+User: Hmm ok, we were really hoping to go for a full 5 days
+Wizard: I have no five day options, however I also have a nice package in Sansot, Brazil at the Starlight which is a six day package departing also on Sept 2nd and returning on Sept 7th. This is a 3.5 star hotel located near the museum and also near the palace.
+User: Sounds like Miami might be the best option for us then,  at what time are the flights?
+Wizard: The flight departs from Santa Cruz at 12pm and returns on Sept 5th at 6am. It is an economy class flight.
+User: Ok we will book that one!
+Wizard: Perfect, I will take care of all the details for you and send over a confirmation. Thank you for booking. We wish you a pleasant afternoon.
+User: Thanks!

@@ -1,0 +1,10 @@
+User: Hello. I have 12 vacation days saved up and I’m looking to explore my options departing from Mexico City. Budget doesn’t matter, but I can’t leave until Monday, the 12th of September. What’s available?
+Wizard: I found a beautiful 12 day trip for you in Frankfurt, Germany departing on Monday 12th September. It's a 4.5 star hotel costing a total of 2893.33 for economy class and 3717.75 for business class. Are you interested in booking this trip?
+User: Sounds lovely! Just want to hear what else is available first.
+Wizard: There's also an 11 day trip in Maceio, Brazil at a 3.5 star hotel that's situated near a park and with some great shopping around the corner! This costs 2312.44 for economy class and 2954.98 for business. What do you think?
+User: Ok. Not bad! Frankfurt sounds a bit better though. What else?
+Wizard: There is an 11 day package in Hiroshima, Japan, at a 3 star hotel with a museum nearby.  Economy flights cost 3442 while business class would be 4481.63. What do you think?
+User: So the ratings just keep going down hey? What is the guest rating there.
+Wizard: I'm afraid so! The Iceberg Resort in Hiroshima has a rating of 7.15/10. Shall I book the Frankfurt trip for you?
+User: Yeah, lets go with Frankfurt.
+Wizard: Alright perfect! It's all booked now. Have a brilliant time!

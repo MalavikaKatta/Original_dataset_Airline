@@ -1,0 +1,28 @@
+User: Hey! I've got 6 vacation days starting August 27. I want to see what's available from Chicago!
+Wizard: Hello, do you have a budget?
+User: Nope! What can you find me?
+Wizard: I have flights to Santos, for 6 days at about $3000
+User: Ok, ok. Anything else?
+Wizard: There is a trip to Rio de Janeiro, Brazil, staying at 2.5 star hotel for about 2700.49USD
+User: interesting.. What else?
+Wizard: That is it
+User: Ok, what if I have a flexible departure date?
+Wizard: Oh, you can go to Fukuoka, Senbai, Busan and Seoul
+User: Now you're talking. What's available in Seoul?
+Wizard: 19 days for 4921.46USD or 3801.27USD in economy class. 3 star hotel
+User: I like it. Where is the hotel? What's included?
+Wizard: Harborview Hostel and Suites is near a park
+User: I'd love something on a beach. are any of the hotels in busan on the beach
+Wizard: No beach, I am sorry, but the ones in Fukuoka are near a palace
+User: What is the hotel in Santos like?
+Wizard: 3.5 star hotel near museum & palace for 3170.80USD (6 days stay)
+User: Nice, nice. what about in Rio de Janeiro?
+Wizard: 3 stars hotel  near park, museum, university, @ 2049.25USD
+User: Ok. What rating is the Fukuoka hotel
+Wizard: 3.5 stars
+User: free breakfast?
+Wizard: only free wifi
+User: What are the dates in Busan?
+Wizard: August 30 to September 12
+User: Ok. Well lets book Santos
+Wizard: ok

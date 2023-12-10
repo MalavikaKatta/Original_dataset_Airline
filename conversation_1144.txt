@@ -1,0 +1,21 @@
+User: I'd like to send my parents somewhere, from Kyoto
+Wizard: Anywhere?
+User: Yeah
+Wizard: How much would you like to spend?
+User: 4400
+Wizard: When would you like this to happen?
+User: Between the 7th and 26th
+Wizard: We have a 4 star hotel in Sendai available for 15 days
+User: What else does the hotel have?
+Wizard: It has free wifi and it is close to the park and the museum. It is only 684.32USD and available from Sept 7 to the 21
+User: That'll work. What is the guest rating?
+Wizard: 8.8/10
+User: Perfect! What time do the flights leave?
+Wizard: Sendai to Kyoto  1:00 am - Wednesday, September 21st 2016 to 1:42 am - Wednesday, September 21st 2016
+User: What about the flight home?
+Wizard: Kyoto To Sendai  5:00 am - Wednesday, September 7th 2016 to 5:42 am - Wednesday, September 7th 2016
+User: Okay and the price you gave me was for economy or business?
+Wizard: The price that I gave you was economy. Business is  752.32USD.
+User: I would much rather give them business, it would be harder for them to refuse muahahah! Okay, book it for me, you
+Wizard: I will proceed with a business class booking. Thank you for booking with me.
+User: Oh great! Thank you!

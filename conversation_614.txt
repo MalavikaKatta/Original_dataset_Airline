@@ -1,0 +1,14 @@
+User: Heya
+Wizard: hello, how can I help you today?
+User: I want to leave from San Antonio and keep the price under three thousand two hundred
+Wizard: where to?
+User: Sao Paulo… as earlier stated
+Wizard: I am sorry, I don' thave any results for the cities requested.
+User: Can I leave from Curitiba instead
+Wizard: Definitely
+User: OK, whats the hotel like
+Wizard: 3 stars hotel near cathedral and theatre for 7, 8 or 11 days.
+User: And the price? I want to travel for less than 3200 dollars
+Wizard: 712.62USD (7 days, economy) or 853.71USD (Business) for 7 days,419.23USD (8 days, economy) or 502.23USD (Business) for 8 days, and 808.55USD (11 days, economy) or 956.97USD (business) for 11 days (2 star hotel with 6.91 rating).
+User: Wow that’s just too cheap to pass up on. Book the 11 days please, business
+Wizard: you're booked

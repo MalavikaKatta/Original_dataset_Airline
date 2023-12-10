@@ -1,0 +1,18 @@
+User: Hi we live in Miami and are trying to plan our next vacay, can you help?
+Wizard: Yes! Where would you like to go from Miami?
+User: Brasilia
+Wizard: Do you have a budget?
+User: 2100 buckaroonies
+Wizard: How many people are travelling?
+User: my wife me and our baby
+Wizard: Do you have dates for travel?
+User: S 20 to O 6
+Wizard: We have no flights available.
+User: okaaaay how about to Tijuana then?
+Wizard: Nothing for this either.
+User: Hamburg?
+Wizard: No results showing.
+User: Do you know who else I can contact that actually offers these destinations?
+Wizard: Can't help you there.
+User: UGH
+Wizard: Sorry.

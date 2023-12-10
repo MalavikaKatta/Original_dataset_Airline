@@ -1,0 +1,12 @@
+User: Hi, i want to go to Nagoya from Seoul with my wife and son
+Wizard: Oceanside Resort for 1630.5USD. You will stay 9 days
+User: is that the only package?
+Wizard: You can stay for 7 days instead for  1630.5USD
+User: okay. Can i hear what you have for Guadalajara?
+Wizard: Excursion Inn for 15 days at a cost of 5100 dollars
+User: nope cant afford that one. actually do you have any packages to nagoya for 1300
+Wizard: No
+User: any for Guadala
+Wizard: No
+User: bye. thanks anyway
+Wizard: Goodbye

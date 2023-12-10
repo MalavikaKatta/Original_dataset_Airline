@@ -1,0 +1,17 @@
+User: hey im looking to check out fortaleza. im leaving from sapporo on august 27
+Wizard: Hi there! I can offer you a six-day vacation package starting August 27th for only 3933.10USD. Does this fit within your budget?
+User: when is the return date?
+Wizard: You would be returning on the 31st of August.
+User: i would like to travel until september 7, or closer to that date. is there anything available is frankfurt for that window?
+Wizard: Unfortunately those are the closest days I can offer you to your specifications.
+User: what about in ulsan?
+Wizard: It looks like every package available is for the 27th-30th of August, with the best deal being 472.37USD for the trip.
+User: ok. one last destination I am wondering about. Curitiba - what've you got there?
+Wizard: How about August 30th-September 6th at the Hotel Leisure? 4234.65USD if you book now.
+User: i like the sounds of that. what is the hotel like? any details?
+Wizard: The Hotel Leisure is a 3-star resort with a 6.91/10 guest rating, free breakfast, free wifi and free parking. Would you like me to book this destination?
+User: what is the hotel in fortaleza like?
+Wizard: The Elder Angel  is a 3-star resort with a 7.15/10 guest rating, free breakfast, free wifi and free parking. Would you like me to book this destination?
+User: lets book Curitiba! i want to spend more time away
+Wizard: Fantastic! I have just finished booking your trip. Enjoy your stay!
+User: thanks! have a good day to you

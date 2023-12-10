@@ -1,0 +1,19 @@
+User: I have 7 days vacation
+Wizard: Great!
+User: I want a vacation starting on or after the 20th from Sao Paulo. Can you give me some destinations that are available from Sao Paulo? I dont have a budget, i will spend whatever is needed to have the best vacation possible. Find me the best hotel possible
+Wizard: Sure! I have a 5 star hotel in Ulsan, two 3 stars in Kyoto, 3.5 in Fukuoka, or another 3 star in Porto. Any of these strike your fancy?
+User: the 3.5 in Fukuoka, can you tell me more about it?
+Wizard: Absolutely! The Oceanside Hotel is located in the heart of the city and offers free wifi access to its guests. The guest rating is 8.22/10 and the package I have mentioned extends from the 22nd of September to the 9th of October.
+User: How many days is the package?
+Wizard: 19
+User: I only have 7 days for vacation tho
+Wizard: I have 7 day packages available to Cordoba, Paris, and Hamburg.
+User: Can you tell me about the Cordoba package please?
+Wizard: Absolutely! The Everland is a 5 star hotel near a museum. It provides complimentary breakfast and wifi and boasts a 8.98/10 from previous guests. The seven day package departs Sao Paulo on September 28th and returns the 4th of October.
+User: That sounds like an amazing package. I don’t even need to hear about the other ones. Book it for me
+Wizard: Ok, you’ve got it! The price for economy flights will be 1731.4USD. Is this ok?
+User: do you have business?
+Wizard: Of course! That would bring your total to 2203.76USD.
+User: I’ll book that one
+Wizard: great, consider it done :smile:
+User: Thanks!

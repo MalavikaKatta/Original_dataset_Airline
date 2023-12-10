@@ -1,0 +1,31 @@
+User: Hi im fro termina and i want to go on vacation on August 13th
+Wizard: Where would you like to go?
+User: Im looking to go to Kakariko Village
+Wizard: Sorry, I can't find those locations in my database. Is there another place you could depart from?
+User: I could leave from Birmingham
+Wizard: Ok! Any other destination in mind?
+User: not at the moment let's see what is available
+Wizard: I've got trips available to Calgary, Denver, Burlington, Sacramento, and Phoenix - all for under 500USD. Any interest in exploring these options?
+User: potentially which of these places have the best hotel for 5 people
+Wizard: 5 adults?
+User: yessir!
+Wizard: Okie doke! I have 4 star hotels in Calgary, 3 stars in Denver, 2.5 in Burlington 2.5 in Phoenix, and 2 stars in Sacramento.
+User: to stay in Calgary how much would it be?
+Wizard: 5 people could spend 8 days in Calgary for 795.80USD.
+User: queenstown maybe
+Wizard: I have a 5 star hotel in Queenstown for 5 people for 13047.90USD.
+User: that would work what is it called/
+Wizard: That hotel is called the Illustrious Pool Hotel.
+User: that seems perfect! what dates would that be/\?
+Wizard: August 26-September 1.
+User: anything closer to august 13th
+Wizard: I have the same hotel for 15395.73USD if you leave on August 15
+User: and when would it return?
+Wizard: You would return on August 21.
+User: if i wanted to be back by the 16th when could i return?
+Wizard: You would like to travel from August 13-16?
+User: yes please!
+Wizard: Sorry, I don't have anything available in Queenstown for those dates.
+User: what is available for those dates?
+Wizard: I can't find anything in my database for those dates.
+User: okay well i guess ill try another time then

@@ -1,0 +1,11 @@
+User: Denver, here I come! I need you to help me book a trip. It's THE most important trip of my life!
+Wizard: Hey, sounds fun! Where are you leaving from?
+User: St. Petersburg. I just got an internship! I only have $3200 at the moment, so let's keep it under that until I start to make some big bucks!
+Wizard: How does under one tenth of your budget sound? I can give you a deal from August 26-31 for 316.46USD.
+User: Holy crap that's cheap! Anything wrong with it? That's just like way to cheap!
+Wizard: It’s a 3 star hotel with free wifi. I can do a 4.0 star hotel for 833.82 if you prefer, but the dates would be Aug 27-Sept 1.
+User: I'll stick to the 3 star and save some $$$. What's the name of the hotel? Is there anything to do on my down time? It's my first trip alone and I need stuff to do on the weekend.
+Wizard: Ok! Well the 3 star, the Oriental Resort, is near a university and a museum for your entertainment!
+User: Looks like I've lucked out then, Denver here I come!!!
+Wizard: Wonderful :slightly_smiling_face: So I will go ahead and book that for you?
+User: YEAH!

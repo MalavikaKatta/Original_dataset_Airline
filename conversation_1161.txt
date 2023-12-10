@@ -1,0 +1,36 @@
+User: hi
+Wizard: Hello! How may I be of help?
+User: im just... exhausted. i need to get out of toluca
+and i cant make up my mind where to go
+i know a couple places but
+i dunno
+maybe you can tell me which is better
+Wizard: I'd love to help with that! When would you like to take this trip?
+User: well i am off from the 15th to 26th of september
+Wizard: And how much budget do you have for this trip?
+User: i don't really have one, i need to treat myself... within reason of course..
+Wizard: In that case, I'll let you know a few offerings we have and we can start from there. Given your selections, we've got a 13 day trip to Paris, and 11 day trips to Detroit, Atlanta, Kyoto, Hiroshima, and Essen. These are the longest trips we offer.
+User: oh wow, thanks, but i was actually thinking about going to porto alegre
+Wizard: No problem. In Porto we can offer you a 5 day stay at a 3.5 star hotel next to shopping, a university, and a mall.
+User: that's alright - i would rather be near like a park, beach, garden.. something like that, i've just been cooped up in an office for ages so outdoor attractions would be better
+Wizard: We have no particular hotels in Porto close to outdoor attractions. Would you like to try another destination?
+User: ahh, ok, well i was also thinking about denver
+Wizard: We only have a 3.0 star hotel in Denver that matches your needs; however, it is not particularly close to any outdoor activities.
+User: hm.. well how else does it suit my needs?
+Wizard: It works well with your dates since it's a 10 day trip from September 15 to 24, and it is in your destination of choice.
+User: ah, ok. maybe you could go back to those places you mentioned before.. i would like to hear about Hiroshima'
+Wizard: Sure, in Hiroshima we can bring you to a 3.0 star hotel with 7.15/10 guest ratings near a museum.
+User: what about Kyoto?
+Wizard: In Kyoto we also have a 3 star hotel near a museum. This one has 8.69/10 guest ratings.
+User: nice! which is cheaper, hiroshima or kyoto?
+Wizard: Hiroshima would be an 11 day trip for 4164.55 while Kyoto would be an 8 day trip for 3435.68.
+User: gotcha. well I like the kyoto place more
+what is the hotel called?
+Wizard: It is none but the Sakura Inn.
+User: ok. what is the Paris option you mentioned earlier?
+Wizard: Our Paris trip includes a 13 day stay at a prestigious 4.0 star hotel with 8.49/10 rating for 2888.25.
+User: wow, that's better than the others so far... is it near anything cool?
+Wizard: I do not have any information on that unfortunately.
+User: ah that's ok .. seems like the best deal. I'll take it'\
+Wizard: Sure, I will book it for you! You're headed to Paris from September 15-26!
+User: much appreciated - thanks!

@@ -1,0 +1,20 @@
+User: i need out of this tacky country :unamused:
+maybe Kyoto? i just finished performing in san antonio and i want out of here
+Wizard: Do you have a budget for this trip?
+User: thats cute. of course not
+Wizard: Do you have any dates in mind?
+User: on september 1st
+Wizard: We have a 9 day stay at a 3 star hotel. This flight leaves on August 18th at 11:00 am and the cost is 5440.99. Does this interest you?
+User: 3 stars? I would like 5…. what if we went to san jose instead?
+Wizard: I have found a 4 star hotel for 11 days starting on the 27th of August. Unfortunately there are no 5 star hotels. This package offers free breakfast, wifi and parking, and the cost comes to 5179.21 for the business class flight. Does this package interest you?
+User: can you find me a 5 star if i leave from Porto
+Wizard: Unfortunately there are no 5 star hotels available. The highest rating is a 4.
+User: and from porto to kyoto… still nothing?
+Wizard: I could get you a 3 star hotel
+User: it’ll have to be san jose but i do need to be back by sept 1
+Wizard: There are no flights to San Jose that would bring you back by September 1st. Sorry for the inconvenience. Would you be interested in the first option to go to Kyoto for the 9 day stay?
+User: ok… well, if I went to Kyoto when would I return?
+Wizard: You would return on the 27th of August.
+User: alright, i suppose ill have to book that then
+Wizard: Great! Your flight departs on the 18th of August at 11:00 am and the cost is 5440.99. Have a great trip!
+User: thank you kindly :kissing_heart:

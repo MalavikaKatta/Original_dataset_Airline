@@ -1,0 +1,13 @@
+User: Hi! I have 2 possible big golf tournaments coming up and I want to see which one has the best package. Let's take a look at Chicago first.
+Wizard: Ok, sure thing :slightly_smiling_face: Where are you departing from?
+User: I'm in Seattle. Ever been to Seattle?
+Wizard: What dates would you like to travel?
+User: Anytime between August 27 to September 10.
+Wizard: I have one hotel available in Chicago for that date range. It is 2.5 stars and located in North Chicago near a park and a museum. It has free wifi, breakfast, and free parking.
+User: Okay how about Rome?
+Wizard: I have 3 four star hotels available in Rome for your date range and one 0 star hotel in Rome.
+User: Are any of the Rome hotels near the beach?
+Wizard: Sadly, there are no beaches. There are some available near a Cathedral and/or shopping districts.
+User: Well, I do like cathedrals
+Wizard: There’s the Hotel Grand Residence which has free breakfast, free wifi, and a guest rating of 8.8/10. The Hotel Emerald Legacy has a guest rating of 8.22 and free breakfast and wifi as well. FInally, The Double Pastures has a guest rating of 8.98 in addition to free breakfast and free wifi like the other two.
+User: Let's book the Double Pastures

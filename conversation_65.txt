@@ -1,0 +1,18 @@
+User: Hi im going on SPRIINGGG BREAK! can you help me and my friends book a package?
+Wizard: For sure! How many of you will be travelling together?
+User: me and my 3 best friends!
+Wizard: And where will you be departing from?
+User: we want to leave on the 16th were looking to go to San Juan
+Wizard: Okay, but where from? From what city?
+User: We’re leaving from Godric's Hollow
+Wizard: I have no flights leaving out of Godric's Hollow. If you are able to leave from Cleveland or Montreal, then I can send you to San Juan. 
+User: we could leave from birmingham do you have anything from there?
+Wizard: to San Juan?
+User: if possible
+Wizard: I have no flights to San Juan from Birmingham   Are there any other places that you would like to travel to? I have packages to Japan from Birmingham.
+User: what are the ones to japan like do they fit my budget?
+Wizard: I do not know what your budget is. Can you please tell me?
+User: $2,200
+Wizard: I am sorry, I made a mistake, I do not have direct flights from Birmingham to Japan either.
+User: honestly it seems like nothing will work here! thanks!
+Wizard: Sorry I wish I could have been of more help to you. Next time!

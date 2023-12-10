@@ -1,0 +1,27 @@
+User: Good evening. I am Hugo, father to five darling children
+Wizard: Hi Hugo! Where are you going?
+User: We reside in Mannheim, and have been eyeing Miami as a possible destination for quite some time.
+Wizard: Ok! Are all of your children travelling with you? Any other adults?
+User: They sure are! Do you have a flight for two adults and five children leaving on the 27th of August, returning on the 7th of September.
+Wizard: I do have a trip leaving on August 27 until August 31!
+User: Hmph that is unsatisfactory
+Wizard: Sorry :disappointed: When would you like to return?
+User: We would have preferred to returned on the 7th of September, as I have previously stated.
+Wizard: You could return on September 5 instead!
+User: Would this also be leaving on the 27th of August?
+Wizard: No, you would leave on August 31.
+User: Since you are unable to make our Miami plans come to fruition, then perhaps you may be of more use helping us book a flight to St. Louis instead. Same dates, also leaving from Mannheim
+Wizard: I can book you from August 27 until September 5? I hope that might be somewhat satisfactory for you.
+User: That is a marked improvement indeed. What are the costs associated with such a journey?
+Wizard: At the 5 star hotel, Lunar, you would pay $18155.
+User: Are there cheaper alternatives? That is far beyond our budget
+Wizard: Sadly, no.
+User: This is most unfortunate. In that case, we shall look to travel closer to home: can you book us a flight to Essen instead
+Same details as before
+Wizard: Only thing available is from August 31-September 3.
+User: For comparison's sake, what is the cost of the trip to Miami from August 31 to September 5
+Wizard: 8970.25USD
+User: Is there any chance you could lower that? We will make do with budget airlines and seedy motels. Its time the young'uns see the real world anyway.
+Wizard: I cannot negotiate the price.
+User: Very well. How about the price for the trip to Essen?
+Wizard: 2293.34USD

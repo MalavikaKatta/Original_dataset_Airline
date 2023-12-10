@@ -1,0 +1,13 @@
+User: I need to get to philadelphia from denver
+Wizard: Should I assume you have no budget?
+User: 18600
+Wizard: Do you have any preferable dates to travel?
+User: yes i want to go today, August 18
+Wizard: How many will be travelling with you
+User: 4 more trainers
+Wizard: I have found the Mirror inn, for a 4 day stay, it has 2 stars and leaves on the 18th
+User: can you book me a trip to osaka now?
+Wizard: For only $17127 you can stay at the Aquamarine Majesty Hotel for 6 days with Free Wifi and Parking. It is 4 stars and near a museum and park. The flight leaves on the 26th untill the 30th
+User: lets go to osaka!
+Wizard: Let me book that for you, and you can be on your way
+User: awesome :smile:

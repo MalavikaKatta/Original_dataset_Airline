@@ -1,0 +1,8 @@
+User: Hi there
+Wizard: Hi how can I help you today?
+User: Looking to go from Melbourne to Paris. Have 2600 to spend on tickets for 9 adults
+Wizard: We do not have flight/hotel deals from Melbourne to Paris
+User: Do you do Paris to Melbourne?
+Wizard: Nor the other way around
+User: what about paris to tel aviv, same conditions
+Wizard: No flights from Paris to Tel Aviv either

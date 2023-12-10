@@ -1,0 +1,9 @@
+User: Hi
+Wizard: Hi there
+User: Can you help me find a vacation package from Indianapolis to Essen for under 3500 and between September 6th and 22nd please?
+Wizard: I have no packages available within those parameters
+User: Well how about to Montreal?
+Wizard: Neither unfortunately.
+User: Nagoya?
+Wizard: Neither. Are you able to depart from another city?
+User: No, I'll just go to another travel agency. Thanks anyway

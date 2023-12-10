@@ -1,0 +1,23 @@
+User: Hi, I'm looking for a vacation package to Chicago from Brasilia.
+Wizard: will you be travelling alone or in a group?
+User: It'll be just myself.
+Wizard: Do you have any preference as to when you will travel?
+User: Yes, I hope to travel between August 29 and September 9.
+Wizard: Would you prefer your stay to be 5, 6 or 11 days?
+User: Of those 3 options, I would prefer 11 days
+Wizard: We have an 11 day package at the Sierra Inn & Suites, 2 star for 1783.36USD. It has a guest rating of 7.06/10.
+User: Any other hotel options
+Wizard: Only one for an 11 day stay.
+User: Can you check if there are other hotel options for September 1 - 20?
+Wizard: There sure are. My longest one is at the 2.5 star Quiet Sanctuary for an 8 day stay. It has a guest rating of 8.69 / 10.
+User: What are the departure and return dates for this one?
+Wizard: Sept 13th through the 19th
+User: The dates seem to work.. How much is this one?
+Wizard: if you choose to fly by economy, the cost is 2242.60USD and by business it is  2856.24USD. This package also includes a complimentary breakfast and free wifi along with your parking.
+User: And the he Sierra Inn & Suites? Does it have the same amenities?
+Wizard: Yes all three are included in that package too.
+User: In this case I'll actually go back to the 11 day package. Can I still book that one?
+Wizard: Of course you can! Do you want  to fly there on economy or business class? If you go by business class, the price is  $2281.83USD.
+User: Economy is fine!
+Wizard: Your trip has been booked. Have a super day! :+1:
+User: Amazing!

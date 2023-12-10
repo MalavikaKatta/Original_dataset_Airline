@@ -1,0 +1,10 @@
+User: HI THERE. I NEED TO FIND MADONNA TO TAKE PICTURES OF HER AND HER FRIEND. I WORK FOR INTOUCH MAGAZINE. CAN YOU GET ME TO SAO PAULO FROM PORTO?
+Wizard: Do you have a budget?
+User: YES, THE COMPANY WILL ONLY PAY 1400 DOLLARS FOR MY TRIP.
+Wizard: How many people in your party?
+User: JUST ME. TRYING TO KEEP A LOW PROFILE.
+Wizard: Alright! Do you have dates in mind?
+User: I WANT TO LEAVE ON THE 25TH OF AUGUST. CAN YOU DO THAT FOR ME?
+Wizard: Unfortunately there are only flights from Curitiba to Sao Paulo.
+User: OH NO...WHAT IF I INCREASE MY BUDGET BY 1000 DOLLARS?
+Wizard: The same results apply even with the increase in your budget.

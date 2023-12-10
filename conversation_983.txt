@@ -1,0 +1,12 @@
+User: Heyyyy there
+Wizard: Hello! What do you need help with today?
+User: We’d be leaving from San Antonio Sept 8. Hoping to go to Busan
+And we’ve got 4600 bucks to spend
+Wizard: Sorry, we've got nothing that works with you dates and budget. The most affordable trip we have costs 4885.11 and leaves on the 14th.
+User: What about in Naples?
+Wizard: We do have a trip leaving on the 8th to Naples. It will be an 8 day stay at a 3 star hotel at the heart of Naples, and of course, close to the museum.
+User: Ok! What would the price be?
+Wizard: The economy package will be 3587.60 and the business package will be just under your budget at 4584.75.
+User: Ok, great. Can we book the economy package?
+Wizard: Sure can! I have processed the booking for you. Watch out for a confirmation via email!
+User: Bless you!!

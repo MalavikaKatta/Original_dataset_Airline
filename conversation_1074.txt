@@ -1,0 +1,5 @@
+User: I would like to book a trip to Belo Horizonte
+Wizard: Where are you coming from?
+User: ok. I live in Curitiba
+and I have a few days to travel there, from 24th until 27th of September
+Wizard: I have no flights from Curitiba to Belo Horizonte

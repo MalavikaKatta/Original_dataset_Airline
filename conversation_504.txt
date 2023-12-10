@@ -1,0 +1,22 @@
+User: hello.
+Wizard: Hi! How can I assist you?
+User: im looking to go from portland to toluca what can you do fo rme
+Wizard: What is your budget?
+User: lol. im insulted you would even ask just do the little search thing that you do im not worried about the cost so neither should you 
+Wizard: Is there a certain date you'd like to leave on?
+User: dont care but i have to be back here for September 6
+Wizard: The closest package we have that is close to this return date is from August 27th to September 7th. Is this okay?
+User: I’m going to need some more information before i tell you that..
+Wizard: This package is at a 3.5 star hotel that offers free breakfast, wifi, and parking. Business class seats are 909.86.
+User: no nothing else?
+Wizard: No, sorry.
+User: ok whats available in philadelphia
+Wizard: There is a 2 star hotel from August 30th to September 6th. This hotel is near a park and museum and includes free wifi, breakfast, and parking. The cost is 556.35 for business seats.
+User: is that it.. 2 star/
+Wizard: Yes, that is all for this request.
+User: kingston to toluca what is available
+Wizard: We have a 3.5 star hotel with free breakfast, wifi, and parking. This package leave August 27th and returns September 3rd. With business class seats this package comes to 2480.10.
+User: kingston to philadelphia??
+Wizard: Yes
+User: what
+Wizard: This is a 2 star hotel.

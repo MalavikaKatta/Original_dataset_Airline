@@ -1,0 +1,24 @@
+User: Hi
+Wizard: Hello! How can I help you today?
+User: I just need to dream a bit... I have 4500 dollars but no vacation days. I'm wondering what a hypothetical trip to Manaus would be like
+Wizard: I can help with that, where are you departing from?
+User: I'm in Tijuana, not departing any time soon unfortunately though
+Wizard: Not a problem - how many would you be traveling with?
+User: Just me
+Wizard: I'm sorry, but we unfortunately do not have any results for these flights? Would you like to try a different destination?
+User: That's fine, what about Curitiba/
+Wizard: That I do have! Would you be satisfied with a 3.5 star hotel?
+User: As of now I'm be satisfied with a tent and a backpack. What are the hotel details?
+Wizard: The hotel is situated near a park, and comes with free parking, wifi, and breakfast! Does this sound good to you?
+User: Sounds quite nice, what about the guest rating?
+Wizard: The guest rating is impressive: 8.86/10.
+User: Impressive indeed
+Sounds like a great package. What about in Kyoto? I would like to hear about the options there as well
+Wizard: Definitely! In Kyoto, I can get you a 9 day stay in a hotel near the heart of the city, and a museum. How does that sound?
+User: That sounds like a stimulating trip. Could you remind me how long the stay in Curitiba would be?
+Wizard: It would be entirely up to you! Choices are 8, 13, and 14 days.
+User: What is the rating of the Kyoto hotel?
+Wizard: That would be 3 stars,
+User: And the guest rating?
+Wizard: A respectable 6.61/10
+User: Neato! Well if I had the time off available I would definitely book Curitiba

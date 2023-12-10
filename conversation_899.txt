@@ -1,0 +1,20 @@
+User: This is probably a waste of time but what the hell. Just wanted to see if I can get to Chicago from Ulsan
+Wizard: Do you have a budget?
+User: 2500$$$
+Wizard: When would you like to travel?
+User: Whenever
+Wizard: There are no results for trips from Ulsan to Chicago.
+User: In a perfect world, there would be...I wanted flights from Chicago to Ulsan
+Wizard: There are no availabilities from Chicago to Ulsan.
+User: How about Chicago to Kingston
+Wizard: There's a 4 star hotel near a museum for 1530.26. Free parking, breakfast, and wifi included. 8.22/10 guest rating. From September 12th to 15th and a business class flight.
+User: Now we're talking. How about Vancouver?
+Wizard: There's a business class flight for a 4 star hotel, 10/10 guest rating, park and museum nearby, free parking, breakfast, and wifi. From September 3rd to 11th, costing 1606.20.
+User: Ok I'd like to book that! But do you do business class?
+Wizard: Yes this is the information and price for the business class option.
+User: Ok book it!
+Wizard: Are you sure? You said earlier you wouldn't be able to travel.
+User: You are absolutely right - just wanted to experience the rush of saying those magical words
+Wizard: Okay, well have a good day!
+User: Thanks! I really enjoyed this
+Wizard: Anytime!

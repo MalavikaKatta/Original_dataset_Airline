@@ -1,0 +1,5 @@
+User: hi i need to get to mexico please find me a flight from punta cana
+Wizard: I can offer you a deal on a 10-day stay in Puebla, 1032.24USD if you book now. This package is for the 25th of August to the 3rd of September. Would you be interested?
+User: that actually fits my needs so perfectly - yes book it
+Wizard: Done! Enjoy your stay!
+User: gracias

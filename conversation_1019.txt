@@ -1,0 +1,19 @@
+User: HEY BUD. I need to get to Mannheim out of Nagoya. I wanna leave Sept 18th
+Wizard: How many people are travelling together?
+User: I travel alone
+Wizard: I have a 9 day stay and a 15 day stay available in Mannheim
+User: what’s the price?
+Wizard: 15 days = 2857.72USD and has a departure date of Sept 23rd and lasts 9 days = 3547.22USD and has a departure date of Sept 18
+User: are those both at the same hotel? what is the hotel like??\
+Wizard: Same 5 star hotel, The Regal Resort, just different dates. Wifi is included and there is a spa on the premises.
+User: Do you know if its close to anything??
+Wizard: It's right near a park
+User: they always have pokestops at parks so that’s GOOD NEWS! what if I went to Santiago though.. there are also whispers of mewtwo appearing there..
+Wizard: Are you trying to stay within a certain budget?
+User: yeah. 3900 dollars
+Wizard: Okay I have the Una casa a 3 star hotel near a museum which includes your breakfast plus parking and wifi for  2995.44USD on a 10 day package
+User: i would rather be near the park than the museum...so Mannheim instead please
+Wizard: Should I book the 15 day package in Mannheim for you then?
+User: yeah lets do that PLEASE
+Wizard: That has been booked for you, have a great stay in Mannheim
+User: thanks, friend

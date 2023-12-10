@@ -1,0 +1,12 @@
+User: Good morning! I'm an expat writer living in Kobe, Richard O'Brien, ever heard of me?
+Wizard: Are you looking for a destination from Tokyo?
+User: Well I need that to change, which is why I need to book a trip to somewhere calm where I can finish my novel which will hopefully make me a world renowned author, not like my last book...So yes, to answer your question, I am looking for a trip from Kobe to maybe Munich. I am a real family man and will be travelling with my wife and our son, can't live without those two. 2 adults and 1 child
+Wizard: when would you like to leave and return?
+User: the sooner we could leave the better, but I don't have specific date constraints. I would like to be away for 7 days though
+Wizard: I have a 6 day package available at our highest rated hotel in Munich departing Sept 6 and returning Sept 10. Does this interest you sir?
+User: I'm not sure I can afford a highly rated hotel, our budget is 3600
+Wizard: I have no packages available in Munich for under $3600.00. I can check other destinations for you if you like, or I can check to see if there are shorter packages available.
+User: I really need about 7 days to work.. How about if we went to Hamburg instead?
+Wizard: At the present time, there are no flights available from Kobe to Hamburg.
+User: Oh well, thank you for your help, I understand that our budget is quite limiting I will see if other agencies have cheaper trips we can affoord Cheers!
+Wizard: Have a pleasant day

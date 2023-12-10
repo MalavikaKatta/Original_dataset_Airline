@@ -1,0 +1,25 @@
+User: hi im in mannheim and want to spend a week away
+Wizard: Where are you planning on going?
+User: i was thinking about burlington
+Wizard: Do you have a budget for this trip?
+User: no id just like to compare packages
+Wizard: okay, how many people will be attending this trip?
+User: just me
+Wizard: any dates in mind?
+User: august 17-august 24
+Wizard: OKay let’s find something, Would you rather stay at Celestial inn & Suites a 3.0 star hotel or at Excursion Motel which is a 2.5 star hotel?
+User: hm.. well i don't know about 3.0 stars only. what about trips to Sendai?
+Wizard: Sorry, unfortunately there are no trips to Sendai
+User: how about curitiba?
+Wizard: As well no packages available
+User: ok... well how about to SL?
+Wizard: Sorry nothing to SL but we have trips from Mannheim to Germany and Italy
+User: can you give me some more information on the burlington packages?
+Wizard: The Excursion motel has free wifi and Free Parking while celestial has Free breakfast and free wifi
+User: how much are each of the packages?
+Wizard: celestial goes for about $2145 and the Excursion Motel is $1900. that is for economy seating of course.
+User: ok let's book celestial.. how much to upgrade to business?
+Wizard: celestial will be $2740 for business class should i book that for you?
+User: yes lets do it!
+Wizard: cool beans! have a good trip!
+User: :grimacing: thanks!

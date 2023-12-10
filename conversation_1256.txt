@@ -1,0 +1,13 @@
+User: I need to get to North Vancouver to shoot my movie. Coming from Birmingham
+Wizard: Sure! When do you want to travel?
+User: anytime. for any price.
+Wizard: Sadly I can’t find anything from Birmingham to North Vancouver. Is there anywhere else you could go?
+User: I guess I could hang with Selena in Kingston YET AGAIN.
+Wizard: From Birmingham I can book you multiple packages to Ebony Manor Inn & Suites, a 4 star hotel with 8.22/10 user reviews.
+User: ok tell me about these packages.
+Wizard: There’s a 13 day from September 18th-30th or a 7 day from September 24th-30th. The hotel is near a museum and has free breakfast, wifi, and parking included.
+User: I want the 13 day
+Wizard: Sure! Business class?
+User: duh
+Wizard: In that case your total will be 1155.77USD. I shall email booking confirmation shortly. Enjoy your stay :slightly_smiling_face:
+User: Ya thanks

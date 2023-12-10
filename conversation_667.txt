@@ -1,0 +1,23 @@
+User: Hello there!
+Wizard: Hi there, where are you looking to go today?
+User: I am not sure yet, I have a few options which I am looking to explore
+Wizard: I can help with that, where are you looking to depart from?
+User: I need to see to a disobedient little Sharpei in Long Beach I would be available to travel from the first of September until the 18th
+Wizard: That sounds like fun! Do you have a city of departure in mind?
+User: No, I have no set departure city. I am often travelling.
+Wizard: Got it. We can get you from Los Angeles to Long Beach, from September 8 to 18. Would this work?
+User: That could work yes, is it under 4800 dollars?
+Wizard: Definitely, total cost comes to 1062.90USD.
+User: Is the hotel near a park?
+Wizard: Its not, but its near an airport!
+User: Can you look into Pittsburgh for me
+Wizard: Would this be Pittsburgh as the city of origin or Pittsburgh as the destination?
+User: Destination
+Wizard: I've got you a 3.5 star hotel near the park! How does 13 days at the Onyx Isle Hotel, from September 3 to 18, sound?
+User: Where is this hotel situated?
+Wizard: Its in Pittsburgh, as you requested.
+User: I mean what is nearby the hotel
+Wizard: Just the park.
+User: Book me please
+Wizard: Will do! Have a great stay!
+User: Thank you :dog:

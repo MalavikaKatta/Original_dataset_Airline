@@ -1,0 +1,8 @@
+User: I have 2500 to spend
+Wizard: Hello!
+User: Hello, old friend.
+Wizard: Where would you like to go?
+User: I have 2500 to spend. Tel Aviv to Rio de Janeiro
+Wizard: We do not accommodate flights to or from Tel Aviv, sorry!
+User: Welllll that is just fine I will try another agency
+Wizard: Okay, sorry I could not have been more helpful!

@@ -1,0 +1,15 @@
+User: hey, so even though the year is 2025 i need to book a trip for august 26, 2016 to calgary...
+Wizard: Hi there! where will you be travelling from?
+User: i am leaving from Fort Lauderdale. there are 3 others coming with me
+and we want to go on August 26
+Wizard: Ok perfect! do you have a budget to keep to?
+User: yes - 15300
+Wizard: Are your dates flexible?
+User: sorta
+Wizard: Would leaving on the 27th for 10 days work?
+User: yes! definitely!
+Wizard: For those dates we have the Amusement which is a 4 star hotel with free parking and wifi for $2801
+User: ok, is that for all 4 of us?
+Wizard: Yes it is :slightly_smiling_face: would you like me to book that for you? or i can Upgrade you to Business class for $3731
+User: lets upgrade to business class! i need to be well rested for the hunt
+Wizard: Perfect let me go ahead and do that for you! enjoy your hunting!

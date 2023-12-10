@@ -1,0 +1,10 @@
+User: I have a movie shoot to go to in Salvador. Get me there from Belem
+Wizard: My apologies, we do not have any available trips. Is there another destination you would like to go to?
+User: Get me to Brasilia then
+Wizard: That I can do! I have a 3.5 star hotel near the beach, shopping and theatre. I have availabilities for 7 days or 10 days.
+User: what amenities does that 3.5 star have
+Wizard: It's got everything. Free parking, free breakfast, and free wifi!
+User: 7 days, business class then
+Wizard: Sounds good. Business class is booked for you for 575.48!
+User: Can you remind me of the dates?
+Wizard: Yup, You'll be there from Sep 8-14.

@@ -1,0 +1,13 @@
+User: Ok! So I am planning a trip with my 6 best friends. We want to go from Guadalajara to somewhere else
+First on our list is Cairo. Could you get us there?
+Wizard: Yup! What is your budget? And when would you guys like to go?
+User: we have 6400 budgeted. and we would have to keep this trip between Sept 9 to 23
+Wizard: I can take you to Indianapolis, New York, Fort Lauderdale, Cairo, Atlanta, San Antonio, and Lima. Any of these sound interesting to you?
+User: Cairo would be our top choice
+Wizard: It is a 2.5 star hotel near the park, market, cathedral, and palace. Historically, guests have rated in 8.22/10 on average. Free parking, breakfast, and wifi is available during your entire stay. I have economy and business packages that work with you budget.
+User: Could we find a better hotel if we increased the budget by 1000?
+Wizard: Not in Cairo. Are you still open to any city in the US?
+User: I know I should be more open-minded, but this time around we really wanted to go to Cairo
+Wizard: we don't have anything better in Cairo. I could put you all on business flights though, and you can stay in Cairo for 10 days and still be okay budget-wise!
+User: Ok lets book that!
+Wizard: It's done! 5716.58 for everything. Is that all for today?

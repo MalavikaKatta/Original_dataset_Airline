@@ -1,0 +1,3 @@
+User: I'd like to book a trip for myself, from Tel Aviv to Tampa from, departing Aug 21, returning Aug 24. Do you have such a flight for me?
+Wizard: I’m sorry but I have no departures from Tel Aviv in my database. I can book you from Melbourne ?
+User: Then you are useless to me. Good bye.

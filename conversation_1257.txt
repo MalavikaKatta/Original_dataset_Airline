@@ -1,0 +1,11 @@
+User: Need two tickets out of Buenos Aires!
+Wizard: For two adults? Where would you like to go?
+User: Yup two adults! They can be anywhere in the world except here! For as long as possible between the 20th and the 3rd of next month please!
+Wizard: Do you have a budget in mind?
+User: Yup, can you find something under 3000?
+Wizard: Why yes! We have a wonderful 14 day package for Porto Alegre at a 3.5 star hotel with a guest rating of 9.16/10, costing at 2210.13 for economy class and 2652.90 for business. Are you interested?
+User: Not bad! And when does this trip leave?
+Wizard: It leaves September 20th and returns October 3rd, just as you requested :slightly_smiling_face:
+User: Awesome!!! Book it for business please! I think that'll do it!
+Wizard: Consider it booked! Have a nice trip :slightly_smiling_face:
+User: Thanks! I'm sure it will be amazinggg

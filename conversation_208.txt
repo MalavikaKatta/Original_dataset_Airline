@@ -1,0 +1,26 @@
+User: can I go to Sacramento?
+Wizard: I'll see what I can do. Where will you be leaving from?
+User: phoenix
+Wizard: Do you have a budget?
+User: yeahhhh I cant spend more than 1900... :disappointed:
+Wizard: How many people are travelling?
+User: just me
+Wizard: Do you know when you want to take your trip?
+User: Between September 1 and 15th.
+Wizard: Would you like economy or business class for your flights?
+User: I don't know if I can afford business class, can I?
+Wizard: You can! The business class is 1129.47 at a 5 star hotel from the 4th to 12th. The hotel offers free breakfast and wifi. Would you be interested in this package?
+User: oooo yes but lets look at a few more first. what about a package to Hamburg?
+Wizard: The only package for Hamburg is at a 4.5 star hotel and the price is 1845.59.
+User: That could be nice, what about Baltimore?
+Wizard: There is a 3 star hotel for 1572.27.
+User: What amenities does it include?
+Wizard: This package includes free breakfast, wifi, and parking.
+User: What are the flight details for Hamburg?
+Wizard: Phoenix to Hamburg:
+12:00 pm - Tuesday, September 6th 2016 to 8:37 pm - Tuesday, September 6th 2016
+Hamburg to Phoenix
+3:00 am - Wednesday, September 14th 2016 to 11:37 am - Wednesday, September 14th 2016
+User: Well that looks pretty good! I'll book this one.
+Wizard: Great! Your trip is booked! Have a nice trip and thank you for using wozbot!
+User: Thank you!

@@ -1,0 +1,16 @@
+User: Cleveland to Fukuoka
+Wizard: Hi! How many adults and children will be traveling on this trip?
+User: 2
+Wizard: 2 adults and 0 children, is that correct?
+User: yes
+Wizard: I can get you a 11 day trip at the Oceanside Hotel hotel, would you want this?
+User: whats its rating
+Wizard: 3.5 star hotel, rated 8.22/10 by its guests.
+User: where else can I stay with a higher rating
+Wizard: That's our best hotel in Fukuoka! Would you like check a different destination?
+User: fine, check buenos aires
+Wizard: We've got a 4 star hotel in Buenos Aires, rated 8.69 by its guests. Would you like to know more about this option?
+User: yeah, sure! whats it like
+Wizard: You would be living in heart of the city, next to a park. You'd also get to indulge in amenities such as free parking, free breakfast, and free wifi. Total trip is 12 days, should I go ahead and book this trip?
+User: but fine, book it
+Wizard: Will do! Hope the rest of your day goes swimmingly :slightly_smiling_face:

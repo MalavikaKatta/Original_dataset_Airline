@@ -1,0 +1,21 @@
+User: Hi there. We are three adults trying to get from Frankfurt to check out some of the hippest cities on earth
+Wizard: Okay! Do you have a budget?
+User: I do, 9200 for all of us
+Wizard: Do you know when you'd like to leave?
+User: Some time between Aug 31 and Sept 8
+Wizard: We have an awesome business flight to Ulsan for 7763.68. This is a 5 star hotel near a park, shopping, and mall. They have a 8.8/10 guest rating and they offer free parking and wifi. This package is from August 31st to September 8th!
+User: Thats really great actually. But could you check Tokyo for us. We read something about it in GQ
+Wizard: We have one result for Tokyo at a 3 star hotel near a museum and shopping. They have a 6.77/10 guest rating and offer a spa and free wifi. The trip is from September 2nd to 6th, it is an economy flight and costs 8681.73.
+User: Oh nice. How about Calgary?
+Wizard: We have a 4 star hotel near a university, they have a 0/10 guest rating, and offer free parking and wifi. The trip is from September 2nd to 7th. The business package costs 6077.55 and the economy package costs 4557.29.
+User: 0/10???
+Wizard: Correct.
+User: That actually sounds very hip to us, I love it
+Wizard: Would like to book one of these packages?
+User: Whats the name of this hotel? The Calgary one that is
+Wizard: Amusement
+User: Ok yes lets book it
+Wizard: Great! Would you like business flights or economy flights?
+User: economy would be good enough for us
+Wizard: Okay great! Your trip is booked and you will receive a confirmation email shortly! Have fun!
+User: Thanks!!

@@ -1,0 +1,7 @@
+User: I need your help to book my family a trip from Kabul to Seoul. What's the cheapest you've got?
+Wizard: Unfortunately, I haven't got any flights fitting those parameters. Do you have any other destinations in mind?
+User: Any options for airports nearby?
+Wizard: We don't have any flights out of Kabul. Is there any chance you could change your city of departure?
+User: No I don't think we can leave from anywhere else
+Wizard: Sorry to hear! Is there anything else I can help you with today?
+User: No it's alright! thanks though!

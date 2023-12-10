@@ -1,0 +1,15 @@
+User: i wanna go to sacramento from hiroshima
+Wizard: The Bronze Luxury Hotel is 5 stars and has a 10/10 user review. For 16 days I can book you at a cost of 4160 USD.
+User: is it available for 2 adults?
+Wizard: Yes, but the price above would be doubled.
+User: so how much? my budget is 10400
+Wizard: The cost is within your budget. 8320.51USD is the total for two adults.
+User: good. Can you also check packages for denver
+Wizard: I have the 4 star Marina Castle Hotel for 7017.93USD. This would be a 13 night stay.
+User: any other hotels?
+Wizard: Brass Renaissance Resort is available for 9 days at a cost of $6289. This is 3 stars with 8.86 guest rating.
+User: nah. i like the 5 star hotel. What else can you tell me about that hotel?
+Wizard: Sure. Sacramento’s Bronze Luxury Hotel has 10/10 user rating, is near a museum, has free breakfast, and provides free wifi.
+User: I love it. we will take this one!
+Wizard: Great! I will book for two.
+User: thnx, toodles

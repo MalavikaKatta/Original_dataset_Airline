@@ -1,0 +1,16 @@
+User: I need to get to Boston please, it's an emergency.
+Wizard: Where are you currently?
+User: I'm in Belo Horizonte. I need to leave on Sunday September 18 or later.
+Wizard: Is it just you? Do you have a budget?
+User: Yeah just me. I've just spent all this money backpacking around South America, so I've only got 2800 left. Can you find something with that?
+Wizard: Yes! We have a 12 day trip leaving on the 19th at a 2.5 star hotel close to the mall. Does this interest you at all?
+User: Yeah, how much does that cost?
+Wizard: It'll be 2417.77 with economy flights.
+User: It sounds good, do you have any other good packages though?
+Wizard: We have another 12 day trip to a 2.5 star hotel with a slightly better guest rating for 2670.57.  Otherwise, we have a 7 day package at a 3 star hotel for 2679.33.
+User: Oh no. The first option sounds the best. But when does it leave?
+Wizard: It leaves on the 19th and returns on the 29th.
+User: Okay that sounds really good. I'll take it!
+Wizard: Perfect! It is all booked for you!
+User: Awesome, thanks!
+Wizard: Happy to help :slightly_smiling_face:

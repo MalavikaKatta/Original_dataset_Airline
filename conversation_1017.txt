@@ -1,0 +1,22 @@
+User: Hi there, I'd like to book a trip to Denver please
+Wizard: Sure thing! Where from and when?
+User: From Houston. Ideally on Monday September 12th, but my dates are flexible
+Wizard: How many are you booking for?
+User: one adult and 7 children
+Wizard: And do you have a budget in mind?
+User: Yes, I'd like to spend no more than 4500
+Wizard: Perfect, our best package that works for you is a 13 day stay at a 3.0 star hotel with 8.86/10 guest rating by a park. We also have two other 3 star hotels in Denver, one with 8.69/10 guest rating, and the other with 0/10 guest rating. Would you like to hear more about any of these options?
+User: Actually, I was thinking about a stay under ten days.
+Wizard: We don't offer any trips to Denver from Houston under 10 days. Would you want to try another destination?
+User: Sure, the other destination I was thinking of is Rio de Janeiro
+Wizard: We also do not offer any trips under 10 days to Rio de Janeiro. Can I help you search for trips in another city?
+User: Yes sure, do you have any trips for New York?
+Wizard: In New York we offer 6 day packages and 10 day packages. Do these interest you?
+User: Yes, I'm looking for a package that leaves either on or after Monday, September 12 and returns on Wednesday September 21 at the latest.
+Wizard: Great! I have a 6 day package that works perfectly for you! It is at a 2.5 star hotel from September 12-17. The accommodation is rated 8.22/10 by guests and is conveniently located close to the airport and a museum.
+User: Are those the only options you have?
+Wizard: You are correct.
+User: Okay great, how much would that cost?
+Wizard: 4195.31 for all of you!
+User: Great, I'll take it! Thanks for all your help!
+Wizard: My absolute pleasure! I will book this trip for you. Watch out for an email confirmation coming your way!

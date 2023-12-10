@@ -1,0 +1,6 @@
+User: can you help me book a flight? this is my first time using this service
+Wizard: Certainly! Can you being by telling me where you would like to go, where you are coming from, and what are your preferred travel dates?
+User: I hail from Fort Lauderdle. Would like to go anytime between sept 2 and 15. Am prepared to spend up to 2000
+Wizard: Sadly, we have no flights out of Fort Lauderdle. Is there another city you can fly from?
+User: what if i changed the dates. sept 2 and 23
+Wizard: Still no luck.

@@ -1,0 +1,21 @@
+User: I am the happy father of 5 darling children and my wife wants me to plan our family vacation! She needs to approve before I make a final decision, I'm quite whipped!
+Wizard: Can you please confirm the number of adults and children for this trip?
+User: 2 adults and 5 kids.
+Wizard: Perfect. Please confirm destination city and city of departure.
+User: i want to go to Sydney from Punta Cana please
+Wizard: I have 6 and 9 day packages available in Sydney. Could you please confirm your dates of travel?
+User: I'd like to go between august 28th and september 13th if possible.
+Wizard: I have Aug 30th departures for a 6 day package and Sept 5th departures for a 9 day package. Would you like pricing on either of these?
+User: Can I see some packages for the 6 day option?
+Wizard: On a 6 day option, I have the Lunar Resort - 6 days, departing on August 30th and returning on September 4th at a grand total of 8766.73USD. Please note this is a 4 star rated hotel.
+User: Well my budget is 17000 so I can definitely afford it but I just want to see all of my options so I can get the best vacation package for my family. Do you have any packages to San Antonio?
+Wizard: With that budget, you may also fly business class for  10932.99USD to Sydney. For San Antonio, I only have 9 day packages available at Winter Hill Inn. This two star hotel would be a grand total of 3315.44USD if you flew on economy class. It is available from August 30th to September 7th.
+User: Hmmm that package doesnt really interest me but can you check one more place for me? I want to look into Busan please
+Wizard:  A 6 day package in Busan would be at the 3 star rated Lethargy Hotel and would cost a grand total of  11787.21USD via economy class. This package is also available on business class. There are also 6 and 10 day trips available.
+User: What about a 10 day package?
+Wizard: The 10 day package to Busan would be at the 3 star rated Smile Hotel -at a total cost of 13976.80USD via an economy class flight. Travel dates are from August 28 to September 5th.
+User: Hmm after a lot of consideration and discussing it with my wife, I think we are most interested in the 5 star hotel package to Sydney for the 9 day package. Do you think you could just give me a little more information on this package before I make my final decision?
+Wizard: It is a 4 star hotel package. It includes wifi, parking and breakfast for the entire family and is located near the park. The flight departs Punta Cana on September 5th and returns September 13th, The total cost on this package is 8766.73USD should you choose economy class. The total cost on this package should you choose business class is 10392.75USD.
+User: 4 stars is great. I really like the sounds of this package and so does the wife! We will take the business class package for the 9 day stay!
+Wizard: Excellent. I will book that package for you and email confirmation. Thank you for your patronage and have a nice day.
+User: Thank you for your help today, I'm sure I will be back again!

@@ -1,0 +1,19 @@
+User: GOING FROM PORTLAND TO MANAUS. 4 KIDS TOO
+Wizard: Just one adult?
+User: YUP JUST ONE ADULT
+Wizard: When are you guys going?
+User: I DONT KNOW YOU TELL ME
+Wizard: Do you have a budget?
+User: NOPE NOT AT ALL
+Wizard: The best I've got for your consists of an 11 day trip with stays at a 3.5 star hotel near the park and market. How does that sound?
+User: WHAT AMENITIES?
+Wizard: Free parking, free breakfast, and free wifi.
+User: ANY OTHER OPTIONS
+Wizard: We have a 3 star hotel near the park, museum, and palace. 8.49/10 guest ratings with the same amenities as the previous.
+User: WHATS THE PRICE DIFFERENCE
+Wizard: 15 days at the 3 star is 9527.83. 11 days at the 3.5 star is 7141.62.
+User: BOOK THE 15 DAY PACKAGE PLEASE
+Wizard: Great. Would you like to upgrade to business class for 12167.12?
+User: NO THANK U
+Wizard: Alright economy it is! Your trip is booked for you. Anything else you need today?
+User: NO THANKS

@@ -1,0 +1,19 @@
+User: Hi! I need a vacation. Not sure where I wanna go… but I’ve got 8 days off starting August 30th
+Wizard: Where are you leaving from?
+User: Goiania
+Wizard: Do you have a budget?
+User: Nah
+Wizard: We have packages to Los Angeles, Cancun, Puebla, and New York.
+User: Lets hear about the Puebla package
+Wizard: We have a 4 star hotel near a park, there is a 8.49/10 guest rating, they offer free breakfast, parking, and wifi,  and the trip is from August 30th to September 6th. The business class package is 2297.46. The economy class package is 1793.96.
+User: What about Nework? What are the package details?
+Wizard: This is a 2.5 star hotel near the airport and museum, 8.22/10 guest rating, free parking, breakfast, and wifi, departing September 12th and returning the 19th. The business class package is 3339.33 and the economy class package is 2598.20.
+User: What can you offer in Cancun?
+Wizard: This is a 3 star hotel, 7.15/10 guest rating, free breakfast, wifi, and parking, departing September 1st and returning on the 8th. The business package costs 3299.86 and the economy package costs 2565.53.
+User: Ok, not bad. Before I proceed with a booking can you also check out Los Angeles for me?
+Wizard: This is a 3 star hotel near a university, 8.86/10 guest rating, free breakfast, wifi, and parking, departing September 2nd and returning on the 9th. Business class package costs 4329.24, the economy package costs 3370.51.
+User: Could you remind me of the Puebla price?
+Wizard: Business package is 2297.46 and economy package is 1793.96.
+User: I would like to book the business class trip to Puebla!
+Wizard: It is done! You will get an email confirmation soon! Have a great trip!
+User: Thanks :smile:

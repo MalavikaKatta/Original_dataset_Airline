@@ -1,0 +1,11 @@
+User: Seven grownups and 4 tots. We're heading from Cairo down to our ancestral hometown of Belem. Flexible with dates
+Wizard: What is your maximum budget for this trip?
+User: 32400
+Wizard: We have two 4 star hotels and one 4.5 star hotel. Which do you prefer?
+User: If they're both under budget, then the 4.5 star one obviously Mama ain't raised no fool
+Wizard: Would you like economy class seats for your flight or business class seats?
+User: We all about the business
+Wizard: This package is a 16 day stay at the Zion Hotel. Amenities include free breakfast, wifi, and parking. Departing flight leaves on August 24th and the return flight leaves on September 7th. This package costs 18888.96. Would you like to book this package?
+User: ZION SOUNDS DANK yes lets do it
+Wizard: Great! Your flights have been booked and you will receive a confirmation email within the hour! Have a great day!
+User: Killing it! thank

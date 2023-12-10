@@ -1,0 +1,19 @@
+User: I need to get to NAPLES
+Wizard: No problem, where are you leaving from?
+User: Seoul
+Wizard: When would you like to leave?
+User: August 19th
+Wizard: I have packages starting at 2426.22USD. Do you have a budget or a companion?
+User: my budget is $4700
+Wizard: How about 14 days at the 3 star Courtyard Resort for 4045.13 USD?
+User: And what if i had no budget?
+Wizard: there are no other options
+User: what are the dates/
+Wizard: August 27th to September 8th. I have found a 14 day package for only 2434.53 USD at the 4 star Tower Hotel. Would you like to know more about this hotel?
+User: I need to go on August 19th
+Wizard: For 2426.22 USD you can leave on August 18th and stay for 14 days at the 3 star Courtyard Resort.
+User: Let’s book it!
+Wizard: Great! Shall I go ahead and book this for you?
+User: Yes please!
+Wizard: Your reservation is complete! Thank you!
+User: hanks

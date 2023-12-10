@@ -1,0 +1,7 @@
+User: I'm looking for a trip to Gotham City leaving from Kakariko Village on Saturday, August 13, 2016. 3 adults for no more than $2400 USD.
+Wizard: I have a trip available to Vancouver for these dates within your price range.  Would you like to increase your budget or adjust the dates?
+User: I'd like to adjust the departure city to Caprica.
+Wizard: Still no availability for this destination.  Would you like to increase your budget or adjust the dates?
+User: The dates cannot be changed. How about going to Theed with 14 adults, leaving from Kakariko Village, on a budget of $2900?
+Wizard: Still no availability.
+User: Then I will bring my business elsewhere. Thank you.

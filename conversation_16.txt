@@ -1,0 +1,13 @@
+User: Hi there, im from Vitoria and I want to go on vacation
+Wizard: where would you like to go?
+User: I would like to go to Santo domingo
+Wizard: would a 7 day trip work for you?
+User: yes that sounds fine, looking to leave on the 19th
+Wizard: great, I have a flight departing on the 19th and returning on the 25th of August
+User: what is the hotel like?
+Wizard: It is called the Rose Sierra Hotel and it is a 3-star hotel that includes free breakfast, wifi and parking. The total cost would be  $2170.90.
+User: what type of flight is that going to be?
+Wizard: It is an economy class flight
+User: let’s book it please
+Wizard: Perfect. Have a great trip.
+User: Thank you

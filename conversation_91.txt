@@ -1,0 +1,14 @@
+User: Hi im taking the family on a trip to Manaus is that possible with a budget of $3900
+Wizard: Hey there! Where would you like to leave from?
+User: i would like to leave from salvador
+Wizard: Ok! How many people are in your family?
+User: 3 kids seven adults
+Wizard: Could you travel from August 19 to the 27th?
+User: ya sure the dates are flexible
+Wizard: Ok! I have packages from August 19th to August 24th or from August 27th to September 1st.
+User: the one on the 27th looks good! what the price look like?
+Wizard: Great! The price for that is 3263.60USD
+User: perfect let’s book it!
+Wizard: Sure thing :smile: I will book that for you right away!
+User: thank you!
+Wizard: My pleasure

@@ -1,0 +1,16 @@
+User: hi. im just trying to see what i can do with 3000
+Wizard: Hello! I can help you with that! Where would you like to go?
+User: can you do rome to milan?
+Wizard: Sure, when would you like to leave?
+User: i don't know haha
+Wizard: Okay! Well we have two different packages at the same 4 star hotel near a museum and cathedral. This hotel is also in the heart of the city and has a 8.37/10 guest rating and offers free breakfast and wifi! One package is from the 9th to 17th of September and the other package is from the 8th to 11th.
+User: oh wow. can you also check kyoto?
+Wizard: There is one result to Kyoto for a 3 star hotel near a museum, 0/10 guest rating, free breakfast and wifi, and the trip is from the 4th to 20th of September!
+User: 0/10 guest rating is sketch though. are there other hotels there?
+Wizard: No just the one for this budget.
+User: fair point. i've also been dreaming about campinas. you do flights there?
+Wizard: Yes! We have one result at a 3.5 star hotel in the heart of the city, close to a mall and cathedral. They have a 8.49/10 guest rating, free parking, breakfast, and wifi. This package is from September 8th to 13th.
+User: whats the name of this hotel?
+Wizard: This is the Wonderland
+User: I will remember the name. thanks for all you've done.... friend
+Wizard: Anytime!

@@ -1,0 +1,23 @@
+User: i need to take 6 clients to Punta Cana
+Wizard: Ok! From where?
+User: miami
+Wizard: I have a variety of hotel options in Punta Cana ranging from 2.5-3.5 star ratings. When would you like to travel?
+User: after september 6th
+Wizard: How about 12 days at Scarlet Peaks Hotel? The 3.0 star hotel features a 6.77 guest rating, free breakfast, free wifi, and is situated near a cathedral.
+User: maybe. Could you check for flights to Kingston?
+Wizard: The 2.5 star Cosmos Inn is available for 8 days for just under 11 thousand dollars.
+User: anything rated higher than 2.5 stars?
+Wizard: Golden Excalibur Hotel has 3.5 stars.
+User: is that the highest rating?
+Wizard: In Kingston, yes.
+User: anything higher than 3.5 stars in hiroshima?
+Wizard: Hotel Oishi is available Sept 12-19 with a rating of 4.5 stars.
+User: i like the sounds of this one the best. What is the hotel like?
+Wizard: It is near a museum, has a 8.86/10 user rating, and provides free wifi.
+User: i like it. what are the dates for this package?
+Wizard: Sept 12-19 or Sept 8-13 are both available.
+User: i think 8th to 13th is better for my schedule. Is there a business class flight available?
+Wizard: Sure! For 7 adults, business class package cost is 25812.58USD.
+User: that sounds doable. I would like to book this package please.
+Wizard: Ok, consider it done!
+User: Thank you so much.

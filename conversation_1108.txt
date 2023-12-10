@@ -1,0 +1,17 @@
+User: I want to go to Vitoria. from Tijuana
+Wizard: My apologies, we do not offer any trips between these two points. Is there somewhere else you would like to depart from or arrive at?
+User: i could go to Cancun
+Wizard: Which dates would you like to go?
+User: doesnt matter
+Wizard: Is it just yourself?
+User: yeah
+Wizard: How much are you planning on spending?
+User: 2600
+Wizard: Great! I can put you for 10 or 12 days at a 3.5 star hotel by the cathedral.
+User: 12 days would be cool. What other information do you have on the hotel?
+Wizard: The hotel offers free parking, free breakfast, free wifi, and boasts an average guest rating of 8.22/10.
+User: not bad. yeah i’m down. wanna book it for me
+Wizard: I would be happy to! Would you like to go with the economy package for 515.93 or the business package for 581.30?
+User: business
+Wizard: Sure thing. It is booked for you from September 14-25! Hope you have a pleasant trip!
+User: thank ya

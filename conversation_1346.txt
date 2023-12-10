@@ -1,0 +1,16 @@
+User: Hi there, I'd like to take my grandkids on vacation to Brasilia.
+Wizard: Hi there! Many destinations are calling for you :slightly_smiling_face:
+User: We'd like to go to Brasilia please. 4 kids, 1 adult
+Wizard: Sure! Where from?
+User: We're from Punta Cana. I'd like to bring them while they're still out of school, sometime between Wednesday September 14 and Tuesday October 4th would be great.
+Wizard: Sorry, we currently do not offer any trips from Punta Cana to Brasilia. Is there another place you'd like to take them?
+User: Oh I guess Alexandria would be good.. We've only got 4900 dollars though, keep in mind.
+Wizard: Sure! With that I can place you and your grandchildren in a 3 star hotel near the university for 6 days. This hotel has a fantastic guest rating of 8.86/10 and offers free parking, free breakfast, and free wifi during your stay.
+User: That sounds good, but do you have any longer packages? I want the kids to have as much fun as possible!
+Wizard: If you had another destination in mind, I can help you check for the trips available there!
+User: Well, we could also consider Sao Paulo...
+Wizard: For Sao Paulo I've got a 9 day trip! However, it is at a 2.0 star hotel. Are you interested in hearing more about this option?
+User: No, I think the 3 star hotel in Alexandria sounds pretty good, thank you. Could you please book it for us?
+Wizard: Yup! Consider it done :slightly_smiling_face: Hope you have a good trip!
+User: Thank you!
+Wizard: You're most welcome!

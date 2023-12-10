@@ -1,0 +1,27 @@
+User: Hi there, I'd love to book a vacation from Frankfurt please.
+Wizard: Where would you like to go?
+User: I don't have a destination in mind. I was hoping you could help me with that.
+Wizard: How much money are you willing to spend?
+User: I'm flexible about that. But I'm looking for a 6 day vacation package.
+Wizard: When would you like to leave?
+User: Either on or after Sunday September 18 please.
+Wizard: Are you travelling by yourself?
+User: Yep!
+Wizard: I have a 6 day package to Silver Palace in Queenstown for 766.63USD. This is at a 5 star hotel near the airport and a museum with free breakfast, free wifi, and a guest rating of 8.86/10.
+User: Wow, that sounds really good!
+Wizard: Would you like to book ?
+User: I was wondering... is there anything else you can offer? As great as that sounds, I'd like to explore my options.
+Wizard: There is also a 6 day package at a 3 star hotel in Stuttgart for 724.50USD.
+User: So far, the Queenstown one sounds best. Have you got anything else though?
+Wizard: You could spend 6 days at a 5 star hotel with free wifi in Munich for 293.87USD.
+User: Wow that's really cheap. You know what, I think I'll take the Queenstown one please.
+What are the dates for that
+Wizard: September 28-October 3
+User: Oh! I have to ask... Is the Munich package closer to September 18?
+Wizard: You would leave September 20 and return the 26th with the Munich package.
+User: Sorry for being so indecisive. I'll take the Munich package in the end!
+Wizard: Sure! I can upgrade your package to business class flights for a total of only 392.22 USD. Do you want to do that?
+User: Sure why not!
+Wizard: Ok, I will go ahead and book that in that case.
+User: Great, thank you.
+Wizard: I am happy to help :slightly_smiling_face:

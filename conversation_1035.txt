@@ -1,0 +1,22 @@
+User: Hey I think you can help me get from Stuttgart to Toronto right??
+Wizard: I can try! Do you have a budget?
+User: Yea!! I'm travelling with 2 other trainers - we can spend up to 8600 dollars
+Wizard: Do you have dates of travel in mind?
+User: We wanna leave on or after the 18th of this month
+Wizard: We have a great 4 star hotel near the airport and a cathedral. This is a 10 day package from September 26th to October 5th. the hotel has a 8.8/10 guest rating and they offer free breakfast and wifi. The package will cost 6255.67 for business flights and 4942.53 for economy flights.
+User: I wanna leave a bit sooner. Can we go sooner if we went to Cancun?
+Wizard: I can get you to Toronto from the 18th to 25th at a 3 star hotel.
+User: Ok, well tell me more about that place
+Wizard: It is near a cathedral, 9.16/10 guest rating, free breakfast and wifi, economy flights, and the price is 7661.41.
+User: Before I go ahead with that can you still tell me whatcha got in Cancun?? I hear that Mewtwo might have been spotted there more recently than Toronto..
+Wizard: We have one package at the Winter Vale Hotel available from September 21st to October 2nd. This is a 4 star hotel, 9.16/10 guest rating, free wifi, breakfast, and parking. The total for this package is 7910.35. There is also another availability at the same hotel but from September 20th to 28th for 6704.30.
+User: Ok, thanks.. I think the Toronto package is better though. Cathedrals and old stuff like that are usually great pokestops
+Wizard: The hotel in Cancun is near a cathedral and university, if that makes a difference to you.
+User: What!? How could you not have told me that before! Cancun it is!
+Wizard: Apologies. Which dates would you prefer, September 21st to October 2nd or September 20th to 28th?
+User: Oh ah the 21st to 2nd of Oct please. Thats the cost you gave me before right?
+Wizard: I gave you both prices. The price for September 21st to October 2nd is 7910.35 and for September 20th to 28th is 6704.30.
+User: oh ok sorry. Yes, that is fine as they are both in my budget
+21st trip please
+Wizard: Great! It is booked! Have a great trip and good luck on your Pokémon hunt!
+User: Thank you !

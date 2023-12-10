@@ -1,0 +1,7 @@
+User: You can help me by finding me a vacation from Munich to San Juan between August 27 and September 3.
+Wizard: The only flight we have available is for August 27 to September 2. Would this still work for you?
+User: Yes, it would. Can I hear some more information about the package?
+Wizard: Absolutely! You would be staying at The Brass Tower Inn, a 2.5 star hotel close to the famous market. Guests have rated this hotel 7.06/10, and it provides amenities such as free breakfast and free wifi. How many adults and children are you looking to book for?
+User: Great. Book for one adult.
+Wizard: Done. The cost will be 3030.88USD. Bon voyage, my friend!
+User: :slightly_smiling_face:

@@ -1,0 +1,8 @@
+User: i'm going abroad to check out my options for my internship
+Wizard: Hi there! Do you have some destinations in mind?
+User: what can you book me from Cancun to Naples under 1200? (they aren't paying me so that is a TIGHT budget)
+Wizard: It appears I have a flight from Cancun to Naples. The cheapest available flight is 1947.14USD. You would be flying out on the 24th of August. Would you like to hear more about this package?
+User: its still over my budget so no I dont care. what about to Cordoba?
+Wizard: You're in luck! I can send you to Cordoba for 6 days for 635.35USD. You would be departing on the 24th. Would you like me to book this package?
+User: ummmm no im leaving the 27th. last chance: get me something to Boston
+Wizard: I can book you a flight to Boston on the 27th. The problem is that it is well over your budget at 3067.55USD. Would you like to hear more about this package anyways?

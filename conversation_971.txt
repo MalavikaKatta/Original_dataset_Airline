@@ -1,0 +1,13 @@
+User: Hello, get me to Frankfurt. Leaving Punta Cana.
+Wizard: I have 2 possibilities for you in Frankfurt as far as accommodations go. I have the Mellow Palms Resort for 13 days or the Atlantis Peaks Resort for 13 days. Both offer free breakfast and free wifi as part of the package. For the Mellow Palms hotel (5 stars)  departure date is Sept 8 and for the Atlantis Peaks Resort (4.5 stars) departure is Sept 6.
+User: Can you accommodate my lawyer and wife on this trip? As well as my child?
+Wizard: 3 adults and one child? Yes, Mellow Palms $9484.8USD and Atlantis Peaks  $10081.70USD
+User: What’s around each of the hotels?
+Wizard: Shall I book
+User: I need to know what is nearby
+Wizard: I have no information on location for either one
+User: Book the nicer one
+Wizard: by nicer, do you mean the higher rated one or the higher priced one?
+User: Higher rating.
+Wizard: The Mellow Palms Resort had been booked for you and your party of 4.
+User: thanks!

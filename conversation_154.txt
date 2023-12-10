@@ -1,0 +1,15 @@
+User: Hi I would like to book a vacation from August 27th to August 30th
+Wizard: Do you have a destination in mind?
+User: Barcelona.
+Wizard: And where will you be leaving from?
+User: London.
+Wizard: Shall I input a budget?
+User: No budget.
+Wizard: We have the perfect 7 day 3 star package for you starting at 2551.88USD. What do you think?
+User: Could you check a trip from London to Ulsan? I'd like to see all my options.
+Wizard: How about a 5 day trip to a 4 star hotel for 3284.58USD?
+User: My dates aren't flexible and i can only go from the 27th to the 30th. If there are no results, could you check a trip from London to Fukuoka?
+Wizard: It's your lucky day! I have a 5 day 3 star package from August 27th to the 30th priced at 3410.60USD!
+User: Oh good! That's perfect! I'll take it!
+Wizard: Your reservation is complete. I hope you have a fantastic stay and that you refer us to all your friends.
+User: Thanks!

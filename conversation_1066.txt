@@ -1,0 +1,19 @@
+User: Hey, I'm looking for a trip from Tokyo to Atlanta.
+Wizard: Which dates work best for you?
+User: I need to get there ideally on Tuesday September 13, or after if I can't.
+Wizard: Would you need to return by a certain date?
+User: Nah, I'll stay as long as my budget can afford to. But I'd like the best hotels you've got.
+Wizard: And it'll be just you?
+User: yes!
+Wizard: I can put you in a 3.5 star beachside hotel for 18 days. This hotel is rated 8.8/10 on average by guests and will cost you 4153.39 with economy flights and 5385.5 with business flights.
+User: Is that the best hotel you've got?
+Wizard: Yes it is.
+User: What would the departure date be for that?
+Wizard: You will leave on September 16 and return on October 3.
+User: Do you happen to have a longer package deal?
+Wizard: No, that is the longest package we offer.
+User: Okay sure, I'll take it!
+Wizard: Great! Business or economy?
+User: I'll take business.
+Wizard: Great! Your trip has been booked for you. Hope you have a great trip :slightly_smiling_face:
+User: Thank you!

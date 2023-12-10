@@ -1,0 +1,33 @@
+User: I want to go to san juan from Washington. with 4 friends
+Wizard: Ok! What is your budget?
+User: no budget
+Wizard: When would you like to travel?
+User: whenever homeslice
+Wizard: Ok! I have 14 days at The Brass Tower Inn for 6642.36 USD.
+User: Tell me more about the hotel
+Wizard: This 2.5 star hotel is near a market. It features free breakfast and wifi, and has received a 7.06/10 from its guests.
+User: that doesnt really interest me. Is there anything to stuttgart
+Wizard: I also have the Fairyland, a 4 star hotel near shopping, museums, and a market with a 8.98/10 from recent guests.
+User: not bad. ill think about it. Can you give me some info on stuttgart?
+Wizard: I can book you 11 days in Stuttgart at a 3 star hotel near a museum with 7.15 from its guests.
+User: is that the best hotel?
+Wizard: It is the only option in Stuttgart.
+User: ok. Are there any options in Kyoto?
+Wizard: I have Southern Palace Hotel in the heart of the city for 13 days at a price of 22481 USD.
+User: whats the hotel like
+Wizard: 3 stars, near a museum, with free breakfast and wifi.
+User: Are there any 5 star hotels?
+Wizard: No, not in Kyoto.
+User: are there any 5 star hotels to the other places?
+Wizard: Where?
+User: the other places i asked about
+Wizard: No, sorry - only 2.5 stars in San Juan or the one hotel in Stuttgart.
+User: da poo? Okay fine i guess we will take the business flights for the 4 star hotel to san juan
+Wizard: Would you like to fly business class or economy?
+User: business! Do yo not listen!?!? I literally said business flights
+Wizard: So business class?
+User: are you stupid?
+Wizard: The price for business class is 10042.46USD.
+User: finally. yes book it
+Wizard: Ok, I will book it.
+User: thank u

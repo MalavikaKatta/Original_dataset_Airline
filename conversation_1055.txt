@@ -1,0 +1,21 @@
+User: Hi! I’ve got a little duty to take care of - family vacation time :smile:
+Wizard: Where would you like to go?
+User: Me and the gang are looking to get out of Barcelona from September 6th until the 15th. We’ve got a few destinations in mind - hows about Mexico City?
+Wizard: How many people will be traveling?
+User: 2 adults and 6 kids
+Wizard: We have a great package at a 3.5 star hotel near the beach, museum, shopping, and mall. The hotel has a 6.37/10 guest rating and offers free parking and wifi. This package is from September 8th to 13th. The business flights included put the price to 16699.53 and is all inclusive. If you are looking for a cheaper option, the cheapest package available is 11941.79.
+User: Ok, that is within our 15 thousand dollar budget. But my kids really love La Paz.. so let’s check that place out
+Wizard: We have one result at a 4 star hotel, 8.98/10 guest rating, free parking, breakfast and wifi, from September 8th to 13th, economy flights, for a grand total of 14931.80.
+User: wow - nice! Any parks or beaches nearby for the young wippersnappers?
+Wizard: Not that I'm aware of.
+User: ok. I wanna check out Milan then
+Wizard: We have one result from September 8th to 13th at a 4 star hotel near a museum, cathedral, and in the heart of the city. The hotel has a 8.37/10 guest rating and offers free breakfast and wifi. The business flight option is 5321.90 and the economy flight option is 4473.34.
+User: hmm, its not really long...I wanna get the family out of the house for as long as we can
+Wizard: Unfortunately the packages I have provided are the longest packages available. There is one other package I didn't mention but it is the same length of time from the 7th to 12th.
+User: ahh, ok. well if they’re all the same length.. I think I would be best off going with what the kids are interested in
+Mexico City package will be the best for us
+Wizard: The Mexico City package is 16699.53 which is over your 15000 budget. Are you able to increase your budget or would you like to book the cheaper Mexico City package of 11941.79?
+User: what is the difference between the two Mexico City packages? not in price, in hotel
+Wizard: The more expensive hotel is a 3.5 star hotel near the beach, museum, shopping, and mall. The hotel has a 6.37/10 guest rating and offers free parking and wifi. This is from September 8th to 13th. I overlooked another option that you can afford which is the economy flights version of this package that costs 12919.26. The other hotel which is the cheapest Mexico City package is a 3 star hotel near the beach, shopping, and mall. The hotel has a 6.91/10 guest rating and offers free parking and wifi. This package is only available for economy flights and is from September 7th to 12th.
+User: even cheaper for a higher guest rating?! we’ll take it
+Wizard: Great! Glad I was able to help! Have a nice day and enjoy the vacation!

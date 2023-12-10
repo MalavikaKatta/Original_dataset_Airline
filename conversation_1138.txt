@@ -1,0 +1,13 @@
+User: I need to get to Rome! It’s a family emergency! I’m in Tel Aviv!
+Wizard: Hi there!
+User: Can you get me to Rome?!?!
+Wizard: Sorry, we do not operate flights out of Tel Aviv as of right now. Anywhere else you can leave from?
+User: I can leave from San Juan.
+Wizard: Okay we have some options for that. Do you have a budget?
+User: 3000!
+Wizard: The earliest trip leaves in one day and includes a 11 day stay at a 4 star hotel in Rome. Will this work for you?
+User: Yes! that is perfect! How much is it?
+Wizard: 2968.70 total.
+User: okay that’s fine, the airline said I would get a good discount due to the situation. Can you book it for me?
+Wizard: Sure can! An email confirmation is coming your way!
+User: Thanks!!

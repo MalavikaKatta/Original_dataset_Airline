@@ -1,0 +1,22 @@
+User: So I need to go far far away from my home of Paris Can you see about flights to Phoenix? 
+Wizard: I have 3 hotels. How long would you like to go?
+User: Sometime between aug 30 and sep 12
+Wizard: Within those dates I have The Prism for 10 days, a 2.5 star hotel near the airport and a museum with a 7.06 user rating.
+User: Thats fine and all but I fear that instagram posts from a 2.5 star hotel won’t impress anyone. What can you get me in Kobe?
+Wizard: I have the Ivory Legacy Hotel - 4.5 stars with free wifi and a 8.69 user rating!
+User: That is badass. I must also ask about new york
+Wizard: Sorry but I have nothing available for you within your date range.
+User: Manas?
+Wizard: Sorry, also nothing.
+User: how long can you book me at the ivory for
+Wizard: 10 days - August 30 - Sept 7th
+User: and cost?
+Wizard: 1965.4USD Economy class
+User: what amenities do i get
+Wizard: Free wifi
+User: thats it? is the hotel at least near anything
+Wizard: It is Ivory Legacy Hotel. I can book this package for you.
+User: only if you tell me if its near any attractions
+Wizard: I do not have any attractions on file.
+User: ok. book anyway
+Wizard: Booking it

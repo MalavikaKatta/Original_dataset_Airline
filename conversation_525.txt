@@ -1,0 +1,15 @@
+User: I need you to get me to Sendai from Washington, on the 30th of August
+Wizard: I have several options for you. What is your budget and what kind of hotel are you looking for?
+User: The best hotel. I've got $3300
+Wizard: The best one I can offer you is Hotel Kirei which has 4 stars and excellent reviews from past guests.
+User: Is that the best one in Sendai at any price point?
+Wizard: With a higher budget I would have several hotels for you to choose from but they also have 4 stars.
+User: Do any of them have higher user reviews than the Kirei?
+Wizard: No, the Oishi has slightly higher customer satisfaction.
+User: Ok that sounds like the best choice then. What dates can you get me?
+Wizard: It's a day trip from September 7th to 15th.
+User: I’d really like to get there earlier if possible.
+Wizard: For 3493.44USD I can get you an 8 day stay at the same hotel from September 2nd to the 8th. It's over the initial budget you gave me but would you prefer that?
+User: Yes I think I can make that work. LEts do it
+Wizard: Excellent, I'll make sure to book it for you.
+User: :+1:

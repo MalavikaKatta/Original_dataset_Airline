@@ -1,0 +1,11 @@
+User: im broke but wanna dip out of north vancouver
+Wizard: If you give me your budget, where you would like to go, and when you would like to go, I'll see what I can do.
+User: im broke ok
+Wizard: Alright. The cheapest possible way out North Vancouver I can get for you, as unbelievable as it sounds, is a 9 day trip to San Juan for 127.38.
+User: ok well i can swing 400 bucks. anything else?
+Wizard: Nope, it can still only get you to San Juan. Although you can choose to stay 9 or 10 days and afford to fly on business class if you'd like.
+User: uyeah ok well i wanna go for 10 days then in that case
+Wizard: Alright, a 10 days stay + business flights to San Juan will be 189.83. Would you like me to book it?
+User: yes book
+Wizard: Done! You are getting out of North Vancouver :slightly_smiling_face:
+User: thanks ur dope

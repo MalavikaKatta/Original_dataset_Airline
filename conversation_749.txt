@@ -1,0 +1,19 @@
+User: hello.
+Wizard: Hello :slightly_smiling_face:
+User: i am a humble father of three, and i wish to take my lovely children to see their mother
+Wizard: Where would you like to go?
+User: can you get us to porto alegre. from sendai
+Wizard: Sure! Do you have a budget?
+User: i'll spend whatever is left after alimony. that cruel siren
+but no i will not have a budget for this trip
+Wizard: What dates would you like to travel?
+User: whenever
+Wizard: I have 3, 3.5, and 4 star hotels in Porto. I have trips as long as 18 days. Any preference?
+User: 4 stars, i want to rub my newfound wealth in her face. whats the longest i can stay there?
+Wizard: Ok! The longest trip at the 4.0 star hotel is the Golden Keep package from September 6-16.
+User: What amenities are there there?
+Wizard: Free wifi and free breakfast. The hotel is near a park, beach, shopping, and a mall. The guest rating is 10/10.
+User: Ok you sold me. Whats the cost?
+Wizard: 16602.96USD
+User: Lets book that
+Wizard: Ok, sure thing :slightly_smiling_face:

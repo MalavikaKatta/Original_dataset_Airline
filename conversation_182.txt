@@ -1,0 +1,17 @@
+User: I'm looking for some Pokemon. I heard one was spotted in San Antonio. We'd like to leave here on August 26th!
+Wizard: How many are you?
+User: A total of 6 adults. We're all trying to find Pokemon.
+Wizard: Where are you located?
+User: Barcelona. I should also mention that we have a budget of 17400 dollars.
+Wizard: I am sure that budget will be perfectly suitable. I have a 10 day package in San Antonio available departing on September 1 for 12758.22.  How does that sound?
+User: That sounds pretty good! Does the hotel have free wifi? We'll probably try to catch some Pokemon around the hotel.
+Wizard: Not only does it have free wifi, but also includes a complimentary breakfast and free parking.
+User: Yes we definitely will need a rental car. Do you have any trips to Essen?
+Wizard: From Barcelona? Do you also require a trip to Essen?
+User: Yes, I would like to compare both trips. If I can't find a Pokemon, I may as well find a Mewtwo. Mewtwo was spotted in Essen
+Wizard: For an August 26 departure, I have a package at the Motel Ivory Safari for an 8 day stay which also includes wifi and parking but no breakfast.
+User: No breakfast? Hmmm we're an awfully hungry bunch so I think we'll stick to finding the Pokemon in San Antonio. What is the departure time?
+Wizard: 1 pm on Thursday Sept 1st returning on Saturday Sept 10th at 3 am. Would you like me to proceed with booking the San Antonio package for you and your party of 6?
+User: Yes this packages suits our hunting needs just fine.
+Wizard: Perfect I will proceed then
+User: Thank you for your help!

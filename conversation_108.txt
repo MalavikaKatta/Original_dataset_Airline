@@ -1,0 +1,15 @@
+User: Good morning.  We are planning a family reunion and since we are spread out all over the world, we have decided on a couple of possibilities. Can you please give me information on packages available in Fukuoka? My husband and I would be leaving from Manaus and we will be travelling with our 4 children.
+Wizard: Hi! Let me see what I can do for you!
+User: We need to leave on August 15 and be back by August 22nd as I go back to work the next day.
+Wizard: We have multiple options for Fukuoka. Do you have a budget for this trip?
+User: Not really.
+Wizard: I can offer something in Fukuoka that is 1886.81USD leaving on August 17th and returning August 21st. Does this suit your needs?
+User: Wow, that's pretty pricey! Does that include breakfast? For that price, we at least better have free wifi!
+Wizard: Yes, breakfast and wifi are included in this 3.5 star package!
+User: How have other guests rated it?
+Wizard: The Historic Mansion Hotel has a rating of 6.77/10. I can offer you a 3.5 star hotel with a 8.22/10 guest rating for only 200 USD more.
+User: I like that....is breakfast included in that one too?
+Wizard: Yes breakfast and wifi are included!
+User: Are the flights for this package the same?
+Wizard: Yes, they are both economy and have the same departure and return flights.
+User: Well it's more than I wanted to pay but it sounds like a pretty good deal. I need to discuss it with the rest of the family and I will get back to you. What is your name?

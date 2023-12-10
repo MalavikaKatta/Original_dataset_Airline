@@ -1,0 +1,29 @@
+User: Hello
+Wizard: Hello, we hope to be of assistance today
+User: I’m looking to check out san fran and I currently live in Rome I have a couple weeks from Sept 5-22 off to check out Sanf
+but only 2800 USD to spend
+Wizard: San Francisco is not one of the destinations we service from Rome.
+User: I’m sorry, had a little brain blip .. I live in Vitoria
+Wizard: I have packages available from Vitoria to San Francisco :grinning: 8 and 14 days. Which would you like information on?
+User: Awesome!! Are either of them under 2800?
+Wizard: Both and you can even fly business class if you desire.
+User: What are the hotel details?
+Wizard: All the options are at the same hotel - Glorious Spring Hotel, a category 2 hotel close to the park and museum. The 8 day package departs on Sept 8 and the 14 day package departs on Sept 9th.
+User: Is there anything from Vitoria to Cancun?
+Wizard: I only have an 8 day option there, the White Peak Hotel which is a category 3.5 at 2581.19USD.
+User: And is it located in the heart of the city with good amenities?
+Wizard: It is by the cathedral and includes free wifi, parking and breakfast.
+User: My final option is Guadalajara
+Wizard: I have a hotel located with 10 and 14 day packages available
+User: ok, and what’re the amenities there like?
+Wizard: Excursion is a category 3 including free wifi, parking and breakfast. A 10 day package is 2446.82USD.
+User: Hmm ok. And you said I could fly business class to San Francisco..
+How much would that be:
+Wizard: It will be 2612.62USD.
+User: Ok, but thats a 2 star. I think I will go to Cancun instead please
+Wizard: In Cancun I have White Peak Hotel - 8 days, category 3.5 star for a total of 2581.19USD via economy class.
+User: how much for business?
+Wizard: Only available on economy class.
+User: Well that is ok. Book Cancun please!
+Wizard: I am confirming booking of the the White Peak Hotel, category 3.5 at 2581.19USD from Sept 8 to Sept 15. Thank you and have a safe trip.
+User: Yes thank you :smile:

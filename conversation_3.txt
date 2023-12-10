@@ -1,0 +1,22 @@
+User: Hello there i am looking to go on a vacation with my family to Gotham City, can you help me?
+Wizard: when  would you like to travel and how many people will you be?
+User: Not sure when we want to leave, but we are 12 kids and 5 adults
+Wizard: do you have a budget?
+User: yes i do, it is around $2200
+Wizard: where will you be travelling from?
+User: We are from Neverland
+Wizard: We have nothing available leaving from Neverland, are you able to depart from another city?
+User: we can depart from Toronto
+Wizard: Gotham City is not a destination we travel to. Are you interested in any other destinations?
+User: hmm what options would i have out of Toronto?
+Wizard: Would you be interested in Calgary?
+User: that would be nice
+Wizard: I have a departure from Toronto to Calgary  on August 17 returning on August 24. Does that work for you?
+User: No sorry i was planning on getting a tan this vacation. Thanks, is there anywhere else? Thank you
+is there anywhere else?
+Wizard: How about a trip to Dominican Republic? it is quite cheap at this time of year.
+User: What options do you have available for me?
+Wizard: I have the el Mar hotel available in Punta Cana this week.
+User: That sounds interesting. how many stars does the hotel have?
+Wizard: 2.5 stars. You would have to fly out of Melbourne though
+User: Ahh...maybe another time

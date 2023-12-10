@@ -1,0 +1,18 @@
+User: I need to go to Buenos Aires.
+Wizard: Leaving from where?
+User: Los Angeles if possible
+Wizard: Have you got a budgetary contraint?
+User: 2200 for Buenos Aires
+Wizard: Can you travel from Sept 8-21?
+User: yes
+Wizard: Well the best deal I have in Buenos Aires from Los Angeles would cost 2149.61USD.
+User: Okay that works but what if I wanted to go to Rome with my mother instead?
+Wizard: 2000 dollar budget? Dates are flexible?
+User: If I decided to go to Rome with my mother, I could spend 4700 and go anytime after Sept 6
+Wizard: I could book you two a 15 day package with business class flights for 4616.86USD. The hotel is 4 stars, has breakfast and wifi at no cost, and is near shopping and a cathedral.
+User: And if I went to Buenos Aires from Los Angeles, what's that hotel like?
+Wizard: 4 stars, 8.69/10 user rating, in the heart of the city near a park.  Also free parking, wifi, and breakfast included.
+User: I think I'll got to Buenos Aires, and next year I can got to Rome.
+Wizard: Ok, so I’ll go ahead and book Buenos Aires for you!
+User: Thank you bot!
+Wizard: I am happy to serve you.

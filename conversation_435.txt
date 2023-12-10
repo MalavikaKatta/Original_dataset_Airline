@@ -1,0 +1,9 @@
+User: I need to find a vacation between today and September 14th from Punta Cana to San Francisco
+Wizard:  you have to be back by Sept 14th?
+User: I'd like to be back by the 14th
+Wizard: will you be travelling alone or accompanied?
+User: alone
+Wizard: Unfortunately I do not have any packages available from Punta Cana into San Francisco.  Any other destinations you would like to look at?
+User: no but could you check dates from august 30th to september 16th?
+Wizard: even with the change of dates, I still do not have any flights available from Punta Cana to San Francisco
+User: okay well I will come back another time.

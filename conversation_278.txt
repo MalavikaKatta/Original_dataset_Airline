@@ -1,0 +1,11 @@
+User: I need to go to Barcelona
+Wizard: Where will you be departing from?
+User: Calgary!
+Wizard: How does seven days at the Nova Resort sound? Only 2521.51USD If you fly out on the 27th.
+User: Is that the most expensive hotel… i’ll tell you this im stalking a high profile celebrity
+Wizard: If you're looking for the most expensive hotel, I can book you for 7 days at the Hotel De La Felicidad for 2629.67USD. Or, if you'd like the most expensive package I can upgrade you to business class for 700USD more.
+User: is this all on the 21st
+Wizard: Yes, this package is from the 21st to the 27th of August.
+User: This is just too perfect book it
+Wizard: You've got it! Have fun in Barcelona!
+User: thank you i will!

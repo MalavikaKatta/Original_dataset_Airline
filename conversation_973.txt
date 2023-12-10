@@ -1,0 +1,17 @@
+User: Hello. I’m hearing good things about the uni in Hiroshima. I would like to visit there and leave from Burlington.
+Wizard: Burlington to Hiroshima for one?
+User: Correct.
+Wizard: Do you have dates and length of stay desired?
+User: Nope - I’m free as a bird! Aside from having 2 grand to spend, that is.
+Wizard: I have no packages for under $2000. best I can do is $2415.57 for 8 day stay.
+User: Well, what if I left from Manaus to Hiroshima?
+Wizard: Nothing in Hiroshima for under $2000.
+User: I guess I’ll have to go to San Juan.
+Wizard: Burlington to San Juan?
+User: Sure. Go for it.
+Wizard: Our best hotel in San Juan for under $2000 is the Fairyland, 4 STAR, wifi included , 10 day stay  all for one low price of  1277.49USD
+User: Sounds good. Is it downtown? Near any nice dive bars or brew pubs?
+Wizard: No but it's near the museum, shopping and market. I do not know if there are "dive bars or brew pubs" nearby.
+User: Ok let’s book that package to San Juan please.
+Wizard: Processing booking, have a nice weekend.
+User: Thanks :smile:

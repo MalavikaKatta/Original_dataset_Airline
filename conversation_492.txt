@@ -1,0 +1,11 @@
+User: looking to get out of town quick with the family
+Wizard: where would you like to go and where from?
+User: you got anything leaving today from goiania and returning next friday give us some destination suggestions
+Wizard: What is your budget and how many adults and children are travelling?
+User: 3 adults 2 kids. lets keep it under 12500
+Wizard: The closest result for your request is a 9 day stay from the 24th of August to the 1st of September at a 3.5 star hotel for 12493.91 for business class seats.
+User: wow that's not bad at all but is there something that leaves on August 25 or later? I can be flexible on return date
+Wizard: There is a week long stay from August 27th to September 2nd at a 3 star hotel for 12474.78 for economy class seats.
+User: Yeah lets do that one then
+Wizard: Great! Your trip is booked! I'm glad I was able to help you book a trip today!
+User: Thank you!

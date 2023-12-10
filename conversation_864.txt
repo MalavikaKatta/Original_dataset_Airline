@@ -1,0 +1,19 @@
+User: i certainly am! can you call vitoria to los angeles an adventure? if so thats what i’d like to book
+Wizard: How many people are you booking for?
+User: booking for four adults total
+Wizard: When would the four of you like to go on this adventure?
+User: between sept 2 and 23 please
+Wizard: How much are you planning on spending?
+User: we’re willing to spend whatever it takes for a great time!
+Wizard: Great! I have two fantastic hotels for you. Both are 3 star with 8.86/10 guest rating and offer free parking, breakfast, and wifi. One is close to the airport and mall while the other is close to the university.
+User: i think we’d prefer to be close to the university can you give us a sense of the dates?
+Wizard: We have a 9 day package from September 2 to September 10 for that hotel. Is this something that interests you?
+User: i’d like to weigh my options a little, so can you tell me the costs for economy seats
+Wizard: Sure, the economy package is 10898.70 while the business package is 13867.15.
+User: okay good to know. can you also see if you can find a trip for us minneapolis
+Wizard: Absolutely! In Minneapolis we have a  2.5 star hotel rated 7.15 / 10, and we offer 13 day and 17 day vacations there.
+User: oof thats a long trip
+Wizard: Those are our shortest trips to Minneapolis from Vitoria. Would you have any alternatives that you would like me to check for you?
+User: no i think i’ve put you through enough today just book us the economy package to los angeles please
+Wizard: Sure thing, it is booked for you! Time to start packing!
+User: that much is true

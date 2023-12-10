@@ -1,0 +1,19 @@
+User: Hiiii! I was just selected for an internship and I could do it in 3 different cities. Since I'm on a budget I'll go to the city that best fits in my budget. The first one is Porto Aleger. Do you have any packages from August 27th to September 5th?
+Wizard: I am happy to help you with your request. First of all, I would need to know which city you will be departing from.
+User: I'll be flying from Monterrey
+Wizard: May I ask what your spending limit is please?
+User: My budget is 3800 and I really can't go over that
+Wizard: My shortest package in Porto time wise is 13 days. Is that too long?
+User: As long as I'm in Porto for the dates I gave you,  a longer stay is fine as long as the trip is in my budget! Actually, it could be kind of fun to stay longer, I would have time to do some sight seeing as well :slightly_smiling_face:
+Wizard: I have a flight departing from Monterrey to Porto on August 27 and returning on Sept 8th. The price on that one is $3072. It is a 3.5 star hotel close to the University.
+User: That sounds great! Does it have good reviews? It's my first time travelling alone so I really don't want to be stuck somewhere unpleasant
+Wizard: It has an excellent guest rating of 9.16 / 10. It is also close to the shopping district.
+User: Fantastic! Ok, ill keep this one in mind. The second city I could go to is Punta Cana
+Wizard: I only have one place available in Punta Cana at the moment which unfortunately does not fit into your required dates. The only departure is on Sept 7
+User: Alright, scratch that. How about for Brasilia?
+Wizard: There are no available flights from Monterrey to Brasilia. Would you like to look at package number one again, the one to Porto? That package seemed to suit your dates and budget.
+User: Yup! That one definitely seemed to suit my needs best! Give me a minute to read over the info again and I'll see if I have any other questions. oh yes! I will probably need to get some work done at the hotel, is there free wifi included?
+Wizard: Not only is there free wifi, breakfast is also included in this package. Would you like me to go ahead and book this for you?
+User: Great! Yes please!
+Wizard: I will proceed with the booking then. Thank you and have a good trip.
+User: Thank you :slightly_smiling_face:

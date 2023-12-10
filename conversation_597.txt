@@ -1,0 +1,4 @@
+User: Kabul to Kingston, 11 adults
+Wizard: Sorry, I dont have any results
+User: Do you do flights out of KAbul?
+Wizard: no im sorry!

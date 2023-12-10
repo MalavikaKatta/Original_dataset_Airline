@@ -1,0 +1,20 @@
+User: Hello, I need your help...my wife is super strict and she's put me in charge of the family vacation. We have $4000 to spend. Find me something good!
+Wizard: How many people will be traveling?
+User: 2 adults and one child
+Wizard: Where would you like to go?
+User: Let's look at Hiroshima first
+Wizard: Okay. where will you be leaving from?
+User: Minneapolis
+Wizard: Do you have dates of travel in mind?
+User: Sept 20 to Oct4
+Wizard: Unfortunately there are no results within your budget.
+User: what of we add 1000?
+Wizard: That doesn't help, sorry.
+User: Okay let's look at Belem for under 4000?
+Wizard: There are no results for this either.
+User: :pray: St. Petersburg?!?
+Wizard: Nothing available.
+User: Seriously?!
+Wizard: Yes. I am sorry I am not more helpful.
+User: I will go somewhere else, thanks anyway
+Wizard: Okay. Sorry! Good luck!

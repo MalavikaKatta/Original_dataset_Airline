@@ -1,0 +1,15 @@
+User: Hello there, please check to see if there is a flight leaving from Toronto to Osaka on Sept 1 and returning on September 9.
+Wizard: Do you have a budget?
+User: Just let me know if you have flights for those dates please.
+Wizard: There are no flights from Toronto to Osaka
+User: How about from Toronto to Porto Alegre?
+Wizard: We have trips from September 1st to 5th, 6th to 9th, and 3rd to 8th.
+User: How much does the 3rd to 8th cost?
+Wizard: Economy class is 2838.25 and business is 3639.37.
+User: Okay before I make up my mind...can you also check to see if there's anything from Toronto to Minneapolis? Also between Sept 1 and 9
+Wizard: There is one trip from September 2nd to 6th.
+User: What's the cost?
+Wizard: Economy is 755.00 and business is 884.18.
+User: Okay book that for me instead, business class
+Wizard: Great! Your flight is booked! Have a great trip and thank you!
+User: Thanks

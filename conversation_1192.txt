@@ -1,0 +1,10 @@
+User: Hello I am looking to bring my 6 kids and I to Portland and leave from Minneapolis. We can travel whenever and have no budgetary constraints.
+Wizard: Unfortunately we don't have any available trips to Portland as of right now. Is there another city you can go to?
+User: Ahh... Let's check Santos then
+Wizard: Okay, our best deal in Santos is a 7 day trip at a 3.5 star hotel near a museum and a palace.
+User: Reasonable. Any free wifi for the kids?
+Wizard: Yup, plus free breakfast!
+User: ok!! Go for it!
+Wizard: Okay! It will be from Sept 22-27. Do you want to go for business flights for 14513.87 or economy flights for 11317.39?
+User: Economy please!
+Wizard: Done! Confirmation will be coming via email. Hope you have a good trip :slightly_smiling_face:

@@ -1,0 +1,6 @@
+User: I want to take a trip from Diagon Alley to Naples.
+Wizard: Unfortunately I do not have any flights from Diagon Alley. Are there any other nearby city?
+User: nope. is there anything to Las Vegas from Diagon Alley?
+Wizard: No, sorry, I have no flights from Diagon Alley in my database.
+User: oh okay. thanks anyway.
+Wizard: I hope that you will return to use our services for your next booking. Have a good day.

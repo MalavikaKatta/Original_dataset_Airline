@@ -1,0 +1,20 @@
+User: Book me a flight for 7 adults and 1 child from Portland to North Vancouver
+Wizard: That will cost you 11663.75USD. Okay?
+User: Hold on I need to know what date this will be departing on. I want to go as soon as possible
+Wizard: You can go from August 30 to September 10th
+User: Nothing sooner than that?
+Wizard: Unfortunately those are the only dates available. Would you like to explore your options at another destination?
+User: Yeah let me know if there's anything sooner departing from London
+Wizard: I have cheaper packages for the same departure date from London
+User: How cheap
+Wizard: 9550.23USD
+User: I really want to leave ASAP, no time to waste
+Wizard: Unfortunately I can only find specific departure cities in my data base.
+User: Ok go check Marseille to North Vancouver for me
+Wizard: To leave from Marseille would cost you 20100.18USD on August 30th. 
+User: How much would it cost to fly from Portland to London
+Wizard: I do not have any options available at this time.
+User: Can you give me a lower price if I booked the Portland to North Vancouver flight but returned on a different date?
+Wizard: Unfortunately I only have the dates I gave you available.
+User: I only have 11400 to spend. Can you think of anything for me
+Wizard: I can book you 8 days in Atlantah from August 24 -August 31 for 1764.88USD

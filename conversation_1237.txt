@@ -1,0 +1,18 @@
+User: Seattle it is!!
+Wizard: Yes! Seattle! Ok! Where are you leaving from?
+User: Good old Atlanta
+Wizard: Any days in mind?
+User: Anytime anytime! Just need to be there. Oh also with my 6 lawyers
+And my kid.. why not
+Wizard: I have the 5 star Emerald! It is all I can see that is currently available for such a large party. The guest rating is 8.8/10 and airport pickup is included. Free parking is also available.
+User: When can we go?
+Wizard: September 10th until the 18th.
+User: How much is it for everyone?
+Wizard: All together the cost is 13024.40USD for economy class flights.
+User: Would business class cost a lot more?
+Wizard: Upgrading to business class would bring your total cost to 16078.42USD.
+User: Yeah..... no. Okay I'll take the economy flights!!
+Wizard: Ok! Absolutely - I will proceed with booking for you in that case..
+User: Thanks! Anything else needed from me?
+Wizard: Nope - I will send along a confirmation email and you can proceed through the link provided to confirm your billing and ticketing information. Enjoy!
+User: Thanks!

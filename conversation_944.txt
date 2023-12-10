@@ -1,0 +1,15 @@
+User: Hey, I need a break from work, a break from SL
+Wizard: I'd be happy to help you find the perfect getaway. Where would you like to go?
+User: i’d be leaving from indianapolis thinking about going to Fortaleza september 2 until the tenth
+Wizard: I have two trips that fit your exact dates. Both are 3 star hotels. One of them has a guest rating of 7.15/10 while the other has a guest rating of 9.32/10. Do you have any questions about these two?
+User: Oh, yes tell me more about the 9.32 guest rating hotel!
+Wizard: It is conveniently located close to a park and a museum. While there, you enjoy wifi, breakfast, and parking free of charge. Flying business will cost you 3767.4, and flying economy will cost you 2956.73.
+User: can you tell me whats available in Queenstown from Indianapolis - same dates?
+Wizard: Unfortunately we don't offer any trips from Fortaleza to Queenstown that fit within your dates. Can you make your dates flexible?
+User: In Fortaleza, is the 7.15 guest rating hotel on the beach by any chance?
+Wizard: there is no nearby beach... but it is close to a mall!
+User: well in that case I think we should go with the higher rated option
+Wizard: Sure! Do you want to go with business for 3767.4 or economy for 2956.73?
+User: i think ill splurge for business!
+Wizard: Sounds good! I will confirm the reservation for you. Have a good vacation!
+User: thank you , i need it :smile:

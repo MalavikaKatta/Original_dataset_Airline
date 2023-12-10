@@ -1,0 +1,14 @@
+User: you can help me find a trip. from miami
+to tijuana
+between august thirtieth until september third
+one adult
+Wizard: Great! I've got exactly what you're looking for. Would you prefer to fly economy or business class?
+User: how much is business
+Wizard: Our business class package would come to 1389.63USD.
+User: what are the dates? and details
+Wizard: The dates are as you requested, departing August 30 and returning September 3. You would be staying at the Hotel Perfection near a lovely park. Free wifi, breakfast, and parking are all included in the deal!
+User: that one is 1389 dollars?
+Wizard: Yes it is! Would you like for me to confirm this booking?
+User: what is the hotel rating
+Wizard: The hotel is rated 2.5 stars
+User: ok well I will think think about it

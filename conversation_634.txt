@@ -1,0 +1,21 @@
+User: How much would it cost to get to Guadalajara from Sydney
+No dates in mind
+Wizard: How many?
+User: Just me
+Wizard: Lunar Resort, 4 stars, August 30th to Sept 11th. Work for you?
+User: Oh no, not the Lunar
+Ok  look into Kyoto for me
+Wizard: How about the Southern PALACE?
+User: That sounds more like it
+Wizard: The Southern PALACE ia a 3 star rated hotel in the heart of Kyoto, 12 day stay, business class  3557.61USD.
+User: 3 star...fool me once...
+Wizard: Only 3 star in Kyoto
+User: Would I be better off looking in Vancouver then?
+Wizard: Two 4 star choices, both free parking, wifi, breakfast, both near the park and museum but one also near the cathedral.
+User: Do the hotels have a prestigious name to it?
+Wizard: The Western Ridge  has a Sept 2 departure  &  Obsidian Gem Inn has an August 27 departure
+User: Western...I like that
+Wizard: Business or economy?
+User: What are the costs?
+Wizard: 1666.11USD for business and 1366.94USD for economy
+User: Alright Good bye

@@ -1,0 +1,25 @@
+User: Hi there. Looking to get out of Toronto with a few friends
+Wizard: Where to?
+User: We don't need to go far, but we would like to see how far our budget can stretch us as far as luxury hotels
+Wizard: What is your budget?
+User: We have 6200
+Wizard: How many people?
+User: 6 of us
+Wizard: All adults?
+User: all adults.
+Wizard: When would you like to leave?
+User: we'd like to fit this trip between sept 1 to 12
+Wizard: We have a package to Las Vegas, Calgary, Sacramento, Vancouver, Phoenix, and Burlington.
+User: yes, what do you have for us in calgary?
+Wizard: We have a 2 star hotel near a park and airport, 6.51/10 guest rating, free parking, breakfast and wifi, from September 2nd to 11th, 4661.23 for business flights, and 4059.51 for economy flights.
+User: can we get a better hotel in Vancouver? 2 star hotel definitely wouldn't be our first choice
+Wizard: I double checked and we also have a 4 star hotel in Calgary near a university. They have a 0/10 guest rating, free parking and wifi, from September 2nd to 9th, business flights costs 2289.75 and economy flights cost 1717.77.
+User: but do also look at Vancouver for me please
+Wizard: We have a 4 star in Vancouver. It is near a park and museum, 10/10 guest rating, free parking, breakfast and wifi, from September 2nd to 10th, business flights for 5176.65 and economy flights for 4707.32.
+User: Booking business class flights still leaves us with some room
+Wizard: Would you like to book?
+User: Yes why not
+Wizard: Great! Business flights or economy?
+User: business
+Wizard: Awesome! Your flight will book automatically after you confirm your payment details in the confirmation email I have sent. Safe travels and have a great day!
+User: Great, thanks a lot!

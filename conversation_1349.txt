@@ -1,0 +1,24 @@
+User: Hi! I am very excited!!!!
+Wizard: That's great news! How can I help make your day better?
+User: Help me find a flight and a hotel in Chicago!!!!
+Wizard: From where?
+User: Fortaleza!!!
+Wizard: Do you have a budget?
+User: 2600 but I really don't want to spend it all!!!
+Wizard: I'll see what I can do. When would you like to leave?
+User: I can only do my internship between Sept 13 and 23
+Wizard: Travelling alone?
+User: Yesssss!!! For the very first time!!!
+Wizard: We have an 8 day package from the 13th to 19th at a 2.5 star hotel near a museum and university. The hotel has a 8.69/10 guest rating and offers free parking, breakfast, and wifi. This trip has economy class flights for 1637.45 and business class flights for 2048.81.
+User: That sounds pretty good to me but since I am new at this and travelling alone for the first time I need to look at ALL my internship options. What about flights and hotels to Detroit?
+Wizard: We have an 8 day stay from the 16th to 23rd at a 3 star hotel near a park and mall. The hotel has a 8.86/10 guest rating and offers free parking, breakfast, and wifi. The cost of this package is 2265.38 and it is only available in economy.
+User: What about in Santo Domingo?
+Wizard: We have no results for Santo Domingo
+User: It really would be better if I was near the university. Do you have anything in Detroit near the university?
+Wizard: I don't have anything else to offer in Detroit
+User: That decides it then, I'll take the one in Chicago!!! How do I book it?
+Wizard: Would you like to book Business or economy flights?
+User: Definitely economy
+Wizard: Ok! Consider it done! You will receive the email shortly. Have a great day and enjoy the trip!
+User: Thank you!!! :hugging_face:
+Wizard: Come again next time you want to book a trip!

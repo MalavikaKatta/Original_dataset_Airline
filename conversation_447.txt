@@ -1,0 +1,26 @@
+User: So there are 4 friends I promised I would visit this year and I want to check which one would be the best to visit in the coming weeks based on the deals you can offer me.
+Wizard: Where would you be leaving from?
+User: From Tijuana and I would be going between August 31st and September 11th
+Wizard: Where would you like to go?
+User: Let's check Burlington first
+Wizard: A 2.5 star hotel in the heart of the city would cost 958.49USD for a 6 day stay and you would have free wifi and free parking. For 6 days at a 3.0 star hotel near a park with free wifi you would be paying 1221.70USD.
+User: Those are pretty good deals, are they with economy flights?
+Wizard: Yes, they are.
+User: ok great, that's something I'm happy to save on
+Wizard: Any other destinations to check out?
+User: Leon, since I could go to Burlington for about 1000, is there anything in Leon around the same price? And 6 days sounds like a good length
+Wizard: The cheapest package to Leon would be 2199.7USD.
+User: Wow that would be quite a lot more, why the price difference? Is it a fancier hotel?
+Wizard: However, the hotel in Leon is 5 star and located on the beach near a palace.
+User: How long is that stay?
+Wizard: 8 days
+User: Ok thanks. My friend lives in Punta Cana, how much would it cost to get there?
+Wizard: 515 dollars for a 5 day stay.
+User: What's the hotel like?
+Wizard: 2.5 star
+User: and...
+Wizard: On the beach.
+User: that good! what else?
+Wizard: I don’t understand. What do you mean?
+User: What else can you tell me about this hotel?
+Wizard: It is called El Mar.

@@ -1,0 +1,26 @@
+User: Hi there. Can I use your services to leave Puebla?
+Wizard: Yes! Where would you like to go?
+User: Boston please. Sometime between September 1 and 16
+Wizard: What is your budget?
+User: unlimited budget, but hoping for something in the four star range
+Wizard: How many people are travelling?
+User: Me, and potentially a friend. But just search for 1 adult right now
+Wizard: We only have a 2.5 star hotel. Is this okay?
+User: Thats fine, but I would probably tell you to look up another place right after :wink: You know what, lets just skip to that
+check dallas for me
+Wizard: We have a 2.5 star hotel here as well.
+User: Goiania?
+Wizard: Again, this is yielding only 2.5 star results as well.
+User: Wow just not my lucky day. How about...Mexico City
+Wizard: Success! We have 3 and 3.5 star hotels. Which would you prefer?
+User: cool! what amenities at each?
+Wizard: The first 3 star hotel, "Sublime Echo" is near a beach, shopping, and mall, and offers free parking and wifi. The second 3 star hotel, "Hotel Tropic" is near the beach and shopping, and offers free breakfast and wifi. The 3.5 star hotel "Exalted Willow Resort & Suites" is near the beach shopping, and mall, and offers free parking and wifi.
+User: how much does the 3.5 cost
+Wizard: For business flights it would cost 1048.47 and for economy it would be 887.53. This package is for 10 days.
+User: I think that would be the best choice! business isn't too exorbitantly priced so that's what I'll have
+and book for two please
+Wizard: Okay great! For this option it will cost 2096.95 for two adults and business flights. Still okay?
+User: still okay
+Wizard: Great! Your flights are booked! You will receive an email soon to confirm your purchase! Have a great day!
+User: thank you!
+Wizard: Anytime!

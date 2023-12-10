@@ -1,0 +1,18 @@
+User: I need a 5 star hotel in Berlin
+Wizard: Where from?
+User: Detroit. After Monday, the 12th
+Wizard: Do you have a budget?
+User: no - not budget
+Wizard: Travelling alone?
+User: The package must be impressive - keep that in mind. I’m bringing 5 high class clients so 6 adults in total/
+Wizard: You're in luck! We have an awesome 15 day package from September 13th to 27th at a 5 star hotel in Berlin. The hotel is near a museum, they have a 8.8/10 guest rating, and they offer free breakfast and wifi. For business flights with this package the cost is 16969.96.
+User: That sounds suitable for some business fat cats. Have you got anything that rivals that package, but in Cordoba?
+Wizard: This package has a guest rating of 8.98/10, the trip is 13 days instead of 16 from September 17th to 29th, and the cost with business flights included is 20354.83.
+User: Ok, what are the sights like near that hotel? And the amenities?
+Wizard: They are the same as the hotel in Berlin.
+User: Ah, ok. Is there anything available in downtown Vancouver? Perhaps near some hot shopping districts, bars, etc..
+Wizard: There is a 4 star hotel near a park, museum, and cathedral.
+User: Ah, that’s not impressive. Well I think I’d prefer Cordoba to Berlin..
+Let’s book that - business class
+Wizard: Lovely! It is done! Good luck on your trip!
+User: Thank you, my friend

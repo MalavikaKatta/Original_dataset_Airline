@@ -1,0 +1,15 @@
+User: Hello, anybody there?
+Wizard: Yes I am here, here for you :slightly_smiling_face:
+User: Yes please. I live in Busan
+Wizard: Where would you like to go?
+User: Do you have any flights to Denver
+Wizard: Sure! Do you have a budget?
+User: I think i got $4900 saved up
+Wizard: Ok! Do you have dates in mind?
+User: No dates yet, just wanted an idea of what's out there
+Wizard: Ok! I have Sept 8-11 in Denver for $3200.
+User: How about Los Angeles
+Wizard: I have 10 days in Los Angeles for $3893.48.
+User: How much would it cost to go to Vancouver?
+Wizard: You can go to Vancouver from Aug 29-Sept 7 for $2742.44USD.
+User: Thank you so much! I can't book now but I'll let you know if my schedule clears up

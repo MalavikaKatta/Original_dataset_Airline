@@ -1,0 +1,6 @@
+User: hi I’m in urgent need of a flight home!
+Wizard: I will verify what we have for you. Can you please tell me the city you are presently located in and where you would like to go?
+User: i’ve been informed of a family emergency and I’m stuck overseas in Tel Aviv. I need to get home to Boston ASAP
+Wizard: I regret that I do not have flights available out of Tel Aviv at the moment.
+User: Oh no.. well I can get to Calgary for cheap.. what if I leave from there?
+Wizard: I'm sorry but I don't have any results.

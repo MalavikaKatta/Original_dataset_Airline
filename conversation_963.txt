@@ -1,0 +1,23 @@
+User: Just looking into vacations departing Phili. Where could I go for under 1200?
+Wizard: Just you?
+User: yup
+Wizard: When are you planning on taking your vacation?
+User: Sept 12 to 20
+Wizard: I could get you to quite a few places! San Diego, Toronto, Dublin, San Antonio, Long Beach... any of these interest you?
+User: Whats the hotel in San Diego?
+Wizard: In San Diego it would be a 2.5 star hotel with a 6.91/10 rating near a park.
+User: Ok, would you do any better in Toronto?
+Wizard: In Toronto it would be a 3.0 star hotel near the cathedral and market. This one has 8.86/10 rating.
+User: What about in Dublin?
+Wizard: That would be a 2.5 star hotel with 6.77/10 rating.
+User: San Antonio?
+Wizard: In San Antonio it will only be a 2 star hotel with a 7.15/10 rating.
+User: Ok just to put you through one last search, whats good in Long Beach?
+Wizard: Not a problem, in Long Beach we've got a 2.5 star hotel with 6.91/10 rating.
+User: Could you tell me more about the Toronto hotel?
+Wizard: Sure! It offers free parking, free breakfast, and free wifi. You can stay there 8 days from Sept 13-20.
+User: Lets book it
+Wizard: Would you like the business tickets for 1108.4 or economy tickets for 924.67?
+User: economy please
+Wizard:  Your trip is booked!
+User: thanks!

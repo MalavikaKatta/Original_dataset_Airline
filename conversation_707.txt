@@ -1,0 +1,24 @@
+User: so i need to get from Milan to Ulsan. sept 6 to 11
+Wizard: Certainly! How does five days at the Crimson Seaside Hotel sound?
+User: i dont know, how well rated is this hotel?
+Wizard: Quite well - 4.0 stars.
+User: hm sell me on it a bit more. what amenities do they offer
+Wizard: As you wish! The hotel is located near a bustling market and picturesque palace in downtown Ulsan. Your stay will feature free wifi usage as well as free parking.
+User: But I'll have to pay for breakfast?
+Wizard: Sadly there is no free breakfast at the Seaside Hotel :disappointed:
+User: but how much would i stand to pay
+Wizard: If flying economy class the price would be 2835.82USD for the whole package.
+User: can you confirm the dates for me?
+Wizard: You would depart Milan on September 6th, returning on September 9th.
+User: and thats the longest trip you can get me, based on the range of dates i gave you?
+Wizard: Yes, I’m sorry
+User: how about if i were to leave on august 30th instead could you still book me there but for longer?
+Wizard: I sure could! I have 10 day packages at the Sapphire Time or the Escape Cave. Both are 5 star hotels located near parks and shopping districts; the former near a market and theatre with the latter near a mall. Both offer free parking and wifi, sadly no free breakfast, and The Sapphire Time features a 8.98 guest rating with the Escape Cave boasting 8.8/10 in user reviews.
+User: How could I say no to the Sapphire?? What's the longest stay you can arrange for me?
+Wizard: I can give you 10 days at the Sapphire Time from September 3 until the 11th.
+User: Put me down for that, please and thank you!
+Wizard: You’ve got it :slightly_smiling_face: Economy or Business class flights?
+User: How much more does business class cost?
+Wizard: 4638.5USD, economy package would total 3612.60USD)
+User: don't mind if i do...business class. book it...
+Wizard: Sure

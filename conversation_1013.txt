@@ -1,0 +1,20 @@
+User: london to punta cana
+Wizard: How many adults and how many children?
+User: 1 man
+Wizard: What would be your ideal travel dates?
+User: september 12 unitl 28th
+Wizard: Are these flexible at all?
+User: i could leave 7th of sept
+Wizard: Anything in particular you would like me to look for in a hotel?
+User: nice
+please
+Wizard: Best I have is the El Mar, which is a 2.5 star hotel, located on the beach.
+User: how much money
+Wizard: Would you prefer to fly economy or business?
+User: economy
+Wizard: 747.73USD for a 6 day package based on economy class
+User: wow great deal. how much for business
+Wizard: 998.8USD for a 6 day package based on business class
+User: that is great. please book it for me
+Wizard: I will go ahead and do that for you!
+User: great thanks

@@ -1,0 +1,30 @@
+User: HEY. I NEED TO GET TO SAN JUAN
+FAMILY REUNION!
+WE ARE LEAVING FROM LEON
+Wizard: Where will you depart from?
+User: MY WIFE WORKS HERE IN SPAIN
+Wizard: Okay! Do you have a budget?
+User: GOT A TRANSFER OVERSEAS FOR AN ARCHAEOLOGICAL PROJECT. ITS BEEN FUN HERE
+
+YEAH WE HAVE 14700 !
+WE ARE GOING TO BRING OUR CHILDREN TO SEE SAN JUAN AND MEET THE FAMILY
+THERE ARE 5 ADULTS AND 1 YOUNGIN
+Wizard: When would you like to go to San Juan?
+User: WELL JEEZ. I DONT EVEN KNOW WHEN THE REUNION IS !
+HA~
+WE CAN JUST GO WHENEVER I GUESS
+AS LONG AS WE’RE IN THE CITY
+IN THE NEAR FUTURE… SHOULD BE FINE
+Wizard: We have 3 results available. We have a 12 day and 9 day package at a 4 star hotel, and a 10 day package at a 2.5 star hotel.
+User: OK DEFINITELY MORE INTERSTED IN THE 4 STAR!!! ARE THE 12 AND 9 DAY TRIPS BOTH AT THE SAME HOTEL?
+Wizard: They have the same name
+User: WHAT IS THAT HOTEL LIKE?
+Wizard: Fairyland has a 8.98/10 guest rating, it is located near a museum, shopping, and a market, and they offer free wifi.
+User: THAT SOUNDS IDEAL. GREAT LOCATION
+WHAT IS THE PRICE FOR THE 12 DAY?
+Wizard: 13776.57 and it is from September 14th to 24th.
+User: Perfect! And a thousand under budget! SOUNDS LIKE OUR WINNER
+Wizard: Would you like me to book it for you?
+User: YEAH DO THAT PLEASE
+Wizard: Great! All done! Have a great trip!
+User: OK THANK U

@@ -1,0 +1,14 @@
+User: Seoul to Long Beach. 4 kids 6 adults. 35400 budget
+Wizard: When would you like to travel?
+User: Times don’t matter
+Wizard: We have a 2.5 star hotel near the airport. It has 6.91/10 guest rating, free parking, free breakfast, and free wifi. We offer 6 day or 8 day packages with business or economy flights well under your budget.
+User: Anything better? If it matters I can also up the budget by another 1000
+Wizard: Unfortunately this is the only available hotel in Long Beach.
+User: Damn Long Beach, thats downright embarrassing
+But lets go with it You can fit all 10 of my party on the same flight right?
+Wizard: Sure can, I can even fit all of you into business class if you'd like. Would you like to go for 6 days or 8 days?
+User: Whats the price for 8 days, with business class?
+Wizard: That would be 24951.60.
+User: Sign the team up, pal
+Wizard: Consider it done. Have a great trip!
+User: I thank thee

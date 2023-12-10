@@ -1,0 +1,21 @@
+User: hi i want 2 bring my wife and kid 2 boston from philadelphia for 1600 from august 30 until september 14
+Wizard: Will this be for 2 adults and 2 children?
+User: 1 kid
+Wizard: I have nothing available during this time period. Are your dates flexible?
+User: what about for 2600
+Wizard: Are your dates flexible?
+User: not really
+Wizard: By increasing your budget, I do show two results; an 11 day package and a 5 day package withing your time frame.  How long would you like to go for?
+User: 11 days would be amazing
+Wizard: The Mirror Inn  is a 2 star hotel with a guest rating of  6.61/10.  Your $1639.44USD package includes breakfast, wifi and even free parking. Take off is on August 31st and return is on Sept 10th. How does this suit you?
+User: Is the 5 day package also at a 2 star hotel?
+Wizard: Yes it is actually at the same hotel. The 5 day package is more expensive than the 11 day package.
+User: what would be available in Phoenix same parameters
+Wizard: Flying out of Boston again?
+User: no. philadelphia is our departure point
+Wizard: The Prism is available for 5 or 8 days. This one is a higher rated 2.5 star hotel also including breakfast, wifi and parking. coming out of Philadelphia
+User: Can you check out Montreal for me?
+Wizard: How about a 3 star in Phoenix. I also have the The Recreation Inn  available in Phoenix for 6 days at 1309.57USD. September 9th to 14th. All amenities included again breakfast, wifi, parking.   I have nothing available from  Philadelphia to Montreal.
+User: Ok, is the 6 day package hotel located near a park?
+Wizard: No park, but it is close the university and museum and has a 6.91 / 10 guest rating.
+User: but just in case, I'm gonna run over it with my family/. I'll let you know later, thanks!

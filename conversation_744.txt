@@ -1,0 +1,19 @@
+User: Can you get me to Philadelphia please. Leaving from Goiania
+Wizard: I will be happy to try to get to you to Philadelphia from Goiania. Any specific dates you would like to fly on?
+User: It doesn’t matter when I leave, only that I return before September 15. Oh and do look into the nicest hotels please, no budget over here
+Wizard: I have nothing from Goiania to Philadelphia. I can check other destinations for you. Can you confirm whether you are travelling alone or accompanied?
+User: I’m traveling with a friend. Santos then
+Wizard: My highest rated hotel is a 4 star hotel with a 8.49/10 user rating. Would you like more details?
+User: Could you get us to Philadelphia if we left from Mannheim?
+Wizard: Sure can but my highest rated hotel in Philadelphia is a 2 star
+User: then forget it. what are the dates you can get us for Santos?
+Wizard: For the 4 star hotel you can depart either on the 1st or the 6th
+User: And when would we return?
+Wizard: Sept 1st departure returns on the 4th and Sept 6th departure returns on the 15th
+User: lets take the latter then
+Wizard: The price on this flight/hotel bundle is $1504.38USD via business class and the place where you will stay at is the Elite Estate Hotel. Should I get this all booked up for you?
+User: This is for two adults, corrrect?
+Wizard: That is correct, 2 adults.
+User: ya
+Wizard: All taken care of :blush:
+User: tyty

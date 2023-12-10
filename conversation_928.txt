@@ -1,0 +1,21 @@
+User: Hi there. San Antonio to Mexico City
+no budget
+Wizard: Are you travelling alone?
+User: I am!
+Wizard: When do you want to leave?
+User: I just need the entire trip to be somewhere between September 12 and October 2
+Wizard: Business or economy flights?
+User: Business I guess
+Wizard: Okay would you rather stay at a 6.77/10 or 6.91/10 guest rated hotel?
+User: Well obviously the better one
+Wizard: Good choice! This hotel is 3 stars near the beach, and shopping mall, they offer free parking and wifi, the package is from September 24th to October 2nd, and the package costs 1618.66.
+User: This isn't bad, However it is my prerogative to check some other cities out
+What about Punta Cana?
+Wizard: We have a 3.5 star hotel near a cathedral and palace, 8.69/10 guest rating, free parking and wifi, from September 26th to October 2nd, business flight, 1767.47.
+User: I'm glad I asked then!. Can you look at San Diego for me?
+Wizard: We have a 3 star hotel near the park, 8.86/10 guest rating, free parking, breakfast, and wifi, from September 14th to 24th, business class flights, 778.97.
+User: Is it me, or do these packages keep getting better? Ok one last spot to check
+Chicago?
+Wizard: We have a 2.5 star hotel near the airport and mall, 6.91/10 guest rating, free parking, breakfast and wifi, from September 18th to 29th, business class, 1057.38.
+User: Ok Lets lock in San Diego
+Wizard: Great! Your package is booked! Enjoy your stay!

@@ -1,0 +1,23 @@
+User: Heyo!
+Wizard: Hi! What can I do for you today?
+User: I'd like to go to Seattle from Belem between August 27th and September 5th. What is available?
+Wizard: I've got a 3.5 star hotel available for 3171.58USD travelling on those dates!
+User: That sounds good. What are my options if I leave from Belo Horizonte?
+Wizard: I can book you the same hotel but returning on September 3rd if you leave from Belo Horizonte.
+User: For how much?
+Wizard: That would cost 3332.23USD.
+User: Ok let me see, what about a trip to Paris leaving from Belem between the same dates?
+Wizard: I don't have anything available in Paris between those dates unfortunately.
+User: What about Sao Paulo?
+Wizard: Would you like to travel to or from Sao Paulo?
+User: Travel to Sao Paulo.
+Wizard: I can book you 6 days in Sao Paulo for 907.3USD if you leave from Belem.
+User: Fantastic! And if I leave from Belo Horizonte?
+Wizard: I can get you 4 days for 853.71USD if you leave from Belo Horizonte.
+User: Ok. I choose the trip to Seattle from Belem. What are the arrival and departure dates and times?
+Wizard: Great, the 3.5 star hotel for 3171.58USD?
+User: Yes!
+Wizard: You will depart from Belem at 1:00 pm and arrive in Seattle at 11:59 pm on Saturday, August 27th. When leaving Seattle, you will depart at 4:00 am on Monday, September 5th and arrive back in Belem at 2:59 pm on that same day.
+User: Excellent! Let's book this one.
+Wizard: Great! Consider it done.
+User: Thanks, friend!

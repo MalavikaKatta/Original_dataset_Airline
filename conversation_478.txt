@@ -1,0 +1,9 @@
+User: Get me on a flight to San Antonio, stat! I need to leave on September 1
+Wizard: From where?
+User: Kyoto. Get me the best hotel also
+Wizard: Do you have a budget?
+User: I want to keep it under $5500 if possible. But I'm flexible with return date
+Wizard: Travelling alone?
+User: Yes all by my lonesome
+Wizard: There are no flights from Kyoto to San Antonio in my database. Is there another destination you might want to go to?
+User: Its gotta be San Antonio man, damn Ok I'll look elsewhere

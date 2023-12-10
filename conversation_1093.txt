@@ -1,0 +1,11 @@
+User: Terribly! I need to get home to Los Angeles from Milan! It's an emergency hurry!!!
+Wizard: Do you have a budget?
+User: 4200
+Wizard: And it'll just be you?
+User: yes just me!
+Wizard: Okay, the earliest trip leaves tomorrow and takes you to Los Angeles for 10 days. Another option is to wait until Friday to leave and stay in Los Angeles for 14 days. Both fit under your budget. Which one would you prefer?
+User: No I need to leave tomorrow!
+Wizard: Alright. That will be 2815.47 on economy flights. You will be staying at a 3.0 star hotel (8.86/10 guest rated) near the airport and mall. While there, you can access wifi, breakfast, and parking free of charge. Would you like me to confirm the booking for you?
+User: yes! please!!!
+Wizard: Consider it done :slightly_smiling_face: Pack your bags and head to the airport!
+User: Thank you! You were a great help!!!

@@ -1,0 +1,8 @@
+User: Hello there I am looking for a travel package departing from Tofino on or after August 29. I would like to go to Calgary with a party of fourteen adults.
+Wizard: Hello, I have nothing that matches your request. Can I look for other destinations?
+User: I can leave from Kabul if need be
+Wizard: I have nothing available from Kabul but should you want to leave from Sacramento I definitely have packages.
+User: nah I can’t do that. What about Washington with 7 adults?
+Wizard: Washington to Calgary for seven?
+User: Sure
+Wizard: Nothing available from Washington to Calgary

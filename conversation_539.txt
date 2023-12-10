@@ -1,0 +1,13 @@
+User: Hi there, I need to go from Minneapolis to my internship but I don’t have much money to spare. Could I do Detoit for less than 1400?
+Wizard: Do you need to be there for certain dates?
+User: Yes I do. It needs to be between August 27 and Sept 8
+Wizard: No worries! I have 2 packages to offer you at The Regal Resort. The first is 7 days from August 28th to September 3rd and the second is 6 days from August 27th to September 1st. This is a 3 star hotel with free wifi, breakfast and parking and it has guest reviews of 8.86/10.
+User: Thats all under my budget?
+Wizard: Yes! You could even fly in business class and you would still be under budget.
+User: Thats incredible! The problem is, I want to find a longer stay if possible, even if it means changing city. Can you share the options for Fortaleza?
+Wizard: Unfortunately we do not have flights between those cities. Is there anywhere else you were considering goin?
+User: Yes, please check for Puebla also
+Wizard: I have a slightly longer stay to offer you here: 9 days at Los Campeones. This is a 4 star hotel with free breakfast, wifi and parking and once again even business class tickets would be an option for you.
+User: Wow! Ok that sounds like the best choice then. Please help book this one for me
+Wizard: No problem! I'll go ahead and book it for you right now. Enjoy your trip!
+User: Thanks!

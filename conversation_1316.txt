@@ -1,0 +1,9 @@
+User: I want to get to Paris from Cordoba
+Wizard: Great trip destination. Is there a certain amount of money you would like to spend on this trip? And will you be going on your own or with others?
+User: 1 kid and 4 adults for 3300
+Wizard: We have a 13  day package and an 11 day package, which would interest you more?
+User: 13
+Wizard: Our 13 day package includes an excellent 5 star hotel that provides free breakfast and wifi, costing a grand total of 3130.90. Would you like to book?
+User: yes!
+Wizard: Consider it booked! Enjoy your vacation :slightly_smiling_face:
+User: Thanks!

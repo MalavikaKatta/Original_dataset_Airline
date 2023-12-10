@@ -1,0 +1,12 @@
+User: Hi
+Wizard: What can I do for you?
+User: I need to leave Beijing, I’d like to go to Munich with 10 adults and 3300 between us
+Wizard: We do not fly from Beijing to Munich
+User: How bout Kabul to Munich?
+Wizard: We have no flights out of Kabul either
+User: Any flights to New York for 2300 and 4 adults?
+Wizard: To New York out of what city?
+User: Kabul
+Wizard: We do not fly anywhere out of Kabul
+User: Ok then leave from Beijing
+Wizard: I regret to inform you that Beijing - New York is also unavailable

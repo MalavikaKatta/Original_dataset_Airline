@@ -1,0 +1,13 @@
+User: I need to get home! It’s an emergency
+Wizard: Where are you located?
+User: Jerusalem
+Wizard: I regret that we have no flights out of Jerusalem
+User: I can leave minneapolis then. I need to get to Lima.
+Wizard: The earliest departure I have out of Minneapolis destination Lima is Sept 11th. Are you okay with this?  It would cost you 1606.83USD.
+User: Is there anything leaving on the 14th or 15th?
+Wizard: Yes I have departures on both those dates too. The Sept 14th departure comes as part of a 9 day stay and the Sept 15th departure comes as part of an 8 day stay.
+User: the 14th is best for my schedule. Can you tell me the cost
+Wizard: The cost via economy class flights would be 993.58USD. Your stay would be at the Wolf Inn, a 3.5 star with a guest rating of 8.86/10. Your breakfast will be included in the price as will wifi and parking.
+User: yeah that’s fine, can we book it now?
+Wizard: Of course. I will  proceed with the reservation.
+User: Thanks

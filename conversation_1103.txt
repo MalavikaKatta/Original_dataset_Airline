@@ -1,0 +1,8 @@
+User: Katniss here, im in Rio de Janeiro and need to get to Paris to shoot a film
+Wizard: Unfortunately we don't offer trips from Rio de Janeiro to Paris. Do you have somewhere else you'd like to go?
+User: I guess i can go to hamburg instead and chill with Selena
+Wizard: That I can help with! How does an 11 day stay at a 4.5 star hotel near the airport sound?
+User: Sounds good enough. Out of curiosity, is there a 5 star hotel?
+Wizard: Not that I can find... the 4.5 star one is the best in Hamburg.
+User: Okay, i’ll take it, thank you and peace out!
+Wizard: Great! It is booked for you. Have a great trip!

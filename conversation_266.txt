@@ -1,0 +1,5 @@
+User: I HAVE to be in Houston on the 17th!
+Wizard: Hello! We'll get you there. Where are you leaving from?
+User: Fortaleza
+Wizard: Sorry, but I can't find any flights to Houston from Fortaleza. Is there anywhere else you'd like to go?
+User: okay well its crucial i get there from Fortaleza so I will call someone else

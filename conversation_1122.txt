@@ -1,0 +1,24 @@
+User: I want to go to san antonio from tijuana for 7 days
+Wizard: One person?
+User: yeppers!
+Wizard: I have several choices. How long were you hoping to stay in San Antonio?
+User: from the 13th to the 1st
+Wizard: My shortest package in San Antonio is a 9 day package. I have a choice of 2 different hotels, both with a 2 star rating.
+User: What are the dates for it?
+Wizard: Both are from Sept 12th to Sept 20th
+User: well i think my 7 days of vacation only apply to work days so that should work since part of the trip is on the weekend. Can you fill me in on more hotel details?
+Wizard: You have a choice between the Vertex Inn, a 2 star hotel near the park, museum and the mall at 1277.9USD OR the Winter Hill Inn, also a 2 star hotel near the park, mall ans theatre. Both included wifi, parking and breakfast. However, the Vertex Inn has a guest rating of 7.15/10 whereas the Winter Hill Inn had a guest rating of 4.74/10.
+User: I think i'll go for the vertex hotel cuz the guest rating is better lawls. but wait, i cant leave on the 12th ! ah shoot! sorry about that
+Can you check Busan for me?
+Wizard: Is a departure date of the 14th okay?
+User: Yeah for sure!
+Wizard: I can send you to San Antonio on a 15 day package from September 14 to September 28 or I can send you to Busan  on a 6 day package from September 14 to September 18th.
+User: I think the 6 day package fits my dates the best. Can you tell me more about it?
+Wizard: First let's get your budget
+User: I dont have a budget
+Wizard: Perfect. The Busan hotel is available for a 6 day stay at  3107.21USD. Included is your parking, use of wifi and your breakfast. The hotel is situated near the park, museum and not far from the university.
+User: sounds pretty good to me, is this the business or economy price?
+Wizard: That price is based on economy class pricing. I also have that package available at 4047.3USD on business class.
+User: I'll splurge and take the business class flights, nothing wrong with spoiling yourself once in a while
+Wizard: I will proceed with the business reservations
+User: Thank you

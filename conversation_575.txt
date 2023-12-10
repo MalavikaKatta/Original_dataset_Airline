@@ -1,0 +1,8 @@
+User: i need a 5 star getaway in toronto from beijing immediately
+Wizard: For how many people and your expected dates of travel please?
+User: i need to be back august 25
+Wizard: I do not have flights available from Beijing to Toronto.
+User: Indianapolis then
+Wizard: May I confirm the number of  people travelling please?
+User: 2
+Wizard: I do not have flights available at this time from Beijing to Indianapolis.

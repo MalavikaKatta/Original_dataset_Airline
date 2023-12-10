@@ -1,0 +1,10 @@
+User: Hello. I have some business trips coming up
+Wizard: Hi! How can I help you with this?
+User: I;m trying to get to Rome from Long Beach. Between the 20th of September and the 5th of October. No budget.
+Wizard: Traveling alone?
+User: Yes.
+Wizard: We have an 11 day package from September 26th to October 5th at a 4 star hotel.
+User: Tell me more, please.
+Wizard: The hotel has a 8.8/10 guest rating, is near shopping and a cathedral, they offer free breakfast and wifi, 3170.53 for business flights, and 2460.80 for economy flights.
+User: I like it. I’ll book the business class flights.
+Wizard: Great! It is booked! Have a great day!

@@ -1,0 +1,8 @@
+User: tofino from Santo domingo stat
+Wizard: Ho many?
+User: oh ok, just me
+Wizard: I have nothing to tofino from Santo Domingo
+User: How bout to London?
+Wizard: I have nothing to London from Santo domingo
+User: How bout to Santa Cruz
+Wizard: Nothing from Santo Domingo to Santa Cruz

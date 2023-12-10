@@ -1,0 +1,23 @@
+User: I’d like to see where I can go from Hiroshima. Between now and September 5
+Wizard: Do you have a budget?
+User: yes, 1400
+Wizard: Are you travelling alone?
+User: Yes
+Wizard: We have no flights from Hiroshima unfortunately.
+User: What if I stretch the date range to now and September 18?
+Wizard: That helped. We have flights to Osaka, Kochi, Kobe, Ulsan and Sendai.
+User: Whats the longest trip you have out of those choices?
+Wizard: Osaka and Kochi.
+User: And out of those, which one has the best hotel?
+Wizard: Osaka.
+User: How many stars this hotel have?
+Wizard: 4 and is near a park and museum.
+User: What dates can you get me for this one?
+Wizard: September 2nd to 13th.
+User: What would it cost in total?
+Wizard: Would you like the cost of business or economy flights?
+User: economy please
+Wizard: 681.94.
+User: sign me up, boss
+Wizard: Cool! You're all signed up. Have a good trip
+User: Thanks!

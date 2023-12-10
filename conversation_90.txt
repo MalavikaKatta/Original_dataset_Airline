@@ -1,0 +1,23 @@
+User: hi i want to go on vacation i leave from cancun
+Wizard: Ok! Where would you like to go?
+User: im thinking of Santos
+Wizard: Sure thing! Any dates in mind?
+User: i want to leave on the 15th
+Wizard: The 15th of August? I can do that for you.
+User: perfect!
+Wizard: I have a trip available from August 15-August 26. Does this work for you?
+User: yes it does! what type of hotel?
+Wizard: Great! The hotel I've found for you has a 4 star rating.
+User: very nice! whats the pricing like?
+Wizard: The price for that package would be 2877.68USD.
+User: and how much if i were to go to pittsborgh?
+Wizard: You could fly from Cancun to Pittsburgh and spend 12 days for a cost of 1075.60USD.
+User: which hotel is better?
+Wizard: The hotel in Santos has a 3.0 rating while the hotel in Pittsburgh has a 2.5 star rating.
+User: and what are the classes of the flights?
+Wizard: The price I've given you is for economy class.
+User: i think i would prefer to go to Santos
+Wizard: Ok, great! Would you like to book the package I've quoted you for to Santos?
+User: yes please! thanks!
+Wizard: Consider it done :slightly_smiling_face: Thank you for travelling!
+User: thanks you!

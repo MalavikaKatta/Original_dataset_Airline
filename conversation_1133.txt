@@ -1,0 +1,9 @@
+User: Hey there, I'm excited to book a trip somewhere for me and my colleagues.
+Wizard: How many of you?
+User: There will be 27 of us.
+Wizard: Where are you located, and where would you like to go?
+User: We're in Beijing we're thinking of going to Santo Domingo.
+Wizard: I’m sorry, but we currently do not operate out of Beijing. Is there an alternative departure point available for you?
+User: No, because all 27 of us live in Beijing.
+Wizard: I’m sorry, then I cannot help you.
+User: That's okay, I'll find another way to book it, I'm sure!

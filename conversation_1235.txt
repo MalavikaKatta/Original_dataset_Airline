@@ -1,0 +1,15 @@
+User: I want to go to queenstown for 6 days
+Wizard: Hello. I can assist you with that. From which city will you be departing?
+User: san diego
+Wizard: What is your preference in travel dates?
+User: I have the 12th to 19th off
+Wizard: We have the perfect 6 day package for you at the 4 star Emerald Mountain Hotel from Sept 12th to the 16th.  Before I tell you more about it, I just want to make sure your budget is appropriate for this package.
+User: Yeah I dont have a budget, im treating myself for once.
+Wizard: Perfect. This 4 star hotel with a 8.22/10 guest rating is located near a museum . During your stay, you will be provided with a complimentary breakfast and unlimited wifi use at no charge. Parking is also included should you wish to rent a car.  The total cost on this package is  4204.62USD if you desire a business class flight. Are you interested in booking this Queenstown package?
+User: I am very interested but before I book it can you check Kyoto?
+Wizard: In Kyoto, I have a choice between 2 different hotels, both with a 3 star rating and both for 5 day stays.
+User: No need to inform me on this one, I would like to book the trip to Queenstown please
+Wizard: Did you want the business class package?
+User: yeah for sure, i wanna be spoiled
+Wizard: I will proceed with the booking then and send confirmation.
+User: Thanks!

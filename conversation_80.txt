@@ -1,0 +1,19 @@
+User: Hi i want to plan my honeymoon to rome
+Wizard: Ok! How long would you like to go?
+User: 6 days
+Wizard: I've got great prices for 6 days packages leaving from Essen!
+User: any leaving from San Diego?
+Wizard: Hmm.. all my packages from San Diego are only 5 days. Is that ok?
+User: ya that sounds fine!
+Wizard: Great! How many stars would you like your hotel to be?
+User: i have a maximum budget of $3900
+Wizard: I've got a couple of 4.0 stars available for your budget.
+User: what are they like?
+Wizard: They have free breakfast and free wifi!
+User: that sounds amazing thats what i like! how much will they be?
+Wizard: Great! Prices range from 4366.90USD to 5619.22USD for a four star hotel package.
+User: they seem to be a little over my budget anything a little less maybe economy class flight?
+Wizard: I have a 0.0 star hotel package available for 3663.85USD.
+User: honestly that would work better :slightly_smiling_face:
+Wizard: Great! Shall I go ahead and book that for you?
+User: yes please!

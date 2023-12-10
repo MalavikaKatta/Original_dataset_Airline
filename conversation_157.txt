@@ -1,0 +1,13 @@
+User: I'm looking to go on a trip but i'm not sure where. Can I get information for a trip from Toluca to Paris From August 25th to September 9th?
+Wizard: Sure thing! Are you on a budget?
+User: no
+Wizard: How about a 9 day stay at a 4 star hotel for only 516.90USD?
+User: How about a trip from Toluca to Curitiba?
+Wizard: How does an 8 day stay at a 3.5 star hotel for 1003.59USD sound?
+User: No thanks. Can you check trips from Toluca to Brasilia?
+Wizard: I can offer you a 3.5 star, 6 day stay for 1035.87 USD!
+User: hmmm. I don't know. Could you check one more, from Toluca to Hiroshima?
+Wizard: I've got a very nice one here. How about a 4.5 star, 7 day stay for 1081.42 USD?
+User: No thanks but I think I will take the 9 day trip to Paris! What are the dates for this trip?
+Wizard: August 27th to September 4th.
+User: That sounds great! I'll take it!

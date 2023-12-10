@@ -1,0 +1,27 @@
+User: we have a big group to book for!
+Wizard: Okay! How big?
+User: 4 adults 7 kids. leaving from washington. can you just give me some options that cost less than 30300
+Wizard: When would you like to leave?
+User: After September 12
+Wizard: We have a package to Indianapolis, St. Louis, Dublin, San Antonio, and Hamburg.
+User: Indianapolis? anything on the beach there
+Wizard: Yes! The hotel is on the beach and close to shopping hot spots.
+User: Does it come with free parking? Could look into renting a car
+Wizard: Yes, free parking, breakfast, and wifi are all included.
+User: What is the rating for this hotel?
+Wizard: 2.5 stars and 6.37/10 guest rating.
+User: Could we afford anything better there?
+Wizard: You can afford a 3 star hotel near the beach, airport, park, and university. This hotel also has a 7.15/10 guest rating and offers free parking, breakfast, and wifi.
+User: Whats the best thing you can get me in SL?
+Wizard: The best package to St. Louis is a 3.5 star hotel, 9.16/10 guest rating, free parking, breakfast and wifi, near the airport and theatre, from September 16th to 29th, 15910.39 for business flights, 12853.36 for economy flights.
+User: Can you check whats in Dublin?
+Wizard: We don't have any hotels above 2.5 stars.
+User: What about in San Antonio?
+Wizard: There are only 2 star hotels in San Antonio.
+User: Hamburg then??
+Wizard: Our best package here is a 4.5 star hotel near the airport, 9.16/10 guest rating, free parking and wifi, from September 13th to 30th, 24501.33 for business flights, 19293.70 for economy flights.
+User: Yes I’d like to confirm
+Wizard: Business or economy flight?
+User: business would do
+Wizard: Great! You will get a confirmation email soon which will include details about the trip. Have a great day!
+User: Thanks!

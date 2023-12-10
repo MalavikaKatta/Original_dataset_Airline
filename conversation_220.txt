@@ -1,0 +1,7 @@
+User: Ah Jeez. I need to travel from Puebla to Buenos Aires. I have a terrific reason to go, I assure you. My backstory here is impeccable
+Wizard: You're in luck! I happen to have an opening at the Resort Pleasant Shield from the 19th to the 29th of August. The total cost of this package is 2610.38USD.
+User: Wow, that's amazing, thank you. Thank you. But soft! My mind changes- get me from Puebla to Marseille.
+Wizard: If you're interested in Marseille, there's a 10-day vacancy at the Grand Hotel starting the 25th of August. This package will cost you 2954.73USD.
+User: I don't have leave to travel until the 27th! Perhaps...but no... but yes! What is there in San Antonio!
+Wizard: If you would like to stay in San Antonio, you will have to extend your stay from the 1st until the 14th of September. Would you like to hear more about one of these packages?
+User: Book everything.

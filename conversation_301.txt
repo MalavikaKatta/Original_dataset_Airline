@@ -1,0 +1,11 @@
+User: hello, please find me a vacation between saturday august 27 2016 and wednesday september 7 2016 for under 6000$ leaving from madrid
+Wizard: Hello, what can I help you with today?
+User: hello, please find me a vacation between saturday august 27 2016 and wednesday sept 7 for under 6000$ leaving from madrid
+Wizard: Ok! Absolutely :slightly_smiling_face: I can book you a trip to Rome from September 2-7 for only $407.55 if you are interested.
+User: ok. can it be for a longer period
+Wizard: What about Essen for 610.86USD? You would leave August 30th and return on September 7th.
+User: ok
+Wizard: Shall I go ahead and book that for you?
+User: ok
+Wizard: Wonderful, all booked :slightly_smiling_face: Enjoy your stay.
+User: thanks

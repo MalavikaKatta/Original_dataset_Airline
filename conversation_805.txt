@@ -1,0 +1,17 @@
+User: ONE ticket from Belem to Punta Cana
+Wizard: Hello!
+User: BUSINESS class
+Wizard: Okay. When would you like to leave? Do you have any budget in mind?
+User: A superstar is not concerned with budgets. Just get me there whenever
+Wizard: How many days would you like to stay in Punta Cana?
+User: Just get me a good hotel
+Wizard: I'm afraid the best hotel in Punta Cana is 2.5 stars with a guest rating of 0/10. There might be better hotels in another city if you're open to other destinations.
+User: I’d rather go to Phoenix then
+Wizard: The best in Phoenix is a 3 star hotel with 6.91/10 guest rating. If this sounds better to you, we have business packages available.
+User: I think I have to go back to Punta Cana. Can you make me feel a little better about this potential choice by telling me what the amenities are?
+Wizard: It does not seem to have any amenities, but at least it's close to the beach where you can get a perfect tan for your shoot :slightly_smiling_face: I can offer you a business package for a 8 or 9 day stay.
+User: ok put me down for this
+Wizard: I agree! Okay, the 8 day business package is 1711.35 and the 9 day business package is 2933.17. Which one would you like to reserve?
+User: 8 days will be enough
+Wizard: Okay! You are heading to Punta Cana for 8 days from Sept 7 to 13 :slightly_smiling_face: You will receive an email confirmation shortly. Happy traveling!
+User: coolio. I have to thank you

@@ -1,0 +1,10 @@
+User: Barcelona to anywhere for 0 dollars
+Wizard: We do not offer free trips
+User: 400 bucks then
+Wizard: We happen to have some sales out of Barcelona at the moment, depending on your departure date. Do you have any preference?
+User: don’t care nope, whenever
+Wizard: How does Rome sound for 11 days? We have the Secret Bay available there from  Sept 6 to Sept 16. This hotel has not been rated yet but includes wifi and breakfast at a price of 384.43USD.
+User: But before I rush into it, would there be any other trips in my budget?
+Wizard: The Hotel Peter in Hamburg ia available from August 31st to Sept 9th  at a price of 341.20USD. This one has a 3 star rating and includes free parking, wifi and breakfast.
+User: I think I’d prefer Rome. lets book it
+Wizard: I will go ahead and get that booked for you. Have a great week.

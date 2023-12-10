@@ -1,0 +1,13 @@
+User: Hi im looking to make a quick trip im from tampa and want to go to Dallas
+Wizard: Do you have any particular dates in mind?
+User: not really
+Wizard: for how long would you like to go for?
+User: not sure yet
+Wizard: I have a very reasonably priced 13 day package available at the Winter Arc hotel. You can travel either economy or business class.
+User: that sounds nice what activities are at the hotel? Let's see what the price for economy is
+Wizard: The package includes free breakfast and free wifi. How many will you be?
+User: there will be 1 child and 7 adults
+Wizard: I have availability for that many people from August 15 to August 27th. The price in economy is $3822.00 and in business it is $4219.00. Does that work for you?
+User: we would like the economy package please
+Wizard: Perfect! The flight departs at 4:00pm on August 15 and the return flight is at 11:00am on August 27th.  We will go ahead and get that booked for you.
+User: thank you very much sounds perfect!

@@ -1,0 +1,17 @@
+User: Hey I'm in santo domingo and i need to get to birmingham
+Wizard: Sorry, we don't have any availabilities for Santo Domingo to Birmingham. Are there nearby cities you can land at or depart from?
+User: no but i could go to Ulsan instead
+Wizard: We can get you to Ulsan! When would you like to go? And how long would you like to stay?
+User: it doesnt matter
+Wizard: How much are you planning on spending?
+User: it doesnt matter
+Wizard: Are you going on your own?
+User: yep
+Wizard: I would recommend you our best package to Ulsan. It is a stay at a luxurious 5 star hotel, with 8.98/10 guest rating.  It boasts free parking, free wifi, and convenient access to a park, a market, and a theater. I can offer a 9 day package or a 14 day package.
+User: wow that perfect, are there any other package?
+Wizard: The second best would be a 9 day package at a 4.0 star hotel, rated 7.06/10 by guests. This hotel also offers free parking and wifi, and is next to a market and a palace.
+User: Nope i like the 1st one, book it for me
+Wizard: We have both business and economy packages for the 9 and 14 day package, which one would you like to book?
+User: 14 days and business please
+Wizard: That would be 6344.38. Consider it done!
+User: Thanks

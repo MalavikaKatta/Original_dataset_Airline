@@ -1,0 +1,13 @@
+User: Hi there, I'm a father of 2 little ones and I'd like to take my kids to visit Portland. We'll be departing from Kobe
+Wizard: Is that 1 adult and 2 children?
+User: Thats correct
+Wizard: Do you have a budget?
+User: No budget
+Wizard: When would you like to leave?
+User: ASAP!
+Wizard: Do you have a return date?
+User: Try to get me back before Sept 11 if you can
+Wizard: There is nothing from Kobe to Portland, sorry.
+User: We can also make Kobe to Fukuoka work if you got that?
+Wizard: There are no results for this request either.
+User: Damn alright Thanks anyway

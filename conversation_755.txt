@@ -1,0 +1,6 @@
+User: Hi there. I’d like to book a trip for 10 adults from August 29 to Sept 1, from Tofino to Vancouver
+Wizard: I am sorry, I cannot offer you anything from Tofino to Vancouver within those dates. Are your dates flexible? May I check other destinations for you?
+User: Dates are not flexible, but check for flights to Nagoya
+Wizard: No flights from Tofino to Nagoya either
+User: do you have flights from tofino to anywhere?
+Wizard: Seems that Tofino is not serviced by any of our airlines

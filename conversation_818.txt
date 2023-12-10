@@ -1,0 +1,12 @@
+User: I have 4800 dollars
+Wizard: Where would you like to go?
+User: i dont care i just need to leave from milan
+Wizard: I can offer you 19 days in Porto for 3272.95USD
+User: can you give me a list of possible destinations?
+Wizard: Would you rather spend 17 days in Montreal?
+User: Are there any other places?
+Wizard: I only see one hotel in Montreal. Would you like me to look for more?
+User: are porto and montreal the only places i can go?
+Wizard: Where would you like to go?
+User: anwhere im just wondering if there are only the 2 destinations
+Wizard: I can offer you 19 days in Porto for 3272.95USD.

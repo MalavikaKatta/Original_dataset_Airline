@@ -1,0 +1,13 @@
+User: Hi I live in Seattle and I really have to get out of this seedy town for a while
+Wizard: lets see how i can help you today! do you have a budget and will you be travelling alone
+User: Yes I will be travelling alone! Anywhere you have available sometime between August 17 and August 29 for no more than 2200.00.
+Wizard: Are these dates flexible by any chance?
+User: I only start work on Monday Sept 5th so I would have to be back by Sunday at the very latest!
+Wizard: Any destination in mind
+User: Anywhere within my budget that gets me out of here! Do you have anything in Canada? I like Canada, they are real nice up there.
+Wizard: i have som eavailabilities for you, such as Punta Cana, San Juan, Columbus, Baltimore, and Calgary
+User: What sort of packages do you have in Calgary? I want something classy if possible.
+Wizard: I have the Amusement available for 9 days, it is a 4 star hotel, it leaves on the 17th and returns on the 25th and is a total of $683, would you like me to upgrade that to business class?
+User: That sounds SO perfect! The dates are great and so is the price! How much would it be for business class?
+Wizard: business class would come out to $917
+User: That's $300 less than I budgeted, sound like a great getaway, do I need to book that now?

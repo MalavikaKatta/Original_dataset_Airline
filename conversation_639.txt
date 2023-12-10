@@ -1,0 +1,13 @@
+User: I've got a group of 5 and we're looking to go to Fortaleza leaving this weekend, Sep 3 maybe
+Wizard: Is this 5 adults or are there children as well?
+User: all adults
+Wizard: Where are you leaving from?
+User: Oops sorry totally forgot to tell you! Santos
+Wizard: There are no trips to Fortaleza from Santos but I have found trips to St. Louis, Rosario, Paris, Sacramento, and Recife. What is your budget?
+User: What about Toronto? My budget is 18400
+Wizard: Sure, our best package is at a 4 star hotel with a 8.8/10 guest rating. This hotel is close to the airport and a cathedral, they also offer free breakfast and wifi. This trip leaves September 8th and returns September 20th and the business class flights costs 15535.14.
+User: Can you also let me know some other options for Toronto so I can compare?
+Wizard: There is a 3 star hotel with a 9.16/10 guest rating that offers free breakfast and wifi. This hotel is near a cathedral. This package is from September 13th to 21st and for business seats included the total cost of this package is 12725.14.
+User: I'll go with the first one!
+Wizard: Great! I will book this package for you and you will receive a confirmation email within 20 minutes! Thank you and come again!
+User: Thanks so much! Bye!

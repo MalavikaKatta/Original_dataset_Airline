@@ -1,0 +1,11 @@
+User: hey
+Wizard: Hi there! Looking for a nice getaway?
+User: i am currently in philadelphia trying to get a photograph celebrities but i need to hit up mexico city next week
+Wizard: Would you be available to fly out on the 24th of August? I could offer you a four-day package for only 655.32USD.
+User: ahhhh how many hotels are available?
+Wizard: If location is important to you, the Sublime Echo has the best location of all three resorts, being located in close quarters to the beach, the mall and a local shopping center.
+User: are there any other hotels available tho
+Wizard: That's right, this package is 655.32USD.
+User: wow cool
+ok thats gonna be the one lets book it it should pay for itself
+Wizard: Wonderful! You're booked! Have fun!

@@ -1,0 +1,25 @@
+User: Heyooooo
+Wizard: Hey
+User: We are a group of friendly bros, 7 adults in all, and we want to go from Paris to Athens. Leaving Aug 29 returning Sept 9
+Wizard:  Are you on a budget?
+User: Right on! Our budget is 24300
+Wizard: I can do this for you! I have one hotel available - Lunar Jewel Lodge. You would go from August 30-September 8.
+User: Is there no way you could Book us from the 29th of Aug until the 9th of Sept? If not, can you check Brasilia for the same dates, and also leaving from Paris?
+Wizard: not for Athens. I will check on Brasilia for you right now!
+User: Thanks bro
+Wizard: I can book August 29-September 8 in Brasilia! Would that be ok?
+User: What would it cost, and what kind of hotel can you get us?
+Wizard: I have a 3.5 star hotel - Parallel Angel near the beach, a park, and a theatre for $19719.
+User: Can you tell me if this hotel has a hot tub? The boys are hyped for a team hot tub sesh
+Wizard: It has free breakfast, free wifi, and free parking, but I do not know about anything else.
+User: Damn alright. Can you check if the hotel in Athens has a hot tub?. And also tell us what that package would cost
+Wizard: that information is not in my database. I am sorry :disappointed:
+User: How much does it cost then
+Wizard: In Athens, the cost would be 17462.92USD.
+User: What is the user review of the hotel in Athens? What is the user review of the hotel in Brasilia?
+Wizard: There are no user reviews for the Athens hotel or for the Brasilia hotel.
+User: Is there an option to fly business class to Brasilia
+Wizard: Yes, that would bring your total cost to 18463.96USD
+User: Done.Book it.
+Wizard: Ok :slightly_smiling_face: I will go ahead and book that for you!
+User: Thank you!

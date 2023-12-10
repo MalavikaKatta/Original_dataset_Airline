@@ -1,0 +1,4 @@
+User: I want to leave Jerusalem on or after September 6th
+Wizard: I'm afraid we do not have any flights operating out of Jerusalem. Would you like to leave from somewhere else?
+User: I can leave from Tel aviv and I want to go to San Jose with 7 adults for 2500
+Wizard: I'm afraid we do not operate flights out of Tel Aviv either. Would you like to leave from somewhere else?

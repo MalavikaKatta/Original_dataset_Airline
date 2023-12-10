@@ -1,0 +1,8 @@
+User: Hi there! Got anything from Kabul to Tel Aviv?
+Wizard: Do you have a budget?
+User: Show me the cheapest you've got
+Wizard: Oops, there are no results for this request.
+User: Nothing from Kabul to Tel Aviv??
+Wizard: No sorry!
+User: That sucks. I'll look somewhere else
+Wizard: Sorry I couldn't be more help! Have a nice day!

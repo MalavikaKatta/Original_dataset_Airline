@@ -1,0 +1,17 @@
+User: I have a CRUCIAL meeting with my investors in Santa Cruz, you MUST get me there
+Wizard: Okay! Where will you leave from?
+User: Santiago
+Wizard: Do you have a budget?
+User: Not for Santa Cruz
+Wizard: Ok. Are you traveling alone?
+User: To Santa Cruz, yes
+Wizard: When would you like to leave?
+User: Anytime, I'll schedule the meeting once I get my flights confirmed
+Wizard: We have no flights from Santiago to Santa Cruz
+User: Okay I thought that may be the case so I have a back-up plan. Fly me to Washington from Santiago with my 5 colleagues then. No more than 2600 though.
+Wizard: There are still no results.
+User: Can you try Tofino then? For 12 of us?
+Wizard: Budget?
+User: 2000
+Wizard: Nothing.
+User: Ridiculous

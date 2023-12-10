@@ -1,0 +1,4 @@
+User: i want you to recommend me a package in rome that leaves from las vegas. i have a travel window between 20 and 26 september
+Wizard: Not a problem! I have an excellent package for you from the 20th to the 26th of September at a 4 star hotel that includes free breakfast and free wifi. Would you be interested?
+User: can you tell me the price and nearby attractions?
+Wizard: It costs 2371.55 for economy and 3024.29 for business class. There is some great shopping in the area and a cathedral nearby. Are you still interested?

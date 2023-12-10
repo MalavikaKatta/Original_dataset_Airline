@@ -1,0 +1,16 @@
+User: Good morning! I need to book a trip for 7 of my colleagues. There are a couple possible destinations. The first one is to Cancun. The departure could be from Nagoya
+And the trip would ideally be between August 24th and September 11th
+Wizard: I will be happy to help you with that. I have 10 day and 14 day packages available. Which ine would you otrefer
+User: A 10 day package sounds good
+Wizard: I have the White Peak Hotel  available for 10 days, which is a 3 star hotel that has availability from August 24th to Sept 1st. I also have the La Plaza Del Mundo which has availability from Sept 1st to Sept 9th and a rating of 3.5.  
+User: Do these hotels offer free wifi?
+Wizard: Both of there hotels include free wifi. The White Peak Hotel also includes free parking and free breakfast as does the La Plaza Hotel.
+User: How much are these packages? And could you also give me the user ratings for both these hotels?
+Wizard: Would you like to fly by economy or business class? I am better able to provide you with an accurate price once I know your preference.
+User: Business class
+Wizard: The White Peak Hotel has a user rating of 8.22/10 and works out to $26573USD via business class. The La Plaza Hotel has a user rating of 7.15/10 and works out to $36625USD. Is this within your budget?
+User: The White Peak is within our budget. Which city is the flight from?
+Wizard: As requested, it departs from Nagoya.
+User: Great, i'll book that package then!
+Wizard: Excellent, I am glad we could of assistance. I will take care of that. Have a nice day.
+User: Thank you for your help

@@ -1,0 +1,33 @@
+User: hi my friend i am going to take a vacation. but i want to go many places
+i am unsure where i shall go
+i will leave from vancouver
+can you tell me about Athens? what is available there?
+Wizard: Are you just 1 adult?
+User: that is right!
+Wizard: When would you like to take your vacation?
+User: I can go from the 12th until the end of September
+Wizard: I have some places for you in Athens. Do you have a maximum amount of money to spend?
+User: Nope! No max!
+Wizard: I have 15 days at the Lunar Jewel Lodge a 3 star hotel with a price tag of 4892.34USD via business class travel.
+User: What is the hotel like? what is included?
+Wizard: This is a simple hotel that includes free wifi and free parking
+User: What do guests think of it?
+Wizard: It seems to have no reviews as of yet as the guest rating is 0/10
+User: ah - not a risk I’m looking to take as of yet. What’ve you got available in Dublin?
+Wizard: In Dublin, I have 2 options, one is a 2 star and the other a 2.5 star hotel. Does this interest you?
+User: No, not particularly. Let’s look at Kochi
+Wizard: Hotel Grandiose Rose - 10 days, a 3.5 star hotel located in the heart of the city and near a park. It has a guest rating of  7.15 / 10
+User: When would I leave?
+Wizard: Sept 11th returning Sept 19
+User: Any amenities?
+Wizard: Standard free wifi
+User: Ah, ok. One last spot to check out : San Juan
+Wizard: I have an excellent choice in San Juan, the 4 star Fairyland - 11 days close to the museum and market and plenty of shopping in the surrounding areas.  Includes free wifi and has a guest rating of 8.98 / 10.
+User: oh that’s great. definitely best rated hotel yet
+no free breakfast tho?
+Wizard: No, just wifi
+User: that is ok. what is the cost of that package?
+Wizard: 1262.56USD if you take it on economy
+User: let’s go for business
+Wizard: 1561.79USD on business. Departure is on Sept 14 and return is on Sept 24. Would you like me to go ahead and process the request?
+User: spectacular book please

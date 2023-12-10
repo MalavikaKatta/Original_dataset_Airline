@@ -1,0 +1,15 @@
+User: Well to be honest I have no vacation days left and not savings to actually book something, but it doesn't hope to dream right? I figured I'd better do some research in case I win the lottery tomorrow haha
+Wizard: We can help you plan your dream vacation. Where would you like to go?
+User: How about Milan? What's the most luxurious package you have for there?
+Wizard: I can check that for you. What city are you able to leave from?
+User: Columbus
+Wizard: I regret that we have no flights from Columbus to Milan. Do you have other places that interest you?
+User: Really? You have no flights at all? The dates don't matter for me
+Wizard: Not from Columbus. Are you interested in going to Seattle or San Francisco?
+User: Oh well, even planning an imaginary vacation isn't going well for me.. Guess its not my day haha. Those cities don't interest me too much. the next city on my list is Sacramento. Do you have trips going there?
+Wizard: I do have packages from Columbus to Sacramento. What is it that you are looking for in a hotel?
+User: The longest, fanciest stay EVER. oh and free breakfast! that's always fun
+Wizard: The Bronze Luxury Hotel in Sacramento is a five star rated hotel, our highest. It is located near the museum and features a 10/10 guest rating, the highest possible. You would fly business class and your five day stay would include wifi and breakfast. The total cost on this package is $2019.63USD
+User: That would be sooooo nice. Keep it coming, what about a dream vacation to Frankfurt?
+Wizard: The most expensive package available in Frankfurt is a 15 day stay at the Mellow Palms Resort, a 4.5 class hotel with a guest rating of 8.86/10. Again you would fly business class and your wifi and breakfast would be included in the total price of 4613.37USD.. Should I book it?
+User: Anyway, i'd better go and finish my work for the day.Thank you for the mini escape :stuck_out_tongue:

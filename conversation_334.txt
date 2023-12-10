@@ -1,0 +1,5 @@
+User: One ticket from Atlanta to Tofino please
+Wizard: Sorry, I have nothing available for that destination. Is there somewhere else I could look into for you?
+User: please try Atlanta to Santo Domingo please
+Wizard: I can book you from Punta Cana to Santo Domingo?
+User: no can do

@@ -1,0 +1,18 @@
+User: Get me on a business class flight to Washington please. Coming in hot from SL
+Wizard: Do you have a budget?
+User: Unlimited, duh!
+Wizard: Are you travelling alone?
+User: Yes ma'am
+Wizard: When would you like to leave?
+User: ASAP but I'm not picky!
+Wizard: There isn't anything to Washington but there are trips to Santo Domingo, Curitiba, Vancouver, Athens, and Buenos Aires.
+User: Ok what if I leave from a different city than SL It could be any city
+Wizard: There aren't any flights to Washington.
+User: Fine. What about...if I went to Milan instead
+Wizard: If you go to Milan, you would need to leave from Montreal, Tampa, Porto Alegre,  Goiania, or Atlanta.
+User: I can get to Montreal, but can I get business class seats?
+Wizard: Yes! There is a business class option! Would you like more details?
+User: Yes please! I'm meeting my bestie and I'd like to have a five star hotel in Milan
+Wizard: I can only offer you a 4 star hotel from Montreal to Milan. This hotel is near a museum, cathedral and is in the heart of the city, it also has a 8.37/10 guest rating and offers free breakfast and wifi. This package is from August 26th to September 13th, with business class seats this package costs 3066.91.
+User: Ok lets do it...4 star isn't great but that way the paparazzi won't suspect I'm there either!
+Wizard: Great! You're flights are booked for this package! Have a great trip!

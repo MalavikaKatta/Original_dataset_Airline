@@ -1,0 +1,14 @@
+User: Hi there! I'm about to jet out to my first ever internship
+I need to make sure I get this booking exactly right
+Can you get me to Rome?
+Wizard: I can! Where are you leaving from?
+User: That would be Santiago
+Wizard: What is your budget?
+User: Nothing more than 1700 please
+Wizard: When do you need to be there?
+User: As long as possible, between September 8 and September 25 (of this year)
+Wizard: There are no flights to Rome after the 8th.
+User: That's strange. What about flights to Fortaleza then?
+Wizard: There are no results for this either within your budget.
+User: This is alarming! How about lets try Sao Paulo
+Wizard: There are no results for your date range.

@@ -1,0 +1,3 @@
+User: Hi there! Hi there, I'm looking to book a trip from Tel Aviv, but I'm still undecided about destinations.
+I have a couple of places in mind though.
+Wizard: I'm very sorry to inform you that we do not offer flights out of Tel Aviv. Can you leave from any other cities?

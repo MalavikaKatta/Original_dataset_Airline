@@ -1,0 +1,15 @@
+User: I am leaving from Marseille and want to bring my friends with me to Hamburg for my birthday bash
+Wizard: I can help you with that! How many of you are there?
+User: 8 altogether
+Wizard: Great! I have a 13 day stay at a 4.5 star hotel, or 8 days at a 3 star or a 4 star.
+User: I think 13 days at a 4.5 star sounds the best. Tell me about it!
+Wizard: Well, its a hotel near the airport with free parking and free wifi. Guests have given it a 9.16/10 rating.
+User: Thats good but I think i'd like to look at Mexico City
+Wizard: I have two different hotels in Mexico City - both are 3 stars.
+User: I'm gonna need 5 star options. Anything in Essen
+Wizard: I have only 2 or 3 star hotels in Essen.
+User: Ugh that's frustrating. Well I think we will have to book the 4.5 star hotel in Hamburg then. It's close to 5 stars. Yeah just book that one then. Business class
+Wizard: Ok, I will do that. Business class flights?
+User: yeah
+Wizard: 6540.39USD
+User: kk thanks

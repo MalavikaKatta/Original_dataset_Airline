@@ -1,0 +1,16 @@
+User: THANK YOU I REALLY NEED A VACATION. I live in Ulsan
+Wizard: I will do my best to help you find a vacation. Is there somewhere special you were hoping to go on vacation?
+User: I haven't decided yet but one place was Lima
+Wizard: Which would be your most suitable travel dates? Will you be travelling alone?
+User: I managed to be off work from August 27th to September 7th and I'm hoping to be away for the whole time. Yes, I'll be alone
+Wizard: I have  a package to Lima departing on August 27th that lasts 8 days. It is at a 4 star resort called Olive Summit Hotel. Is thos something that would interest you?
+User: Can you tell me more about the hotel? Location? Price? What's included?
+Wizard: It is near the Lima park and includes wifi. It has an excellent guest rating of 8.98/10. The price for an 8 day stay is 3698.79USD.  The economy class flight is included in the package price.
+User: That sounds fantastic! The other place I was thinking of escaping to was Essen. Can you offer me anything for that destination?
+Wizard: I have a flight from Ulsan to Essen departing on August 27, 2016 where you would stay at the Motel Ivory Safari for 7 days. This is a 2 star hotel with a guest rating of 4.93/10 and includes wifi and parking. The cost on this package, based on an economy class flight is 2813.16USD.
+User: How many stars did the Lima hotel have?
+Wizard: The Olive Summit Hotel in Lima has 4 star rating. The Motel Ivory Safari has a 2 star rating. |Neither included breakfast.
+User: Great thanks, I think i'll go with the Lima trip, I have no idea when i'll ever get another vacation so I want to go all out. Can you just confirm the return date for me?
+Wizard: 10:00 am - Saturday, August 27th 2016 returning on Sept 2nd at 1:00am
+User: Perfect! I'll book it
+Wizard: Great I will take down all your information. I hope I have been of service to you. I wish you a pleasant afternoon.

@@ -1,0 +1,7 @@
+User: Hi! I'm looking to book a trip from Termina to Atlantis with my family. This includes 1 adult and 3 kids. My budget is at most $3300.
+Wizard: Hello! What dates would you like to travel between?
+User: Any dates that are available.
+Wizard: I'm sorry, there are no available packages to Atlantis. Is there anywhere else you would like to go?
+User: No I really need to go to Atlantis. I might be willing to pay more if there is an available trip.
+Wizard: I'm sorry, there are no available flights to Atlantis from Termina. Atlantis and Termina do not appear to be in my database.
+User: Oh okay. I will look elsewhere.

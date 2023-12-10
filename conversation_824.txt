@@ -1,0 +1,14 @@
+User: I have $3300 and I’d like to take my 6 darling little grandchildren on a cute little getaway to Salvador from Minneapolis.
+Wizard: Sorry, I cannot find a trip from Minneapolis to Salvador for this many people.
+User: Well are there any trips to Tampa?
+Wizard: Not from Minneapolis, no.
+User: Any trips to las vegas?
+Wizard: From Minneapolis, USA, yes! You can all fly business class and stay at Retro Inn for 7 days at a cost of 1972.72USD.
+User: What rating is the hotel? And my grandchildren want to know if they have whyfly? I dont know what whyfly is but they said they have to have it for their weird looking devices.
+Wizard: The hotel is 2.5 stars with 6.91 user review. It is near a park, the airport, and a mall. It features free breakfast, free parking, and has free wifi.
+User: Ok, well i think that sounds about right! Thank you, we would like to book this one, the grandkids are already so flabbergasted, the little buggers can’t wait! How much does this cost?
+Wizard: 1972.72USD for business class flights and a 7 day trip.
+User: Lovely! When does this trip leave and come back?
+Wizard: September 1 until September 7th is the duration of the trip.
+User: Oh no! That just wont do. The little ones dont get back from summer camp unitl the 6th and school starts on the 21st. Is there a trip between those dates?
+Wizard: Not within your budget, sadly.

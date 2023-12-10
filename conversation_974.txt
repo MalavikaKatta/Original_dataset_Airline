@@ -1,0 +1,13 @@
+User: My next destination is Mexico City! But can I get there from Tijuana is the million dollar question
+Wizard: Sure can! When would like to be there and how much are you thinking of spending?
+User: Sometime after today would be great. I have 2300 to spend
+Wizard: Sounds good. The best hotel I have in Mexico City is a 3.5 star hotel near the museum, beach, shopping, and mall. It has 6.37/10 guest rating and offers free wifi and parking.
+User: I'll take it
+Wizard: Okay, I can get you there on Sep 8 but only with a 5 day stay. Or you can leave on Sep 10 but stay for 8 days.
+User: could you get me there earlier if at a lower rated hotel though?
+Wizard: Actually yes. I can get you there on the 7th if you stay at a 3 star hotel. Are you more interested in this option?
+User: whats the cost for that option? and the length of stay
+Wizard: Economy seats would only cost you 701.81. And you will be staying 5 days from Sept 7-11.
+User: lets do it. time is of the essence here
+Wizard: Alright! I have booked this trip for you! Confirmation has been sent to you via email.
+User: thank you :pray:

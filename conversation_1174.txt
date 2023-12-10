@@ -1,0 +1,27 @@
+User: I need to book a trip for my assistant and I.  I am only free to go between Sept 6 and Sept 18.
+Wizard: Sure, where would you like to go and where are you coming from?
+User: I can leave from anywhere depending on the cost. First I want to check what you have in Milan.
+Wizard: How much are you thinking of spending?
+User: 4100
+Wizard: I have a 4.0 star hotel in the heart of Milan next to a museum and a cathedral. With you budget you can stay up to 10 days.
+User: So if my assistant and I fly there via economy class, how much is it?
+Wizard: 1721.38 if you fly from Frankfurt, 1745.44 if you fly from Queenstown, 1986.13 if you fly from Mannheim, and 2122.52 if you fly from Valencia.
+User: Now let's look at Manaus. Do you have anything from anywhere to Manaus?
+Wizard: In Manaus I have a 3.0 star hotel next to the park, museum, and palace. We also have some 10 day packages that can work for you here.
+User: How much for the cheapest 10 day package at this hotel?
+Wizard: The cheapest is 3244.23 and the flight departs from Santa Cruz.
+User: Okay, let's have a look at Phoenix. What do you have there, preferably near a park?
+Wizard: I only have one hotel in Phoenix, but it's not near a park. It is close to a museum and university though.
+User: Okay - one more question. For the hotel in Manaus, the one located near the park,  do you have any 4 day packages?
+Wizard: Not at that specific hotel. We only have 4 day packages at another accommodation. It is a 2.5 star hotel close to the park and shopping.
+User: How much is that one?
+Wizard: 2835.80 with parking, breakfast, and wifi included.
+User: OUF for 4 days I'm better off with the 10 day package at the 3 star. What was the guest rating at that one?
+Wizard: That hotel has a guest rating of 8.49/10.
+User: And it's near the park, correct? Is our breakfast included in that package? Can you give me the name of the hotel please?
+Wizard: Yes! The Tranquil Sanctuary Hotel is near the park. Breakfast, wifi, and parking are included in the price.
+User: If the dates are right, I shall book!
+Wizard: It is from September 8-17.
+User: Perfect. Let's go with Manaus then. The other dogs will have to wait.
+Wizard: Alright! I will book you the trip to Manaus from Santa Cruz.
+User: Thank you, friend.

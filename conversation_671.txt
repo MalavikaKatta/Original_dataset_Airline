@@ -1,0 +1,19 @@
+User: Hi, I want to take my kid to Maceio. Will you be able to help me with this trip?
+Wizard: Yes. Where will you be leaving from?
+User: Sorry forgot to tell you! We're in Paris.
+Wizard: How many people altogether?
+User: So myself and my child
+Wizard: What is your budget?
+User: Nothing specific in mind. Can you show me a few options to help me decide?
+Wizard: Sure, when would you like to leave?
+User: We don't have a preference. We just want to go for a few days... maybe a week
+Wizard: There are no results. Can you leave from a different location?
+User: We could also leave from Sao Paulo
+Wizard: There are no results for this either.
+User: Sorry my bad. I meant we can also go to Sao Paulo instead of Maceio.
+Wizard: We have a 3 star hotel in the heart of the city, near a cathedral, and theatre. There is a 6.91/10 guest rating and they offer free breakfast and wifi. This is a business class flight from September 12th to 18th and the price for this package is 5881.15.
+User: We could actually do with economy flights
+Wizard: Yes, the economy package is 4576.56.
+User: That works! Can you book it for me?
+Wizard: Sure! It is booked and you will receive a confirmation email soon! Have a great day!
+User: Awesome thanks!

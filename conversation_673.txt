@@ -1,0 +1,10 @@
+User: Soooo I’m wondering can I bring my wife and 3 kids to Kingston for 2800 dollars?
+Wizard: It will all depend on where you are leaving from. To confirm, that will be 2 adults and 3 kids?
+User: Correct yes, and we will leave from Recife.
+Wizard: From Recife to Kingston there is nothing available. Could I search other packages for you?
+User: Ahhh ok, maybe try Phoenix. If perhaps the problem is my budget, lets just up it by another thousand dollars.
+Wizard: Did you have some dates in mind?
+User: Yes, we have a wide stretch of possible vacation days from September 13th until October 3rd
+Wizard: Travel packages are not available to Phoenix from Kingston for 2 adults and 3 children during those dates and for that budget. I regret I cannot make possible suggestions, but i can check other destinations for you.
+User: Well what about in Goiania.?
+Wizard: Nothing, I apologize.

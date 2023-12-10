@@ -1,0 +1,14 @@
+User: Hey there, I'd love a trip from Recife to Barcelona please, can you help  me?
+Wizard: Sure! When would you like to go?
+User: I'm flexible with that, I just know I have 4500 to spend on this trip!
+Wizard: Are you planning on traveling alone?
+User: Yeah, just me.
+Wizard: Okay, I have for you a 3 star hotel in the heart of Barcelona with a whooping 9.16/10 guest rating. We have several packages that works for your budget and the longest is 16 days.
+User: Sure I'll take the longest then. Could you give me more info? What else is included?
+Wizard: Included in the price is parking and unlimited wifi. You will also have easy access to nearby attractions such as an university and a park.
+User: Ok how much is it then?
+Wizard: 3188.16, or 4086.16 if you want to upgrade to business class.
+User: You know what? I'll take first class.
+Wizard: Sounds good! I have processed the booking for you and you are all set to go :slightly_smiling_face:
+User: Excellent, thank you very much.
+Wizard: My pleasure!

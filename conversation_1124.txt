@@ -1,0 +1,17 @@
+User: I wanna go to Sao Paulo from Osaka for 6800
+Wizard: Just you?
+User: oui
+Wizard: I can put you for 7 days in a 3 star hotel in the heart of Sao Paulo. How does that sound?
+User: maybe. Do you have anything better?
+Wizard: That is the best currently in Sao Paulo.
+User: Anything in Queenstown?
+Wizard: Absolutely! In Queenstown our best is a 5 star hotel with 8.86/10 ratings. I can put you there for 6 days.
+User: The hotel is definitely better. If i increase my budget by $400 can I get a better hotel in Sao Paulo?
+Wizard: Unfortunately no.
+User: Okay well then I’ll take the Queenstown trip. Can you tell me more about the hotel tho?
+Wizard: Yup! The hotel is close to the museum and airport. It also offers breakfast and wifi free of charge. Your stay will be from September 22 to 26.
+User: Well sounds like a pretty legit voyage. Can you book it for me pls?
+Wizard: Yup! It will be 3019.27 or 3886.19 for business class if you're interested?
+User: Yeah business class for sure! I’ll still have lots left over if I wanna buy some souvenirs so this trip is perfect!
+Wizard: Sounds good! You are booked for this trip. Anything else I can do for you?
+User: Thank you kindly!

@@ -1,0 +1,11 @@
+User: hello. please find me a vacation from Fort Lauderdale to Rome!!!
+Wizard: Do you have a budget?
+User: noooo
+Wizard: Yes, it's great! Are you travelling with anyone?
+User: I LOVE travelling alone without having to worry about any budgets!!
+Wizard: When would you like to leave?
+User: oh ok like, tommorow?!
+Wizard: Unfortunately there are no results in my database for flights from Fort Lauderdale to Rome.
+User: Okay, send me to Birmingham
+Wizard: I'm sorry but I can't get you there out of Fort Lauderdale.
+User: omg. Alright, I can leave from anywhere!

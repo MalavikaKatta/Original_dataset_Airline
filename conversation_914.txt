@@ -1,0 +1,13 @@
+User: I have a massively important meeting in St. Petersburg. I am in Rome at the moment.
+Wizard: Ok! When do you need to travel?
+User: asap
+Wizard: Is there anywhere else you can travel?
+User: I can got to Punta Cana instead to meet them.
+Wizard: I can get you on a flight to Punta Cana tomorrow for 3658.75USD.
+User: From Rome?
+Wizard: Yes.
+User: Let's do it. Thanks for getting me there! Make sure to send me the hotel name.
+Wizard: I can downgrade your flights to economy if you’d like to save some more money!
+User: I'll be able to prepare for my meeting on business, worth the extra $. Thanks anyway.
+Wizard: No problem! Enjoy your stay at La Estrella del Mar :slightly_smiling_face:
+User: Gracias!

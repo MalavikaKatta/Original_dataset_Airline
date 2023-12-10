@@ -1,0 +1,14 @@
+User: yo whats good in essen here, want to get out for a bit can you check if there are flights to cancun between august 24 and sept 4
+Wizard: Do you have a budget?
+User: nah i'll just compare prices after
+Wizard: There are 2 packages, one is economy class and the other is business class. The hotel is 4 stars and the trip is from August 24th to September 4th. The economy price is 2683.26 and the business price is 3453.13. The hotel also offers free breakfast, wifi, and parking, and is near a university and cathedral.
+User: nice, i'm happy that you're giving me all the details upfront
+can you do the same thing for a bunch of other cities starting with pittsburgh
+Wizard: There is a 4.5 star hotel from August 24th to September 4th. Economy class price is 2333.11, business class price is 2994.30. The hotel is near the beach and offers free breakfast, wifi, and parking.
+User: cool can you tell me more about Barcelona. same situation
+Wizard: There is a 3 star hotel with free wifi, and parking. It is near a park, university, and in the heart of the city. The trip is from August 31st to September 13th. The economy class is 623.12, business is 724.70.
+User: Hmm alright thats a very economical option. ok last potential destination. Philadelphia.  do you have any packages for that?
+Wizard: We have a 7 day package at a 2 star hotel from the 30th of August to the 4th of September. The hotel is near a park and museum and offers free breakfast, wifi, and parking. The economy flight is 2594.88 and the business flight is 3345.92.
+User: hm ok after careful consideration book me to pittsburgh please
+Wizard: Alright! You will receive a confirmation email within the hour! Have a great day and safe travels!
+User: thanks!

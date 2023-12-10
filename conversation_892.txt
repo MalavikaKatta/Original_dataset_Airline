@@ -1,0 +1,16 @@
+User: I'm in Ciudad Juarez and I have to transport a little "package" with me across the border. It has to be done between September 8 and the 28th. We are going to make this a family trip, like in that movie We are the Millers. LOL.
+Wizard: Where are you travelling?
+User: Anywhere which gets us across the border. LOL.
+Wizard: I don’t understand. How many of you are travelling?
+User: We are 3 adults and 3 kids.
+Wizard: I can get the six of you to Rosario, Argentina for $18194.
+User: I need to find something for under $14800
+Wizard: I have a 2 star hotel in Rosario for 13646.60USD. The stay would last 18 days,
+User: From when to when?
+Wizard: September 10-27.
+User: Those dates seem to work and the price is more suitable. I'll take that one.
+Wizard: Sure! Do you want any more details before I proceed with the booking?
+User: No, just need to get across the border.
+Wizard: Ok, I’ll just book it for you now then.
+User: Thank you
+Wizard: My pleasure :slightly_smiling_face:

@@ -1,0 +1,19 @@
+User: I need to impress some clients. I'd like to take them on a business trip to Hiroshima from Ulsan after September 20th.
+Wizard: How many people total?
+User: 8 of us
+Wizard: Do you have a budget for this trip?
+User: Nope! The sky is the limit!
+Wizard: I have the Hotel Oishi, available for 7 days on Oct 3rd.  It is rated 4.5 stars and is located near the museum. We can fly everyone on business class.
+User: That's not too bad. I'd really like to pull out the big guns tho, this is a big deal, do you have any 5 star options available?
+Wizard: 4.5 is the highest that I have available in Hiroshima. It also has an excellent 8.86/10 guest rating.
+User: Do you have any 5 star hotels in Curitiba?
+Wizard: 3.5 stars is our highest in Curitiba
+User: ew. What about San Francisco?
+Wizard: I only have 2 stars available in San Francisco.
+User: okay that pretty much settles it then. Can you tell me more about the first package you offered?
+Wizard: It is a 4.5 star rated hotel with a 8.86/10 guest rating. It is located near the museum and is available from Oct 3rd to Oct 9th  for the excellent price of  7335.92USD if you all fly by business class.
+User: Is there anything for this package that leaves earlier?
+Wizard: I have another one that leaves earlier but it would be at a 3 star hotel
+User: ehhhh, nah i'll stick with the other one then. Can you book us for the 4.5 star business flights?
+Wizard: Absolutely. I have taken care of it and you will receive your confirmation shortly.
+User: Thanks!

@@ -1,0 +1,20 @@
+User: Hi there, I'm looking to book a trip for a week starting this Wednesday. We are two adults and seven kids
+Wizard: Where would you like to go?
+User: I'm not sure. I have a budget of $7000
+Wizard: I can. Where will you be leaving from
+User: Leaving from Fort Lauderdale
+Wizard: Punta Cana, Atlante, Burlington, New York, Minneapolis, and Guadalajara are the available destinations.
+User: Do all of them fall under my budget if I book for a week?
+Wizard: Yes.
+User: Can you book me a week in Burlington please?
+Wizard: Would you like economy class seats or business class seats?
+User: What's the price difference?
+Wizard: Economy seats are 4010.72 and business class are 4770.66.
+User: Can you confirm the dates for me please?
+Wizard: From September 7th to 12th.
+User: I need to leave on the 24th of August. Are there flights to Burlington leaving on that date?
+Wizard: No, sorry. Punta Cana is the only destination that leaves on the 24th of August.
+User: How much does the flight out of Punta Cana cost And can I return on August 31st
+Wizard: This flight is from August 24th to August 30th. The economy flight is 2197.29 and the business class flight is 2464.52.
+User: Okay book us the business class flight
+Wizard: I have booked your flight, have a great trip and thank you for using our services!

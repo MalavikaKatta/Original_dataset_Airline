@@ -1,0 +1,12 @@
+User: Good day sire. I would like to book a recreational stay between August 17 and September 3. What has thou to offer?
+Wizard: Where would you be leaving from?
+User: Frometh my small town Baltimore.
+Wizard: Will anyone be accompanying you?
+User: My lover, Juliette, rides out with me
+Wizard: Great! Do you have a budget?
+User: Not a penny more than 3500
+Wizard: There are flights to San Juan, Alexandria, Cleveland, and St. Louis.
+User: What has thou to offer in St. Louis?
+Wizard: There is a trip from the 18th of August to the 29th of August at a 5 star hotel that offers free breakfast and wifi at a price of 1364.56. There is also a trip for the same dates at a 3 star hotel that offers free breakfast and wifi that costs 1234.45.
+User: I shall take the 5 star package!
+Wizard: Great! Your flight is booked! Thank you for using us!

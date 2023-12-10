@@ -1,0 +1,15 @@
+User: 3 adults 2 kids, leaving from burlington, destination tbd
+Wizard: Do you have a budget?
+User: 1800
+Wizard: I have a 4 star hotel to Calgary at 1318.84USD, or 1758.8USD business class
+User: what other destinations do you have? we've already been to Calgary so we would prefer somewhere new
+Wizard: unfortunately this is all we have
+User: What if I upped the budget to 2000?
+Wizard: I have trips to Las Vegas and Denver
+User: Denver sounds nice! Could you tell me more about the package?
+Wizard: 3 star hotel near museum and university at 1837.24USD in economy class
+User: Ok can you buck us between Sept 13 and 17?
+Wizard: Sorry we dont have anything for these dates
+User: What about 13 to 26?
+Wizard: Only Calgary is available for these dates
+User: thats a shame i'll need to confer and get back to you then

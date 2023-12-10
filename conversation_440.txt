@@ -1,0 +1,5 @@
+User: I need a trip to Marseille on these exact dates: September 9 to September 13
+Flying from Manaus
+Wizard: Are the dates flexible?
+User: They are not.
+Wizard: Sorry, I only have flights from September 16 - 21, from September 17 - 22,

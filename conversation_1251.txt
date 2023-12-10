@@ -1,0 +1,11 @@
+User: I need to find MEWTWO!!!!! I need to get to Paris from Kingston on or after the 6th. I have a friend tagging along to help me and we have 6000
+Wizard: Ok! I can get you there on the 7th, you can stay at a 4 star hotel near a museum, shopping, and cathedral. The hotel gives free wifi and free breakfast. The guest rating is 8.69/10, and its under half your budget: $2706.43.
+User: Not bad, a Cathedral might be a good Pokéstop. Do you have anything to Phoenix?
+Wizard: I have two hotels in Phoenix - one 2.5 star near a museum and the airport, the other a 3 star near a museum and a university. The guest ratings at 7.06 and 6.91, respectively. Both also include complimentary breakfast, free wireless internet, and free parking.
+User: I think I'll have better luck if I take the trip to Paris.
+Wizard: Ok! Is the 14 day stay at Queen's Jungle Hotel okay with you? I also have shorter packages available.
+User: Yeah 14 days is fine
+Wizard: Ok! I can upgrade you to business class and stay within your budget if you’d like. The total cost would be $3415.
+User: Sure!
+Wizard: Great :slightly_smiling_face: Enjoy your trip
+User: Thanks!

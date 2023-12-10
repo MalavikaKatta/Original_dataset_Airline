@@ -1,0 +1,13 @@
+User: Hi there, I'm in Fukuoka now and I need to get to Pittsburgh asap.
+Wizard: Yes. Do you have a budget?
+User: Maximum 4000, but the lower the better.
+Wizard: When would you like to leave?
+User: On or after September 13.
+Wizard: Great, and are you travelling alone?
+User: Yup!
+Wizard: We have one hotel. It is a 2.5 star hotel near a park and museum, it has a 8.49/10 guest rating, and they offer free breakfast, wifi, and parking. The flight departs on September 13th and returns on the 21st. The price for the business class package is 3158.28 and the price for the economy class package is 2439.34.
+User: That's the only hotel you've got in Pittsburgh?
+Wizard: Yes.
+User: Alright it looks good to me! I'll take the economy package.
+Wizard: Great! I will book this for you and you will receive a confirmation email soon! Have a nice day!
+User: Great! Thanks!

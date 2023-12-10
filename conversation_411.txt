@@ -1,0 +1,15 @@
+User: Hi there, I'm on vacation from Aug 30 to Sep 4 and I wanted to know where I can go on my $4600 budget. I live in Dallas btw
+Wizard: Who would you be going with?
+User: I'm just traveling alone
+Wizard: We have trips to Punta Cana for 885.7USD in economy class, or 1184.24 USD in business class. Otherwise we have trips to Mexico City, Mexico for 3070.91USD or 3557.3USD
+User: Can you tell me more about the hotel in PUnta CAna?
+Wizard: It is a zero star hotel, but the one in Mexico City is 4.1 star. We also have flights to Tijuana, Mexico, or La Paz Mexico in your budget at 3.6 and 4.6 star hotels respectively
+User: That's good to know, thanks.. Can you tell me about the 4.6 star hotel?
+Wizard: The package is at 4535.75USD, it is a 4.0 star hotel but with a guest rating of 8.98. Includes free wifi, breakfast and parking.
+User: Interesting, can you tell me if its near any attractions?
+Wizard: I am sorry, that is all the information I have
+User: What are the dates for the trip to La Paz?
+Wizard: It is from Tuesday August 30th, to Saturday, September 3rd. Departing at 7am and coming back at 3:39 am.
+User: Thanks, can you tell me the price?
+Wizard: it was 4535.75USD
+User: Ok cool, I'll take it.

@@ -1,0 +1,32 @@
+User: Hi there I'm looking for a trip for me and my assistant.
+Wizard: Ok! Where would you like to go?
+User: There are a few places but I do have a budget of 2300. I'm thinking Belo Horizonte.
+Wizard: Where would you like to leave from?
+User: Anywhere really. Doesn't matter!
+Wizard: Ah, ok. When would you like to go?
+User: Sometime between Thursday September 8 and Tuesday September 27, and preferably a trip that lasts at least 4 days or more.
+Wizard: I have several beach side hotels available in Belo Horizonte for you within your budget.
+User: Leaving from where?
+Wizard: Goinania, Porto Alegre, Santo Domingo, or Maceio.
+User: Do you have hotels near a park? I need a park to walk the dog.
+Wizard: They are all near beaches.
+User: In that case, can I try another destination then?
+Wizard: Ok. Where?
+User: Again, I'm looking for a hotel near a park in Berlin.
+Wizard: I have many hotels near museums in Berlin. Does that interest you?
+User: No, I want a hotel near a park.
+Wizard: Sorry, I don’t see any in Berlin.
+User: I hear Toronto is a good city.
+Wizard: Unfortunately I am only seeing trips for one hotel in Toronto and it is not near a park. I am limited in the amount of results I can fetch; if you could suggest a departure city it would be very helpful to narrow down the selection.
+User: In that case, I'll try Belo Horizonte again. At least I can take the dog to the beach. What's the most highly rated hotel you have in Belo Horizonte?
+Wizard: The only hotel I can see in Belo Horizonte is 2.5 stars. Do you have a maximum length of stay?
+User: No, as long as it fits my budget. And is within those dates I gave you earlier.
+Wizard: Ok. I can book 17 days for two adults at Tranquil Season Hotel for only 1332.83USD.
+User: What are the departure and return dates for that, and where is it leaving from?
+Wizard: You would leave from Porto on September 9th and return on the 25th.
+User: Can you tell me more about what this package includes please?
+Wizard: It is a 2.5 star hotel with free breakfast, free wifi, and free parking.
+User: That sounds like a pretty good deal.
+Wizard: Ok! Consider it booked.
+User: Great, thanks!
+Wizard: My pleasure :slightly_smiling_face:

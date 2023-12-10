@@ -1,0 +1,11 @@
+User: Hi there. I’m here to book a trip for my family!
+Its just me, my wife, and my son
+Wizard: Cool! Where are you guys from? And where would you like to go?
+User: We live in beautiful Kingston, and we were thinking of visiting Guadalajara
+Wizard: When do you want to travel? And how much are you planning on spending on this trip?
+User: Well, I work on my own schedule as a writer so dates are entirely flexible. What is far less flexible is my budget
+I only have 1900
+Wizard: Unfortunately that won't be enough to take the family to Guadalajara. Do you have somewhere else in mind?
+User: I was also thinking about Mexico City. Even a short trip would do, like two days
+Wizard: Mexico City won't work either. Anywhere else you would like to go?
+User: That is…it :disappointed:

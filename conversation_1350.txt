@@ -1,0 +1,10 @@
+User: I'm good, thanks. I have an important business meeting in San Juan.
+Wizard: When do you need to get there? And where are you from?
+User: Anytime soon would be good. I'll be flying from Buenos Aires.
+Wizard: How does an 11 day stay at a 4 star hotel sound? This trip runs from Sept 14 - 24
+User: That sounds really good, but how much does it cost?
+Wizard: With economy flights it would be 2774.28, and with business flights it would be 3583.43.
+User: That's even better than I expected. Sounds like a fantastic deal. I will take it, and at business class please.
+Wizard: Done! Your trip is booked for you! Watch out for the confirmation email coming your way!
+User: Thank you very much.
+Wizard: Not a problem! Have a good trip!

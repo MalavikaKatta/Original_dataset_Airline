@@ -1,0 +1,18 @@
+User: I would like to take my darling little munchkins and my beautiful wife with me on a lovely family vacation. We were thinking about going to Atlanta.
+Wizard: Hi! How many children total and where from?
+User: 7! Big family, I know HAHA. We will be leaving from Porto and I should probably mention we can only afford trips under 17200. Do you have anything between September 7th and 25th?
+Wizard: Yeah of course! You can have a 10 day stay at a beachside hotel!
+User: SAY WHATTTTT!?!? That’s amazing! What is the hotel like?
+Wizard: It's a 3.5 star hotel that boasts a 8.8/10 guest rating. You also get free parking and wifi!
+User: That’s good. What’s the price
+Wizard: 15134.37 for the whole family.
+User: not bad. My wife wants me to explore my options so do you have anything to Birmingham?
+Wizard: Sure do! We've got a 4 star hotel with a 8.86/10 guest rating that has a 5 day package!
+User: I like it! What else can you tell me about the hotel?
+Wizard: It is conveniently located near a museum and offers free wifi.
+User: Okay, okay. Well do you have anything to San Juan?
+Wizard: Nothing for San Juan.
+User: Well bugger. Can you just tell me the dates for the two packages?
+Wizard: The Atlanta trip is from September 8-21. The Birmingham trip is from September 13-16.
+User: Hmm. Okay well i’m just gonna take the information you gave me and discuss it with my wife before booking something she might not enjoy. Thanks for the help!
+Wizard: Alright! It's not a problem!

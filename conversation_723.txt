@@ -1,0 +1,10 @@
+User: Do you do any flights out of Kabul? I work for an exciting startup based there...
+Wizard: Kabul to where?
+User: to Cordoba?
+Wizard: will that be for yourself only?
+User: No this would be for 11 adults
+Wizard: Not a thing. Others I can check?
+User: Kabul to…Cleveland??
+Wizard: No. Nothing from Kabul to Cleveland for 11 people.
+User: Kabul to…anywhere?????
+Wizard: It does not seem that we have any flights out of Kabul at all.

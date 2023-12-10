@@ -1,0 +1,12 @@
+User: sup 
+Wizard: Hello! Can I help you with any travel plans today?
+User: paris
+Wizard: Fantastic choice! From what city will you be departing from?
+User: leon
+Wizard: I am excited to announce that we have a travel package available for 12339 adults and 1 child, leaving Leon for Paris on August 31 and returning on September 10. You will all be staying at the esteemed Autumn Treasure Hotel, a 4 star hotel with close proximity to the park. The hotel boasts a 8.49/10 guest rating and features free wi-fi and free breakfast for all travelers. You would be flying economy class, and the total cost comes out to $12316262.30USD. Would you like to confirm this booking?
+User: no! Stop!
+Wizard: I'm sorry to hear that. Would you like for me to search for an alternate hotel?
+User: just search for me alone
+Wizard: Very well. I'm enthused to inform you that have a travel package leaving Leon for Paris on September 7 and returning on September 22. You will all be staying at the esteemed Autumn Treasure Hotel, a 4 star hotel with close proximity to the cathedral, museum, and shopping. The hotel boasts a 8.69/10 guest rating and features free wi-fi and free breakfast for all travelers. You would be flying economy class, and the total cost comes out to $853.40USD. Would you like to confirm this booking?
+User: Very good. I will take this package. And by take, I obviously mean book. Can't wait to book this terrific trip.
+Wizard: Excellent! The booking has been completed, and a confirmation email will be sent your way shortly. Thank you for choosing us, we hope to see you again soon!

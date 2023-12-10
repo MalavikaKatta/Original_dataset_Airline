@@ -1,0 +1,9 @@
+User: I need to get to Atlanta pronto. I have to leave on August 25th.
+Wizard: Okay, let’s see how I can help, where are you leaving from?
+User: I am leaving from London. I want your absolute  best hotel in Atlanta, whichever one is known for having celebrities stay there.
+Wizard: OK! I found you the best hotel, but you would have to leave on the 30th or for the 25th we have the supreme canopy resort which has a 3 star rating
+User: You don't understand, it is extremely important that I get to ,Atlanta from London on August 25, or even a little earlier and I need to look at anything you have available that is at least a 4 star rating. No celebrity would stay at a 3 star hotel. The 30th is too late.
+Wizard: How about a little later? The highest rated hotel is 3.5 stars does that work? I have one that departs on the 26th
+User: No that won't work either. I told you twice now, I have to leave the 25th or earlier. You obviously can't help me.
+Wizard: I am sorry for being an inconvenience. 
+User: You guys suck!

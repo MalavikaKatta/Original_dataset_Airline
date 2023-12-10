@@ -1,0 +1,21 @@
+User: Hi! I need to get over to Rome
+Wizard: Where from?
+User: Im from Ulsan
+Wizard: Do you have a budget?
+User: $20000 would that get me far?
+Wizard: Are you travelling alone?
+User: Yes i need to find MEWTWO
+Wizard: Do you know when you'd like to travel?
+User: September 2nd i need to be there
+Wizard: The earliest flight we have is on September 6th, is this alright?
+User: Nope! do you have anything to kingston during my preferred dates
+Wizard: There is a 2.5 star hotel that includes free breakfast, wifi, and parking, from the 2nd to the 5th. There is a park, and it is in the heart of the city. The cost is 3649.51.
+User: that looks good! are there any other hotels
+Wizard: This is the only one for your dates but there is also a business class option for 4751.53.
+User: Let's look at thos
+Wizard: It has the same information as the previous one, 2.5 stars, free breakfast, wifi, and parking. The park is near the hotel and it is in the heart of the city. Which do you prefer?
+User: Also from the 2nd to the 5th?
+Wizard: Yes.
+User: PLease book the more expensive one'
+Wizard: Great! Your business class trip is booked!
+User: Thank you!

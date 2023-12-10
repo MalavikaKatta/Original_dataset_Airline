@@ -1,0 +1,15 @@
+User: i.... i am the biggest popstar. IN THE WORLD I wanna take a lowkey trip. somewhere beautifully hot
+porto?
+i want to leave from athens
+Wizard: I have 6-9 or 12 days trip
+User: the length of stay is less important to me than the rank of the hotel what is the rating
+Wizard: We have a 4 star hotel near the beach for  2058.63USD
+User: 4 stars sounds pretty decent i suppose. what are the dates of departure and return
+Wizard: sept 6 to 11
+User: what do you have available in Cordoba
+Wizard: We have 5 stars hotel at 15 days and 13 days
+User: that's exactly what i need. what are the dates? i need to return september 14
+Wizard: yes, sept 1st to sept 14, 5 star hotels at 2606.32USD business class
+User: wonderful, book it for two adults
+Wizard: ok that will be 5212.64USD. Thanks for your trust!
+User: :smile:

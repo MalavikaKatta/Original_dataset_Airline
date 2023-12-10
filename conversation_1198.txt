@@ -1,0 +1,10 @@
+User: I need to bring 6 clients out to impress them for a few days. 7 adults in total, and we're looking to leave Queenstown any time after September 20th. What've you got in Rome that sounds swanky.
+Wizard: Our very best in Rome is a 4 star hotel located near the cathedral and shopping. We can offer you stays up to 9 days.
+User: Amenities?
+Wizard: Free wifi and breakfast is included.
+User: Moving on - can you  tell me your best hotel in Detroit?
+Wizard: In Detroit our only availability is a 2.5 star hotel.
+User: Ah, that won't do at all. Anything nicer in Kingston?
+Wizard: In Kingston the best right now is a 3 star hotel with 8.49/10 ratings.
+User: Meh. Ok, Rome it is. Book business class please.
+Wizard: Alright business packages are booked for all of you! You will be there from September 26th to October 4th.

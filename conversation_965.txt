@@ -1,0 +1,16 @@
+User: I need to impress some clients with an extravagant trip
+Wizard: Of course! Where would you like to go?
+User: I was thinking I'd wine and dine them in Kochi. Do you have flights there from Montreal?
+Wizard: Do you have a budget?
+User: nope, the more I spend the better actually
+Wizard: Great! How many people in total will be travelling?
+User: 2 adults
+Wizard: When would you like to leave?
+User: I'd like to leave after today
+Wizard: We don't have any flights from Montreal to Kochi, is there another destination you have in mind?
+User: Phoenix then?
+Wizard: No results for this either.
+User: Philadelphia??
+Wizard: Nothing available
+User: do you even do flights out of Montreal??
+Wizard: Yes we do but none that fly from there to your destinations.

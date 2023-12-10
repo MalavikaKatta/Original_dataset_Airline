@@ -1,0 +1,7 @@
+User: hi there
+Wizard: Hello! How can I help you today?
+User: i am part of a travelling circus and our van broke down. we need to get from gotham city to diagon alley
+Wizard: Hmm, I can't seem to find any flights to Diagon Alley. Did you have another destination in mind?
+User: no i need to travel from gotham to diagon alley cause that's our next gig. thanks anyway
+Wizard: We hope to hear from you again soon!
+User: ok see ya

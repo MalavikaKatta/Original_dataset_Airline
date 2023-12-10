@@ -1,0 +1,13 @@
+User: i have a modest and polite request for you to send me from sapporo to punta cana
+Wizard: Sorry, where will you be departing?
+User: I would like to depart from Sapporo and arrive at Punta Cana. Between August 29 and Sept 1
+This is a short trip for 13 adults
+Wizard: Great! Just one adult traveller?
+User: And we have 3200 to spare between us
+Wizard: Oh! ok, sorry. I’ll get right on that. Are your dates flexible at all?
+User: I am unfortunately not.
+Wizard: And you would like to pay 3200 dollars for all 13 adults?
+User: Did I stutter???
+Wizard: I’m sorry, I cannot offer you any packages within these parameters.
+User: What if I upped it to 3500 instead?
+Wizard: Still nothing, I am sorry.

@@ -1,0 +1,21 @@
+User: I'm looking to book trip for spring break for 4 people. I have a tight budget of 4600
+Wizard: And where will you be leaving from?
+User: Lima
+Wizard: Great. And do you have dates for this trip?
+User: Yes, August 25 to September 6th.
+Wizard: I have an 8 day package in Mexico for 4180.10USD, a 6 day package in Montreal for 4283.52USD, or an 8 day stay in Miami, US for 4501.58USD
+User: I'd like to go to Sendai. Is there anything available for this place?
+Wizard: I have a 7 day package in Sendai for 4063.17 USD. Are you interested in this package?
+User: What are the dates for this trip?
+Wizard: From August 27th to September 1st.
+User: Does the hotel have free wifi or anything?
+Wizard: Free wifi is the only listed amenity.
+User: If my budget increases to $5600, are there more options?
+Wizard: I can offer you an 8 day trip to San Diego, US for 4609.62 USD.
+User: what are the dates for this trip?
+Wizard: They are from Tuesday, September 6th to Tuesday, September 13th.
+User: I think I will take the 7 day package to Sendai.
+Wizard: Great! Shall I go ahead and book your package at the Voyage?
+User: Yes!
+Wizard: Ok, it's complete. Thanks for using me to book your vacation!
+User: Great! Thanks!

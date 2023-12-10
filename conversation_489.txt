@@ -1,0 +1,13 @@
+User: Hey there, I'd like to book a long vacation for myself. I live in Cordoba but thinking of going abroad to Fortaleza
+Wizard: what is your budget?
+User: Do you have a 16 day trip between September 2 and 22? I'm willing to spend what it takes, have been doing nothing but work for years now
+Wizard: We have a 13 day stay from September 3rd to 14th at a 3 star hotel at the amazing price of 2918.45 for business class seats!
+User: Ooh that could work! I just want to check out a couple of other destinations, just for comparisons sake Can you look for something under the same parameters but heading to Kyoto?
+Wizard: There is a 12 day stay from September 2nd to 12th at a 3 star hotel for 4635.28 for business class seats.
+User: Alright, can you just quickly look at Queenstown as well
+Wizard: There is a 10 day stay from September 12th to 21st at a 5 star hotel for 994.43 for business class seats.
+User: There's nothing for longer?
+Wizard: No, sorry.
+User: In that case just book me for the Fortaleza trip then! I think that would work best
+Wizard: Alright! Your trip is booked! Have a great day!
+User: Thanks, you too!

@@ -1,0 +1,13 @@
+User: Hi im from neverland! and i want to go to Mos eisley
+Wizard: Hello! I can't seem to find any flights to Mos Eisley, do you have another destination in mind?
+User: Maybe Rio de Janeiro?
+Wizard: How about an 8-day stay for one at the Hotel Fernando Ribero in Rio de Janeiro? Your flight would leave on Wednesday, August 17 at 10:38 a.m. Do you want me to book this package?
+User: and that leaves from neverland?
+Wizard: Unfortunately I can't find any flights leaving Neverland. Your flight would leave from Salvador, Brazil.
+User: and if i were to go to alexandria?
+Wizard: I can book you a six-day stay at the Western Landscape Inn & Suites from the 17th to the 22nd of August. Your flight would leave from Boston.
+User: what is the rating of that?
+Wizard: It is a 2.5-star hotel with a 0/10 guest rating.
+User: can we book it?
+Wizard: Definitely! Your flight leaves August 17th, 2016 at at 9:00 a.m. Enjoy your stay!
+User: thank you!

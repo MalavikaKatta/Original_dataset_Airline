@@ -1,0 +1,9 @@
+User: I have never travelled alone before so I'm going to be very meticulous. I would like to go to Belem from Kobe. I'm a student so i have a tight budget of 5700
+Wizard: We do not provide flights from Belem to Kobe. Would you like me to verify other destinations?
+User: Sure, can you check Denver?
+Wizard: Unfortunately, direct flights from Belem to Denver are not available either.
+User: oh sorry, I should have been more clear, I was looking for a flight FROM Kobe to Belem.
+Wizard: after a double verification of Kobe to Belem and Kobe to Denver flights, please note that we do not have those flights available either. Would you like me to verify any other flights?
+User: Just one more from Kobe to Santos please
+Wizard: After further verification, I can confirm that we do not fly out of Kobe. Are you able to depart from another city?
+User: Unfortunately not. I'll look somewhere else but thank you for checking :slightly_smiling_face:

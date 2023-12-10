@@ -1,0 +1,11 @@
+User: Now hear this! I don't know where I want to go, but I want to leave from Cancun! 
+Wizard: Sure, I can help you with that! Do you have any dates in mind?
+User: Ah yes! I need to leave on August 29 and return Sept 18th! 
+Wizard: Are you travelling alone?
+User: Oh yes! 
+Wizard: I can offer you a 14 day package at the Resort Jade Covert in Tijuana, Mexico.  It's a 3 star hotel and the total price would be 595.18USD. 
+User: Will they give breakfasts to me for free?
+Wizard: They do have free breakfast! And they also offer free wifi and free parking.
+User: I am prepared to book this trip
+Wizard: I will now book your trip
+User: I no longer want to travel. I'm out of here

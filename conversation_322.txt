@@ -1,0 +1,8 @@
+User: Naples to Santa Cruz. Leaving Sunday Aug 21
+Budget $2000
+Got anything for me bot?
+Oh and this is for one person
+Wizard: Unfortunately there are only flights to Milan, Santiago, and Hamburg.
+User: Are there flights from Naples to Santa Cruz on another date?
+Wizard: Sorry, no, there are no flights from Naples to Santa Cruz.
+User: bye

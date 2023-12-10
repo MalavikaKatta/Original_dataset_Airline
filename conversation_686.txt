@@ -1,0 +1,35 @@
+User: Hey hey hi! I've got a 10 day vacation break earned and can take it any time after the second of September So, I'd like to explore my options departing from Rio de Janeiro
+Wizard: Certainly! Do you have any companions on this trip?
+User: Ah, this is a Solo trip
+Wizard: How about 10 days at the Bronze Luxury Hotel, a 5-star hotel with a pristine 10/10 guest rating? I can book you from September 11 to 20.
+User: Ah wonderful, but where is it?
+Wizard: Its in beautiful Sacramento.
+User: Where else are there packages available?
+Wizard: I can also send you to scenic Montreal, where you'd be staying at The Illustrious Haven Hotel, a 4 star establishment with a stellar 8.86/10 guest rating!
+User: What is the price? Does the hotel have any included amenities?
+Wizard: For economy class flights, the price will be 2797.81USD, and includes free parking and wifi. it is located near a market and a mall!
+User: Well ok.. what else is there for me in terms of destinations?
+Wizard: A beachfront resort in Brasilia awaits you...namely 10 days at the Sublime Tower! :beach_with_umbrella:
+User: awesome!! What does the hotel have to offer?
+Wizard: In addition to being near a beach, it is also in close proximity to shopping and theatres. Amenities are stacked: free wifi, breakfast, and parking.
+User: And the rating?
+Wizard: 3.5 stars, 8.69/10 from its legions of satisfied guests!
+User: Not too shabby at all.
+So far that's got my eye above the others. Before I book it, are there any other trips available in my parameters that have a 4.5 or 5 star hotel?
+Wizard: Am I to understand that you have an unlimited budget?
+User: Well I mean I'm not rolling in dough but I'm splurging here
+Wizard: How about the Hotel Oishi in Hiroshima? 4.5 stars, 8.86 guest rating, and near the museum.
+User: Amenities? Dates?
+Wizard: Free wifi, and the dates are September 8 to 15.
+User: What are the dates for the Brasilia trip?
+Wizard: September 10 to 19.
+User: Can I get anything a little closer to September 2? I'm anxious to go now!
+Wizard: How about the Tranquil Seaside Inn in San Jose? 4 stars, and I can book you from September 2 to 10.
+User: Not bad! Near the beach?
+Wizard: It is near both the beach and the museum.
+User: I'm impressed! Breakfast included?
+Wizard: Not only breakfast, but also wifi and parking!
+User: Alright, you've sold me! What's the damage? I wanna book
+Wizard: For business class, I can send you on your way for 6125.75USD.
+User: Done. Thanks for your assistance !
+Wizard: Thanks for your business! Have a great day!

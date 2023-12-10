@@ -1,0 +1,15 @@
+User: Hi, me and my family want to take a trip to Kakariko Village.
+Wizard: How many adults and how many children will you be bringing with you?   Do you have a preferred departure location?  What would be your maximum budget?
+User: We are four adults and 11 children departing from Godric's Hollow. $3500 is the most we are willing to spend.
+Wizard: I do not have any packages available from that departure location for that budget.  Would you like to adjust the budget?
+User: I would not be able to spend more than $4500
+Wizard: Would you like to suggest another departure location?  And what travel destination would you like to travel to?
+User: We'll catch a flight from Toronto then. We're headed for Kakariko Village.
+Wizard: There are no travel packages available to Kakariko Village.
+User: Ok, do you have any travel packages to Kingston, Canada for 11 kids and 4 adults, $3500 or less, departing from Toronto?
+Wizard: Yes, I have a package available leaving Toronto at 10:00 a.m. on August 24th and returning to Toronto at 4:00 a.m on August 30th.  This package offers free breakfast, free wifi, and free parking.  The cost of this package is 3465.91 USD.  Would you like to book this package?
+User: Do you have any information on what activities are included in the package?
+Wizard: I can't help you with that.
+User: Is this a direct flight to Kingston or do we have to make a transfer? Are the tickets business class?
+Wizard: The tickets are Economy.  I'm sorry, we do not have any tickets available to Business Class for this flight.  Would you like to book this package?
+User: Yes, I'll take it. Thank you

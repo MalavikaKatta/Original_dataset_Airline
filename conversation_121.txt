@@ -1,0 +1,25 @@
+User: Hi i wanna look into packages to san antonio
+Wizard: Hi and where will you be travelling from?
+User: belem. hoping to leaving august 17 and go for two weeks
+Wizard: do you have a budget in mind? are those dates flexible as well?
+User: no budget. dates are preferably the ones i have sent you but could be flexible if we find a great package i suppose
+Wizard: And one last thing, how many will be travelling?
+User: just me
+Wizard: There is the Winter Hill Inn a 2 star hotel in San Antonio from August 18th to August 28, it has free breakfast, wifi and parking. it goes for $3167, how does that sound
+User: ok.. i'll consider that. anything available in san francisco?
+Wizard: Unfortunately there is nothing in san francisco
+User: ok. what about in Kyoto?
+Wizard: the Glorious Bazaar Resort is available it has a 3 star rating, with free breakfast and wifi
+User: Is that from the 17-31?
+Wizard: I have 17th to the 22nd or the 25th until the 30th
+User: ok. one more destination I am wondering about is Cordoba. What can you offer me there?
+Wizard: while there are possibilities to cordoba for a 10 day trip but only leaving on August 24th
+User: hmm ok.. well, how much would the Cordoba trip cost?
+Wizard: it would be at a 5 star hotel for only $2018
+User: wow! I like that option. free breakfast?
+Wizard: and free wifi!
+User: sweet! ok, i think I want to book that. what is the return date?
+Wizard: it leaves on August 24th and returns on September 2nd
+User: lets book it!
+Wizard: perfect! its all done
+User: thanks :slightly_smiling_face:

@@ -1,0 +1,15 @@
+User: I'm looking to book a trip to Chicago from Brasilia. I booked work off from August 27th to September 10th and im looking for a 7 day trip
+Wizard: Do you have a budget for this trip?
+User: No I do not
+Wizard: Are you interested in a 5 day stay at a 2.5 star hotel for only 1916.38USD?
+User: I would really like a 7 day stay if possible.
+Wizard: I'm sorry, but I can only offer 5 day stays to Chicago. Are there any other places you would like to visit?
+User: Ulsan.
+Wizard: Unfortunately I can only offer 5 day trips from Brasilia to Ulsan. Is there another city that you would like to fly from?
+User: No. Are there any 7 day trips from Brasilia to La Paz?
+Wizard: I have 6 day trips available starting at 2183.39USD. Does this interest you?
+User: Yes!
+Wizard: Great! This package is a 4 star retreat including breakfast, wifi and parking. Your economy flight leaves on August 27th and returns on August 31st.
+User: Perfect! Let's book that one
+Wizard: Sure thing! A confirmation will be sent to your email. Enjoy your trip!
+User: Thank you

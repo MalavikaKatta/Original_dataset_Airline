@@ -1,0 +1,16 @@
+User: HI. vacation please
+5300 dollars for 8 days and I leave from Pittsburgh I go to anywhere
+Wizard: Do you have a preferred date of departure?
+User: no i can take vacation time whenever
+Wizard: I can get you cities in Mexico and San Juan
+User: mexico. what cities?
+Wizard: La Paz or Ciudad Juarez
+User: What is the La Paz package like
+Wizard: In La Paz, I have the Echo, available for 8 days, it is a 4 star hotel with a 8.98 / 10 user rating. which includes free wifi, parking and breakfast.
+User: this sounds very beautiful! can i hear the Ciudad Juarez package to compare?
+Wizard: In Ciudad Juarez, I have the Vertex, also available for 8 days, it is a 3 star hotel with a 8.86/10 user rating which includes free wifi, parking, breakfast. This one has a Sept 8th departure, the one in La Paz a Sept 13th departure.
+User: is Juarez hotel on the beach?
+Wizard: Neither is on the beach
+User: ah ok. well I would prefer La Paz. Let us book that.
+Wizard: I will proceed with the booking to La Paz. Enjoy!
+User: thank u great

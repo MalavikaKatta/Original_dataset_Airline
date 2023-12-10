@@ -1,0 +1,7 @@
+User: Hi im in the middle of travelling  and i want to go to Porto!
+Wizard: Sure thing! What city will you be departing from?
+User: i can leave from Minneapolis
+Wizard: I you leave from Minneapolis on the 17th of August I can book you 11 days in the four-star Golden Keep. The total cost of this package is 2362.21USD. Would you like me to book this package?
+User: Let’s book it!
+Wizard: Done! Enjoy!
+User: thank you!

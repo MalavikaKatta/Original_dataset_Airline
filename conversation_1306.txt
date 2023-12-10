@@ -1,0 +1,9 @@
+User: I need to get out of Kabul on September 6th. Can you get me to Leon for 3200
+Wizard: We do not offer any flights that leave from Kabul. Would you like to leave from somewhere else?
+User: Calgary
+Wizard: Will you be the only one travelling? And is there number of days you would like to spend in Leon?
+User: Yeah just me. It doesnt matter how long I stay but the longer the better.
+Wizard: We have a great deal for you at a 5 star hotel for 12 days. It costs 2335.98 for economy class and 2963.64 for business. Are you interested?
+User: Yes! Put me for business and book it!
+Wizard: Your package has now been booked. You will soon receive an email confirming your purchase of this package. Have a good day.
+User: Thanks!

@@ -1,0 +1,21 @@
+User: You too!
+Wizard: How can I help you?
+User: Could you get me to Berlin, from Portland?
+Wizard: No unfortunately. Can we get you there from another city?
+User: Could you try again but this time with me departing from Dublin?
+Wizard: Can't get you there out of Dublin either.
+User: can you check flights to baltimore
+Wizard: I can get you to Baltimore from Berlin!
+User: i can only depart from dublin!
+Wizard: You never mentioned your budget
+User: oh yes, my budget is 2100
+Wizard: We have the resort Countryside available for you in Baltimore for 16 or 11 days, whatever you prefer. 16 day stay is 1558.65USD and an 11 day stay is 1320.96USD. It is a 3 star hotel and you will have free wifi, breakfast and parking should you require it.
+User: but which one gets there earliest?
+Wizard: The 16 day package has a Sept 4th departure whereas the 11 day package is not available until Sept 12th.
+User: ok then definitely the 16 day package. i assume the prices are for economy class?
+Wizard: Yes do you want to fly business?
+User: no just fly economy please
+Wizard: Should I go ahead and book the 16 day package at 1558.65USD for you then?
+User: Yes please :slightly_smiling_face:
+Wizard: Your booking is confirmed. Good luck and safe tarvels.
+User: Thank you, glad to be going back so soon

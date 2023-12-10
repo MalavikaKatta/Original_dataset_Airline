@@ -1,0 +1,9 @@
+User: Hi! Can you get me a trip from FOrtaleza to Puebla?
+Wizard: Do you have a budget?
+User: 2600 for 1 adult
+Wizard: When would you like to travel?
+User: Sept 2 to 11 please!!!
+Wizard: There is nothing to Puebla from FOrtaleza
+User: What!!! What if Increased budget to 2900
+Wizard: There are still no results. Is there a different destination you'd like to try?
+User: Thats all i had my heart set on!!

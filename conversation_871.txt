@@ -1,0 +1,6 @@
+User: Help! I need to get my family out of Kabul, We would prefer being in Marseille at the moment.
+Wizard: Is there an alternative departure? I cannot find any packages out of Kabul for you.
+User: No there's no alternative, also, get this, I'm travelling with 13 children!
+Wizard: I’m sorry, I cannot fulfill this request.
+User: It goes without saying that if you get me a trip, I will pay you. I had $2000 but I can come up with $1000 more.
+Wizard: I’m sorry, I cannot fulfill this request.

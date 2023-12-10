@@ -1,0 +1,14 @@
+User: Hi, I'd like to book a trip for my family please.
+Wizard: Ok - how many of you are there?
+User: We're a pretty big family. We'll be 9 kids and 10 adults.
+Wizard: Ok! And where do you want to go?
+User: We want to go from Kabul to Hiroshima.
+Wizard: I have a lovely package from Porto Alegre to Hiroshima for 69238.30USD.
+User: Right, but we'll be coming from Kabul.
+Wizard: Would you be able to leave from Puebla?
+User: No. we'll all be coming from Kabul.
+Wizard: I can not accommodate departures from Kabul unfortunately.
+User: Oh the whole family was looking forward to a trip to Hiroshima, especially the children.
+Wizard: You can leave from Goiania?
+User: Well, we're already all in Kabul so Kabul is the only place we can leave from.
+Wizard: No, I cannot find anything out of Kabul. I do not know how to make this any clearer.

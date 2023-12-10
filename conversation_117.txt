@@ -1,0 +1,12 @@
+User: Hi, I'm a very interesting person from Stuttgart and I need to get myself to Sapporo. I am traveling with a friend.
+Wizard: And where would you be leaving from?
+User: I am leaving from Stuttgart
+Wizard: What is your budget? do you have any dates in mind?
+User: I own 2100 dollars and we can leave august 26
+Wizard: I'm not getting any results for you. Would you like to try different dates?
+User: I am a man of many dates, and so my dates are flexible
+Wizard: I can offer you the Hotel Prism, It is, however, a little above your budget
+User: I could add 500 dollars to my budget
+Wizard: This hotel has 3 stars and costs $5315. If you're interested, we can look for hotels somewhere else
+User: Well, I reckon I'll just book this one.
+Wizard: I will book this

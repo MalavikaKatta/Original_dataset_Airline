@@ -1,0 +1,13 @@
+User: Hi! I have 9 days of vacation time. Can you find me travel packages on or after  September 20th from Ciudad Juarez?
+Wizard: Sure, I can help you with that! Do you have a set amount of money to spend on this trip?
+User: Nope, I can spend however much I need to.
+Wizard: I have a 5 star hotel available in Sacramento for 9 days. Is this something that would interest you?
+User: yes! Can you tell me more about the hotel?
+Wizard: Yes of course. The Bronze Luxury Hotel in Sacramento is available from September 26 to October th. This 5 star hotel is located near a museum and has a perfect 10/10 guest rating. Your 9 day package includes free breakfast and free wifi. You have the option of a business class package at a total cost of 1924.44USD.
+User: Okay! Are there any other packages available?
+Wizard: My next highest rating is a 3 star hotel in Boston with a 8.37/10 guest rating., also available for 9 days. Does this package interest you?
+User: maybe. Where are all the other packages for?
+Wizard: I also have packages in Kingston Canada or Detroit USA
+User: I think Sacramento sounds the best then. I would like to book this package.
+Wizard: I will get that all booked up for you and send you confirmation. Happy travels!
+User: Thanks!

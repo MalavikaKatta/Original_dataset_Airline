@@ -1,0 +1,11 @@
+User: Can you get me from Indianapolis to St. Louis? I need to leave as soon as possible, something horrible has happened back home… :(:(:(
+Wizard: I am sorry to hear that. Regretfully there are no flights presently available from Indianapolis to St. Louis.
+User: How about Boston to SL?
+Wizard: Neither available
+User: Boston to Chicago??
+Wizard: I have a flight departing Boston to Chicago tomorrow, August 31st. That is the soonest available flight. It's attached to an 11 day package in Chicago at the low price of 959.36USD including your flights and stay.
+User: That sounds decent. How is the hotel?
+Wizard: The Sierra Inn & Suites is located near the airport and has a 2 star rating. It includes your parking, wifi use in the hotel and a complimentary breakfast.
+User: I don’t think I have any other options here, and I’m short on time…please book it!
+Wizard: I will look after that right away and get the flight details over to you right away for your departure tomorrow.
+User: Thanks!

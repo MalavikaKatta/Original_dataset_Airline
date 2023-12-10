@@ -1,0 +1,17 @@
+User: I'm getting married and my wife is making me take care of the honeymoon, I better get it right or I will be in a lot of hot water :weary:
+Wizard: Ok! Well let me see what I can do for you today. Where are you planning on taking your honeymoon? And where will you be leaving from?
+User: I am thinking of Naples. That should please her, she's difficult, you know. Wish me luck with this marriage.
+Wizard: Ok, I can find you a package to Naples for a great price leaving from Hamburg. Would you like to travel from August 24-August 29?
+User: How about leaving from Portland? That is the closest other city to us.
+Wizard: Would you like to travel from August 24 to August 30 from Portland?
+User: The wedding is on the 26th, so we have to leave no earlier than the 27th.  What do you have in Naples for under $4100
+Wizard: Ok! In that case, how about August 27-September 2 for $3211 ?
+User: Naples? From Portland? What kind of hotel? It better be a good one or I will get in major trouble. She scares me, you know.
+Wizard: You will travel from Portland to Naples and stay in a 3.0 star hotel with a guest rating of 8.8. You will stay in the heart of the city with museums nearby!
+User: You're lucky, dude.  Is breakfast included, like I said, food is important...
+Wizard: Yes! Free breakfast and free wifi!
+User: That sounds great dude, you are really helping me out here. You have no idea how much this means to me.
+Wizard: I am happy to help :slightly_smiling_face: Would you like me to book this package for you at the Courtyard Resort in Naples as I have earlier described it?
+User: Will we be flying business class?
+Wizard: I can upgrade your flights to business class - 4119.96USD would be the total.
+User: For $19 over our budget, we might as well go business class. Yes book that now please so it's done and out of the way.

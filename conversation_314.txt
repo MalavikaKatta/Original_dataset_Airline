@@ -1,0 +1,21 @@
+User: Hi! I'm looking to book a vacation for 5 adults and 2 kids. We haven't been on a trip in a long time and i'm super excited to be on a beach somewhere, anywhere really as long as its a nice place :smile:
+Wizard: Where do you live and do you have a wish list of places to go?
+User: We live in Los Angeles and we don't have any places in mind, we are just looking to stay at a nice beach resort where we can swim in the ocean, tan, play with the kids on the beach, have some drinks at night, that kind of thing
+Wizard: When will you be taking your vacation?
+User: Between August 27th and September 3rd!!
+Wizard: You are in luck, We have availability at the Glorious Cloak Inn in St. Louis, which is located right by the beach. This is a 4 day package which included wifi and free buffet breakfast for the whole family. This is a 3 star hotel with a 7.15/10 guest rating.
+User: Do you have anything longer? We were hoping for about a one week package. It's quite a hassle to fly with the kids so once we get there we want to stay longer than 4 days
+Wizard: I have a package available out of Los Angeles flying out to Columbus. This one would be at the Crown Jungle Inn and it is a 6 day long package. It also includes wifi and parking but breakfast is not included. The good news is, it is also close to the beach.
+User: That could be cool! What are the dates and the price for this one?
+Wizard: The price is $7796.72USD and the dates from August 27 to Sept 1st. This is price is based on an economy class flight.
+User: ok thanks! Ya we would be flying economy. The only thing is that i'm not sure how warm the water is in Columbus, do you have any packages for further south? We are really looking for a tropical beach kind of vacation :slightly_smiling_face:
+Wizard: St. Louis and Columbus are the only places available that are on the beach at the moment.
+User: Oh no! What if the end date was flexible? It's less ideal but we could be back as late as September 14th if that gives us better options. And we don't need to leave exactly August 27th, as long as the trip is about a week long.
+Wizard: Do you have a budget for this trip?
+User: We don't have a budget set, but like I said we want to fly in economy
+Wizard: I have the Summer Covert Club located in Atlanta, United States, also on the beach. This one here is a 7 day package that is available to you from September 8th to September 14th also on economy class for 3463.11USD.
+User: That sounds good! How fancy is this hotel?
+Wizard: It is a 3.5 star hotel with free wifi and free parking. It is a brand new hotel so it does not have any guest ratings yet.
+User: That sounds really good!! I'll book this one :slightly_smiling_face:
+Wizard: Fantastic, glad we could help you plan and book your vacation. I hope everything is to your satisfaction.
+User: Yay!!!! I'm so excited for this, thank you for all your help!

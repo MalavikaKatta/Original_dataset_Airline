@@ -1,0 +1,17 @@
+User: Anything to Minneapolis from Calgary?
+Wizard: How many people is this for and are you on a strict budget?
+User: No budget in mind.. And I'll be traveling solo! Although I can only go between Sept 8-18.
+Wizard: Yes, we have one package that lasts 8 days at just a mere 556.43 for economy class! Are you interested in booking this trip?
+User: That's really cheap! Is it a good hotel?
+Wizard: It's 2.5 stars with a guest rating of 7.15/10. There's a university nearby and it includes free breakfast, parking, and wifi. Does this interest you?
+User: Is there another option?
+Wizard: That's all we have, I'm afraid! You can only choose between business and economy. What will you decide?
+User: Don't think I can decide anything until you help me see what's in Dallas first.
+Wizard: I'm afraid there is nothing to be found in Dallas.
+User: Is there a business class option for the Minneapolis trip?
+Wizard: Yes indeed! It costs a grand total of 633.72! Shall I book this trip for you?
+User: When does this trip begin?
+Wizard: You leave on Thursday September 8th and return the 15th! Shall I proceed with booking?
+User: Alright that works! Please proceed with business class!
+Wizard: Your booking has now been processed. Enjoy your stay :slightly_smiling_face:
+User: Perfect thanks!!

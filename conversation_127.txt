@@ -1,0 +1,10 @@
+User: hey there, I'm doing some travelling for business soon. It needs to be around August 18-August 26. What can you do for me?
+Wizard: Let’s see what we can find, can you tell me if you have a budget and who you will be travelling with?
+User: no budget - work is paying :wink:
+Wizard: Where are you coming from?
+User: just me for now, but if we can find something that works out then I have 5 other colleagues who will be attending meetings with me
+Wizard: Any chance you can go to or from somewhere else?
+User: hm... I could go to Milan. we have an office there
+Wizard: again i am sorry there are no results
+User: i will take my business elsewhere.. thanks for nothing
+Wizard: my apologies

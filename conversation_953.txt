@@ -1,0 +1,27 @@
+User: hello there
+Wizard: Hello to you too
+User: i am in need of some price comparisons, I can leave from wherever
+Wizard: where would you like to travel to?
+User: I have requests for my available window between sept 12 until the 29th. can you tell me what you offer in Milan
+Wizard: Do you have a budget?
+User: 4300 dollars
+Wizard: I have several points of departure to Milan with all 9 day stays at the same hotel. The least expensive is out of Recife, Brazil
+User: ok - whats the price and whatre the hotel details?
+Wizard: Your 9 day stay at the 4 star Pink Star Hotel would cost 2690.20USD. This hotel is located downtown and is near the cathedral and the museum. Your package deal includes breakfast and wifi.
+User: hmmm downtown - sounds a little congested. I need something near a park
+Wizard: There's nothing in Milan with a park
+User: if I can’t get that in Milan then I’ll try Ciudad Juarez
+Wizard: How many days are you looking for in Ciudad Juarez?
+User: 4 at the least
+Wizard: In Ciudad Juarez, all my hotels are located either near the palace or the museum.
+User: what about in Long Beach?
+Wizard: Are you able to depart from Santo Domingo on September 20th?
+User: whats the package?
+Wizard: Muse Inn is located right near a park and is available for a 10 day stay at 1547.70USD. This is a 3 star hotel with a 8.49/10 user rating.
+User: awesome! is breakfast included? And parking?
+Wizard: yes parking
+User: lets go ahead and book it
+Wizard: Should I begin the booking process then?
+User: please
+Wizard: I will send email confirmation with all the pertinent details. Have a pleasant day!
+User: thank you much appreciated

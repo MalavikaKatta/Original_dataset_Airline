@@ -1,0 +1,8 @@
+User: Hi, do you have flights out of Tel Aviv?
+Wizard: For one person? Any travel dates in mind?
+User: Nope, I wish! I will be dragging 4 other adults with me. No set dates specifically..
+Wizard: It seems we have no flights out of Tel Aviv. Can I search other departure cities for you?
+User: Darn it, okay I can also leave from Beijing
+Wizard: I'm not showing any results out of Beijing either,
+User: That is very unfortunate. Thanks for your help though!
+Wizard: You are welcome

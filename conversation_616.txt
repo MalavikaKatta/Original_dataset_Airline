@@ -1,0 +1,10 @@
+User: I wanna go to Cairo
+No I dont
+I live there actually
+I wanna go to Cleveland
+Wizard: Would you have an idea of when?
+User: I wanna go on 9/11
+Wizard: We do not have anything available from Cairo to Cleveland
+User: Well what if I give it a flexible date
+Wizard: We can try that . Still no results.
+User: :angry:

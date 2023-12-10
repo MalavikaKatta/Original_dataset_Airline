@@ -1,0 +1,7 @@
+User: I'd like to find a vacation from Kabul to Santiago for 1800. I dont care when i go and it's just me traveling
+Wizard: Hello
+User: Hey
+Wizard: I apologize, we do not fly out of Kabul
+User: Is there anything from Kabul to Philadelphia? I can increase my budget by $400.
+Wizard: I apologize, we do not fly out of Kabul, do you have any other departure city?
+User: no i dont...thats okay tho, I'll come back another time. Thanks

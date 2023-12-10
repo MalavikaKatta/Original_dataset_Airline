@@ -1,0 +1,25 @@
+User: a vacatoin
+Wizard: HI where are you looking to go?
+User: indianapolis. perhaps
+i am in baltimore right now
+whats available from august 25 to september 14
+Wizard: do you have a budget in mind?
+User: nope i am just looking for something dope
+Wizard: ok! How many people will you be travelling with
+User: nobody. i mean myself
+Wizard: I have one option of Hotel Vanilla which is a 3 star hotel and offers free wifi, breakfast and parking with a nearby beach, airport and University. It leaves on the 4th and returns on the 14th.
+User: ok. what is available in seoul tho
+Wizard: Ok. The only Hotel i have available is the Harborview Hostel, it has free breakfast and wifi and has 3 stars. It leaves on August 25th until the 30th for $2600
+User: ok let's keep that in mind as you search for packages in Manaus for me
+Wizard: There’s a 9 day trip available to The Serene Garden which is a 3.5 star hotel for $2720. It leaves on the 25th and returns on the 1st
+User: ok cool, any other hotels in Manaus?
+Wizard: None leaving on your requested date would you like me to show you?
+User: what hotels are available in Fukuoka during my travel windowl?
+Wizard: Nothing for your desired dates?
+User: dang ok well. whats the serene garden hotel have?
+Wizard: There is a near by park and museum, would you like me to book that for you?
+User: what about breakfast tho
+Wizard: Free breakfast, Wifi and Parking.  would you like me to book it for you?
+User: i think i want to book indianapolis instead
+Wizard: Sure Ill go ahead and do that for you
+User: cool thanks

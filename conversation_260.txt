@@ -1,0 +1,12 @@
+User: Theed
+Wizard: Would you like to travel to Theed or are you travelling from Theed?
+User: I wan to go to Theed
+Wizard: Great, where will you be leaving from?
+User: Termina
+Wizard: When would you like to depart and do you have a budget for this trip?
+User: August 13
+Wizard: Unfortunately I do not have any packages to Theed from Termina.
+User: what if i give you more money
+Wizard: I am sorry, but we do not have any packages to Theed from Termina.
+User: okay bye
+Wizard: Thank you for using our services. Have a good day.

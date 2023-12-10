@@ -1,0 +1,15 @@
+User: im leaving kingston need to go to rosario
+Wizard: Do you have a date of departure?
+User: no. but i must return by sept 11
+Wizard: Will you be travelling accompanied by anyone else?
+User: 1 other adult
+Wizard: We have one flight/hotel package available available between now and Sept 11 at 4 star hotel in Rosario. Would you like more details?
+User: fine
+Wizard: It is an 11 day package at the Opportunity Suites located near shopping and including free wifi and breakfast. The total price is  5831.3USD.
+User: guest rating?
+Wizard: 8.86 / 10
+User: any 5 stars in sao paulo?
+Wizard: No availability in Sao Paulo
+User: leaving from Santos?
+Wizard: Neither
+User: book rosario for 2 adults

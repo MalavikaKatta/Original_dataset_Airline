@@ -1,0 +1,12 @@
+User: Hello there!
+Wizard: Hello!
+User: I’m in charge of booking a work trip. leaving from Beijing around August 25
+and we are looking at possibly going to Jersusalem
+Wizard: How many people?
+User: Try for 10 for now
+Wizard: Nothing available from Beijing to Jerusalem for that many people on that date
+User: Ok.. how about 3 people, same date same departures, but to Las Vegas instead
+Wizard: We have no hotels in Las Vegas at the moment either.
+User: Oh dear, Any other city? Literally anywhere
+Wizard: I have no flights out of Beijing
+User: Ok, thanks anyway

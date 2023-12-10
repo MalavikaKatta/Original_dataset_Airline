@@ -1,0 +1,24 @@
+User: hi. I need to do some travelling soon
+I want to go to Munich maybe
+Wizard: Hello! Where would you like to go?
+User: and leave from Munich. between Sept 20 and September 28
+Wizard: Do you have a budget?
+User: no
+Wizard: How many people will be traveling from Munich to Munich?
+User: oh wait. I will leave from Queenstown... alone!
+Wizard: We have one result but I think you'll like it.
+User: ok tell me about it please
+Wizard: This is a 6 day stay at the Jade Harbor, a 5 star hotel. They offer a spa and free wifi also. The dates are from September 20th to 25th. For business class flights the package would cost 930.47 and for economy class flights the package would cost 698.00.
+User: WOW that sounds beautiful! What is the hotel close to?
+Wizard: My database did not give me this information.
+User: ahhh ok. I have a different trip in mind too
+what about Sao Paulo from Monterrey??
+Wizard: There's a 2 star hotel near a cathedral and theatre, and free parking, breakfast and wifi. There is a 9 day stay and a 5 day stay.
+User: not as nice as Munich. can you book Munich package for 5 adults?&gt;
+Wizard: Unfortunately we can not book for 5.
+User: ah dang. well I wanna book that place anyway
+I'll leave my coworkers to do their own thing
+book Munich for one please
+Wizard: Business or economy?
+User: Business
+Wizard: Great! Your trip is booked! Have fun and safe travels!

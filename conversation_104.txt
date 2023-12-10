@@ -1,0 +1,7 @@
+User: Hi! I'm looking to book a trip somewhere between August 19th and September 3rd. My budget is 1700.
+Wizard: Hi there! How would you like a trip to Kyoto from the 25th to the 31st of August? The total cost of this package is only 110.93USD. I can book you a flight from Nagoya.
+User: I need to leave from Cairo.
+Wizard: If you're leaving from Cairo, I can book you a 10-day stay in Punta Cana for 475.20USD. You would be leaving the 24th of August.
+User: Sure! Let's do that!
+Wizard: Done! I have successfully booked your trip. Your flight leaves Wednesday, August 24th at 3:23 p.m. Enjoy your vacation!
+User: Thanks

@@ -1,0 +1,18 @@
+User: Hello :slightly_smiling_face: Can you believe it? My psychotic boss finally gave me a few days off! I feel like a thousand pounds have been lifted off my shoulders, and I can't wait to book the perfect trip!
+I live in San Diego, but thinking of going to Busan
+Wizard: San Diego to Busan, for how many?
+User: my myself and i
+Wizard: For one? On what dates?
+User: September 12 to 17
+Wizard: We have the Lethargy Hotel from Sept 12 to Sep 17. This is a 5 day package with a value of 3566.45USD with an option to upgrade to business class. This 3 star hotel includes free wifi, a parking space and breakfast.
+User: How do the guests rate this hotel?
+Wizard: Guest Rating: 6.77 / 10
+User: K
+Wizard: Should I book it for you?
+User: I'll be honest, I'm not sold. Can you check to see if you have anything for me in Kingston?
+Wizard: 3 or 4 star property?
+User: Only the best for this guy
+Wizard: The Ebony Manor Inn & Suites is a 4 star property with a 8.22/10 guest rating. This one also includes all the amenities that the Lethargy Hotel. If you want only the best, the price is 1571.49USD via business class tickets.
+User: Ugh just book it then!
+Wizard: That I understand. I will proceed with the booking. Thank you and have a nice evening.
+User: You as well!

@@ -1,0 +1,16 @@
+User: you do flights out of naples?
+Wizard:  Where would you like to go celebrate?
+User: lets go to St. Louis
+Wizard: Will you be going alone or with friends?
+User: taking my best 5 friends with me
+Wizard: I assume all of them are over 18?
+User: yes they’re my age
+Wizard: Do you guys have any time or budget constraints? Or do you just want to see the best package I've got?
+User: show me the money (package)
+Wizard: Absolutely! Our most luxury package is a 14 day stay at the 3.0 star Glorious Cloak Inn, with a whoping guest rating of 7.15/10. During your stay you will enjoy free wifi and free breakfast, as well as close access to a beach. The business flight package will cost 29232.54.
+User: there are no five star hotels in SL?
+Wizard: Unfortunately no. We only have another 3 star hotel with 6.91/10 rating.
+User: not impressed. how about Chicago
+Wizard: Chicago is not that much better... we've got a 2.5 star hotel with 8.22/10 ratings. It is close to a museum and a park though.
+User: look up Campinas
+Wizard: Thank you for giving me another chance to find you the perfect birthday getaway :slightly_smiling_face: I can offer you a 3.5 star hotel in the heart of Campinas! It is close to a mall and a cathedral, and has a guest rating of 8.49/10. Does this sound better?

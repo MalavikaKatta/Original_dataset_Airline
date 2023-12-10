@@ -1,0 +1,12 @@
+User: hi there i want 2 search on a trip 2 go………..
+Wizard: Where would you like to go and where are you leaving from?
+User: i live in  sydney and i am going 2 bring my grandkids on a special vacation…..can we go to curitiba……...
+Wizard: How many people are you bringing?
+User: my 3 grandchildren….
+Wizard: Do you have a budget?
+User: 3100 dollars...
+Wizard: There are no results.
+User: what if we go to maceio…………………..
+Wizard: No results for this either.
+User: u are breaking this old womans heart………….. can we go 2 vancouver...
+Wizard: There are no results for this either. Sorry!

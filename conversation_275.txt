@@ -1,0 +1,23 @@
+User: Hi i want to go to burlington
+Wizard: Where are you leaving from?
+User: Melbourne
+Wizard: Do you have a budget?
+User: $1,500
+Wizard: Travelling alone?
+User: yes
+Wizard: When would you like to leave?
+User: August 26th
+Wizard: We have 2.5 star hotels and 3 star hotels. Which do you prefer? All are within your budget.
+User: 3 star
+Wizard: The first option has a park and free wifi. The flight is from August 27th to September 4th and the cost is 1087.50 with economy seats. The second option has a park and free wifi. The flight is from August 27th to September 4th and the cost is 1319.15 with business class seats.
+User: What about Campinnas
+Wizard: We have no flights to Cammpinnas
+User: any to Minneapolis?
+Wizard: We have 2.5 star hotels for Minneapolis. Two of them leave on August 26th. Would you like information for these two hotels?
+User: honestly not really sounds a little peasanty, are there other hotels in burlington?
+Wizard: The highest rated hotel is 3 stars
+User: Which one is least expensive
+Wizard: The economy class package is cheaper.
+User: let's book it
+Wizard: Great! You're now booked for this package! Have a great day!
+User: Thanks!

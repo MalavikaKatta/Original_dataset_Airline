@@ -1,0 +1,15 @@
+User: I need to get to Goiania from Beijing today or after but asap. emergency at home.
+Wizard: I apologize, but I cannot get you to Goiania from Beijing
+User: k fine i can leave from North Vancouver too.
+Wizard: I can get you to Goiania from North Vancouver. How much money do you have?
+User: 6200
+Wizard: My soonest flight is on Sept 12th
+User: Is there anything sooner for flights to Lima?
+Wizard: Departing from North Vancouver?
+User: Yeah
+Wizard: I have a flight departing tomorrow from North Vancouver to Lima. Your stay in Lima would be at the Wolf Inn, a 3.5 star hotel near the park. It is an 11 day package with a value of  1119.59USD.
+User: When does it leave?
+Wizard: Tomorrow Sept 8 at at 2pm
+User: is there anything shorter than 11 days?
+Wizard: No,  That is the shortest package I have available from North Vancouver to Lima.
+User: well crap. Ugh I have not other options. I'll look at some other sites or just go to the airport myself and see if they can help me out.

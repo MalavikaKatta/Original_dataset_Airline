@@ -1,0 +1,21 @@
+User: I live in Toronto, can we se what packages are available in Cairo from August 17 to September 7?
+Wizard: I have no flights on those dates going from Toronto to Cairo. Are you able to fly out of Fort Lauderdale, Alexandria or Boston instead? Or can we look at other destinations?
+User: Lets take a look at Pittsburgh as a destination!
+Wizard: You would have to fly out of St. Petersburg or Burlington. Any other destination we could consider? Do you have a budget?
+User: How about Leon?
+Wizard: We have no flights out of Toronto at all. Are you able to leave from another city?
+User: Can you tell me where the nearest city with available flights is?
+Wizard: I am sorry, I have no packages available in Leon.
+User: What about flights to La Paz from Toronto?
+Wizard: Did you have a budget in mind?
+User: Not for this trip, my future child deserves the very best!
+Wizard: Regrettably, the only packages available for La Paz are out of Tijuana or Puebla.
+User: I have business in Calgary around those dates, what say I leave from Calgary, could I get a trip somewhere?
+Wizard: As a matter of fact, I have the Echo, which is a nice 4 star property available in La Paz from August 19th to August 24th, with a direct flight from Calgary. Is this something that could work for you?
+User: That is excellent! Can you tell me more about this hotel? Does it include breakfast and free wifi? Or a spa perhaps?
+Wizard: The Echo includes free wifi, free breakfast and free parking should you want to rent a car during your stay.  I have both economy class or business class available. Would you like me to provide you with some pricing?
+User: Yes, thank you. I prefer business class for this trip.
+Wizard: The total cost of your package based on a business class flight will be $1415.48USD.  Would you like me to go ahead and book that for you?
+User: What a deal! Yes please do.
+Wizard: Thank you and have a very pleasant day.
+User: Thank you, I was great dealing with you!

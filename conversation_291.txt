@@ -1,0 +1,16 @@
+User: hi id like to go to baltimore from brasilia. i would like to get 1 children ticket and 1 adult ticket
+Wizard: Hello! Do you have a budget?
+User: 7500. thanks
+Wizard: When would you like to leave?
+User: i dont mind
+Wizard: We have two hotels available. Both hotels have a 3 star rating.
+User: ok. what is the price
+Wizard: The first option is from September 2nd to 7th, free breakfast, wifi, and parking at a price of 4265.98 for economy seats. The second option is from August 30th to September 5th, free breakfast, wifi, and parking at a price of 5173.70 for economy seats. Would you like more options?
+User: ill get the cheapest option
+thanks
+Wizard: There is a third option from September 2nd to 7th, free breakfast, wifi and parking at a price of 5512.62 for business class seats. Do any of these options interest you?
+User: the one at 4268 looks good
+Wizard: Would you like me to book it for you?
+User: ya
+Wizard: Your trip has been booked! Have fun and thank you for using our services!
+User: thanks

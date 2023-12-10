@@ -1,0 +1,21 @@
+User: Hi there. I’d like for you to take me anywhere really
+Do you do flights out of Milan?
+Wizard: Of course, give me your desired travel dates, # people, and budget and I will help you find your destination :slightly_smiling_face:
+User: Cool. Dates are Sept 6 to 15
+Wizard: Do you have a budget in mind? And are you traveling alone or in a group?
+User: No budget, and I’m traveling alone!
+Wizard: I have quite a few options for you! Do you only want to hear about hotels at least 4 stars?
+User: You know exactly what I want! Also please book a trip for 5 days minimum
+Wizard: :wink: Will do! Our best packages are these: 9 days at a 4 star hotel in Santo Domingo, 8 days at a 4 star hotel in Paris, 8 days at a 5 star hotel in Berlin, and 8 days at a 8.86 star hotel in Hamburg.
+User: Ok great. Is the Santo Domingo hotel near the beach?
+Wizard: You bet! It's next to the beach and shopping!
+User: How about Paris. But is it near a museum?
+Wizard: Yup! Not just a museum! Also a cathedral and shopping!
+User: Does that cost more or less than the Santo Domingo trip?
+Wizard: It's about half of the Santo Domingo trip's price.
+User: Whats the exact cost?
+Wizard: For Paris it's 938.44 for economy, 1132.43 for business. For Santo Domingo it's 1930.48 for economy, 2474.61 for business.
+User: Ok book me for Paris, economy!
+Wizard: You are all set!
+User: Thanks!
+Wizard: It's my absolute pleasure!

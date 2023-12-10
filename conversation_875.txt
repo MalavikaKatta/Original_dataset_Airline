@@ -1,0 +1,24 @@
+User: Hi there! I'm stuck in Burlington and I need to go to Dublin.
+Wizard: Hi! What are your travel needs?
+User: My needs are that I need travel sometime between September 12 and September 17.
+Wizard: Ok, sure! Have you got a budget?
+User: I do not but I am going to make you work here cause I want it to be the best deal possible meaning value per dollar.
+Wizard: Unfortunately I only have trips returning by September 21st if you leave by the 14th.
+User: No, I need to travel sometime between September 12 and September 17. What about if I go to NY instead.?
+Wizard: Sorry, still nothing within this date range.
+User: Geez, you guys suck. Let's try Osaka then.
+Wizard: I have one hotel available! R&B Hotel Prophecy from the 12th to the 17th.
+User: Okay now we are getting somewhere. Tell me ALL about this hotel.
+Wizard: It is 2.5 stars, near a museum, has free breakfast and wifi, and has received a 7.06/10 rating from previous guests. The package would cost 3793.39 USD for economy class flights.
+User: wow that's pretty pricey for 2.5 star hotel. Is that all you got in Osaka?
+Wizard: Yes, that is it.
+User: That just leaves Denver. Please tell me you have something in Denver!
+Wizard: I have Solar Inn Of Denver available from September 12 until the 17th. It is 3.0 stars, 8.69/10 guest rating, has free wifi, and costs 1049.46 for economy class flights.
+User: What's it close to?
+Wizard: I do not have that information.
+User: What about the Osaka one, what's that close to?
+Wizard: A museum.
+User: Value for dollar Denver seems to be a much better deal and I don't have to travel as far....I'll go with Denver. Can you upgrade me to business class?
+Wizard: Yes, that brings your total to 1242.1USD.
+User: That sounds good. Go ahead and reserve that for me.
+Wizard: Great, will do!

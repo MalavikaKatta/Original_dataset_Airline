@@ -1,0 +1,20 @@
+User: can you get me out of sapporo on friday? get me to rosario
+Wizard: I can try! Do you have a budget?
+User: yes i have 9300
+Wizard: Just you travelling?
+User: correct
+Wizard: The soonest I can get you from Sapporo to Rosario would be Sunday, September fourth. Is that ok?
+User: thats a little sketchy
+Wizard: Another destination?
+User: how about kingston, anything earlier for that?
+Wizard: Flights to Kingston from Sapporo are not available until Tuesday, September 6th.
+User: could you get me to rosario faster if I left from phoenix?
+Wizard: I‘m sorry - the soonest I can get you to Rosario is still September 4th.
+User: phoenix to sapporo??
+Wizard: Nothing available.
+User: how much does it cost to go from sapporo to rosario on sept 4?
+Wizard: I can book you in Rosario at a 4 star hotel for 16 days and it would cost 6330 for economy class flights.
+User: does this hotel have free breakfast?
+Wizard: It sure does!
+User: cool lets book it
+Wizard: Consider it done :slightly_smiling_face:

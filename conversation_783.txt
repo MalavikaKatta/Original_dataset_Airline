@@ -1,0 +1,6 @@
+User: hi. how much does it cost for 4 people from Kabul to go to Tampa?
+Wizard: Are all four people adults?
+User: yup
+Wizard: Unfortunately there are no results.
+User: we can also go to Kochi
+Wizard: There are no results for this either.

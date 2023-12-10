@@ -1,0 +1,16 @@
+User: hi
+Wizard: Can I help you with anything :slightly_smiling_face:
+User: i want to take my grandchildren to Tijuana. On Friday
+Wizard: Oh lovely! How many of you?
+User: I live in Atlanta. There are six of us with myself included
+Wizard: Ok! Are you the only adult?
+User: I am!
+Wizard: Splendid! I have 13 day or 17 day packages available for you. The 17 day stay would be at a 3.0 star hotel near shopping with free parking, breakfast, and wifi. The 13 day hotel would be at a 2.5 star hotel near a park with free parking, wifi, and breakfast as well!
+User: That is marvellous news! I have 3800 saved up, will that last us the entire trip?
+Wizard: Well, the cheapest option I have available for you is just a bit beyond your budget - $4198.89
+User: Oh dear What if I wanted to take the young'uns to Denver instead?
+Wizard: I’m sorry, but the only hotel I have available in Denver for your party costs more than the cheapest Tijuana package.
+User: Rats. I could take the kids to Los Angeles
+Wizard: You’re in luck! I have on package available for your price point. The hotel is 3.0 stars, near the airport and a mall, has a guest rating of 8.86/10, has free breakfast, free wifi, and free parking!
+User: Oh thank goodness! I had been getting so very worried. Can you please book this for us? Thank you 
+Wizard: Absolutely :slightly_smiling_face: I will send confirmation shortly

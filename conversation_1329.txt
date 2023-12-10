@@ -1,0 +1,9 @@
+User: I want to go to Cancun from Dallas
+Wizard: Okay, will you be going on your own? And will you have a budget?
+User: I am going alone and my budget is unlimited, but I would like to travel between the 17th and 30th
+Wizard: We have one package that suits your needs. It's 9 days long at a wonderful 4 star hotel that includes free parking, breakfast and wifi, coming to a total of 869.43 for economy and 1052.86 for business. Doesn't that sound amazing?
+User: What are the dates for the 9 day package?
+Wizard: September 20th to September 28th.  Would you like to book?
+User: Yes!
+Wizard: Your amazing package deal has now been booked! An email with all the details will be with you shortly!
+User: Thanks!

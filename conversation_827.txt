@@ -1,0 +1,13 @@
+User: I want to find a vacation between September 12th and 18th to San Diego from Calgary for under 1800.
+Wizard: Ok, I can help you with that :slightly_smiling_face: How many travellers?
+User: just me myself and i
+Wizard: I have the perfect trip for you! 7 days at Anomaly Inn & Suites from Sept 12-18 for 1113 dollars.
+User: whats the hotel rated?
+Wizard: 2.0 stars. 6.51/10 user rating.
+User: Is there a hotel with a higher rating?
+Wizard: I have only 2 star hotels for your date range.
+User: okay, thats fine. Go ahead and book it for me then, i just wanna get away.
+Wizard: Sure thing! Are economy class flights ok with you?
+User: yeah thats fine
+Wizard: Great, enjoy your stay :slightly_smiling_face:
+User: Thanks

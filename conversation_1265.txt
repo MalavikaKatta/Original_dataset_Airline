@@ -1,0 +1,15 @@
+User: I wouldn't define it amazing but YES I need do go back to Minneapolis!
+Wizard: Okay! Where will you be coming from? And how many of you will there be?
+User: I'm in Guadalajara right now. Just me
+Wizard: We only offer 10 and 13 day packages, do you have a preference?
+User: Forgot to tell you! I only have 1300 in the bank. Will it work?
+Wizard: I'm happy to inform you that both are packages are within your budget. Do you have a preference?
+User: I just want to go as soon as possible. When does the earliest trip leave?
+Wizard: Friday September 16th for 10 days. Would you like to hear more about this package?
+User: If I leave from Vancouver are there flights that leave earlier?
+Wizard: Yes, but only by 5 hours. Would you prefer that?
+User: Not really worth it. Okay I'll take the earliest that leaves from Guadalajara! Economy flight's good
+How much is it total?
+Wizard: It would cost 1284.10. Shall I book it for you?
+User: Yes please!
+Wizard: Consider it booked! You'll be on a flight to Minneapolis soon enough!

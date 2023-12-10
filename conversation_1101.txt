@@ -1,0 +1,26 @@
+User: Hi I'd like to take a trip.
+Wizard: Sure! Where do you want to go?
+User: I'd like to go to both Guadalajara and Rio de Janeiro.
+Wizard: Would you like to fly from Guadalajara to Rio de Janeiro?
+User: No, I'm leaving from Mexico City, but I want to go to both places if that's possible.
+Wizard: Would you like to go from Mexico City to Rio de Janeiro?
+User: Sure. But can I go to Guadalajara from Rio de Janeiro after that?
+Wizard: I don’t understand.
+User: I mean, I want to go two cities.
+Wizard: I do not have flights to the destination “two cities”.
+User: There are two cities that I just have to visit!
+Wizard: Where would you like to go&gt;
+User: I'd like to go to both Rio de Janeiro and Guadalajara. But from Mexico City.
+Wizard: Mexico City to Rio de Janeiror?
+User: yeah. But can you book me two trips in this one session?
+Wizard: I can book you from Mexico City to Rio de Janeiro for 13 days starting September 10th for 2335.73USD.
+User: I don't need to go there for that long. Can you give me a shorter package deal?
+Wizard: How about 7 days for 1607.99USD? You would leave on September 8th.
+User: That sounds pretty good.
+Wizard: Ok! Would you like some more information?
+User: Yes please.
+Wizard: La Perfección is a 3 star hotel near a park, museum, and university. It has a 8.22/10 user rating and free parking, breakfast, as well as free wifi.
+User: Okay then, I'll definitely take it. It sounds good.
+Wizard: Ok! Consider it booked.
+User: Thanks! You should consider creating packages involving more than one city in the future.
+Wizard: Not my problem. Goodbye.

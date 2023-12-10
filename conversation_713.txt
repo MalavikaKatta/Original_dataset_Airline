@@ -1,0 +1,12 @@
+User: Hey there, I’m a student looking to stretch 2700 to get myself a trip to an internship, hoping you can help me out here. I would be departing from Alexandria
+Can you see if I can get to Manas between Aug 30 and Sept 15 on this budget?
+Wizard: Form Alexandria to Manas I show nothing available
+User: No!!! How about Alexandria to Athens?
+Wizard: From Alexandria to Athens, neither
+User: Say it ain’t so! How about Alexandria to Mannheim?
+Wizard: I have one 12 day package in Mannheim, at the top rated The Regal Resort, a 5 star hotel which includes wifi and also has a spa. This package is available from Sept 4th to Sept 14th.
+User: Well I’ll be damned, that’s a deal and a half! Can I get there on 2700?
+Wizard: You are in luck today, that package is presently available for  2366.49USD for a 12 day stay.
+User: Great, I’ll take it!
+Wizard: Please forward all your information including name, address and passport information and I will take care of the booking. Thank you and have a pleasant day.
+User: Will do. Thanks

@@ -1,0 +1,24 @@
+User: I have a vacation starting next week, I can hardly contain my excitement Getting out of St. Petersburg for 12 days will be dope. What kind of destinations do you offer?
+Wizard: How many will you be?
+User: We will be one
+Wizard: I have several destinations. May I suggest Rosario? It is very popular at the moment.
+User: Could you get something on or shortly after Sept 8?
+Wizard: Are you able to leave on Sept 4?
+User: Unfortunately my vacation doesn't start until Sept 8
+Wizard: I have a Sept 10 departure to Rosario with an 18 day stay at the Sunway Hostel.
+User: I really wish I could! But no I don't think I can do that
+Wizard: Okay we are going to have to forget about Rosario then. Brazil?
+User: I'm down for Brazil!
+Wizard:  How about Denver? I have a 12 day package that departs on Sept 9th and returns on the 20th. 4 star hotel, free wifi
+User: My only complaint about Denver is that its a little too close to home. And that I hate the local sports team there. Do you have other options for me?
+Wizard: For your dates, Denver or Burlington
+User: But those are my only two options?
+Wizard: yes only 2 on those dates
+User: Ok I'll suck it up and go to Denver how's the hotel? i know its 4 star but is it near anything nice
+Wizard: I have no information on the location
+User: How much does the trip cost?
+Wizard: It has a very good guest rating of 8.69/10 and the price is 792.61USD
+User: Oh true, I'm actually really glad you told me the guest rating. I think that gives me the confidence to book then
+Wizard: I can process the booking for you now if you would like
+User: Yes do that
+Wizard: Thank you for your booking and enjoy your weekend

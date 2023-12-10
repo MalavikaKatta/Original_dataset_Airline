@@ -1,0 +1,11 @@
+User: good i have 3 days off and wanna leave San Antonio. i only have 400 bucks so ill prob have to take a bus but if u can find me a flight that'd be sweet as hell. i'll go wherever, whenever
+Wizard: Are you going all by yourself?
+User: yupp
+Wizard: Ironically, for your budget, we only have 10 day trips available. We've got ones for Denver and Calgary. Will these work for you?
+User: calgary is like, in another country so i would be down for that.. whats the hotel like
+Wizard: It's a 4 star hotel next to a university. Guests enjoy free parking and free wifi. You can even afford business flights to there.
+User: how does denver hold up to that?
+Wizard: Denver's got a 3 star hotel with free wifi near a museum and a university.
+User: book calgary please
+Wizard: Awesome, would you like to take economy flights for 197.25 or business flights for 263.94?
+User: dude business thats ballin

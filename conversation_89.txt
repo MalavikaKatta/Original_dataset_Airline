@@ -1,0 +1,8 @@
+User: Hi im from Barkcelona, looking for a trip!
+Wizard: Hi there! Will you be traveling alone this time?
+User: i will be travelling alone
+Wizard: Unfortunately I don't have any flights leaving Barkcelona, however there is a flight leaving from Cleveland for San Juan on the 17th of August. You would be staying for 8 days. How does that sound?
+User: i was thinking of going to Santo domingo are there any flights from Barkcelona?
+Wizard: Unfortunately there are no flights from Barkcelona to Santo Domingo. However, there is a flight from Punta Cana to Santo Domingo on the 27th of August, with a return flight on the 31st.
+User: i need to leave from Barkcelona i dont think this will work out thank you tho!
+Wizard: Thank you too! We hope to hear from you in the future!

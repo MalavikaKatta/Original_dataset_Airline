@@ -1,0 +1,5 @@
+User: Can you check if there are any flights from Curitiba to Pittsburgh departing on Sept 2?
+Wizard: You’re in luck! I have a package from Curitiba to Pittsburgh from September 2-9
+User: Would it be possible to do Sept 2 to 15?
+Wizard: Sorry, I only have return flights on the ninth for the September second departure.
+User: Okay I will get back to you, thanks

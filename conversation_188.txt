@@ -1,0 +1,17 @@
+User: Hi! I'm looking to book a business trip between August 26 and September 12. There's a few places I have in mind. Lets start with Rio de Janeiro.
+Wizard: Great! Where will you be leaving from?
+User: I'll be travelling during that time, so I'm thinking I'd like to leave from Fortaleza.
+Wizard: Do you have a budget?
+User: No, but I am bringing 5 colleagues with me.
+Wizard: We have a 3 star hotel that offers free breakfast, wifi, and parking. It is a 7 day stay from August 26th to September 1st.
+User: Interesting. Does it include breakfast?
+Wizard: Yes, it includes  free breakfast, wifi, and parking.
+User: Do you have options for an 4 star hotels?
+Wizard: 3 stars is the highest ratings for trips from Fortaleza to Rio de Janeiro.
+User: Ok lets look at trips to Munich.
+Wizard: We have a 7 day stay at a 5 star hotel that includes free wifi and a spa for 15754.14.
+User: Wow! That sounds fantastic! No breakfast I assume then?
+Wizard: No, sorry.
+User: well, I think I'll stick with that package. Can you go ahead and book it for me please?
+Wizard: It is all booked for you!! Have a great trip and thank you for using our services!
+User: Thank you!

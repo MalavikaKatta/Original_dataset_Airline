@@ -1,0 +1,14 @@
+User: Hi! I have 4 children and I would like to take them to Santa Cruz to visit their mom. We are in Monterrey.
+Wizard: So will it just be 1 adult and 4 children then?  Do you have a budget in mind?
+User: Correct. And no budget, I’m willing to spend whatever for my kids to see their mum
+Wizard: Do you have any dates in mind? And how long do you plan on travelling for?
+User: Nope! Whatever is available. We arent picky
+Wizard: I'm afraid we don't have any packages available from Monterrey to Santa Cruz. Would you like to leave from another city?
+User: I cant leave from anywhere else but we can go to San Juan instead.
+Wizard: I have a wonderful 9 day package in San Juan that includes a 4 star hotel with a guest rating of 8.98/10.  Economy class would cost 3249.23 and business would be 3971.57 for all of you.  Are you interested?
+User: Is there anything shorter?
+Wizard: Yes, we have a 6 day economy package  that comes to a total of 4987, does that interest you?
+User: Is that the shortest package?
+Wizard: Yes indeed. Would you like to book it?
+User: Sure! Thank you
+Wizard: Perfect. Consider it booked. You will receive an email shortly.

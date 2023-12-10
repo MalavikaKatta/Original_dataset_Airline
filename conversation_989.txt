@@ -1,0 +1,12 @@
+User: Looking to take my squad out to Punta Cana! I’ll pay whatever it takes to fly out of Tel Aviv
+Wizard: How many people?
+User: there are 9
+Wizard: All adults?
+User: all adults
+Wizard: When would you like to leave?
+User: It has to be between August 31 and September 3
+Wizard: There are no results for your date range.
+User: How about results for flights to Tofino?
+Wizard: There are no results.
+User: Do you have any other options leaving Tel Aviv?
+Wizard: No.

@@ -1,0 +1,15 @@
+User: So Hey, I'm an intern- it's pretty fantastic/exciting. So anyways I need to go to Monterrey between August 27 and September 15. What do you have leaving from Stuttgart?
+Wizard: Will you be travelling alone or with a companion?
+User: All alone, and for the first time! If I wasn't so excited, I would be really nervous.
+Wizard: Do you need to stay in Monterrey right until the 15th of September?
+User: My dates are kinda flexible, but I absolute cannot go over a budget of 3100 dollars.
+Wizard: Is a five day package in Monterrey acceptable for you? I have a flight departing on Aug 27 and returning on Aug 30 at the Oriental Peaks Hotel. It is a little bit more than what your budget allows for at 3240.72USD but it is a 4-star resort with an excellent client rating and it includes free breakfast, free wifi and free parking.
+User: Hmmm it's a little bit too expensive... they have another location in Kingston, can we see what's available there?
+Wizard: I have a lot available in Kingston within your travel dates. Are there any special amenities you are looking for at the hotel?
+User: Hmmm well this is the first time I book any kind of vacation... Can you tell me what amenities are usually offered?
+Wizard: In Kingston, I have hotels available from a 2.5 rated hotel to a 4 star hotel. I also have some hotels that are located near the museum for when you have some leisure time.
+User: Wow I'd love to spend some time near the Museum, is this one within my budget?
+Wizard: All are within your budget. I can recommend the Golden Excalibur which is available from Aug 27 to Aug 30, is rated 3.5 stars and includes wifi and breakfast.
+User: Well that one sounds very nice. Can you give me the name of the hotel near the Museum? I'd like to compare the two hotels with my mom.
+Wizard: This one is located right beside the museum. I also have the at the Raven which is a 3 star and the Ebony Manor Inn & Suites which is a 4 star located near the museum.
+User: Great! I'll talk about it with my mom and get back to you tomorrow. Thanks so much for your help!!

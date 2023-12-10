@@ -1,0 +1,7 @@
+User: hey, I want to get myself to Porto Alegre from Toronto for less than $3900
+Wizard: I can book you 5 days in Porto leaving from Toronto for 2689.45USD.
+User: what about valencia
+Wizard: 8 days in Valencia would cost you 2012.95USD.
+User: ok and calgary? 2 adults and 3 children.
+Wizard: Ok! In that case I can book you 8 days in Calgary for 1103.38USD
+User: i have a 3900 budge

@@ -1,0 +1,11 @@
+User: Hi there. I'd like to go to somewhere new. departing from Rome. after September 8
+Wizard: Can I have the length of time that you would like to be away for?
+User: 9 days please!
+Wizard: I have few choices for you on 9 day stays. Do you have a maximum amount that you would like to spend on this trip?
+User: I have no maximum
+Wizard: I believe I have the perfect place for you.  The Southern Universe Inn & Suites in Cairo includes all the amenities and has the added value of being located near the park, market, cathedral and palace.
+User: Can you give us a price estimate?
+Wizard: $3378.47USD based on economy
+User: Lets book it!
+Wizard: I will take care of that for you. Much obliged.
+User: Thanks!

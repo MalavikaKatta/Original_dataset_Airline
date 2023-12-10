@@ -1,0 +1,19 @@
+User: Good afternoon :slightly_smiling_face: I want to book a vacation for myself, my husband and our daughter. The time frame for our holiday is between August 31st and September 9th
+Wizard: Will that be 2 adults and 1 child?
+User: Yes exactly!
+Wizard: Where will you be departing from? Do you have a special destination in mind?
+User: We live in Portland and we don't have any destinations in mind, we look forward to your suggestions! Our constraint is that our budget is of 4800$
+Wizard: I have a package available to Miami which suits your dates perfectly. It would be at the  Triple Aegis which is a 3 star hotel quite a bit under your budget. The total cost for your entire stay would be $2134.14. How does that sound?
+User: How long is this vacation for?
+Wizard: 10 days. It departs on August 31st and returns on Sept 9 on an economy class flight.
+User: Ok! That is a pretty good deal for the length of the trip! Do you have options for trips outside the US?
+Wizard: I have Ciudad Juarez or I have a 9 day package available in Mexico City, Mexico at the Exalted Willow Resort & Suites 3.5 star, on the beach, close to the shopping district and beside the mall. It included free wifi and parking. The cost on this one is also within your budget at 2284.41USD.
+User: What an attractive sounding package? Does the hotel have good reviews?
+Wizard: It has an above average rating of  8.37 / 10
+User: Great! I might need to get some work done in the evenings, is there wifi or computers I can use at the hotel?
+Wizard: There is free wifi
+User: That works for me! Last thing, can you give me the dates of this trip?
+Wizard: Departing Sept 1 and returning Sept 9.
+User: Fantastic, i'm looking forward to this! Can you book this for us?
+Wizard: I will proceed with the booking and send confirmation. Have a nice day.
+User: Thank you so much!

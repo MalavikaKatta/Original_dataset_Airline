@@ -1,0 +1,11 @@
+User: Burlington to Denver please
+Wizard: For how many?
+User: 1
+Wizard: Not available.
+User: Burlington to Fortaleza
+Wizard: Not available
+User: Burlington to Leon
+Wizard: Not available
+User: Burlington to Vancouver
+Wizard: Not available
+User: Ridiculous

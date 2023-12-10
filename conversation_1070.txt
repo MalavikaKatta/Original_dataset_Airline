@@ -1,0 +1,8 @@
+User: santiago
+Wizard: Is that your departure?
+User: no i want to go. i leave seattle
+Wizard: when?
+User: 24 until 27 of september
+Wizard: Can your dates be flexible at all? I have earlier departures.
+User: no they are not flexible. you have nothing for me?
+Wizard: Not during those dates

@@ -1,0 +1,19 @@
+User: I need to book a vacation. ok I’m leaving from Rio de Janeiro
+I don’t particularly care about where we go
+Wizard: Alright, how many are you and when would you like to leave?
+User: 5 adults and two children. We can travel between the second of September and the eighteenth
+Wizard: That sounds good. We have quite a few offerings that matches your selections. Do you have a budget in mind?
+User: Yes, 13500 dollars.
+Wizard: Alrighty, I'm gonna throw a few possible destinations at you, let me know if something strikes the right cord: Curitiba, Santos, Mexico City, Punta Cana, Pittsburgh, Rosario. If none of these interest you, I can give you a few more.
+User: out of all these options I am of course most intrigued by Pittsburgh! do tell me more
+Wizard: What a great choice! In Pittsburgh you will be in a 3.5 star hotel with a whoping guest rating of 8.86/10. You will enjoy free parking, free breakfast, free wifi, and strolls at a nearby park.
+User: Sounds very nice! What would be the price of this getaway?
+Wizard: The economy package is priced right under your budget for 13349.78.
+User: Not bad, not bad. Before I proceed with anything can you tell me what your package for Rosario is like?
+Wizard: It's at a 2 star hotel with 0/10 guest rating. However, I can get you economy seats for as low as 3715.59.
+User: What are the dates for the Punta Cana package?
+Wizard: The trip to Punta Cana spans from September 2 to September 14, but the hotel option is even less impressive.
+User: Oh dear.. and could you remind me what the Pittsburgh dates were?
+Wizard: Sure! The Pittsburgh trip runs for the same 14 days: from Sept 2-14.
+User: I think we’ll go ahead and book Pittsburgh.
+Wizard: Awesome! It is booked

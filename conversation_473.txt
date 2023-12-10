@@ -1,0 +1,13 @@
+User: I must go to La Paz from Fort Lauderdale.
+Wizard: I can help you book that! When do you want to travel?
+User: anytime but i want to be there for 13 days. i need THE BEST package you can find for 1300 or less
+Wizard: You can stay at the Echo from either August 25-September 2 or from August 30-September 8.
+User: is this a 5 star hotel?
+Wizard: The hotel is 4.0 star with a 8.98 guest rating.
+User: is there a 5 star hotel?
+Wizard: Not in La Paz. Only the Echo.
+User: any 5 star hotels in hamburg?
+Wizard: Vortex HOTEL in Hamburg has a 4.0 star rating with a 8.98 star guest rating.
+User: that sounds peasanty. I am a grade A++ writer and i need the very best so its a 5 star hotel or nothing
+Wizard: I do not have 5 star hotels available.
+User: wel then buh bye

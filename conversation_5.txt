@@ -1,0 +1,9 @@
+User: Hello, I am looking to book a trip for 2 adults and 6 children for $21,300 or less. We are departing from Kochi for Denver.
+Wizard: I have several options available within your budget. How long would you like to travel for? And do you have dates in mind?
+User: I do not have any dates in mind. I would like to spend as much time in Denver as my budget will allow.
+Wizard: I can book 7 days at a 4.0 star hotel for 19028.93USD. I can also book 7 days at a 3.0 star hotel for 12824.84USD.
+User: Do these packages have different departure dates? When would I be leaving for each of them?
+Wizard: The 3.0 star trip leaves Kochi August 26 and returns August 31. The 4.0 star leaves August 27 from Kochi and returns September 1.
+User: Ok, I would like to purchase the trip with the 4-star hotel.
+Wizard: Perfect, I will book that trip for you now. You will depart Kochi at 9:00 am August 27. Have a nice day.
+User: Thank you

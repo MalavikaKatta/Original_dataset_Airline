@@ -1,0 +1,4 @@
+User: 1 ticket from San Francisco to Vitoria please!
+Wizard: Sure! Do you have dates?
+User: as soon as you can!
+Wizard: Do you have an alternate departure point? Sadly we do not offer San Francisco flights directly to Vitoria

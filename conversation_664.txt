@@ -1,0 +1,15 @@
+User: Hey there :slightly_smiling_face: I’m bringing my wife (2 adults) and 4 kids (6 people in total) on vacation for 8900 dollars
+Wizard: Anywhere special you would like to go?
+User: Maybe Athens?
+Wizard: An where are you going to fly from?
+User: Santos
+Wizard: We do not provide packages from Santos to Athens.  Can I check other destinations for you?
+User: Ahhh ok check Alexandria
+Wizard: Santos to Alexandria offers the Bronze Inn & Suites  for an 8 day stay. This is a 3 star hotel, close to the university and including free wifi, parking and breakfast for the whole family. All this for 8783.14USD.
+User: One last thing I wanted to check on was Houston packages. What’ve you got there?
+Wizard: There are no trip packages provided from Santos to Houston.
+User: Ok, well I guess we’ll have to go with Alexandria
+Wizard: Should I book the Bronze Inn & Suites for you then?
+User: Sure, let’s do it
+Wizard: I will arrange that for you right away.
+User: Great, thank you

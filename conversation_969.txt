@@ -1,0 +1,19 @@
+User: hello
+Wizard: hello
+User: i live in new york. i have 2600 dollars to spend. i can travel between september 5th and 24th.
+what can you find me in leon
+Wizard: We can send you to Leon during those dates either for 14 days or 18 days, which do you prefer?
+User: the longer the better!
+Wizard: I have a 5 STAR resort called the Serene Palms Resort in Leon for 2151.0USD, located on a beach and close to the palace.
+User: what about Valencia?
+Wizard: I have another very nice package at a 5 STAR hotel The Gold near the museum and the market in Valencia for 2337.62USD.
+User: amenities?
+Wizard: Free wifi on both.
+User: lastly (and certainly least) what about San Francisco
+Wizard: best I can do in San Francisco is the Glorious Spring Hotel for 10 days. 2 STAR rating with a price to match of 1444.63USD. However, they do provide free wifi and parking and breakfast is included.
+User: the beach and palace in Leon sound amazing. I think i wanna book that
+but what are the dates though
+Wizard: Leon is available from Sept 6 to the 22nd
+User: i want it
+Wizard: I will do the booking then.
+User: thanks my dude
